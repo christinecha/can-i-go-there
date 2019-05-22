@@ -11,13 +11,15 @@ const HEADINGS = [
         [c.name, ...(c.aliases || [])].indexOf(str) > -1
       ))
       
-      return match ? match.code : str
+      return match && match.code
     },
-    aliases: [ 'country', 'countries' ] 
+    aliases: [ 'country', 'countries' ],
+    isRequired: true,
   },
   { 
     name: 'visa_requirement', 
-    aliases: [ 'visa requirement' ] 
+    aliases: [ 'visa requirement' ],
+    isRequired: true,
   },
   { 
     name: 'allowed_stay', 
@@ -30,27 +32,14 @@ const HEADINGS = [
 ]
 
 const validateHeadings = headings => {
-  let isValid = true
-
-  headings.forEach((h, i) => {
-    if (!isValid) return
-    if (!HEADINGS[i]) {
-      isValid = false
-      return
-    }
+  return !headings.find((h, i) => {
+    if (!HEADINGS[i]) return true
 
     const cleanHeading = h.trim().toLowerCase()
-    const isValidHeading = !!HEADINGS[i].aliases.find(n => {
+    return !HEADINGS[i].aliases.find(n => {
       return cleanHeading.indexOf(n) > -1
     })
-
-    if (!isValidHeading) {
-      isValid = false
-      return
-    }
   })
-
-  return isValid
 }
 
 const getVisaRequirementsFor = country => {
@@ -92,8 +81,14 @@ const getVisaRequirementsFor = country => {
           
           sanitizedRow[heading.name] = formattedValue
         })
-  
-        sanitized.push(sanitizedRow)
+
+        const isMissingRequiredFields = HEADINGS.find(h => (
+          h.isRequired && !sanitizedRow[h.name]
+        ))
+
+        if (!isMissingRequiredFields) {
+          sanitized.push(sanitizedRow)
+        }
       })
   
       console.log(sanitized)
