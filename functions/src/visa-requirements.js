@@ -13,21 +13,21 @@ exports.handler = (event, context, callback) => {
     return
   }
 
-  getVisaRequirements(country)
+  return getVisaRequirements(country)
   .then((requirements = []) => {
     const requirement = requirements.find(r => {
       return r.destination_country === destination_country
     })
 
     if (!requirement) {
-      callback(null, {
+      return ({
         statusCode: 500,
         error: 'Could not fetch visa requirements.'
       })
       return
     }
 
-    callback(null, {
+    return ({
       statusCode: 200,
       body: JSON.stringify(requirement)
     })

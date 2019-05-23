@@ -46,6 +46,7 @@ const getVisaRequirements = country => {
 
         Array.from($(r).find('td')).forEach((col, n) => {
           const heading = HEADINGS[n]
+          if (!heading) { return }
           const value = $(col).text().trim()
           const formattedValue = heading.formatter
             ? heading.formatter(value)
