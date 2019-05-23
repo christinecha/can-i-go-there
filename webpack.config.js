@@ -6,7 +6,7 @@ module.exports = {
   mode: 'development',
   // watch: true,
   output: {
-    path: path.resolve(__dirname, './client/dist'),
+    path: path.resolve(__dirname, './client/scripts'),
     publicPath: '/scripts/',
     filename: 'index.js'
   },
