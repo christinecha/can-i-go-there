@@ -67,12 +67,13 @@ $check.addEventListener('click', () => {
     color = '#eee'
   }
 
-  console.log(data)
   $requirement.textContent = data.visa_requirement
   $requirement.style.background = color
   $notes.textContent = data.notes
 
   if (data.allowed_stay) {
     $allowedStay.textContent = `Allowed Stay: ${data.allowed_stay}`
+  } else {
+    $allowedStay.textContent = ''
   }
 })
