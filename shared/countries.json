@@ -115,7 +115,11 @@
   {"name": "Israel", "code": "IL"},
   {"name": "Italy", "code": "IT"},
   {"name": "Jamaica", "code": "JM"},
-  {"name": "Japan", "code": "JP"},
+  {
+    "name": "Japan", 
+    "code": "JP",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Japanese_citizens"
+  },
   {"name": "Jersey", "code": "JE"},
   {"name": "Jordan", "code": "JO"},
   {"name": "Kazakhstan", "code": "KZ"},
