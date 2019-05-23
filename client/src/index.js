@@ -47,6 +47,10 @@ $check.addEventListener('click', () => {
       color = '#aee026'
     } else if (clean.indexOf('visa required') > -1) {
       color = 'orange'
+    } else if (clean.indexOf('travel banned') > -1) {
+      color = '#ff7d7d'
+    } else if (clean) {
+      color = '#eee'
     }
 
     console.log(data)

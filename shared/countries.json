@@ -43,7 +43,11 @@
   {"name": "Central African Republic", "code": "CF"},
   {"name": "Chad", "code": "TD"},
   {"name": "Chile", "code": "CL"},
-  {"name": "China", "code": "CN"},
+  {
+    "name": "China", 
+    "code": "CN",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens"
+  },
   {"name": "Christmas Island", "code": "CX"},
   {"name": "Cocos (Keeling) Islands", "code": "CC"},
   {"name": "Colombia", "code": "CO"},
@@ -118,7 +122,11 @@
   {"name": "Kazakhstan", "code": "KZ"},
   {"name": "Kenya", "code": "KE"},
   {"name": "Kiribati", "code": "KI"},
-  {"name": "Korea, Democratic People's Republic of", "code": "KP"},
+  {
+    "name": "Korea, Democratic People's Republic of", 
+    "code": "KP",
+    "aliases": [ "North Korea" ]
+  },
   {
     "name": "Korea, Republic of", 
     "aliases": [ "South Korea" ],
@@ -149,7 +157,11 @@
   {"name": "Mauritania", "code": "MR"},
   {"name": "Mauritius", "code": "MU"},
   {"name": "Mayotte", "code": "YT"},
-  {"name": "Mexico", "code": "MX"},
+  {
+    "name": "Mexico", 
+    "code": "MX",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mexican_citizens"
+  },
   {"name": "Micronesia, Federated States of", "code": "FM"},
   {"name": "Moldova, Republic of", "code": "MD"},
   {"name": "Monaco", "code": "MC"},
@@ -216,7 +228,11 @@
   {"name": "Suriname", "code": "SR"},
   {"name": "Svalbard and Jan Mayen", "code": "SJ"},
   {"name": "Swaziland", "code": "SZ"},
-  {"name": "Sweden", "code": "SE"},
+  {
+    "name": "Sweden", 
+    "code": "SE",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens"
+  },
   {"name": "Switzerland", "code": "CH"},
   {"name": "Syrian Arab Republic", "code": "SY"},
   {"name": "Taiwan, Province of China", "code": "TW"},
