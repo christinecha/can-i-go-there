@@ -23,7 +23,6 @@ const createOption = (country = {}) => {
   return opt
 }
 
-$destination.appendChild(createOption())
 $passport.appendChild(createOption())
 
 countriesJSON.forEach(country => {
@@ -41,6 +40,9 @@ $passport.addEventListener('change', () => {
     `../../data/visa-requirements/${passport_country}.json`
   ).then(({ default: requirements }) => {
     REQUIREMENTS_CACHE[passport_country] = requirements
+
+    $destination.innerHTML = ''
+    $destination.appendChild(createOption())
 
     Object.keys(requirements).forEach((destination_country) => {
       const country = countriesByKey[destination_country]
