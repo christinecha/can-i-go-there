@@ -1,4 +1,4 @@
-const getVisaRequirements = require('../visa-requirements')
+const getVisaRequirements = require('../../shared/visa-requirements')
 const countriesJSON = require('../../shared/countries.json')
 
 exports.handler = (event, context, callback) => {
@@ -13,21 +13,21 @@ exports.handler = (event, context, callback) => {
     return
   }
 
-  return getVisaRequirements(country)
+  getVisaRequirements(country)
   .then((requirements = []) => {
     const requirement = requirements.find(r => {
       return r.destination_country === destination_country
     })
 
     if (!requirement) {
-      return ({
+      callback(null, {
         statusCode: 500,
         error: 'Could not fetch visa requirements.'
       })
       return
     }
 
-    return ({
+    callback(null, {
       statusCode: 200,
       body: JSON.stringify(requirement)
     })

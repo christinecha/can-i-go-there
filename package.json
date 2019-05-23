@@ -6,13 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "netlify-lambda build ./functions/src && webpack --progress",
-    "dev": "netlify-lambda serve ./functions/src & webpack-dev-server"
+    "dev": "netlify-lambda serve ./functions/src & webpack-dev-server",
+    "scrape": "node ./shared/visa-requirements/trigger-all.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "fs-extra": "^8.0.1",
+    "jsonfile": "^5.0.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.4.4",

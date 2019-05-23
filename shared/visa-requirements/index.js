@@ -1,7 +1,6 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
 
-const countriesJSON = require('../../shared/countries.json')
 const HEADINGS = require('./HEADINGS')
 
 const validateHeadings = headings => {

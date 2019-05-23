@@ -1,4 +1,4 @@
-const countriesJSON = require('../../shared/countries.json')
+const countriesJSON = require('../countries.json')
 
 module.exports = [
   { 
