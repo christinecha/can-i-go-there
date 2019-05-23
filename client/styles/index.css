@@ -1,0 +1,40 @@
+body {
+  font-family: 'Arial';
+}
+
+main {
+  padding: 50px;
+  text-align: center;
+}
+
+label {
+  display: block;
+  font-size: 11px;
+  margin-bottom: 4px;
+}
+
+select {
+  height: 2.5em;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background: blue;
+  color: white;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+#check {
+  margin-bottom: 30px;
+}
+
+#requirement, #allowed-stay, #notes {
+  padding: 5px;
+  margin: 5px auto;
+  max-width: 600px;
+}

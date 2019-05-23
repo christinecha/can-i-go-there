@@ -1,9 +1,30 @@
 <html>
   <head>
     <title>Can I go there?</title>
+    <link rel="stylesheet" href="/styles/index.css" type="text/css" />
   </head>
 
   <body>
-    Can I go there?
+    <main>
+      <h1>Can I go there?</h1>
+
+      <div>
+        <label>Citizenship</label>
+        <select id="passport"></select>
+      </div>
+
+      <div>
+        <label>Destination</label>
+        <select id="destination"></select>
+      </div>
+
+      <button id="check">Check</button>
+
+      <div id="requirement"></div>
+      <div id="allowed-stay"></div>
+      <div id="notes"></div>
+    </main>
+
+    <script src="/scripts/index.js"></script>
   </body>
 </html>
