@@ -147,7 +147,11 @@
   {"name": "Macedonia, The Former Yugoslav Republic of", "code": "MK"},
   {"name": "Madagascar", "code": "MG"},
   {"name": "Malawi", "code": "MW"},
-  {"name": "Malaysia", "code": "MY"},
+  {
+    "name": "Malaysia", 
+    "code": "MY",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malaysian_citizens"
+  },
   {"name": "Maldives", "code": "MV"},
   {"name": "Mali", "code": "ML"},
   {"name": "Malta", "code": "MT"},
