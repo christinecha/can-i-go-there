@@ -1,4 +1,3 @@
-import axios from 'axios'
 import countriesJSON from '../../shared/countries.json'
 
 const $destination = document.getElementById('destination')
@@ -8,66 +7,72 @@ const $requirement = document.getElementById('requirement')
 const $allowedStay = document.getElementById('allowed-stay')
 const $notes = document.getElementById('notes')
 
-const createOption = ({ name = '', value = '' }) => {
+const REQUIREMENTS_CACHE = {}
+
+const countriesByKey = countriesJSON.reduce((obj, c) => {
+  return {
+    ...obj,
+    [c.code]: c
+  }
+}, {})
+
+const createOption = (country = {}) => {
   const opt = document.createElement('OPTION')
-  opt.innerHTML = name
-  opt.value = value
+  opt.innerHTML = country.name || ''
+  opt.value = country.code || ''
   return opt
 }
 
-$destination.appendChild(createOption({}))
-$passport.appendChild(createOption({}))
+$destination.appendChild(createOption())
+$passport.appendChild(createOption())
 
 countriesJSON.forEach(country => {
-  const option = { name: country.name, value: country.code }
-  const destinationOption = createOption(option)
-  const passportOption = createOption(option)
-
-  $destination.appendChild(destinationOption)
+  const passportOption = createOption(country)
 
   if (country.wikipediaSource) {
     $passport.appendChild(passportOption)
   }
 })
 
+$passport.addEventListener('change', () => {
+  const passport_country = $passport.value
+  return import(
+    /* webpackChunkName: "[request]" */ 
+    `../../data/visa-requirements/${passport_country}.json`
+  ).then(({ default: requirements }) => {
+    REQUIREMENTS_CACHE[passport_country] = requirements
+
+    Object.keys(requirements).forEach((destination_country) => {
+      const country = countriesByKey[destination_country]
+      const destinationOption = createOption(country)
+      $destination.appendChild(destinationOption)
+    })
+  })
+})
+
 $check.addEventListener('click', () => {
-  axios.get('/.netlify/functions/visa-requirements', {
-    params: {
-      destination_country: $destination.value,
-      passport_country: $passport.value,
-    }
-  })
-  .then(response => {
-    const { data } = response
+  const requirements = REQUIREMENTS_CACHE[$passport.value]
+  const data = requirements[$destination.value]
 
-    const clean = data.visa_requirement.toLowerCase()
-    let color = ''
+  const clean = data.visa_requirement.toLowerCase()
+  let color = ''
 
-    if (clean.indexOf('visa not required') > -1) {
-      color = '#aee026'
-    } else if (clean.indexOf('visa required') > -1) {
-      color = 'orange'
-    } else if (clean.indexOf('travel banned') > -1) {
-      color = '#ff7d7d'
-    } else if (clean) {
-      color = '#eee'
-    }
+  if (clean.indexOf('visa not required') > -1) {
+    color = '#aee026'
+  } else if (clean.indexOf('visa required') > -1) {
+    color = 'orange'
+  } else if (clean.indexOf('travel banned') > -1) {
+    color = '#ff7d7d'
+  } else if (clean) {
+    color = '#eee'
+  }
 
-    console.log(data)
-    $requirement.textContent = data.visa_requirement
-    $requirement.style.background = color
-    $notes.textContent = data.notes
+  console.log(data)
+  $requirement.textContent = data.visa_requirement
+  $requirement.style.background = color
+  $notes.textContent = data.notes
 
-    if (data.allowed_stay) {
-      $allowedStay.textContent = `Allowed Stay: ${data.allowed_stay}`
-    }
-  })
-  .catch(err => {
-    console.warn(err)
-    $requirement.textContent = 'Not found.'
-    $requirement.style.background = '#eee'
-    $allowedStay.textContent = ''
-    $notes.textContent = ''
-    return 
-  })
+  if (data.allowed_stay) {
+    $allowedStay.textContent = `Allowed Stay: ${data.allowed_stay}`
+  }
 })
