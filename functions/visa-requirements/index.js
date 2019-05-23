@@ -1,35 +1,8 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
 
-const countriesJSON = require('../shared/countries.json')
-
-const HEADINGS = [
-  { 
-    name: 'destination_country', 
-    formatter: (str) => {
-      const match = countriesJSON.find(c => (
-        [c.name, ...(c.aliases || [])].indexOf(str) > -1
-      ))
-      
-      return match && match.code
-    },
-    aliases: [ 'country', 'countries' ],
-    isRequired: true,
-  },
-  { 
-    name: 'visa_requirement', 
-    aliases: [ 'visa requirement' ],
-    isRequired: true,
-  },
-  { 
-    name: 'allowed_stay', 
-    aliases: [ 'allowed stay' ] 
-  },
-  { 
-    name: 'notes', 
-    aliases: [ 'notes' ] 
-  }
-]
+const countriesJSON = require('../../shared/countries.json')
+const HEADINGS = require('./HEADINGS')
 
 const validateHeadings = headings => {
   return !headings.find((h, i) => {
@@ -42,17 +15,17 @@ const validateHeadings = headings => {
   })
 }
 
-const getVisaRequirementsFor = country => {
+const getVisaRequirements = country => {
   if (!country.wikipediaSource) {
-    return
+    return Promise.resolve()
   }
 
-  axios.get(country.wikipediaSource)
+  return axios.get(country.wikipediaSource)
   .then(response => {
     const $ = cheerio.load(response.data)
     const tables = Array.from($('body').find('table'))
   
-    const sanitizedTables = []
+    const sanitizedData = []
   
     tables.forEach(table => {
       const headings = Array.from($(table).find('th')).map(h => {
@@ -67,7 +40,6 @@ const getVisaRequirementsFor = country => {
       }
   
       const rows = Array.from($(table).find('tr'))
-      const sanitized = []
       
       rows.forEach(r => {
         const sanitizedRow = { 'passport_country': country.code }
@@ -87,15 +59,13 @@ const getVisaRequirementsFor = country => {
         ))
 
         if (!isMissingRequiredFields) {
-          sanitized.push(sanitizedRow)
+          sanitizedData.push(sanitizedRow)
         }
       })
-  
-      console.log(sanitized)
     })
-  
-    console.log(sanitizedTables)
+    
+    return sanitizedData
   })
 }
 
-countriesJSON.forEach(getVisaRequirementsFor)
+module.exports = getVisaRequirements
