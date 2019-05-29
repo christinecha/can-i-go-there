@@ -45,6 +45,7 @@
   {
     "name": "China", 
     "code": "CN",
+    "colors": ["#de290f", "#ffc102"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens"
   },
   {"name": "Christmas Island", "code": "CX"},

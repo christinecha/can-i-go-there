@@ -1,60 +1,59 @@
 import countriesJSON from '../../shared/countries.json'
+import initDOM from './initDOM'
+import render from './render'
 
-const $destination = document.getElementById('destination')
-const $passport = document.getElementById('passport')
-const $check = document.getElementById('check')
-const $requirement = document.getElementById('requirement')
-const $allowedStay = document.getElementById('allowed-stay')
-const $notes = document.getElementById('notes')
+const AVAILABLE_PASSPORTS = countriesJSON.filter(n => n.wikipediaSource).map(n => n.code)
+const COUNTRIES_BY_CODE = countriesJSON.reduce((obj, c) => ({
+  ...obj, 
+  [c.code]: c
+}), {})
 
-const REQUIREMENTS_CACHE = {}
-
-const countriesByKey = countriesJSON.reduce((obj, c) => {
+const App = () => {
   return {
-    ...obj,
-    [c.code]: c
-  }
-}, {})
+    COUNTRIES_BY_CODE, 
+    AVAILABLE_PASSPORTS,
+    REQUIREMENTS_CACHE: {},
 
-const createOption = (country = {}) => {
-  const opt = document.createElement('OPTION')
-  opt.innerHTML = country.name || ''
-  opt.value = country.code || ''
-  return opt
+    state: {
+      view: 'PASSPORT',
+      typeaheadValue: '',
+      passport: '',
+      destination: ''
+    },
+
+    setState(obj) {
+      this.state = { ...this.state, ...obj }
+      this.render()
+    },
+
+    onPassportInput(e) {
+      this.setState({ 
+        view: 'PASSPORT',
+        typeaheadValue: (e.target.value || '').trim().toLowerCase(),
+      })
+    },
+
+    onDestinationInput(e) {
+      this.setState({ 
+        view: 'DESTINATION',
+        typeaheadValue: (e.target.value || '').trim().toLowerCase(),
+      })
+    },
+  
+    render
+  }
 }
 
-$passport.appendChild(createOption())
+const _ = App()
 
-countriesJSON.forEach(country => {
-  const passportOption = createOption(country)
+initDOM(_)
+_.render()
 
-  if (country.wikipediaSource) {
-    $passport.appendChild(passportOption)
-  }
-})
+const checkRequirements = () => {
+  if (!_.state.passport || !_.state.destination) return
 
-$passport.addEventListener('change', () => {
-  const passport_country = $passport.value
-  return import(
-    /* webpackChunkName: "[request]" */ 
-    `../../data/visa-requirements/${passport_country}.json`
-  ).then(({ default: requirements }) => {
-    REQUIREMENTS_CACHE[passport_country] = requirements
-
-    $destination.innerHTML = ''
-    $destination.appendChild(createOption())
-
-    Object.keys(requirements).forEach((destination_country) => {
-      const country = countriesByKey[destination_country]
-      const destinationOption = createOption(country)
-      $destination.appendChild(destinationOption)
-    })
-  })
-})
-
-$check.addEventListener('click', () => {
-  const requirements = REQUIREMENTS_CACHE[$passport.value]
-  const data = requirements[$destination.value]
+  const requirements = _.REQUIREMENTS_CACHE[_.state.passport]
+  const data = requirements[_.state.destination]
 
   const clean = data.visa_requirement.toLowerCase()
   let color = ''
@@ -69,13 +68,50 @@ $check.addEventListener('click', () => {
     color = '#eee'
   }
 
-  $requirement.textContent = data.visa_requirement
-  $requirement.style.background = color
-  $notes.textContent = data.notes
+  _.refs.requirement.textContent = data.visa_requirement
+  _.refs.requirement.style.background = color
+  _.refs.notes.textContent = data.notes
 
   if (data.allowed_stay) {
-    $allowedStay.textContent = `Allowed Stay: ${data.allowed_stay}`
+    _.refs.allowedStay.textContent = `Allowed Stay: ${data.allowed_stay}`
   } else {
-    $allowedStay.textContent = ''
+    _.refs.allowedStay.textContent = ''
   }
+}
+
+_.refs.destinationTypeahead.addEventListener('focus', _.onDestinationInput.bind(_))
+_.refs.passportTypeahead.addEventListener('focus', _.onPassportInput.bind(_))
+
+_.refs.passportTypeahead.addEventListener('keyup', _.onPassportInput.bind(_))
+_.refs.destinationTypeahead.addEventListener('keyup', _.onDestinationInput.bind(_))
+
+_.refs.options.forEach($option => {
+  $option.addEventListener('click', () => {
+    if (_.state.view === 'DESTINATION') {
+      _.refs.destination.value = $option.dataset.country
+      _.setState({ 
+          view: 'REQUIREMENTS',
+          destination: $option.dataset.countryCode,
+          typeaheadValue: '' 
+      })
+    }
+
+    if (_.state.view === 'PASSPORT') {
+      const countryCode = $option.dataset.countryCode
+      _.refs.passport.value = $option.dataset.country
+      import(
+        /* webpackChunkName: "[request]" */ 
+        `../../data/visa-requirements/${countryCode}.json`
+      ).then(({ default: requirements }) => {
+        _.REQUIREMENTS_CACHE[countryCode] = requirements
+        _.setState({ 
+          view: 'DESTINATION',
+          passport: countryCode,
+          typeaheadValue: '' 
+        })
+      })
+    }
+
+    checkRequirements()
+  })
 })

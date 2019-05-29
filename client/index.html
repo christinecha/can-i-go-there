@@ -6,19 +6,26 @@
 
   <body>
     <main>
-      <h1>Can I go there?</h1>
+      <div id="passport-color"></div>
+      <div id="destination-color"></div>
 
-      <div>
-        <label>Citizenship</label>
-        <select id="passport"></select>
+      <div class="passport-wrapper">
+        <label>If my passport is from</label>
+        <div class="passport-inputs">
+          <input id="passport-typeahead" />
+          <input id="passport" readonly />
+        </div>
       </div>
 
-      <div>
-        <label>Destination</label>
-        <select id="destination"></select>
+      <div class="destination-wrapper">
+        <label>Can I go to</label>
+        <div class="destination-inputs">
+          <input id="destination-typeahead" />
+          <input id="destination" readonly />
+        </div>
       </div>
 
-      <button id="check">Check</button>
+      <div id="options"></div>
 
       <div id="requirement"></div>
       <div id="allowed-stay"></div>
