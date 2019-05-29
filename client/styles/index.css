@@ -139,7 +139,11 @@ button {
   height: 100%;
   overflow: scroll;
   padding-right: 20px;
+  overflow: -moz-scrollbars-none;
+  -ms-overflow-style: none;
 }
+
+#options::-webkit-scrollbar { width: 0 !important; background: transparent; }
 
 .option {
   text-align: right;
