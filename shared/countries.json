@@ -1,9 +1,32 @@
 [
-  {"name": "Afghanistan", "code": "AF"},
-  {"name": "Albania", "code": "AL"},
-  {"name": "Algeria", "code": "DZ"},
-  {"name": "American Samoa", "code": "AS"},
-  {"name": "Andorra", "code": "AD"},
+  {
+    "name": "Afghanistan", 
+    "code": "AF",
+    "colors": ["#008606", "#cc2214", "#000000"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Afghan_citizens"
+  },
+  {
+    "name": "Albania", 
+    "code": "AL",
+    "colors": ["#ec1d1d", "#000"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens"
+  },
+  {
+    "name": "Algeria", 
+    "code": "DZ",
+    "colors": ["#00582d", "#d21034"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens"
+  },
+  {
+    "name": "American Samoa", 
+    "code": "AS"
+  },
+  {
+    "name": "Andorra",
+    "code": "AD",
+    "colors": ["#cf103a", "#fecd00", "#091bb5"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Andorran_citizens"
+  },
   {"name": "Angola", "code": "AO"},
   {"name": "Anguilla", "code": "AI"},
   {"name": "Antarctica", "code": "AQ"},
@@ -215,7 +238,11 @@
   {"name": "Saint Lucia", "code": "LC"},
   {"name": "Saint Pierre and Miquelon", "code": "PM"},
   {"name": "Saint Vincent and the Grenadines", "code": "VC"},
-  {"name": "Samoa", "code": "WS"},
+  {
+    "name": "Samoa", 
+    "code": "WS",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens"
+  },
   {"name": "San Marino", "code": "SM"},
   {"name": "Sao Tome and Principe", "code": "ST"},
   {"name": "Saudi Arabia", "code": "SA"},
