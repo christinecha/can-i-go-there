@@ -1,5 +1,5 @@
 body {
-  font-family: 'Arial';
+  font-family: 'Viga', sans-serif;
   background: #121212;
   color: white;
   padding: 0;
@@ -57,6 +57,7 @@ input {
   display: block;
   font-size: 10vw;
   background: transparent;
+  font-family: inherit;
   color: inherit;
   border: none;
   text-transform: uppercase;
