@@ -19,7 +19,6 @@ module.exports = {
     ...getJSONFiles()
   },
   mode: 'development',
-  // watch: true,
   output: {
     path: path.resolve(__dirname, './client/scripts'),
     publicPath: '/scripts/',
@@ -48,15 +47,10 @@ module.exports = {
         exclude: /node_modules/
       },
       {
-        test: /\.css$/,
+        test: /\.scss$/,
         use: [
           'style-loader',
-          {
-            loader: 'css-loader',
-            options: {
-              modules: true
-            }
-          },
+          'css-loader',
           'sass-loader'
         ],
       }

@@ -12,7 +12,7 @@ function initDOM () {
     requirement: document.getElementById('requirement'),
     allowedStay: document.getElementById('allowed-stay'),
     notes: document.getElementById('notes'),
-    optionsWrapper: document.getElementById('options'),
+    optionsWrapper: document.getElementById('options-wrapper'),
     options: []
   }
 
@@ -33,6 +33,7 @@ function initDOM () {
 
   this.refs.passport.value = ''
   this.refs.destination.value = ''
+  this.refs.main.dataset.ready = true
 }
 
 export default initDOM

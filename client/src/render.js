@@ -16,21 +16,20 @@ function render () {
     return country.indexOf(this.state.typeaheadValue) === 0
   }
 
-  if (this.state.view === 'PASSPORT') {
+  if (!this.state.passportSelected) {
     this.refs.options.forEach(($option) => {
       const isActive = isAvailablePassport($option) && isTypeaheadMatch($option)
       $option.dataset.isActive = isActive
     })
-  }
-
-  if (this.state.view === 'DESTINATION') {
+  } else if (!this.state.destinationSelected) {
     this.refs.options.forEach(($option) => {
       const isActive = isAvailableDestination($option) && isTypeaheadMatch($option)
       $option.dataset.isActive = isActive
     })
   }
 
-  this.refs.main.dataset.view = this.state.view
+  this.refs.main.dataset.passportSelected = this.state.passportSelected
+  this.refs.main.dataset.destinationSelected = this.state.destinationSelected
 }
 
 export default render
