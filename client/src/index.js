@@ -39,79 +39,122 @@ const App = () => {
         typeaheadValue: (e.target.value || '').trim().toLowerCase(),
       })
     },
-  
+    
+    initDOM, 
     render
   }
 }
 
-const _ = App()
+const app = App()
 
-initDOM(_)
-_.render()
+app.initDOM()
+app.render()
 
 const checkRequirements = () => {
-  if (!_.state.passport || !_.state.destination) return
+  if (!app.state.passport || !app.state.destination) return
 
-  const requirements = _.REQUIREMENTS_CACHE[_.state.passport]
-  const data = requirements[_.state.destination]
+  const requirements = app.REQUIREMENTS_CACHE[app.state.passport]
+  const data = requirements[app.state.destination]
 
   const clean = data.visa_requirement.toLowerCase()
   let color = ''
 
-  if (clean.indexOf('visa not required') > -1) {
-    color = '#aee026'
-  } else if (clean.indexOf('visa required') > -1) {
-    color = 'orange'
-  } else if (clean.indexOf('travel banned') > -1) {
-    color = '#ff7d7d'
-  } else if (clean) {
-    color = '#eee'
-  }
+  // if (clean.indexOf('visa not required') > -1) {
+  //   color = '#aee026'
+  // } else if (clean.indexOf('visa required') > -1) {
+  //   color = 'orange'
+  // } else if (clean.indexOf('travel banned') > -1) {
+  //   color = '#ff7d7d'
+  // } else if (clean) {
+  //   color = '#eee'
+  // }
 
-  _.refs.requirement.textContent = data.visa_requirement
-  _.refs.requirement.style.background = color
-  _.refs.notes.textContent = data.notes
+  app.refs.requirement.textContent = data.visa_requirement
+  app.refs.requirement.style.background = color
+  app.refs.notes.textContent = data.notes
 
   if (data.allowed_stay) {
-    _.refs.allowedStay.textContent = `Allowed Stay: ${data.allowed_stay}`
+    app.refs.allowedStay.textContent = `Allowed Stay: ${data.allowed_stay}`
   } else {
-    _.refs.allowedStay.textContent = ''
+    app.refs.allowedStay.textContent = ''
   }
 }
 
-_.refs.destinationTypeahead.addEventListener('focus', _.onDestinationInput.bind(_))
-_.refs.passportTypeahead.addEventListener('focus', _.onPassportInput.bind(_))
+app.refs.destinationTypeahead.addEventListener('focus', app.onDestinationInput.bind(app))
+app.refs.passportTypeahead.addEventListener('focus', app.onPassportInput.bind(app))
 
-_.refs.passportTypeahead.addEventListener('keyup', _.onPassportInput.bind(_))
-_.refs.destinationTypeahead.addEventListener('keyup', _.onDestinationInput.bind(_))
+app.refs.passportTypeahead.addEventListener('keyup', app.onPassportInput.bind(app))
+app.refs.destinationTypeahead.addEventListener('keyup', app.onDestinationInput.bind(app))
 
-_.refs.options.forEach($option => {
+const type = (str = '', el) => {
+  return new Promise(resolve => {
+    var left = str
+  
+    const interval = setInterval(() => {
+      if (left.length === 0) {
+        clearInterval(interval)
+        resolve()
+        return
+      }
+  
+      el.value += left[0] 
+      left = left.substr(1)
+    }, 80)
+  })
+}
+
+app.refs.options.forEach($option => {
   $option.addEventListener('click', () => {
-    if (_.state.view === 'DESTINATION') {
-      _.refs.destination.value = $option.dataset.country
-      _.setState({ 
-          view: 'REQUIREMENTS',
+    if (app.state.view === 'DESTINATION') {
+      const countryCode = $option.dataset.countryCode
+      const destinationCountry = app.COUNTRIES_BY_CODE[countryCode] || {}
+      
+      if (destinationCountry.colors) {
+        const color = destinationCountry.colors[0]
+        app.refs.destinationColor.style.background = color
+      }
+
+      type($option.dataset.country, app.refs.destination)
+      .then(() => {
+        app.setState({ 
           destination: $option.dataset.countryCode,
-          typeaheadValue: '' 
+        })
+
+        checkRequirements()
+      })
+
+      app.setState({ 
+        view: 'REQUIREMENTS',
+        typeaheadValue: '' 
       })
     }
 
-    if (_.state.view === 'PASSPORT') {
+    if (app.state.view === 'PASSPORT') {
       const countryCode = $option.dataset.countryCode
-      _.refs.passport.value = $option.dataset.country
+      const passportCountry = app.COUNTRIES_BY_CODE[countryCode] || {}
+
+      if (passportCountry.colors) {
+        const color = passportCountry.colors[0]
+        app.refs.passportColor.style.background = color
+      }
+
+      type($option.dataset.country, app.refs.passport)
+      .then(() => {
+        app.setState({ 
+          passport: countryCode,
+        })
+      })
+
       import(
         /* webpackChunkName: "[request]" */ 
         `../../data/visa-requirements/${countryCode}.json`
       ).then(({ default: requirements }) => {
-        _.REQUIREMENTS_CACHE[countryCode] = requirements
-        _.setState({ 
+        app.REQUIREMENTS_CACHE[countryCode] = requirements
+        app.setState({ 
           view: 'DESTINATION',
-          passport: countryCode,
           typeaheadValue: '' 
         })
       })
     }
-
-    checkRequirements()
   })
 })

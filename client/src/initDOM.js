@@ -1,7 +1,7 @@
 import countriesJSON from '../../shared/countries.json'
 
-const initDOM = (_) => {
-  _.refs = {
+function initDOM () {
+  this.refs = {
     main: document.getElementsByTagName('MAIN')[0],
     destinationColor: document.getElementById('destination-color'),
     passportColor: document.getElementById('passport-color'),
@@ -27,8 +27,8 @@ const initDOM = (_) => {
 
   countriesJSON.forEach(country => {
     const $option = createOption(country)
-    _.refs.options.push($option)
-    _.refs.optionsWrapper.appendChild($option)
+    this.refs.options.push($option)
+    this.refs.optionsWrapper.appendChild($option)
   })
 }
 

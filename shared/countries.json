@@ -27,11 +27,34 @@
     "colors": ["#cf103a", "#fecd00", "#091bb5"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Andorran_citizens"
   },
-  {"name": "Angola", "code": "AO"},
-  {"name": "Anguilla", "code": "AI"},
-  {"name": "Antarctica", "code": "AQ"},
-  {"name": "Antigua and Barbuda", "code": "AG"},
-  {"name": "Argentina", "code": "AR"},
+  {
+    "name": "Angola", 
+    "code": "AO",
+    "colors": ["#cc092f", "#251417", "#faca00"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens"
+  },
+  {
+    "name": "Anguilla", 
+    "code": "AI",
+    "colors": ["#01237d", "#cf142b", "#ff9901", "#99ccff"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
+  },
+  {
+    "name": "Antarctica", 
+    "code": "AQ"
+  },
+  {
+    "name": "Antigua and Barbuda", 
+    "code": "AG",
+    "colors": ["#ce1025", "#0072c6", "#fcd114", "#231f1f"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Antigua_and_Barbuda_citizens"
+  },
+  {
+    "name": "Argentina", 
+    "code": "AR",
+    "colors": ["#74acdf", "#f5b30e"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Argentine_citizens"
+  },
   {"name": "Armenia", "code": "AM"},
   {"name": "Aruba", "code": "AW"},
   {"name": "Australia", "code": "AU"},
@@ -45,7 +68,11 @@
   {"name": "Belgium", "code": "BE"},
   {"name": "Belize", "code": "BZ"},
   {"name": "Benin", "code": "BJ"},
-  {"name": "Bermuda", "code": "BM"},
+  {
+    "name": "Bermuda", 
+    "code": "BM",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
+  },
   {"name": "Bhutan", "code": "BT"},
   {"name": "Bolivia", "code": "BO"},
   {"name": "Bosnia and Herzegovina", "code": "BA"},
@@ -61,7 +88,11 @@
   {"name": "Cameroon", "code": "CM"},
   {"name": "Canada", "code": "CA"},
   {"name": "Cape Verde", "code": "CV"},
-  {"name": "Cayman Islands", "code": "KY"},
+  {
+    "name": "Cayman Islands", 
+    "code": "KY",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
+  },
   {"name": "Central African Republic", "code": "CF"},
   {"name": "Chad", "code": "TD"},
   {"name": "Chile", "code": "CL"},
@@ -91,6 +122,7 @@
   {
     "name": "Ecuador", 
     "code": "EC",
+    "colors": ["#034ea2", "#ffdd00", "#ed1c23"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ecuadorian_citizens"
   },
   {"name": "Egypt", "code": "EG"},
@@ -112,7 +144,11 @@
   {"name": "Georgia", "code": "GE"},
   {"name": "Germany", "code": "DE"},
   {"name": "Ghana", "code": "GH"},
-  {"name": "Gibraltar", "code": "GI"},
+  {
+    "name": "Gibraltar", 
+    "code": "GI",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
+  },
   {"name": "Greece", "code": "GR"},
   {"name": "Greenland", "code": "GL"},
   {"name": "Grenada", "code": "GD"},
@@ -197,7 +233,11 @@
   {"name": "Moldova, Republic of", "code": "MD"},
   {"name": "Monaco", "code": "MC"},
   {"name": "Mongolia", "code": "MN"},
-  {"name": "Montserrat", "code": "MS"},
+  {
+    "name": "Montserrat", 
+    "code": "MS",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
+  },
   {"name": "Morocco", "code": "MA"},
   {"name": "Mozambique", "code": "MZ"},
   {"name": "Myanmar", "code": "MM"},
@@ -224,7 +264,11 @@
   {"name": "Paraguay", "code": "PY"},
   {"name": "Peru", "code": "PE"},
   {"name": "Philippines", "code": "PH"},
-  {"name": "Pitcairn", "code": "PN"},
+  {
+    "name": "Pitcairn", 
+    "code": "PN",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
+  },
   {"name": "Poland", "code": "PL"},
   {"name": "Portugal", "code": "PT"},
   {"name": "Puerto Rico", "code": "PR"},
@@ -233,7 +277,11 @@
   {"name": "Romania", "code": "RO"},
   {"name": "Russian Federation", "code": "RU"},
   {"name": "RWANDA", "code": "RW"},
-  {"name": "Saint Helena", "code": "SH"},
+  {
+    "name": "Saint Helena", 
+    "code": "SH",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
+  },
   {"name": "Saint Kitts and Nevis", "code": "KN"},
   {"name": "Saint Lucia", "code": "LC"},
   {"name": "Saint Pierre and Miquelon", "code": "PM"},
@@ -282,7 +330,11 @@
   {"name": "Tunisia", "code": "TN"},
   {"name": "Turkey", "code": "TR"},
   {"name": "Turkmenistan", "code": "TM"},
-  {"name": "Turks and Caicos Islands", "code": "TC"},
+  {
+    "name": "Turks and Caicos Islands", 
+    "code": "TC",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
+  },
   {"name": "Tuvalu", "code": "TV"},
   {"name": "Uganda", "code": "UG"},
   {"name": "Ukraine", "code": "UA"},

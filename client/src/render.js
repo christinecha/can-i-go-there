@@ -24,24 +24,10 @@ function render () {
   }
 
   if (this.state.view === 'DESTINATION') {
-    const passportCountry = this.COUNTRIES_BY_CODE[this.state.passport] || {}
-    if (passportCountry.colors) {
-      const color = passportCountry.colors[0]
-      this.refs.passportColor.style.background = color
-    }
-
     this.refs.options.forEach(($option) => {
       const isActive = isAvailableDestination($option) && isTypeaheadMatch($option)
       $option.dataset.isActive = isActive
     })
-  }
-
-  if (this.state.view === 'REQUIREMENTS') {
-    const destinationCountry = this.COUNTRIES_BY_CODE[this.state.destination] || {}
-    if (destinationCountry.colors) {
-      const color = destinationCountry.colors[0]
-      this.refs.destinationColor.style.background = color
-    }
   }
 
   this.refs.main.dataset.view = this.state.view
