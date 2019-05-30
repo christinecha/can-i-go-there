@@ -30,6 +30,9 @@ function initDOM () {
     this.refs.options.push($option)
     this.refs.optionsWrapper.appendChild($option)
   })
+
+  this.refs.passport.value = ''
+  this.refs.destination.value = ''
 }
 
 export default initDOM
