@@ -16,6 +16,7 @@ function onCountrySelect (country = {}) {
     .then(() => {
       this.setState({ 
         passport: code,
+        destinationFocused: true
       })
     })
 

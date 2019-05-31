@@ -24,17 +24,23 @@ label {
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 0.15em;
+  margin-bottom: 15px;
 }
 
 input,
+.input,
 textarea {
-  display: block;
+  display: inline-block;
   font-size: 10vw;
+  height: 1em;
+  line-height: 1em;
   background: transparent;
   font-family: inherit;
   color: inherit;
   border: none;
   text-transform: uppercase;
+  white-space: pre;
+  max-width: 100%;
 
   @media (min-width: 1280px) {
     font-size: 100px;

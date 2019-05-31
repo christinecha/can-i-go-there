@@ -1,4 +1,4 @@
-main[data-ready="true"] {
+main[data-passport-focused="true"] {
   .passport-wrapper,
   #options-wrapper {
     opacity: 1;
@@ -7,17 +7,23 @@ main[data-ready="true"] {
 }
 
 main[data-passport-selected="true"] {
+  #passport-color {
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+  }
+}
+
+main[data-destination-focused="true"] {
+  #passport::after {
+    visibility: hidden;
+  }
+
   .destination-wrapper {
     opacity: 1;
     visibility: visible;
 
     transition: opacity 200ms 400ms linear, visibility 600ms step-start;
-  }
-
-  #passport-color {
-    opacity: 1;
-    visibility: visible;
-    transform: none;
   }
 }
 
@@ -67,16 +73,39 @@ main[data-destination-selected="true"] {
   position: relative;
 }
 
-#passport-typeahead {
-  position: absolute;
-  top: 0;
-  left: 0;
+.input {
+  position: relative;
+
+  &::after {
+    @keyframes blink {
+      49% { opacity: 1; }
+      50% { opacity: 0; }
+      89% { opacity: 0; }
+      90% { opacity: 1; }
+    }
+
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    width: 4px;
+    height: 100%;
+    background: white;
+
+    animation-name: blink;
+    animation-duration: 1000ms;
+    animation-iteration-count: infinite;
+  }
 }
 
+#passport-typeahead,
 #destination-typeahead {
   position: absolute;
   top: 0;
   left: 0;
+  opacity: 0;
 }
 
 #requirement, #allowed-stay, #notes {

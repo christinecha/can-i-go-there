@@ -30,6 +30,8 @@ function render () {
 
   this.refs.main.dataset.passportSelected = this.state.passportSelected
   this.refs.main.dataset.destinationSelected = this.state.destinationSelected
+  this.refs.main.dataset.passportFocused = this.state.passportFocused
+  this.refs.main.dataset.destinationFocused = this.state.destinationFocused
 }
 
 export default render
