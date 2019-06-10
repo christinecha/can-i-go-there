@@ -32,29 +32,11 @@ module.exports = {
         target: 'http://localhost:9000/',
         secure: false
       },
-      '/styles/*': {
+      '/dist/*': {
         target: 'http://localhost:8000/client',
         secure: false
       }
     }
-  },
-  devtool: 'inline-source-map',
-  module: {
-    rules: [
-      {
-        test: /\.js?$/,
-        loaders: ['babel-loader'],
-        exclude: /node_modules/
-      },
-      {
-        test: /\.scss$/,
-        use: [
-          'style-loader',
-          'css-loader',
-          'sass-loader'
-        ],
-      }
-    ],
   },
   plugins: [
     new CleanWebpackPlugin(),

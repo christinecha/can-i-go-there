@@ -4,8 +4,6 @@ import render from './render'
 import onCountrySelect from './onCountrySelect'
 import checkRequirements from './checkRequirements'
 
-import '../styles/index.scss'
-
 const AVAILABLE_PASSPORTS = countriesJSON.filter(n => n.wikipediaSource).map(n => n.code)
 const COUNTRIES_BY_CODE = countriesJSON.reduce((obj, c) => ({
   ...obj, 
