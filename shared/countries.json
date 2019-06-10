@@ -323,56 +323,238 @@
     "colors": ["#034ea2", "#ffdd00", "#ed1c23"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ecuadorian_citizens"
   },
-  {"name": "Egypt", "code": "EG"},
-  {"name": "El Salvador", "code": "SV"},
-  {"name": "Equatorial Guinea", "code": "GQ"},
-  {"name": "Eritrea", "code": "ER"},
-  {"name": "Estonia", "code": "EE"},
-  {"name": "Ethiopia", "code": "ET"},
-  {"name": "Falkland Islands (Malvinas)", "code": "FK"},
-  {"name": "Faroe Islands", "code": "FO"},
-  {"name": "Fiji", "code": "FJ"},
-  {"name": "Finland", "code": "FI"},
-  {"name": "France", "code": "FR"},
-  {"name": "French Guiana", "code": "GF"},
-  {"name": "French Polynesia", "code": "PF"},
-  {"name": "French Southern Territories", "code": "TF"},
-  {"name": "Gabon", "code": "GA"},
-  {"name": "Gambia", "code": "GM"},
-  {"name": "Georgia", "code": "GE"},
-  {"name": "Germany", "code": "DE"},
-  {"name": "Ghana", "code": "GH"},
+  {
+    "name": "Egypt", 
+    "code": "EG",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Egyptian_citizens"
+  },
+  {
+    "name": "El Salvador", 
+    "code": "SV",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_El_Salvador_citizens"
+  },
+  {
+    "name": "Equatorial Guinea", 
+    "code": "GQ",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Equatorial_Guinean_citizens"
+  },
+  {
+    "name": "Eritrea", 
+    "code": "ER",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens"
+  },
+  {
+    "name": "Estonia", 
+    "code": "EE",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Estonian_citizens"
+  },
+  {
+    "name": "Ethiopia", 
+    "code": "ET",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens"
+  },
+  {
+    "name": "Falkland Islands (Malvinas)", 
+    "code": "FK",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Faroe Islands", 
+    "code": "FO",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Fiji", 
+    "code": "FJ",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Fijian_citizens"
+  },
+  {
+    "name": "Finland", 
+    "code": "FI",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens"
+  },
+  {
+    "name": "France", 
+    "code": "FR",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_French_citizens"
+  },
+  {
+    "name": "French Guiana", 
+    "code": "GF",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "French Polynesia", 
+    "code": "PF",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "French Southern Territories", 
+    "code": "TF",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Gabon", 
+    "code": "GA",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Gambia", 
+    "code": "GM",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gambian_citizens"
+  },
+  {
+    "name": "Georgia", 
+    "code": "GE",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens"
+  },
+  {
+    "name": "Germany", 
+    "code": "DE",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens"
+  },
+  {
+    "name": "Ghana", 
+    "code": "GH",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens"
+  },
   {
     "name": "Gibraltar", 
     "code": "GI",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
   },
-  {"name": "Greece", "code": "GR"},
-  {"name": "Greenland", "code": "GL"},
-  {"name": "Grenada", "code": "GD"},
-  {"name": "Guadeloupe", "code": "GP"},
-  {"name": "Guam", "code": "GU"},
-  {"name": "Guatemala", "code": "GT"},
-  {"name": "Guernsey", "code": "GG"},
-  {"name": "Guinea", "code": "GN"},
-  {"name": "Guinea-Bissau", "code": "GW"},
-  {"name": "Guyana", "code": "GY"},
-  {"name": "Haiti", "code": "HT"},
-  {"name": "Heard Island and Mcdonald Islands", "code": "HM"},
-  {"name": "Holy See (Vatican City State)", "code": "VA"},
-  {"name": "Honduras", "code": "HN"},
-  {"name": "Hong Kong", "code": "HK"},
-  {"name": "Hungary", "code": "HU"},
-  {"name": "Iceland", "code": "IS"},
-  {"name": "India", "code": "IN"},
-  {"name": "Indonesia", "code": "ID"},
-  {"name": "Iran, Islamic Republic Of", "code": "IR"},
-  {"name": "Iraq", "code": "IQ"},
-  {"name": "Ireland", "code": "IE"},
-  {"name": "Isle of Man", "code": "IM"},
-  {"name": "Israel", "code": "IL"},
-  {"name": "Italy", "code": "IT"},
-  {"name": "Jamaica", "code": "JM"},
+  {
+    "name": "Greece", 
+    "code": "GR",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Greek_citizens"
+  },
+  {
+    "name": "Greenland", 
+    "code": "GL",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Grenada", 
+    "code": "GD",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Grenadian_citizens"
+  },
+  {
+    "name": "Guadeloupe", 
+    "code": "GP",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Guam", 
+    "code": "GU",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Guatemala", 
+    "code": "GT",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guatemalan_citizens"
+  },
+  {
+    "name": "Guernsey", 
+    "code": "GG",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Guinea", 
+    "code": "GN",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Guinea-Bissau", 
+    "code": "GW",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Guyana", 
+    "code": "GY",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Guyanese_citizens"
+  },
+  {
+    "name": "Haiti", 
+    "code": "HT",
+    "colors": ["#00209f", "#d21034"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens"
+  },
+  {
+    "name": "Heard Island and Mcdonald Islands", 
+    "code": "HM",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Holy See (Vatican City State)", 
+    "code": "VA",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Honduras", 
+    "code": "HN",
+    "colors": ["#0074d0"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Honduran_citizens"
+  },
+  {
+    "name": "Hong Kong", 
+    "code": "HK",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong"
+  },
+  {
+    "name": "Hungary", 
+    "code": "HU",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Iceland", 
+    "code": "IS",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "India", 
+    "code": "IN",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Indonesia", 
+    "code": "ID",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Iran, Islamic Republic Of", 
+    "code": "IR",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Iraq", 
+    "code": "IQ",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Ireland", 
+    "code": "IE",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Isle of Man", 
+    "code": "IM",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Israel", 
+    "code": "IL",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Italy", 
+    "code": "IT",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Jamaica", 
+    "code": "JM",
+    "wikipediaSource": ""
+  },
   {
     "name": "Japan", 
     "code": "JP",
