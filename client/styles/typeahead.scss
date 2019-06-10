@@ -91,6 +91,10 @@ $option-font-size: 20px;
   text-transform: uppercase;
   color: rgba(255,255,255,0.4);
   font-size: $option-font-size;
+
+  @media (max-width: 767px) {
+    padding: 3px 0;
+  }
 }
 
 .option:hover,
