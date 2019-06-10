@@ -66,6 +66,7 @@ $option-font-size: 20px;
   -ms-overflow-style: none;
   height: calc(100% - 90px);
   overflow: scroll;
+  padding-bottom: 40px;
 
   transition: opacity 200ms ease-out,
               visibility 200ms step-end;
