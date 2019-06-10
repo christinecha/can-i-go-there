@@ -42,8 +42,12 @@ const App = () => {
         // ENTER
         if (e.keyCode === 13) {
           const option = activeOptions[this.state.preselect]
-          const country = this.COUNTRIES_BY_CODE[option.dataset.countryCode]
-          this.onCountrySelect(country)
+
+          if (option) {
+            const country = this.COUNTRIES_BY_CODE[option.dataset.countryCode]
+            this.onCountrySelect(country)
+          }
+
           return 
         }
 
