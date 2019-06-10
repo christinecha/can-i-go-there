@@ -468,6 +468,30 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "CD": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+      "https://en.wikipedia.org/wiki/International_Certificate_of_Vaccination"
+    ],
+    "destination_country": "CD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "International Certificate of Vaccination required.\nRegistration required.\nVisas must be issued at the DR Congo embassy in Washington, D.C."
+  },
+  "CG": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
+      "https://en.wikipedia.org/wiki/International_Certificate_of_Vaccination"
+    ],
+    "destination_country": "CG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "International Certificate of Vaccination required.\nA letter of invitation or written proof of a hotel reservation required."
+  },
   "CR": {
     "passport_country": "US",
     "sources": [

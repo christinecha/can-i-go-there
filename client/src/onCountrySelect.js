@@ -34,7 +34,7 @@ function onCountrySelect (country = {}) {
   }
 
   this.refs.typeahead.value = ''
-  this.setState({ typeaheadValue: '' })
+  this.setState({ typeaheadValue: '', preselect: 0 })
 }
 
 export default onCountrySelect

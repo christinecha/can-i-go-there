@@ -19,7 +19,8 @@ const App = () => {
     state: {
       typeaheadValue: '',
       passport: '',
-      destination: ''
+      destination: '',
+      preselect: 0,
     },
 
     setState(obj) {
@@ -31,9 +32,36 @@ const App = () => {
       this.initDOM()
       this.render()
       this.refs.typeahead.focus()
-
+      
       document.addEventListener('keydown', this.onDocumentKeyDown.bind(this))
       this.refs.typeahead.addEventListener('keyup', this.onInput.bind(this))
+
+      document.addEventListener('keyup', (e) => {
+        const activeOptions = this.refs.options.filter(o => o.dataset.isActive === "true")
+
+        // ENTER
+        if (e.keyCode === 13) {
+          const option = activeOptions[this.state.preselect]
+          const country = this.COUNTRIES_BY_CODE[option.dataset.countryCode]
+          this.onCountrySelect(country)
+          return 
+        }
+
+        let requestedPreselect = this.state.preselect
+
+        // DOWN
+        if (e.keyCode === 40) {
+          requestedPreselect += 1
+        }
+
+        // UP
+        if (e.keyCode === 38) {
+          requestedPreselect -= 1
+        }
+
+        const preselect = Math.min(Math.max(0, requestedPreselect), activeOptions.length - 1)
+        this.setState({ preselect })
+      })
 
       this.refs.options.forEach($option => {
         $option.addEventListener('click', () => {

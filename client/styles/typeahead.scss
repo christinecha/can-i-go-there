@@ -59,6 +59,9 @@ $option-font-size: 20px;
 }
 
 #options-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
   overflow: -moz-scrollbars-none;
   -ms-overflow-style: none;
   height: calc(100% - 90px);
@@ -80,23 +83,20 @@ $option-font-size: 20px;
 
 
 .option {
+  display: none;
   text-align: right;
   cursor: pointer;
   user-select: none;
   text-transform: uppercase;
   color: rgba(255,255,255,0.4);
   font-size: $option-font-size;
-  height: 0;
-  visibility: hidden;
-  opacity: 0;
 }
 
-.option:hover {
+.option:hover,
+.option[data-is-preselected="true"] {
   color: rgba(255,255,255,1);
 }
 
 .option[data-is-active="true"] {
-  visibility: visible;
-  height: 40px;
-  opacity: 1;
+  display: block;
 }

@@ -2,9 +2,8 @@
   "AF": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Afghanistan",
-      "#cite_note-11",
-      "#cite_note-12"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Afghanistan"
     ],
     "destination_country": "AF",
     "visa_requirement": "Visa required",
@@ -14,9 +13,8 @@
   "AL": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Albania",
-      "#cite_note-13",
-      "#cite_note-14"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Albania"
     ],
     "destination_country": "AL",
     "visa_requirement": "Visa not required",
@@ -26,8 +24,8 @@
   "DZ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Algeria",
-      "#cite_note-15"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Algeria"
     ],
     "destination_country": "DZ",
     "visa_requirement": "Visa required",
@@ -37,8 +35,8 @@
   "AD": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Andorra",
-      "#cite_note-16"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Andorra"
     ],
     "destination_country": "AD",
     "visa_requirement": "Visa required",
@@ -48,11 +46,8 @@
   "AO": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Angola",
-      "#cite_note-17",
-      "#cite_note-18",
-      "#cite_note-19",
-      "#cite_note-20"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Angola"
     ],
     "destination_country": "AO",
     "visa_requirement": "eVisa",
@@ -62,8 +57,8 @@
   "AG": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Antigua_and_Barbuda",
-      "#cite_note-21"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
     ],
     "destination_country": "AG",
     "visa_requirement": "Visa not required",
@@ -73,10 +68,8 @@
   "AR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Argentina",
-      "#cite_note-22",
-      "#cite_note-23",
-      "#cite_note-24"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Argentina"
     ],
     "destination_country": "AR",
     "visa_requirement": "Visa required",
@@ -86,10 +79,8 @@
   "AM": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Armenia",
-      "#cite_note-25",
-      "#cite_note-26",
-      "#cite_note-27"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Armenia"
     ],
     "destination_country": "AM",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -99,11 +90,9 @@
   "AU": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Australia",
-      "#cite_note-28",
-      "#cite_note-29",
-      "/wiki/SmartGate",
-      "#cite_note-30"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Australia",
+      "https://en.wikipedia.org/wiki/SmartGate"
     ],
     "destination_country": "AU",
     "visa_requirement": "Visa required",
@@ -113,8 +102,8 @@
   "AT": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Austria",
-      "#cite_note-31"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Austria"
     ],
     "destination_country": "AT",
     "visa_requirement": "Visa required",
@@ -124,11 +113,8 @@
   "AZ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Azerbaijan",
-      "#cite_note-32",
-      "#cite_note-:0-7",
-      "#cite_note-33",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Azerbaijan"
     ],
     "destination_country": "AZ",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -138,9 +124,8 @@
   "BS": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/The_Bahamas",
-      "#cite_note-35",
-      "#cite_note-36"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/The_Bahamas"
     ],
     "destination_country": "BS",
     "visa_requirement": "Visa not required",
@@ -150,8 +135,8 @@
   "BH": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Bahrain",
-      "#cite_note-37"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Bahrain"
     ],
     "destination_country": "BH",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -161,9 +146,8 @@
   "BD": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Bangladesh",
-      "#cite_note-38",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Bangladesh"
     ],
     "destination_country": "BD",
     "visa_requirement": "Visa on arrival",
@@ -173,8 +157,8 @@
   "BB": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Barbados",
-      "#cite_note-39"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Barbados"
     ],
     "destination_country": "BB",
     "visa_requirement": "Visa not required",
@@ -184,11 +168,8 @@
   "BY": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Belarus",
-      "#cite_note-40",
-      "#cite_note-41",
-      "#cite_note-42",
-      "#cite_note-43"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Belarus"
     ],
     "destination_country": "BY",
     "visa_requirement": "Visa not required",
@@ -198,8 +179,8 @@
   "BE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Belgium",
-      "#cite_note-44"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Belgium"
     ],
     "destination_country": "BE",
     "visa_requirement": "Visa required",
@@ -209,9 +190,8 @@
   "BZ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Belize",
-      "#cite_note-45",
-      "#cite_note-46"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Belize"
     ],
     "destination_country": "BZ",
     "visa_requirement": "Visa required",
@@ -221,9 +201,8 @@
   "BJ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Benin",
-      "#cite_note-47",
-      "#cite_note-48"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Benin"
     ],
     "destination_country": "BJ",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -233,8 +212,8 @@
   "BT": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Bhutan",
-      "#cite_note-49"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Bhutan"
     ],
     "destination_country": "BT",
     "visa_requirement": "Visa required",
@@ -244,11 +223,8 @@
   "BO": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Bolivia",
-      "#cite_note-50",
-      "#cite_note-51",
-      "#cite_note-52",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Bolivia"
     ],
     "destination_country": "BO",
     "visa_requirement": "Visa on arrival",
@@ -258,9 +234,8 @@
   "BA": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Bosnia_and_Herzegovina",
-      "#cite_note-53",
-      "#cite_note-54"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
     ],
     "destination_country": "BA",
     "visa_requirement": "Visa not required",
@@ -270,8 +245,8 @@
   "BW": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Botswana",
-      "#cite_note-55"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Botswana"
     ],
     "destination_country": "BW",
     "visa_requirement": "Visa required",
@@ -281,20 +256,30 @@
   "BR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Brazil",
-      "#cite_note-56",
-      "#cite_note-57"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Brazil"
     ],
     "destination_country": "BR",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "As of 1 October 2017 visas are issued with a five-year validity period."
   },
+  "BN": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Brunei"
+    ],
+    "destination_country": "BN",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "14 days",
+    "notes": ""
+  },
   "BG": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Bulgaria",
-      "#cite_note-60"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Bulgaria"
     ],
     "destination_country": "BG",
     "visa_requirement": "Visa required",
@@ -304,8 +289,8 @@
   "BF": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Burkina_Faso",
-      "#cite_note-61"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Burkina_Faso"
     ],
     "destination_country": "BF",
     "visa_requirement": "Visa required",
@@ -315,9 +300,8 @@
   "BI": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Burundi",
-      "#cite_note-62",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Burundi"
     ],
     "destination_country": "BI",
     "visa_requirement": "Visa required",
@@ -327,9 +311,8 @@
   "KH": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Cambodia",
-      "#cite_note-63",
-      "#cite_note-64"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Cambodia"
     ],
     "destination_country": "KH",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -339,8 +322,8 @@
   "CM": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Cameroon",
-      "#cite_note-65"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Cameroon"
     ],
     "destination_country": "CM",
     "visa_requirement": "Visa required",
@@ -350,10 +333,9 @@
   "CA": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Canada",
-      "#cite_note-66",
-      "#cite_note-67",
-      "/wiki/Electronic_Travel_Authorization_(Canada)"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Canada",
+      "https://en.wikipedia.org/wiki/Electronic_Travel_Authorization_(Canada)"
     ],
     "destination_country": "CA",
     "visa_requirement": "Visa required",
@@ -363,8 +345,8 @@
   "CV": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Cape_Verde",
-      "#cite_note-68"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Cape_Verde"
     ],
     "destination_country": "CV",
     "visa_requirement": "Visa on arrival",
@@ -374,8 +356,8 @@
   "CF": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Central_African_Republic",
-      "#cite_note-69"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Central_African_Republic"
     ],
     "destination_country": "CF",
     "visa_requirement": "Visa required",
@@ -385,8 +367,8 @@
   "TD": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Chad",
-      "#cite_note-70"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Chad"
     ],
     "destination_country": "TD",
     "visa_requirement": "Visa required",
@@ -396,8 +378,8 @@
   "CL": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Chile",
-      "#cite_note-71"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Chile"
     ],
     "destination_country": "CL",
     "visa_requirement": "Visa required",
@@ -407,9 +389,8 @@
   "CO": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Colombia",
-      "#cite_note-72",
-      "#cite_note-73"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Colombia"
     ],
     "destination_country": "CO",
     "visa_requirement": "Visa required",
@@ -419,20 +400,41 @@
   "KM": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Comoros",
-      "#cite_note-74",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Comoros"
     ],
     "destination_country": "KM",
     "visa_requirement": "Visa on arrival",
     "allowed_stay": "45 days",
     "notes": "Holders of passports for public affairs do not require a visa."
   },
+  "CG": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_the_Congo"
+    ],
+    "destination_country": "CG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Holders of passports for public affairs do not require a visa."
+  },
+  "CD": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+    ],
+    "destination_country": "CD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "CR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Costa_Rica",
-      "#cite_note-77"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Costa_Rica"
     ],
     "destination_country": "CR",
     "visa_requirement": "Visa required",
@@ -442,8 +444,8 @@
   "HR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Croatia",
-      "#cite_note-79"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Croatia"
     ],
     "destination_country": "HR",
     "visa_requirement": "Visa required",
@@ -453,8 +455,8 @@
   "CU": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Cuba",
-      "#cite_note-80"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Cuba"
     ],
     "destination_country": "CU",
     "visa_requirement": "Tourist Card Required",
@@ -464,9 +466,8 @@
   "CY": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Cyprus",
-      "#cite_note-81",
-      "#cite_note-82"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Cyprus"
     ],
     "destination_country": "CY",
     "visa_requirement": "Visa required",
@@ -476,8 +477,8 @@
   "CZ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Czech_Republic",
-      "#cite_note-83"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Czech_Republic"
     ],
     "destination_country": "CZ",
     "visa_requirement": "Visa required",
@@ -487,8 +488,8 @@
   "DK": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Denmark",
-      "#cite_note-84"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Denmark"
     ],
     "destination_country": "DK",
     "visa_requirement": "Visa required",
@@ -498,9 +499,8 @@
   "DJ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Djibouti",
-      "#cite_note-85",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Djibouti"
     ],
     "destination_country": "DJ",
     "visa_requirement": "eVisa",
@@ -510,8 +510,8 @@
   "DM": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Dominica",
-      "#cite_note-86"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Dominica"
     ],
     "destination_country": "DM",
     "visa_requirement": "Visa not required",
@@ -521,8 +521,8 @@
   "DO": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Dominican_Republic",
-      "#cite_note-87"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Dominican_Republic"
     ],
     "destination_country": "DO",
     "visa_requirement": "Visa required",
@@ -532,8 +532,8 @@
   "EC": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Ecuador",
-      "#cite_note-88"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Ecuador"
     ],
     "destination_country": "EC",
     "visa_requirement": "Visa not required",
@@ -543,12 +543,9 @@
   "EG": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Egypt",
-      "#cite_note-89",
-      "/wiki/IATA",
-      "#cite_note-90",
-      "#cite_note-91",
-      "#cite_note-92"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Egypt",
+      "https://en.wikipedia.org/wiki/IATA"
     ],
     "destination_country": "EG",
     "visa_requirement": "Visa on arrival",
@@ -558,9 +555,8 @@
   "SV": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/El_Salvador",
-      "#cite_note-93",
-      "#cite_note-94"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/El_Salvador"
     ],
     "destination_country": "SV",
     "visa_requirement": "Visa required",
@@ -570,8 +566,8 @@
   "GQ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Equatorial_Guinea",
-      "#cite_note-95"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Equatorial_Guinea"
     ],
     "destination_country": "GQ",
     "visa_requirement": "Visa not required",
@@ -581,9 +577,8 @@
   "ER": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Eritrea",
-      "#cite_note-96",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Eritrea"
     ],
     "destination_country": "ER",
     "visa_requirement": "Visa required",
@@ -593,8 +588,8 @@
   "EE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Estonia",
-      "#cite_note-97"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Estonia"
     ],
     "destination_country": "EE",
     "visa_requirement": "Visa required",
@@ -604,13 +599,9 @@
   "ET": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Ethiopia",
-      "#cite_note-99",
-      "/wiki/Addis_Ababa_Bole_International_Airport",
-      "#cite_note-100",
-      "/wiki/Addis_Ababa_Bole_International_Airport",
-      "#cite_note-101",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Ethiopia",
+      "https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport"
     ],
     "destination_country": "ET",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -620,8 +611,8 @@
   "FJ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Fiji",
-      "#cite_note-102"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Fiji"
     ],
     "destination_country": "FJ",
     "visa_requirement": "Visa not required",
@@ -631,8 +622,8 @@
   "FI": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Finland",
-      "#cite_note-103"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Finland"
     ],
     "destination_country": "FI",
     "visa_requirement": "Visa required",
@@ -642,8 +633,8 @@
   "FR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/France",
-      "#cite_note-104"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/France"
     ],
     "destination_country": "FR",
     "visa_requirement": "Visa required",
@@ -653,12 +644,9 @@
   "GA": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Gabon",
-      "#cite_note-105",
-      "#cite_note-106",
-      "/wiki/Libreville_International_Airport",
-      "#cite_note-107",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Gabon",
+      "https://en.wikipedia.org/wiki/Libreville_International_Airport"
     ],
     "destination_country": "GA",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -668,9 +656,8 @@
   "GM": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/The_Gambia",
-      "#cite_note-108",
-      "#cite_note-109"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/The_Gambia"
     ],
     "destination_country": "GM",
     "visa_requirement": "Visa not required",
@@ -680,9 +667,8 @@
   "GE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Georgia_(country)",
-      "#cite_note-110",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Georgia_(country)"
     ],
     "destination_country": "GE",
     "visa_requirement": "eVisa",
@@ -692,8 +678,8 @@
   "DE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Germany",
-      "#cite_note-111"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Germany"
     ],
     "destination_country": "DE",
     "visa_requirement": "Visa required",
@@ -703,8 +689,8 @@
   "GH": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Ghana",
-      "#cite_note-112"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Ghana"
     ],
     "destination_country": "GH",
     "visa_requirement": "Visa required",
@@ -714,8 +700,8 @@
   "GR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Greece",
-      "#cite_note-113"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Greece"
     ],
     "destination_country": "GR",
     "visa_requirement": "Visa required",
@@ -725,9 +711,8 @@
   "GD": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Grenada",
-      "#cite_note-114",
-      "#cite_note-115"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Grenada"
     ],
     "destination_country": "GD",
     "visa_requirement": "Visa not required",
@@ -737,8 +722,8 @@
   "GT": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Guatemala",
-      "#cite_note-116"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Guatemala"
     ],
     "destination_country": "GT",
     "visa_requirement": "Visa required",
@@ -748,9 +733,8 @@
   "GN": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Guinea",
-      "#cite_note-117",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Guinea"
     ],
     "destination_country": "GN",
     "visa_requirement": "Visa required",
@@ -760,8 +744,8 @@
   "GW": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Guinea-Bissau",
-      "#cite_note-118"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Guinea-Bissau"
     ],
     "destination_country": "GW",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -771,8 +755,8 @@
   "GY": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Guyana",
-      "#cite_note-119"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Guyana"
     ],
     "destination_country": "GY",
     "visa_requirement": "Visa required",
@@ -782,8 +766,8 @@
   "HT": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Haiti",
-      "#cite_note-120"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Haiti"
     ],
     "destination_country": "HT",
     "visa_requirement": "Visa not required",
@@ -793,8 +777,8 @@
   "HN": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Honduras",
-      "#cite_note-121"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Honduras"
     ],
     "destination_country": "HN",
     "visa_requirement": "Visa required",
@@ -804,8 +788,8 @@
   "HU": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Hungary",
-      "#cite_note-122"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Hungary"
     ],
     "destination_country": "HU",
     "visa_requirement": "Visa required",
@@ -815,8 +799,8 @@
   "IS": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Iceland",
-      "#cite_note-123"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Iceland"
     ],
     "destination_country": "IS",
     "visa_requirement": "Visa required",
@@ -826,11 +810,8 @@
   "IN": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/India",
-      "#cite_note-124",
-      "#cite_note-Airports-125",
-      "#cite_note-Seaports-126",
-      "#cite_note-127"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/India"
     ],
     "destination_country": "IN",
     "visa_requirement": "e-Visa",
@@ -840,8 +821,8 @@
   "ID": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Indonesia",
-      "#cite_note-128"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Indonesia"
     ],
     "destination_country": "ID",
     "visa_requirement": "Visa not required",
@@ -851,8 +832,8 @@
   "IQ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Iraq",
-      "#cite_note-132"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Iraq"
     ],
     "destination_country": "IQ",
     "visa_requirement": "Visa required",
@@ -862,11 +843,9 @@
   "IE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Republic_of_Ireland",
-      "#cite_note-133",
-      "#cite_note-134",
-      "/wiki/Common_Travel_Area",
-      "#cite_note-135"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+      "https://en.wikipedia.org/wiki/Common_Travel_Area"
     ],
     "destination_country": "IE",
     "visa_requirement": "Visa required",
@@ -876,9 +855,8 @@
   "IL": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Israel",
-      "#cite_note-136",
-      "#cite_note-137"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Israel"
     ],
     "destination_country": "IL",
     "visa_requirement": "Visa required",
@@ -888,8 +866,8 @@
   "IT": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Italy",
-      "#cite_note-138"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Italy"
     ],
     "destination_country": "IT",
     "visa_requirement": "Visa required",
@@ -899,8 +877,8 @@
   "JM": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Jamaica",
-      "#cite_note-139"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Jamaica"
     ],
     "destination_country": "JM",
     "visa_requirement": "Visa not required",
@@ -910,11 +888,8 @@
   "JP": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Japan",
-      "#cite_note-140",
-      "#cite_note-141",
-      "#cite_note-142",
-      "#cite_note-143"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Japan"
     ],
     "destination_country": "JP",
     "visa_requirement": "Visa required",
@@ -924,8 +899,8 @@
   "JO": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Jordan",
-      "#cite_note-144"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Jordan"
     ],
     "destination_country": "JO",
     "visa_requirement": "Visa on arrival",
@@ -935,8 +910,8 @@
   "KZ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Kazakhstan",
-      "#cite_note-145"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Kazakhstan"
     ],
     "destination_country": "KZ",
     "visa_requirement": "Visa required",
@@ -946,8 +921,8 @@
   "KE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Kenya",
-      "#cite_note-146"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Kenya"
     ],
     "destination_country": "KE",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -957,8 +932,8 @@
   "KI": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Kiribati",
-      "#cite_note-147"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Kiribati"
     ],
     "destination_country": "KI",
     "visa_requirement": "Visa required",
@@ -968,13 +943,10 @@
   "KP": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/North_Korea",
-      "#cite_note-148",
-      "/wiki/Tongnim_County",
-      "#cite_note-149",
-      "/wiki/Sinuiju",
-      "#cite_note-150",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/North_Korea",
+      "https://en.wikipedia.org/wiki/Tongnim_County",
+      "https://en.wikipedia.org/wiki/Sinuiju"
     ],
     "destination_country": "KP",
     "visa_requirement": "Visa required",
@@ -984,18 +956,14 @@
   "KR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/South_Korea",
-      "#cite_note-151",
-      "/wiki/Jeju_Island",
-      "#cite_note-152",
-      "/wiki/Jeju_Island",
-      "/wiki/Seoul",
-      "/wiki/Busan",
-      "/wiki/Cheongju",
-      "/wiki/Muan",
-      "/wiki/Yangyang",
-      "#cite_note-153",
-      "#cite_note-154"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/South_Korea",
+      "https://en.wikipedia.org/wiki/Jeju_Island",
+      "https://en.wikipedia.org/wiki/Seoul",
+      "https://en.wikipedia.org/wiki/Busan",
+      "https://en.wikipedia.org/wiki/Cheongju",
+      "https://en.wikipedia.org/wiki/Muan",
+      "https://en.wikipedia.org/wiki/Yangyang"
     ],
     "destination_country": "KR",
     "visa_requirement": "Visa required",
@@ -1005,8 +973,8 @@
   "KW": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Kuwait",
-      "#cite_note-155"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Kuwait"
     ],
     "destination_country": "KW",
     "visa_requirement": "Visa required",
@@ -1016,25 +984,24 @@
   "KG": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Kyrgyzstan",
-      "#cite_note-156",
-      "/wiki/Manas_International_Airport",
-      "/wiki/Osh_Airport",
-      "/wiki/China",
-      "/wiki/Irkeshtam",
-      "/wiki/Torugart",
-      "/wiki/Kazakhstan",
-      "/wiki/Ak-Jol,_Chuy",
-      "/wiki/Ysyk-Ata_District",
-      "/wiki/Chaldybar",
-      "/wiki/Manas_District",
-      "/wiki/Tajikistan",
-      "/wiki/Alay_District",
-      "/wiki/Kulundu",
-      "/wiki/Batken_District",
-      "/wiki/Uzbekistan",
-      "/wiki/Dostuk",
-      "#cite_note-157"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "https://en.wikipedia.org/wiki/Osh_Airport",
+      "https://en.wikipedia.org/wiki/China",
+      "https://en.wikipedia.org/wiki/Irkeshtam",
+      "https://en.wikipedia.org/wiki/Torugart",
+      "https://en.wikipedia.org/wiki/Kazakhstan",
+      "https://en.wikipedia.org/wiki/Ak-Jol,_Chuy",
+      "https://en.wikipedia.org/wiki/Ysyk-Ata_District",
+      "https://en.wikipedia.org/wiki/Chaldybar",
+      "https://en.wikipedia.org/wiki/Manas_District",
+      "https://en.wikipedia.org/wiki/Tajikistan",
+      "https://en.wikipedia.org/wiki/Alay_District",
+      "https://en.wikipedia.org/wiki/Kulundu",
+      "https://en.wikipedia.org/wiki/Batken_District",
+      "https://en.wikipedia.org/wiki/Uzbekistan",
+      "https://en.wikipedia.org/wiki/Dostuk"
     ],
     "destination_country": "KG",
     "visa_requirement": "eVisa",
@@ -1044,8 +1011,8 @@
   "LV": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Latvia",
-      "#cite_note-162"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Latvia"
     ],
     "destination_country": "LV",
     "visa_requirement": "Visa required",
@@ -1055,8 +1022,8 @@
   "LB": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Lebanon",
-      "#cite_note-163"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Lebanon"
     ],
     "destination_country": "LB",
     "visa_requirement": "Visa on arrival",
@@ -1066,9 +1033,8 @@
   "LS": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Lesotho",
-      "#cite_note-164",
-      "#cite_note-165"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Lesotho"
     ],
     "destination_country": "LS",
     "visa_requirement": "eVisa",
@@ -1078,8 +1044,8 @@
   "LR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Liberia",
-      "#cite_note-166"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Liberia"
     ],
     "destination_country": "LR",
     "visa_requirement": "Visa required",
@@ -1089,8 +1055,8 @@
   "LI": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Liechtenstein",
-      "#cite_note-168"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Liechtenstein"
     ],
     "destination_country": "LI",
     "visa_requirement": "Visa required",
@@ -1100,8 +1066,8 @@
   "LT": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Lithuania",
-      "#cite_note-169"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Lithuania"
     ],
     "destination_country": "LT",
     "visa_requirement": "Visa required",
@@ -1111,8 +1077,8 @@
   "LU": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Luxembourg",
-      "#cite_note-170"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Luxembourg"
     ],
     "destination_country": "LU",
     "visa_requirement": "Visa required",
@@ -1122,8 +1088,8 @@
   "MG": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Madagascar",
-      "#cite_note-171"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Madagascar"
     ],
     "destination_country": "MG",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -1133,8 +1099,8 @@
   "MW": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Malawi",
-      "#cite_note-172"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Malawi"
     ],
     "destination_country": "MW",
     "visa_requirement": "Visa on arrival",
@@ -1144,10 +1110,8 @@
   "MY": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Malaysia",
-      "#cite_note-173",
-      "#cite_note-174",
-      "#cite_note-175"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Malaysia"
     ],
     "destination_country": "MY",
     "visa_requirement": "Online registration or eVisa",
@@ -1157,8 +1121,8 @@
   "MV": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Maldives",
-      "#cite_note-176"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Maldives"
     ],
     "destination_country": "MV",
     "visa_requirement": "Visa on arrival",
@@ -1168,9 +1132,8 @@
   "ML": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Mali",
-      "#cite_note-177",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Mali"
     ],
     "destination_country": "ML",
     "visa_requirement": "Visa required",
@@ -1180,8 +1143,8 @@
   "MT": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Malta",
-      "#cite_note-178"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Malta"
     ],
     "destination_country": "MT",
     "visa_requirement": "Visa required",
@@ -1191,8 +1154,8 @@
   "MH": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Marshall_Islands",
-      "#cite_note-179"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Marshall_Islands"
     ],
     "destination_country": "MH",
     "visa_requirement": "Visa required",
@@ -1202,10 +1165,9 @@
   "MR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Mauritania",
-      "#cite_note-180",
-      "/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Mauritania",
+      "https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport"
     ],
     "destination_country": "MR",
     "visa_requirement": "Visa on arrival",
@@ -1215,8 +1177,8 @@
   "MU": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Mauritius",
-      "#cite_note-181"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Mauritius"
     ],
     "destination_country": "MU",
     "visa_requirement": "Visa not required",
@@ -1226,9 +1188,8 @@
   "MX": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Mexico",
-      "#cite_note-182",
-      "#cite_note-183"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Mexico"
     ],
     "destination_country": "MX",
     "visa_requirement": "Visa required",
@@ -1238,8 +1199,8 @@
   "MC": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Monaco",
-      "#cite_note-187"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Monaco"
     ],
     "destination_country": "MC",
     "visa_requirement": "Visa required",
@@ -1249,9 +1210,8 @@
   "MN": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Mongolia",
-      "#cite_note-188",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Mongolia"
     ],
     "destination_country": "MN",
     "visa_requirement": "Visa required",
@@ -1261,8 +1221,8 @@
   "MA": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Morocco",
-      "#cite_note-191"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Morocco"
     ],
     "destination_country": "MA",
     "visa_requirement": "Visa not required",
@@ -1272,9 +1232,8 @@
   "MZ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Mozambique",
-      "#cite_note-192",
-      "#cite_note-193"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Mozambique"
     ],
     "destination_country": "MZ",
     "visa_requirement": "Visa on arrival",
@@ -1284,24 +1243,19 @@
   "MM": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Myanmar",
-      "#cite_note-194",
-      "#cite_note-195",
-      "/wiki/Yangon_International_Airport",
-      "/wiki/Naypyidaw_Airport",
-      "/wiki/Mandalay_International_Airport",
-      "/wiki/Thailand",
-      "/wiki/Tachileik",
-      "/wiki/Myawaddy",
-      "/wiki/Kawthaung",
-      "/wiki/India",
-      "/w/index.php?title=Rih_Khaw_Dar&action=edit&redlink=1",
-      "/wiki/Tamu,_Myanmar",
-      "/wiki/Yangon_International_Airport",
-      "/wiki/Naypyidaw_Airport",
-      "/wiki/Mandalay_International_Airport",
-      "/wiki/Automated_border_control_system",
-      "#cite_note-196"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Myanmar",
+      "https://en.wikipedia.org/wiki/Yangon_International_Airport",
+      "https://en.wikipedia.org/wiki/Naypyidaw_Airport",
+      "https://en.wikipedia.org/wiki/Mandalay_International_Airport",
+      "https://en.wikipedia.org/wiki/Thailand",
+      "https://en.wikipedia.org/wiki/Tachileik",
+      "https://en.wikipedia.org/wiki/Myawaddy",
+      "https://en.wikipedia.org/wiki/Kawthaung",
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/w/index.php?title=Rih_Khaw_Dar&action=edit&redlink=1",
+      "https://en.wikipedia.org/wiki/Tamu,_Myanmar",
+      "https://en.wikipedia.org/wiki/Automated_border_control_system"
     ],
     "destination_country": "MM",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -1311,8 +1265,8 @@
   "NA": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Namibia",
-      "#cite_note-197"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Namibia"
     ],
     "destination_country": "NA",
     "visa_requirement": "Visa required",
@@ -1322,8 +1276,8 @@
   "NR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Nauru",
-      "#cite_note-198"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Nauru"
     ],
     "destination_country": "NR",
     "visa_requirement": "Visa required",
@@ -1333,9 +1287,8 @@
   "NP": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Nepal",
-      "#cite_note-199",
-      "#cite_note-200"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Nepal"
     ],
     "destination_country": "NP",
     "visa_requirement": "Free visa on arrival",
@@ -1345,8 +1298,8 @@
   "NL": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Netherlands",
-      "#cite_note-201"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Netherlands"
     ],
     "destination_country": "NL",
     "visa_requirement": "Visa required",
@@ -1356,12 +1309,9 @@
   "NZ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/New_Zealand",
-      "#cite_note-202",
-      "#cite_note-203",
-      "#cite_note-204",
-      "/wiki/SmartGate",
-      "#cite_note-205"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/New_Zealand",
+      "https://en.wikipedia.org/wiki/SmartGate"
     ],
     "destination_country": "NZ",
     "visa_requirement": "Visa required",
@@ -1371,8 +1321,8 @@
   "NI": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Nicaragua",
-      "#cite_note-206"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Nicaragua"
     ],
     "destination_country": "NI",
     "visa_requirement": "Visa required",
@@ -1382,8 +1332,8 @@
   "NE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Niger",
-      "#cite_note-207"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Niger"
     ],
     "destination_country": "NE",
     "visa_requirement": "Visa required",
@@ -1393,9 +1343,8 @@
   "NG": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Nigeria",
-      "#cite_note-208",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Nigeria"
     ],
     "destination_country": "NG",
     "visa_requirement": "Visa required",
@@ -1405,8 +1354,8 @@
   "NO": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Norway",
-      "#cite_note-210"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Norway"
     ],
     "destination_country": "NO",
     "visa_requirement": "Visa required",
@@ -1416,9 +1365,8 @@
   "OM": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Oman",
-      "#cite_note-211",
-      "#cite_note-212"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Oman"
     ],
     "destination_country": "OM",
     "visa_requirement": "eVisa",
@@ -1428,11 +1376,8 @@
   "PK": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Pakistan",
-      "#cite_note-213",
-      "#cite_note-214",
-      "#cite_note-215",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Pakistan"
     ],
     "destination_country": "PK",
     "visa_requirement": "Online Visa",
@@ -1442,9 +1387,8 @@
   "PW": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Palau",
-      "#cite_note-216",
-      "#cite_note-217"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Palau"
     ],
     "destination_country": "PW",
     "visa_requirement": "Visa on arrival",
@@ -1454,8 +1398,8 @@
   "PA": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Panama",
-      "#cite_note-218"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Panama"
     ],
     "destination_country": "PA",
     "visa_requirement": "Visa required",
@@ -1465,8 +1409,8 @@
   "PG": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Papua_New_Guinea",
-      "#cite_note-219"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Papua_New_Guinea"
     ],
     "destination_country": "PG",
     "visa_requirement": "Visa required",
@@ -1476,8 +1420,8 @@
   "PY": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Paraguay",
-      "#cite_note-220"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Paraguay"
     ],
     "destination_country": "PY",
     "visa_requirement": "Visa required",
@@ -1487,8 +1431,8 @@
   "PE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Peru",
-      "#cite_note-221"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Peru"
     ],
     "destination_country": "PE",
     "visa_requirement": "Visa required",
@@ -1498,8 +1442,8 @@
   "PH": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Philippines",
-      "#cite_note-222"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Philippines"
     ],
     "destination_country": "PH",
     "visa_requirement": "Visa required",
@@ -1509,8 +1453,8 @@
   "PL": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Poland",
-      "#cite_note-223"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Poland"
     ],
     "destination_country": "PL",
     "visa_requirement": "Visa required",
@@ -1520,8 +1464,8 @@
   "PT": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Portugal",
-      "#cite_note-224"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Portugal"
     ],
     "destination_country": "PT",
     "visa_requirement": "Visa required",
@@ -1531,10 +1475,8 @@
   "QA": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Qatar",
-      "#cite_note-225",
-      "#cite_note-226",
-      "#cite_note-227"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Qatar"
     ],
     "destination_country": "QA",
     "visa_requirement": "Visa not required",
@@ -1544,8 +1486,8 @@
   "RO": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Romania",
-      "#cite_note-228"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Romania"
     ],
     "destination_country": "RO",
     "visa_requirement": "Visa required",
@@ -1555,8 +1497,8 @@
   "KN": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Saint_Kitts_and_Nevis",
-      "#cite_note-233"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
     ],
     "destination_country": "KN",
     "visa_requirement": "Visa not required",
@@ -1566,9 +1508,8 @@
   "LC": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Saint_Lucia",
-      "#cite_note-234",
-      "#cite_note-235"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Lucia"
     ],
     "destination_country": "LC",
     "visa_requirement": "Visa not required",
@@ -1578,8 +1519,8 @@
   "VC": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Saint_Vincent_and_the_Grenadines",
-      "#cite_note-236"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
     ],
     "destination_country": "VC",
     "visa_requirement": "Visa required",
@@ -1589,8 +1530,8 @@
   "WS": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Samoa",
-      "#cite_note-237"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Samoa"
     ],
     "destination_country": "WS",
     "visa_requirement": "Entry Permit on arrival",
@@ -1600,10 +1541,8 @@
   "SM": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/San_Marino",
-      "#cite_note-238",
-      "#cite_note-239",
-      "#cite_note-240"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/San_Marino"
     ],
     "destination_country": "SM",
     "visa_requirement": "Visa not required",
@@ -1613,8 +1552,8 @@
   "SA": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Saudi_Arabia",
-      "#cite_note-244"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Saudi_Arabia"
     ],
     "destination_country": "SA",
     "visa_requirement": "Visa required",
@@ -1624,9 +1563,8 @@
   "SN": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Senegal",
-      "#cite_note-245",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Senegal"
     ],
     "destination_country": "SN",
     "visa_requirement": "Visa on arrival",
@@ -1636,9 +1574,8 @@
   "SC": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Seychelles",
-      "#cite_note-248",
-      "#cite_note-249"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Seychelles"
     ],
     "destination_country": "SC",
     "visa_requirement": "Visa not required",
@@ -1648,8 +1585,8 @@
   "SL": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Sierra_Leone",
-      "#cite_note-250"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Sierra_Leone"
     ],
     "destination_country": "SL",
     "visa_requirement": "Visa required",
@@ -1659,9 +1596,8 @@
   "SG": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Singapore",
-      "#cite_note-251",
-      "#cite_note-:1-252"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Singapore"
     ],
     "destination_country": "SG",
     "visa_requirement": "eVisa",
@@ -1671,8 +1607,8 @@
   "SK": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Slovakia",
-      "#cite_note-253"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Slovakia"
     ],
     "destination_country": "SK",
     "visa_requirement": "Visa required",
@@ -1682,8 +1618,8 @@
   "SI": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Slovenia",
-      "#cite_note-254"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Slovenia"
     ],
     "destination_country": "SI",
     "visa_requirement": "Visa required",
@@ -1693,8 +1629,8 @@
   "SB": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Solomon_Islands",
-      "#cite_note-255"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Solomon_Islands"
     ],
     "destination_country": "SB",
     "visa_requirement": "Visa required",
@@ -1704,11 +1640,11 @@
   "SO": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Somalia",
-      "#cite_note-256",
-      "/wiki/Bosaso_Airport",
-      "/wiki/Galcaio_Airport",
-      "/wiki/Mogadishu_Airport"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Somalia",
+      "https://en.wikipedia.org/wiki/Bosaso_Airport",
+      "https://en.wikipedia.org/wiki/Galcaio_Airport",
+      "https://en.wikipedia.org/wiki/Mogadishu_Airport"
     ],
     "destination_country": "SO",
     "visa_requirement": "Visa on arrival",
@@ -1718,8 +1654,8 @@
   "ZA": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/South_Africa",
-      "#cite_note-257"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/South_Africa"
     ],
     "destination_country": "ZA",
     "visa_requirement": "Visa required",
@@ -1729,8 +1665,8 @@
   "ES": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Spain",
-      "#cite_note-259"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Spain"
     ],
     "destination_country": "ES",
     "visa_requirement": "Visa required",
@@ -1740,9 +1676,8 @@
   "LK": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Sri_Lanka",
-      "#cite_note-260",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Sri_Lanka"
     ],
     "destination_country": "LK",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -1752,8 +1687,8 @@
   "SD": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Sudan",
-      "#cite_note-261"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Sudan"
     ],
     "destination_country": "SD",
     "visa_requirement": "Visa required",
@@ -1763,10 +1698,8 @@
   "SR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Suriname",
-      "#cite_note-262",
-      "#cite_note-263",
-      "#cite_note-264"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Suriname"
     ],
     "destination_country": "SR",
     "visa_requirement": "eVisa / Tourist card on arrival",
@@ -1776,8 +1709,8 @@
   "SE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Sweden",
-      "#cite_note-265"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Sweden"
     ],
     "destination_country": "SE",
     "visa_requirement": "Visa required",
@@ -1787,8 +1720,8 @@
   "CH": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Switzerland",
-      "#cite_note-266"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Switzerland"
     ],
     "destination_country": "CH",
     "visa_requirement": "Visa required",
@@ -1798,9 +1731,8 @@
   "TJ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Tajikistan",
-      "#cite_note-268",
-      "#cite_note-269"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Tajikistan"
     ],
     "destination_country": "TJ",
     "visa_requirement": "eVisa",
@@ -1810,9 +1742,8 @@
   "TH": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Thailand",
-      "#cite_note-272",
-      "#cite_note-:1-252"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Thailand"
     ],
     "destination_country": "TH",
     "visa_requirement": "Visa on arrival",
@@ -1822,9 +1753,8 @@
   "TL": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/East_Timor",
-      "#cite_note-273",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/East_Timor"
     ],
     "destination_country": "TL",
     "visa_requirement": "Visa on arrival",
@@ -1834,9 +1764,8 @@
   "TG": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Togo",
-      "#cite_note-274",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Togo"
     ],
     "destination_country": "TG",
     "visa_requirement": "Visa on arrival",
@@ -1846,9 +1775,8 @@
   "TO": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Tonga",
-      "#cite_note-275",
-      "#cite_note-276"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Tonga"
     ],
     "destination_country": "TO",
     "visa_requirement": "Visa not required",
@@ -1858,8 +1786,8 @@
   "TT": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Trinidad_and_Tobago",
-      "#cite_note-277"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
     ],
     "destination_country": "TT",
     "visa_requirement": "Visa required",
@@ -1869,9 +1797,8 @@
   "TN": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Tunisia",
-      "#cite_note-278",
-      "#cite_note-279"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Tunisia"
     ],
     "destination_country": "TN",
     "visa_requirement": "Visa not required",
@@ -1881,10 +1808,8 @@
   "TR": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Turkey",
-      "#cite_note-280",
-      "#cite_note-281",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Turkey"
     ],
     "destination_country": "TR",
     "visa_requirement": "eVisa",
@@ -1894,9 +1819,8 @@
   "TM": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Turkmenistan",
-      "#cite_note-282",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Turkmenistan"
     ],
     "destination_country": "TM",
     "visa_requirement": "Visa required",
@@ -1906,8 +1830,8 @@
   "TV": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Tuvalu",
-      "#cite_note-283"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Tuvalu"
     ],
     "destination_country": "TV",
     "visa_requirement": "Visa on arrival",
@@ -1917,9 +1841,8 @@
   "UG": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Uganda",
-      "#cite_note-284",
-      "#cite_note-285"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Uganda"
     ],
     "destination_country": "UG",
     "visa_requirement": "eVisa / Visa on arrival",
@@ -1929,8 +1852,8 @@
   "UA": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Ukraine",
-      "#cite_note-286"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Ukraine"
     ],
     "destination_country": "UA",
     "visa_requirement": "eVisa",
@@ -1940,8 +1863,8 @@
   "AE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/United_Arab_Emirates",
-      "#cite_note-287"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/United_Arab_Emirates"
     ],
     "destination_country": "AE",
     "visa_requirement": "Visa not required",
@@ -1951,11 +1874,9 @@
   "US": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/United_States",
-      "#cite_note-290",
-      "/wiki/B_visa",
-      "#cite_note-291",
-      "#cite_note-292"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/B_visa"
     ],
     "destination_country": "US",
     "visa_requirement": "Visa required",
@@ -1965,11 +1886,8 @@
   "UY": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Uruguay",
-      "#cite_note-293",
-      "#cite_note-294",
-      "#cite_note-295",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Uruguay"
     ],
     "destination_country": "UY",
     "visa_requirement": "Visa required",
@@ -1979,10 +1897,8 @@
   "UZ": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Uzbekistan",
-      "#cite_note-296",
-      "#cite_note-297",
-      "#cite_note-298"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Uzbekistan"
     ],
     "destination_country": "UZ",
     "visa_requirement": "eVisa",
@@ -1992,8 +1908,8 @@
   "VU": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Vanuatu",
-      "#cite_note-299"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Vanuatu"
     ],
     "destination_country": "VU",
     "visa_requirement": "Visa not required",
@@ -2003,9 +1919,8 @@
   "VE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Venezuela",
-      "#cite_note-301",
-      "#cite_note-bilateralagreements-34"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Venezuela"
     ],
     "destination_country": "VE",
     "visa_requirement": "Visa required",
@@ -2015,8 +1930,8 @@
   "YE": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Yemen",
-      "#cite_note-303"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Yemen"
     ],
     "destination_country": "YE",
     "visa_requirement": "Visa required",
@@ -2026,8 +1941,8 @@
   "ZM": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Zambia",
-      "#cite_note-304"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Zambia"
     ],
     "destination_country": "ZM",
     "visa_requirement": "eVisa",
@@ -2037,8 +1952,8 @@
   "ZW": {
     "passport_country": "CN",
     "sources": [
-      "/wiki/Zimbabwe",
-      "#cite_note-305"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Zimbabwe"
     ],
     "destination_country": "ZW",
     "visa_requirement": "eVisa / Visa on arrival",

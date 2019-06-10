@@ -28,14 +28,20 @@ function render () {
     this.refs.options.forEach(($option) => {
       const isActive = isAvailablePassport($option) && isTypeaheadMatch($option)
       $option.dataset.isActive = isActive
+      $option.dataset.isPreselected = false
     })
   } else if (!this.state.destination) {
     this.refs.prompt.textContent = "Can I go to"
     this.refs.options.forEach(($option) => {
       const isActive = isAvailableDestination($option) && isTypeaheadMatch($option)
       $option.dataset.isActive = isActive
+      $option.dataset.isPreselected = false
     })
   }
+
+  const { preselect } = this.state
+  const activeOptions = this.refs.options.filter(o => o.dataset.isActive === "true")
+  activeOptions[preselect].dataset.isPreselected = true
 
   this.refs.main.dataset.passportSelected = !!this.state.passport
   this.refs.main.dataset.destinationSelected = !!this.state.destination

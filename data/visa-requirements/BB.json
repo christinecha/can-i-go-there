@@ -401,6 +401,28 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "CG": {
+    "passport_country": "BB",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_the_Congo"
+    ],
+    "destination_country": "CG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CD": {
+    "passport_country": "BB",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+    ],
+    "destination_country": "CD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "CR": {
     "passport_country": "BB",
     "sources": [

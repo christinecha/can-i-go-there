@@ -446,6 +446,28 @@
     "allowed_stay": "45 days",
     "notes": ""
   },
+  "CG": {
+    "passport_country": "KR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Korean_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_the_Congo"
+    ],
+    "destination_country": "CG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CD": {
+    "passport_country": "KR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Korean_citizens",
+      "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+    ],
+    "destination_country": "CD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "CR": {
     "passport_country": "KR",
     "sources": [
