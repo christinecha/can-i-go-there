@@ -246,6 +246,17 @@
     "allowed_stay": "90 days",
     "notes": ""
   },
+  "BN": {
+    "passport_country": "AG",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Antigua_and_Barbuda_citizens",
+      "https://en.wikipedia.org/wiki/Brunei"
+    ],
+    "destination_country": "BN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "BG": {
     "passport_country": "AG",
     "sources": [

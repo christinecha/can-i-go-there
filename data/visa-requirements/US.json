@@ -281,6 +281,17 @@
     "allowed_stay": "90 days",
     "notes": "90 days per year; valid for 2 years.\nVisa Waiver Program will be effective 6/17/2019."
   },
+  "BN": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/Brunei"
+    ],
+    "destination_country": "BN",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
   "BG": {
     "passport_country": "US",
     "sources": [

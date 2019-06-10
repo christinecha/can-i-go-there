@@ -241,6 +241,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "BN": {
+    "passport_country": "AO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens",
+      "https://en.wikipedia.org/wiki/Brunei"
+    ],
+    "destination_country": "BN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "BG": {
     "passport_country": "AO",
     "sources": [

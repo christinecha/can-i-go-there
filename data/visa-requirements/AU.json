@@ -1,19 +1,30 @@
 {
   "AF": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Afghanistan"
     ],
     "destination_country": "AF",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
+    "notes": "Due to safety concerns, Australian government advises its citizens to not visit Afghanistan."
+  },
+  "AL": {
+    "passport_country": "AU",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Albania"
+    ],
+    "destination_country": "AL",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "DZ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Algeria"
     ],
     "destination_country": "DZ",
@@ -22,87 +33,76 @@
     "notes": ""
   },
   "AD": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Andorra"
     ],
     "destination_country": "AD",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": ""
-  },
-  "AO": {
-    "passport_country": "AL",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Angola"
-    ],
-    "destination_country": "AO",
-    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
-  "AG": {
-    "passport_country": "AL",
+  "AO": {
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Angola"
+    ],
+    "destination_country": "AO",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": "Visitors who have been granted an online pre-visa or have requested such pre-visa from the consulates of Angola abroad, are then issued with a visa on arrival at the country's border check points.\nFor a maximum total stay of 90 days within a one year period.\nBesides having printed confirmation that a visa will be issued upon arrival, passengers must: have a return/onward ticket, and have a hotel reservation confirmation."
+  },
+  "AG": {
+    "passport_country": "AU",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
     ],
     "destination_country": "AG",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
+    "allowed_stay": "1 month",
     "notes": ""
   },
   "AR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Argentina"
     ],
     "destination_country": "AR",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "AM": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Armenia"
     ],
     "destination_country": "AM",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "180 days within 1 year",
+    "allowed_stay": "180 days",
     "notes": ""
   },
-  "AU": {
-    "passport_country": "AL",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Australia"
-    ],
-    "destination_country": "AU",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "May apply online (Online Visitor e600 visa)."
-  },
   "AT": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Austria",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "AT",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area regardless of previous time spent in other Schengen countries"
   },
   "AZ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Azerbaijan"
     ],
     "destination_country": "AZ",
@@ -111,88 +111,88 @@
     "notes": ""
   },
   "BS": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/The_Bahamas"
     ],
     "destination_country": "BS",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "BH": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Bahrain"
     ],
     "destination_country": "BH",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "14 days",
     "notes": ""
   },
   "BD": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Bangladesh"
     ],
     "destination_country": "BD",
     "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
-    "notes": ""
+    "notes": "Not available at all entry points."
   },
   "BB": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Barbados"
     ],
     "destination_country": "BB",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "28 days",
+    "allowed_stay": "6 months",
     "notes": ""
   },
   "BY": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Belarus",
       "https://en.wikipedia.org/wiki/Minsk_International_Airport"
     ],
     "destination_country": "BY",
     "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
-    "notes": "Must arrive and depart via Minsk International Airport."
+    "notes": "Must arrive and depart via Minsk International Airport, and not to/from Russia."
   },
   "BE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Belgium",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "BE",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area. Additionally bilateral agreement permits 2 months on top of this."
   },
   "BZ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Belize"
     ],
     "destination_country": "BZ",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "1 month",
     "notes": ""
   },
   "BJ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Benin"
     ],
     "destination_country": "BJ",
@@ -201,76 +201,75 @@
     "notes": "Must have an international vaccination certificate."
   },
   "BT": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Bhutan"
     ],
     "destination_country": "BT",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Visa approved via tour operators only."
   },
   "BO": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Bolivia"
     ],
     "destination_country": "BO",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "BA": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
-      "https://en.wikipedia.org/wiki/Albanian_Identity_Card"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
     ],
     "destination_country": "BA",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 6-month period\nID card valid"
+    "notes": "90 days within any 6-month period"
   },
   "BW": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Botswana"
     ],
     "destination_country": "BW",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within year period"
   },
   "BR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Brazil"
     ],
     "destination_country": "BR",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period"
+    "notes": "90 days within year period from 17/6/19"
   },
   "BN": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Brunei"
     ],
     "destination_country": "BN",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "BG": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Bulgaria"
     ],
     "destination_country": "BG",
@@ -279,31 +278,31 @@
     "notes": "90 days within any 180 day period"
   },
   "BF": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Burkina_Faso"
     ],
     "destination_country": "BF",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "1 month",
     "notes": ""
   },
   "BI": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Burundi"
     ],
     "destination_country": "BI",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Due to safety concerns, Australian government advises its citizens not to visit Burundi."
   },
   "KH": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Cambodia"
     ],
     "destination_country": "KH",
@@ -312,9 +311,9 @@
     "notes": "Visa is also obtainable online."
   },
   "CM": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Cameroon"
     ],
     "destination_country": "CM",
@@ -323,64 +322,65 @@
     "notes": ""
   },
   "CA": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Canada"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Canada",
+      "https://en.wikipedia.org/wiki/Visa_policy_of_Canada#Electronic_travel_authorization"
     ],
     "destination_country": "CA",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "6 months",
+    "notes": "eTA required if arriving by air."
   },
   "CV": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Cape_Verde"
     ],
     "destination_country": "CV",
     "visa_requirement": "Visa on arrival",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Not available at all entry points."
   },
   "CF": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Central_African_Republic"
     ],
     "destination_country": "CF",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Due to safety concerns, Australian government advises its citizens not to visit Central African Republic."
   },
   "TD": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Chad"
     ],
     "destination_country": "TD",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Letter of invitation required."
   },
   "CL": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Chile"
     ],
     "destination_country": "CL",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": ""
+    "notes": "Australian tourists entering Chile through Santiago International Airport are required to pay a \"reciprocity fee\" of US$117."
   },
   "CN": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/China",
       "https://en.wikipedia.org/wiki/Changsha",
       "https://en.wikipedia.org/wiki/Chengdu",
@@ -412,20 +412,20 @@
     "notes": "72-hour visit without a visa when in transit at Changsha, Chengdu, Chongqing, Guangzhou, Guilin, Harbin, Kunming, Qingdao, Wuhan, Xi'an and Xiamen.144-hours visit without a visa when in transit through Beijing Capital International Airport, Dalian, Hangzhou, Shijiazhuang Zhengding International Airport in Hebei, Nanjing, Shanghai Hongqiao International Airport and Shanghai Pudong International Airport, Shanghai Railway Station and the Port of Shanghai); Shenyang and Tianjin Binhai International Airport\nHong Kong, Macau, and Taiwan do count as third countries under the 72 and 144-hours visa-free visit transit policy."
   },
   "CO": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Colombia"
     ],
     "destination_country": "CO",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "",
-    "notes": ""
+    "allowed_stay": "180 days",
+    "notes": "90 days - extendable up to 180-days stay within a one-year period"
   },
   "KM": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Comoros"
     ],
     "destination_country": "KM",
@@ -434,20 +434,20 @@
     "notes": ""
   },
   "CR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Costa_Rica"
     ],
     "destination_country": "CR",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "HR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Croatia"
     ],
     "destination_country": "HR",
@@ -456,20 +456,20 @@
     "notes": "90 days within any 180 day period"
   },
   "CU": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Cuba"
     ],
     "destination_country": "CU",
     "visa_requirement": "Tourist Card required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Visitors travelling to Cuba can purchase a tourist card at the Cuban embassy or nearest travel agent that sells authorized cards."
   },
   "CY": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Cyprus"
     ],
     "destination_country": "CY",
@@ -478,9 +478,9 @@
     "notes": "90 days within any 180 day period"
   },
   "CZ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Czech_Republic",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -490,21 +490,22 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "DK": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Denmark",
-      "https://en.wikipedia.org/wiki/Schengen_Area"
+      "https://en.wikipedia.org/wiki/Schengen_Area",
+      "https://www.nyidanmark.dk/en-GB/You-want-to-apply/Short-stay-visa/Visa-free-visits"
     ],
     "destination_country": "DK",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area regardless of previous time spent in other Schengen countries (except the other Nordic countries)"
   },
   "DJ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Djibouti"
     ],
     "destination_country": "DJ",
@@ -513,20 +514,20 @@
     "notes": ""
   },
   "DM": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Dominica"
     ],
     "destination_country": "DM",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "21 days",
+    "allowed_stay": "6 months",
     "notes": ""
   },
   "DO": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Dominican_Republic"
     ],
     "destination_country": "DO",
@@ -535,9 +536,9 @@
     "notes": ""
   },
   "EC": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Ecuador"
     ],
     "destination_country": "EC",
@@ -546,20 +547,20 @@
     "notes": ""
   },
   "EG": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Egypt"
     ],
     "destination_country": "EG",
-    "visa_requirement": "eVisa",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "SV": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/El_Salvador"
     ],
     "destination_country": "SV",
@@ -568,31 +569,31 @@
     "notes": ""
   },
   "GQ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Equatorial_Guinea"
     ],
     "destination_country": "GQ",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Letter of invitation required."
   },
   "ER": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Eritrea"
     ],
     "destination_country": "ER",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "A tourist visa for Australian citizens is issued for a stay of 1 month from arrival to Eritrea."
   },
   "EE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Estonia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -602,68 +603,69 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "ET": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Ethiopia",
       "https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport"
     ],
     "destination_country": "ET",
-    "visa_requirement": "eVisa",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "up to 90 days",
-    "notes": "eVisa holders must arrive via Addis Ababa Bole International Airport"
+    "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\neVisa holders must arrive via Addis Ababa Bole International Airport.\neVisas are available for 30 or 90 days."
   },
   "FJ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Fiji"
     ],
     "destination_country": "FJ",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "4 months",
     "notes": ""
   },
   "FI": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Finland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "FI",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area regardless of previous time spent in other Schengen countries"
   },
   "FR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/France",
-      "https://en.wikipedia.org/wiki/Schengen_Area"
+      "https://en.wikipedia.org/wiki/Schengen_Area",
+      "https://en.wikipedia.org/wiki/Regions_of_France"
     ],
     "destination_country": "FR",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area (in Regions of France) regardless of previous time spent in other Schengen countries"
   },
   "GA": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Gabon",
       "https://en.wikipedia.org/wiki/Libreville_International_Airport"
     ],
     "destination_country": "GA",
-    "visa_requirement": "eVisa",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "",
     "notes": "Electronic visa holders must arrive via Libreville International Airport."
   },
   "GM": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/The_Gambia"
     ],
     "destination_country": "GM",
@@ -672,43 +674,43 @@
     "notes": ""
   },
   "GE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Georgia_(country)"
     ],
     "destination_country": "GE",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "1 year",
+    "allowed_stay": "360 days",
     "notes": ""
   },
   "DE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Germany",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "DE",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period regardless of previous time spent in Schengen countries"
   },
   "GH": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Ghana"
     ],
     "destination_country": "GH",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Pre-approved visa can be picked up on arrival."
+    "notes": ""
   },
   "GR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Greece",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -718,31 +720,31 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "GD": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Grenada"
     ],
     "destination_country": "GD",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "GT": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Guatemala"
     ],
     "destination_country": "GT",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "GN": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Guinea"
     ],
     "destination_country": "GN",
@@ -751,9 +753,9 @@
     "notes": ""
   },
   "GW": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Guinea-Bissau"
     ],
     "destination_country": "GW",
@@ -762,20 +764,20 @@
     "notes": ""
   },
   "GY": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Guyana"
     ],
     "destination_country": "GY",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "HT": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Haiti"
     ],
     "destination_country": "HT",
@@ -784,20 +786,20 @@
     "notes": ""
   },
   "HN": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Honduras"
     ],
     "destination_country": "HN",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "HU": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Hungary",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -807,21 +809,21 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "IS": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Iceland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "IS",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area regardless of previous time spent in other Schengen countries"
   },
   "IN": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/India"
     ],
     "destination_country": "IN",
@@ -830,9 +832,9 @@
     "notes": "e-Visa holders must arrive via 26 designated airports or 3 designated seaports.\nAn Indian e-Tourist Visa can only be obtained twice in one calendar year."
   },
   "ID": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Indonesia"
     ],
     "destination_country": "ID",
@@ -841,98 +843,98 @@
     "notes": ""
   },
   "IQ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Iraq"
     ],
     "destination_country": "IQ",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Due to safety concerns, Australian government advises its citizens not to visit Iraq."
   },
   "IE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Republic_of_Ireland"
     ],
     "destination_country": "IE",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "IL": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Israel"
     ],
     "destination_country": "IL",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "IT": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Italy",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "IT",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area regardless of previous time spent in other Schengen countries"
   },
   "JM": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Jamaica"
     ],
     "destination_country": "JM",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "90 days",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "",
     "notes": ""
   },
   "JP": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Japan"
     ],
     "destination_country": "JP",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "JO": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Jordan"
     ],
     "destination_country": "JO",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Conditions apply.\nNot available at all entry points."
   },
   "KZ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Kazakhstan"
     ],
     "destination_country": "KZ",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "KE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Kenya"
     ],
     "destination_country": "KE",
@@ -941,80 +943,64 @@
     "notes": ""
   },
   "KI": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Kiribati"
     ],
     "destination_country": "KI",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "120 days",
     "notes": ""
   },
   "KP": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/North_Korea"
     ],
     "destination_country": "KP",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Independent travellers must be accompanied by a tour guide at all times."
   },
   "KR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/South_Korea"
     ],
     "destination_country": "KR",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "30 days",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "KW": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Kuwait"
     ],
     "destination_country": "KW",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "KG": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Kyrgyzstan",
-      "https://en.wikipedia.org/wiki/Manas_International_Airport",
-      "https://en.wikipedia.org/wiki/Osh_Airport",
-      "https://en.wikipedia.org/wiki/China",
-      "https://en.wikipedia.org/wiki/Irkeshtam",
-      "https://en.wikipedia.org/wiki/Torugart",
-      "https://en.wikipedia.org/wiki/Kazakhstan",
-      "https://en.wikipedia.org/wiki/Ak-Jol,_Chuy",
-      "https://en.wikipedia.org/wiki/Ysyk-Ata_District",
-      "https://en.wikipedia.org/wiki/Chaldybar",
-      "https://en.wikipedia.org/wiki/Manas_District",
-      "https://en.wikipedia.org/wiki/Tajikistan",
-      "https://en.wikipedia.org/wiki/Alay_District",
-      "https://en.wikipedia.org/wiki/Kulundu",
-      "https://en.wikipedia.org/wiki/Batken_District",
-      "https://en.wikipedia.org/wiki/Uzbekistan",
-      "https://en.wikipedia.org/wiki/Dostuk"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Kyrgyzstan"
     ],
     "destination_country": "KG",
-    "visa_requirement": "eVisa / Visa on arrival",
-    "allowed_stay": "1 month",
-    "notes": "Visa on arrival available at Manas International Airport.\nElectronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk)."
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "60 days",
+    "notes": "A single or multiple tourist or business e-visa for 90 days is also available."
   },
   "LV": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Latvia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1024,31 +1010,32 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "LB": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Lebanon"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Lebanon",
+      "https://en.wikipedia.org/wiki/Beirut_International_Airport"
     ],
     "destination_country": "LB",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "1 month",
+    "notes": "Visa extendible for 2 additional months\nGranted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
   },
   "LS": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Lesotho"
     ],
     "destination_country": "LS",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "14 days",
     "notes": ""
   },
   "LR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Liberia"
     ],
     "destination_country": "LR",
@@ -1057,9 +1044,9 @@
     "notes": ""
   },
   "LI": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Liechtenstein",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1069,9 +1056,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "LT": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Lithuania",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1081,21 +1068,21 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "LU": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Luxembourg",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "LU",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area regardless of previous time spent in other Schengen countries"
   },
   "MG": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Madagascar"
     ],
     "destination_country": "MG",
@@ -1104,9 +1091,9 @@
     "notes": ""
   },
   "MW": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Malawi"
     ],
     "destination_country": "MW",
@@ -1115,9 +1102,9 @@
     "notes": ""
   },
   "MY": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Malaysia"
     ],
     "destination_country": "MY",
@@ -1126,9 +1113,9 @@
     "notes": ""
   },
   "MV": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Maldives"
     ],
     "destination_country": "MV",
@@ -1137,9 +1124,9 @@
     "notes": ""
   },
   "ML": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Mali"
     ],
     "destination_country": "ML",
@@ -1148,9 +1135,9 @@
     "notes": ""
   },
   "MT": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Malta",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1160,20 +1147,20 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "MH": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Marshall_Islands"
     ],
     "destination_country": "MH",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "MR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Mauritania",
       "https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport"
     ],
@@ -1183,64 +1170,64 @@
     "notes": "Available at Nouakchott–Oumtounsy International Airport."
   },
   "MU": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Mauritius"
     ],
     "destination_country": "MU",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "60 days",
-    "notes": ""
-  },
-  "MX": {
-    "passport_country": "AL",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Mexico"
-    ],
-    "destination_country": "MX",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "Visa exemption for permanent residents or valid visa holders of Schengen Area, Canada, Japan, US"
-  },
-  "MC": {
-    "passport_country": "AL",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Monaco"
-    ],
-    "destination_country": "MC",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": ""
   },
-  "MN": {
-    "passport_country": "AL",
+  "MX": {
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Mexico"
+    ],
+    "destination_country": "MX",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "180 days",
+    "notes": ""
+  },
+  "MC": {
+    "passport_country": "AU",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Monaco"
+    ],
+    "destination_country": "MC",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MN": {
+    "passport_country": "AU",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Mongolia"
     ],
     "destination_country": "MN",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Registration upon arrival for stays longer than 30 days is mandatory."
   },
   "MA": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Morocco"
     ],
     "destination_country": "MA",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "MZ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Mozambique"
     ],
     "destination_country": "MZ",
@@ -1249,9 +1236,9 @@
     "notes": "Conditions apply"
   },
   "MM": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Myanmar",
       "https://en.wikipedia.org/wiki/Yangon_International_Airport",
       "https://en.wikipedia.org/wiki/Naypyidaw_Airport",
@@ -1267,34 +1254,34 @@
     "destination_country": "MM",
     "visa_requirement": "eVisa",
     "allowed_stay": "28 days",
-    "notes": "eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\neVisa is available for tourism only."
+    "notes": "eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\neVisa available for both tourism or business purposes."
   },
   "NA": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Namibia"
     ],
     "destination_country": "NA",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "NR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Nauru"
     ],
     "destination_country": "NR",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Criminal record and medical fitness certificates are not required for Australian citizens."
   },
   "NP": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Nepal"
     ],
     "destination_country": "NP",
@@ -1303,43 +1290,44 @@
     "notes": ""
   },
   "NL": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Netherlands",
-      "https://en.wikipedia.org/wiki/Schengen_Area"
+      "https://en.wikipedia.org/wiki/Schengen_Area",
+      "https://en.wikipedia.org/wiki/European_Netherlands"
     ],
     "destination_country": "NL",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area (European Netherlands) regardless of previous time spent in other Schengen countries"
   },
   "NZ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/New_Zealand"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/New_Zealand",
+      "https://en.wikipedia.org/wiki/Trans-Tasman_Travel_Arrangement"
     ],
     "destination_country": "NZ",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Freedom of movement",
+    "allowed_stay": "Trans-Tasman Travel Arrangement"
   },
   "NI": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Nicaragua"
     ],
     "destination_country": "NI",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "NE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Niger"
     ],
     "destination_country": "NE",
@@ -1348,54 +1336,54 @@
     "notes": ""
   },
   "NG": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Nigeria"
     ],
     "destination_country": "NG",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Visa not required for Nigerian-born citizens."
   },
   "NO": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Norway",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "NO",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area regardless of previous time spent in other Schengen countries (except other Nordic countries)"
   },
   "OM": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Oman"
     ],
     "destination_country": "OM",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "PK": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Pakistan"
     ],
     "destination_country": "PK",
     "visa_requirement": "Online Visa",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Online Visa eligible.\nElectronic Travel Authorization to obtain a visa on arrival for business purposes."
   },
   "PW": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Palau"
     ],
     "destination_country": "PW",
@@ -1404,64 +1392,70 @@
     "notes": ""
   },
   "PA": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Panama"
     ],
     "destination_country": "PA",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "180 days",
     "notes": ""
   },
   "PG": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Papua_New_Guinea"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+      "https://en.wikipedia.org/wiki/Gurney_Airport",
+      "https://en.wikipedia.org/wiki/Mount_Hagen_Airport",
+      "https://en.wikipedia.org/wiki/Port_Moresby_Airport",
+      "https://en.wikipedia.org/wiki/Rabaul_Airport"
     ],
     "destination_country": "PG",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "eVisa / Free visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport (Rabaul)."
   },
   "PY": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Paraguay"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Paraguay",
+      "https://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport",
+      "https://en.wikipedia.org/wiki/Luque"
     ],
     "destination_country": "PY",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": "Only available at Silvio Pettirossi International Airport in Luque.\nReciprocity fee applies."
   },
   "PE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Peru"
     ],
     "destination_country": "PE",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "183 days",
     "notes": ""
   },
   "PH": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Philippines"
     ],
     "destination_country": "PH",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "PL": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Poland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1471,9 +1465,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "PT": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Portugal",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1483,53 +1477,53 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "QA": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Qatar"
     ],
     "destination_country": "QA",
-    "visa_requirement": "eVisa",
-    "allowed_stay": ""
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
   },
   "RO": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Romania",
-      "https://en.wikipedia.org/wiki/Schengen_Area"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Romania"
     ],
     "destination_country": "RO",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period"
   },
   "KN": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
     ],
     "destination_country": "KN",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "LC": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Saint_Lucia"
     ],
     "destination_country": "LC",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "6 weeks",
     "notes": ""
   },
   "VC": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
     ],
     "destination_country": "VC",
@@ -1538,9 +1532,9 @@
     "notes": ""
   },
   "WS": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Samoa"
     ],
     "destination_country": "WS",
@@ -1549,20 +1543,20 @@
     "notes": ""
   },
   "SM": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/San_Marino"
     ],
     "destination_country": "SM",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
+    "allowed_stay": "",
     "notes": ""
   },
   "SA": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Saudi_Arabia"
     ],
     "destination_country": "SA",
@@ -1571,20 +1565,20 @@
     "notes": ""
   },
   "SN": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Senegal"
     ],
     "destination_country": "SN",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "SC": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Seychelles"
     ],
     "destination_country": "SC",
@@ -1593,31 +1587,31 @@
     "notes": ""
   },
   "SL": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Sierra_Leone"
     ],
     "destination_country": "SL",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Registration required after 5 business days."
   },
   "SG": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Singapore"
     ],
     "destination_country": "SG",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "30 days",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "SK": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Slovakia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1627,9 +1621,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "SI": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Slovenia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1639,57 +1633,54 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "SB": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Solomon_Islands"
     ],
     "destination_country": "SB",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visitor's permit on arrival",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "SO": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Somalia",
-      "https://en.wikipedia.org/wiki/Bosaso_Airport",
-      "https://en.wikipedia.org/wiki/Galcaio_Airport",
-      "https://en.wikipedia.org/wiki/Mogadishu_Airport"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Somalia"
     ],
     "destination_country": "SO",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "30 days",
-    "notes": "Available at Bosaso Airport, Galcaio Airport and Mogadishu Airport."
+    "allowed_stay": "",
+    "notes": "Due to safety concerns, Australian government advises its citizens not to visit Somalia."
   },
   "ZA": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/South_Africa"
     ],
     "destination_country": "ZA",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "ES": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Spain",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "ES",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area regardless of previous time spent in other Schengen countries"
   },
   "LK": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Sri_Lanka"
     ],
     "destination_country": "LK",
@@ -1698,20 +1689,20 @@
     "notes": ""
   },
   "SD": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Sudan"
     ],
     "destination_country": "SD",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Visa not required for Sudanese-born citizens."
   },
   "SR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Suriname"
     ],
     "destination_country": "SR",
@@ -1720,21 +1711,21 @@
     "notes": ""
   },
   "SE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Sweden",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "SE",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period in the Schengen Area regardless of previous time spent in other Schengen countries (except other Nordic countries)"
   },
   "CH": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Switzerland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1744,42 +1735,43 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "TJ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/Tajikistan"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Tajikistan",
+      "https://en.wikipedia.org/wiki/Dushanbe_International_Airport"
     ],
     "destination_country": "TJ",
-    "visa_requirement": "eVisa",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "45 days",
-    "notes": ""
+    "notes": "At Dushanbe International Airport.\nVisa also available online.\nE-visa holders can enter through all border points."
   },
   "TH": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Thailand"
     ],
     "destination_country": "TH",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": "Maximum two visits annually if not arriving by air."
   },
   "TL": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/East_Timor"
     ],
     "destination_country": "TL",
     "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
-    "notes": ""
+    "notes": "Not available at all entry points."
   },
   "TG": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Togo"
     ],
     "destination_country": "TG",
@@ -1788,53 +1780,53 @@
     "notes": ""
   },
   "TO": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Tonga"
     ],
     "destination_country": "TO",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "31 days",
     "notes": ""
   },
   "TT": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
     ],
     "destination_country": "TT",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "TN": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Tunisia"
     ],
     "destination_country": "TN",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "TR": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Turkey"
     ],
     "destination_country": "TR",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": ""
+    "visa_requirement": "eVisa",
+    "allowed_stay": "3 months",
+    "notes": "Cruise ship passengers do not require a visa for up to 72 hours."
   },
   "TM": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Turkmenistan"
     ],
     "destination_country": "TM",
@@ -1843,9 +1835,9 @@
     "notes": ""
   },
   "TV": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Tuvalu"
     ],
     "destination_country": "TV",
@@ -1854,135 +1846,128 @@
     "notes": ""
   },
   "UG": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Uganda"
     ],
     "destination_country": "UG",
     "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "",
-    "notes": "May apply online."
+    "notes": "Determined at the port of entry.\nMay apply online."
   },
   "UA": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Ukraine"
     ],
     "destination_country": "UA",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period"
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": ""
   },
   "AE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/United_Arab_Emirates"
     ],
     "destination_country": "AE",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "Visas can be arranged online through an airline."
-  },
-  "GB": {
-    "passport_country": "AL",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/United_Kingdom"
-    ],
-    "destination_country": "GB",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "US": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
-      "https://en.wikipedia.org/wiki/United_States"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Visa_Waiver_Program",
+      "https://en.wikipedia.org/wiki/Electronic_System_for_Travel_Authorization",
+      "https://en.wikipedia.org/wiki/Guam",
+      "https://en.wikipedia.org/wiki/Northern_Mariana_Islands"
     ],
     "destination_country": "US",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa Waiver Program",
+    "allowed_stay": "90 days",
+    "notes": "On arrival from overseas; ESTA (valid for 2 years when issued) required if arriving by air or cruise ship.\nESTA is not required for Guam and Northern Mariana Islands."
   },
   "UY": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Uruguay"
     ],
     "destination_country": "UY",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "UZ": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Uzbekistan"
     ],
     "destination_country": "UZ",
-    "visa_requirement": "eVisa",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
-    "notes": "5-day visa free transit when in transit at the international airports on condition of holding a confirmed onward ticket for a flight to a third country."
+    "notes": "Local registration is required on arrival"
   },
   "VU": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Vanuatu"
     ],
     "destination_country": "VU",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "VE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Venezuela"
     ],
     "destination_country": "VE",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "Due to safety concerns, Australian government advises its citizens not to visit Venezuela."
   },
   "YE": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Yemen"
     ],
     "destination_country": "YE",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Due to safety concerns, Australian government advises its citizens not to visit Yemen."
   },
   "ZM": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Zambia"
     ],
     "destination_country": "ZM",
     "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "90 days",
-    "notes": ""
+    "notes": "Also eligible for a universal visa allowing access to Zimbabwe. eVisa available."
   },
   "ZW": {
-    "passport_country": "AL",
+    "passport_country": "AU",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Albanian_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
       "https://en.wikipedia.org/wiki/Zimbabwe"
     ],
     "destination_country": "ZW",
     "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "3 months",
-    "notes": "30 days for visits on business, 3 months for tourists"
+    "notes": "Strictly tourism purposes only.\nAlso eligible for a universal visa allowing access to Zambia. eVisa available."
   }
 }

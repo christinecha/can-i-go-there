@@ -55,11 +55,11 @@ const getVisaRequirements = country => {
             const href = $(link).attr('href')
             const text =  $(link).text()
 
-            if (text[0] === '[') {
+            if (text && text[0] === '[') {
               $(link).remove()
             }
 
-            if (href[0] === '#') {
+            if (!href || href[0] === '#') {
               return
             }
             

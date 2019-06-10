@@ -1,8 +1,8 @@
 {
   "AF": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Afghanistan"
     ],
     "destination_country": "AF",
@@ -11,20 +11,20 @@
     "notes": ""
   },
   "AL": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Albania"
     ],
     "destination_country": "AL",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "DZ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Algeria"
     ],
     "destination_country": "DZ",
@@ -33,9 +33,9 @@
     "notes": ""
   },
   "AD": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Andorra"
     ],
     "destination_country": "AD",
@@ -44,9 +44,9 @@
     "notes": ""
   },
   "AO": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Angola"
     ],
     "destination_country": "AO",
@@ -55,65 +55,66 @@
     "notes": ""
   },
   "AG": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+      "https://en.wikipedia.org/wiki/CARICOM_Single_Market_and_Economy#Abolition_of_work_permits_and_the_free_movement_of_labour"
     ],
     "destination_country": "AG",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "1 month",
-    "notes": ""
+    "allowed_stay": "6 months",
+    "notes": "Holders of Caricom Certificate of Skills can stay indefinitely."
   },
   "AR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Argentina"
     ],
     "destination_country": "AR",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "AM": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Armenia"
     ],
     "destination_country": "AM",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "120 days",
+    "allowed_stay": "",
     "notes": ""
   },
   "AT": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Austria",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "AT",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "AZ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Azerbaijan"
     ],
     "destination_country": "AZ",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "BS": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/The_Bahamas"
     ],
     "destination_country": "BS",
@@ -122,77 +123,67 @@
     "notes": ""
   },
   "BH": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Bahrain"
     ],
     "destination_country": "BH",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "14 days",
     "notes": ""
   },
   "BD": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Bangladesh"
     ],
     "destination_country": "BD",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "",
-    "notes": ""
-  },
-  "BB": {
-    "passport_country": "WS",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Barbados"
-    ],
-    "destination_country": "BB",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "BY": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Belarus",
       "https://en.wikipedia.org/wiki/Minsk_International_Airport"
     ],
     "destination_country": "BY",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "Visa-free for 5 days for holders a Schengen visa or a national visa of country of EU, must arrive via Minsk International Airport."
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": "Must arrive and depart via Minsk International Airport."
   },
   "BE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Belgium",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "BE",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "BZ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Belize"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Belize",
+      "https://en.wikipedia.org/wiki/CARICOM_Single_Market_and_Economy#Abolition_of_work_permits_and_the_free_movement_of_labour"
     ],
     "destination_country": "BZ",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "6 months",
+    "notes": "Holders of Caricom Certificate of Skills can stay indefinitely."
   },
   "BJ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Benin"
     ],
     "destination_country": "BJ",
@@ -201,9 +192,9 @@
     "notes": "Must have an international vaccination certificate."
   },
   "BT": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Bhutan"
     ],
     "destination_country": "BT",
@@ -212,9 +203,9 @@
     "notes": ""
   },
   "BO": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Bolivia"
     ],
     "destination_country": "BO",
@@ -223,42 +214,42 @@
     "notes": ""
   },
   "BA": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
     ],
     "destination_country": "BA",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": ""
+    "notes": "90 days within any 6 month period"
   },
   "BW": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Botswana"
     ],
     "destination_country": "BW",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "3 months",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "BR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Brazil"
     ],
     "destination_country": "BR",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "BN": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Brunei"
     ],
     "destination_country": "BN",
@@ -267,20 +258,20 @@
     "notes": ""
   },
   "BG": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Bulgaria"
     ],
     "destination_country": "BG",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period"
+    "allowed_stay": "3 months",
+    "notes": "3 months within any 6 month period"
   },
   "BF": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Burkina_Faso"
     ],
     "destination_country": "BF",
@@ -289,9 +280,9 @@
     "notes": ""
   },
   "BI": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Burundi"
     ],
     "destination_country": "BI",
@@ -300,20 +291,20 @@
     "notes": ""
   },
   "KH": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Cambodia"
     ],
     "destination_country": "KH",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
-    "notes": ""
+    "allowed_stay": "30 days",
+    "notes": "Visa is also obtainable online."
   },
   "CM": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Cameroon"
     ],
     "destination_country": "CM",
@@ -322,9 +313,9 @@
     "notes": ""
   },
   "CA": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Canada",
       "https://en.wikipedia.org/wiki/Visa_policy_of_Canada#Electronic_travel_authorization"
     ],
@@ -334,9 +325,9 @@
     "notes": "eTA required if arriving by air."
   },
   "CV": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Cape_Verde"
     ],
     "destination_country": "CV",
@@ -345,9 +336,9 @@
     "notes": ""
   },
   "CF": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Central_African_Republic"
     ],
     "destination_country": "CF",
@@ -356,9 +347,9 @@
     "notes": ""
   },
   "TD": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Chad"
     ],
     "destination_country": "TD",
@@ -367,31 +358,31 @@
     "notes": ""
   },
   "CL": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Chile"
     ],
     "destination_country": "CL",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "CN": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/China"
     ],
     "destination_country": "CN",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "CO": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Colombia"
     ],
     "destination_country": "CO",
@@ -400,9 +391,9 @@
     "notes": "90 days - extendable up to 180-days stay within a one year period"
   },
   "KM": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Comoros"
     ],
     "destination_country": "KM",
@@ -411,42 +402,42 @@
     "notes": ""
   },
   "CR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Costa_Rica"
     ],
     "destination_country": "CR",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "30 days",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "HR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Croatia"
     ],
     "destination_country": "HR",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period"
+    "allowed_stay": "3 months",
+    "notes": "3 months within any 6 month period"
   },
   "CU": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Cuba"
     ],
     "destination_country": "CU",
-    "visa_requirement": "Tourist Card required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "28 days",
     "notes": ""
   },
   "CY": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Cyprus"
     ],
     "destination_country": "CY",
@@ -455,33 +446,33 @@
     "notes": "90 days within any 180 day period"
   },
   "CZ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Czech_Republic",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "CZ",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "DK": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Denmark",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "DK",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "DJ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Djibouti"
     ],
     "destination_country": "DJ",
@@ -490,31 +481,32 @@
     "notes": ""
   },
   "DM": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Dominica"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Dominica",
+      "https://en.wikipedia.org/wiki/CARICOM_Single_Market_and_Economy#Abolition_of_work_permits_and_the_free_movement_of_labour"
     ],
     "destination_country": "DM",
     "visa_requirement": "Visa not required",
     "allowed_stay": "6 months",
-    "notes": ""
+    "notes": "Holders of Caricom Certificate of Skills can stay indefinitely."
   },
   "DO": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Dominican_Republic"
     ],
     "destination_country": "DO",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "EC": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Ecuador"
     ],
     "destination_country": "EC",
@@ -523,42 +515,42 @@
     "notes": ""
   },
   "EG": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Egypt"
     ],
     "destination_country": "EG",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Conditions apply."
+    "notes": "Visa not required if travelling as part of the tourist group that consists of at least 10 persons who hold a return ticket, booked accommodation and a signed guarantee letter from a travel agency."
   },
   "SV": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/El_Salvador"
     ],
     "destination_country": "SV",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "GQ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Equatorial_Guinea"
     ],
     "destination_country": "GQ",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "",
     "notes": ""
   },
   "ER": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Eritrea"
     ],
     "destination_country": "ER",
@@ -567,21 +559,21 @@
     "notes": ""
   },
   "EE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Estonia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "EE",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "ET": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Ethiopia",
       "https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport"
     ],
@@ -591,9 +583,9 @@
     "notes": "eVisa holders must arrive via Addis Ababa Bole International Airport"
   },
   "FJ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Fiji"
     ],
     "destination_country": "FJ",
@@ -602,44 +594,45 @@
     "notes": ""
   },
   "FI": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Finland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "FI",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "FR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/France",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "FR",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "GA": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Gabon"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Gabon",
+      "https://en.wikipedia.org/wiki/Libreville_International_Airport"
     ],
     "destination_country": "GA",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Electronic visa holders must arrive via Libreville International Airport."
   },
   "GM": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/The_Gambia"
     ],
     "destination_country": "GM",
@@ -648,32 +641,32 @@
     "notes": ""
   },
   "GE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Georgia_(country)"
     ],
     "destination_country": "GE",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "1 year",
     "notes": ""
   },
   "DE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Germany",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "DE",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "GH": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Ghana"
     ],
     "destination_country": "GH",
@@ -682,43 +675,44 @@
     "notes": ""
   },
   "GR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Greece",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "GR",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "GD": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Grenada"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Grenada",
+      "https://en.wikipedia.org/wiki/CARICOM_Single_Market_and_Economy#Abolition_of_work_permits_and_the_free_movement_of_labour"
     ],
     "destination_country": "GD",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "3 months",
-    "notes": ""
+    "allowed_stay": "6 months",
+    "notes": "Holders of Caricom Certificate of Skills can stay indefinitely."
   },
   "GT": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Guatemala"
     ],
     "destination_country": "GT",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "GN": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Guinea"
     ],
     "destination_country": "GN",
@@ -727,9 +721,9 @@
     "notes": ""
   },
   "GW": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Guinea-Bissau"
     ],
     "destination_country": "GW",
@@ -738,20 +732,21 @@
     "notes": ""
   },
   "GY": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Guyana"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Guyana",
+      "https://en.wikipedia.org/wiki/CARICOM_Single_Market_and_Economy#Abolition_of_work_permits_and_the_free_movement_of_labour"
     ],
     "destination_country": "GY",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "6 months",
+    "notes": "Holders of Caricom Certificate of Skills can stay indefinitely."
   },
   "HT": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Haiti"
     ],
     "destination_country": "HT",
@@ -760,55 +755,55 @@
     "notes": ""
   },
   "HN": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Honduras"
     ],
     "destination_country": "HN",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "HU": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Hungary",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "HU",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "IS": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Iceland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "IS",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "IN": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/India"
     ],
     "destination_country": "IN",
-    "visa_requirement": "eVisa",
+    "visa_requirement": "e-Visa",
     "allowed_stay": "60 days",
     "notes": "e-Visa holders must arrive via 26 designated airports or 3 designated seaports.\nAn Indian e-Tourist Visa can only be obtained twice in one calendar year."
   },
   "ID": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Indonesia"
     ],
     "destination_country": "ID",
@@ -817,9 +812,9 @@
     "notes": ""
   },
   "IQ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Iraq"
     ],
     "destination_country": "IQ",
@@ -828,9 +823,9 @@
     "notes": ""
   },
   "IE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Republic_of_Ireland"
     ],
     "destination_country": "IE",
@@ -839,65 +834,66 @@
     "notes": ""
   },
   "IL": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Israel"
     ],
     "destination_country": "IL",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "IT": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Italy",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "IT",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "JM": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Jamaica"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Jamaica",
+      "https://en.wikipedia.org/wiki/CARICOM_Single_Market_and_Economy#Abolition_of_work_permits_and_the_free_movement_of_labour"
     ],
     "destination_country": "JM",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "",
-    "notes": ""
+    "allowed_stay": "6 months",
+    "notes": "Holders of Caricom Certificate of Skills can stay indefinitely."
   },
   "JP": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Japan"
     ],
     "destination_country": "JP",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "JO": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Jordan"
     ],
     "destination_country": "JO",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "3 months",
-    "notes": ""
+    "allowed_stay": "",
+    "notes": "Conditions apply"
   },
   "KZ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Kazakhstan"
     ],
     "destination_country": "KZ",
@@ -906,9 +902,9 @@
     "notes": ""
   },
   "KE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Kenya"
     ],
     "destination_country": "KE",
@@ -917,9 +913,9 @@
     "notes": ""
   },
   "KI": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Kiribati"
     ],
     "destination_country": "KI",
@@ -928,9 +924,9 @@
     "notes": ""
   },
   "KP": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/North_Korea"
     ],
     "destination_country": "KP",
@@ -939,20 +935,20 @@
     "notes": ""
   },
   "KR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/South_Korea"
     ],
     "destination_country": "KR",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "30 days",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "KW": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Kuwait"
     ],
     "destination_country": "KW",
@@ -961,44 +957,60 @@
     "notes": ""
   },
   "KG": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Kyrgyzstan"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "https://en.wikipedia.org/wiki/Osh_Airport",
+      "https://en.wikipedia.org/wiki/China",
+      "https://en.wikipedia.org/wiki/Irkeshtam",
+      "https://en.wikipedia.org/wiki/Torugart",
+      "https://en.wikipedia.org/wiki/Kazakhstan",
+      "https://en.wikipedia.org/wiki/Ak-Jol,_Chuy",
+      "https://en.wikipedia.org/wiki/Ysyk-Ata_District",
+      "https://en.wikipedia.org/wiki/Chaldybar",
+      "https://en.wikipedia.org/wiki/Manas_District",
+      "https://en.wikipedia.org/wiki/Tajikistan",
+      "https://en.wikipedia.org/wiki/Alay_District",
+      "https://en.wikipedia.org/wiki/Kulundu",
+      "https://en.wikipedia.org/wiki/Batken_District",
+      "https://en.wikipedia.org/wiki/Uzbekistan",
+      "https://en.wikipedia.org/wiki/Dostuk"
     ],
     "destination_country": "KG",
     "visa_requirement": "eVisa",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk)."
   },
   "LV": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Latvia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "LV",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "LB": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Lebanon",
       "https://en.wikipedia.org/wiki/Beirut_International_Airport"
     ],
     "destination_country": "LB",
     "visa_requirement": "Visa on arrival",
     "allowed_stay": "1 month",
-    "notes": "Extendable for 2 additional months\nGranted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
+    "notes": "1 month extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
   },
   "LS": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Lesotho"
     ],
     "destination_country": "LS",
@@ -1007,9 +1019,9 @@
     "notes": ""
   },
   "LR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Liberia"
     ],
     "destination_country": "LR",
@@ -1018,45 +1030,45 @@
     "notes": ""
   },
   "LI": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Liechtenstein",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "LI",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "LT": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Lithuania",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "LT",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "LU": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Luxembourg",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "LU",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "MG": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Madagascar"
     ],
     "destination_country": "MG",
@@ -1065,31 +1077,31 @@
     "notes": ""
   },
   "MW": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Malawi"
     ],
     "destination_country": "MW",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "MY": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Malaysia"
     ],
     "destination_country": "MY",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "30 days",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "MV": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Maldives"
     ],
     "destination_country": "MV",
@@ -1098,9 +1110,9 @@
     "notes": ""
   },
   "ML": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Mali"
     ],
     "destination_country": "ML",
@@ -1109,32 +1121,32 @@
     "notes": ""
   },
   "MT": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Malta",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "MT",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "MH": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Marshall_Islands"
     ],
     "destination_country": "MH",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "MR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Mauritania",
       "https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport"
     ],
@@ -1144,9 +1156,9 @@
     "notes": "Available at Nouakchott–Oumtounsy International Airport."
   },
   "MU": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Mauritius"
     ],
     "destination_country": "MU",
@@ -1155,20 +1167,20 @@
     "notes": ""
   },
   "MX": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Mexico"
     ],
     "destination_country": "MX",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "180 days",
     "notes": ""
   },
   "MC": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Monaco"
     ],
     "destination_country": "MC",
@@ -1177,9 +1189,9 @@
     "notes": ""
   },
   "MN": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Mongolia"
     ],
     "destination_country": "MN",
@@ -1188,9 +1200,9 @@
     "notes": ""
   },
   "MA": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Morocco"
     ],
     "destination_country": "MA",
@@ -1199,9 +1211,9 @@
     "notes": ""
   },
   "MZ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Mozambique"
     ],
     "destination_country": "MZ",
@@ -1210,20 +1222,20 @@
     "notes": ""
   },
   "MM": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Myanmar"
     ],
     "destination_country": "MM",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "28 days",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
     "notes": ""
   },
   "NA": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Namibia"
     ],
     "destination_country": "NA",
@@ -1232,20 +1244,20 @@
     "notes": ""
   },
   "NR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Nauru"
     ],
     "destination_country": "NR",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NP": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Nepal"
     ],
     "destination_country": "NP",
@@ -1254,43 +1266,32 @@
     "notes": ""
   },
   "NL": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Netherlands",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "NL",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
-  },
-  "NZ": {
-    "passport_country": "WS",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/New_Zealand"
-    ],
-    "destination_country": "NZ",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "Transit visa is not required."
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "NI": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Nicaragua"
     ],
     "destination_country": "NI",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "NE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Niger"
     ],
     "destination_country": "NE",
@@ -1299,9 +1300,9 @@
     "notes": ""
   },
   "NG": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Nigeria"
     ],
     "destination_country": "NG",
@@ -1310,21 +1311,21 @@
     "notes": ""
   },
   "NO": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Norway",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "NO",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "OM": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Oman"
     ],
     "destination_country": "OM",
@@ -1333,20 +1334,20 @@
     "notes": ""
   },
   "PK": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Pakistan"
     ],
     "destination_country": "PK",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "1 month",
-    "notes": "Eligible to apply for Electronic Travel Authorization to obtain a visa on arrival for tourism purposes.\nEligible to apply for Electronic Travel Authorization to obtain a visa on arrival for business purposes.\nOnline Visa eligible."
+    "visa_requirement": "Electronic Travel Authorization",
+    "allowed_stay": "",
+    "notes": "Electronic Travel Authorization to obtain a visa on arrival for tourism purposes.\nElectronic Travel Authorization to obtain a visa on arrival for business purposes.\nOnline Visa eligible."
   },
   "PW": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Palau"
     ],
     "destination_country": "PW",
@@ -1355,9 +1356,9 @@
     "notes": ""
   },
   "PA": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Panama"
     ],
     "destination_country": "PA",
@@ -1366,20 +1367,20 @@
     "notes": ""
   },
   "PG": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Papua_New_Guinea"
     ],
     "destination_country": "PG",
-    "visa_requirement": "eVisa / Free visa on arrival",
-    "allowed_stay": "60 days",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
     "notes": ""
   },
   "PY": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Paraguay"
     ],
     "destination_country": "PY",
@@ -1388,20 +1389,20 @@
     "notes": ""
   },
   "PE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Peru"
     ],
     "destination_country": "PE",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "180 days",
+    "allowed_stay": "183 days",
     "notes": ""
   },
   "PH": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Philippines"
     ],
     "destination_country": "PH",
@@ -1410,33 +1411,33 @@
     "notes": ""
   },
   "PL": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Poland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "PL",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "PT": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Portugal",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "PT",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "QA": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Qatar"
     ],
     "destination_country": "QA",
@@ -1445,53 +1446,67 @@
     "notes": ""
   },
   "RO": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Romania"
     ],
     "destination_country": "RO",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period"
+    "allowed_stay": "3 months",
+    "notes": "3 months within any 6 month period"
   },
   "KN": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+      "https://en.wikipedia.org/wiki/CARICOM_Single_Market_and_Economy#Abolition_of_work_permits_and_the_free_movement_of_labour"
     ],
     "destination_country": "KN",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "6 months",
+    "notes": "Holders of Caricom Certificate of Skills can stay indefinitely."
   },
   "LC": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Saint_Lucia"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Lucia",
+      "https://en.wikipedia.org/wiki/CARICOM_Single_Market_and_Economy#Abolition_of_work_permits_and_the_free_movement_of_labour"
     ],
     "destination_country": "LC",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "6 weeks",
-    "notes": ""
+    "allowed_stay": "6 months",
+    "notes": "Holders of Caricom Certificate of Skills can stay indefinitely."
   },
   "VC": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "https://en.wikipedia.org/wiki/CARICOM_Single_Market_and_Economy#Abolition_of_work_permits_and_the_free_movement_of_labour"
     ],
     "destination_country": "VC",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "1 month",
+    "allowed_stay": "6 months",
+    "notes": "Holders of Caricom Certificate of Skills can stay indefinitely."
+  },
+  "WS": {
+    "passport_country": "BB",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Samoa"
+    ],
+    "destination_country": "WS",
+    "visa_requirement": "Entry Permit on arrival",
+    "allowed_stay": "60 days",
     "notes": ""
   },
   "SM": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/San_Marino"
     ],
     "destination_country": "SM",
@@ -1500,9 +1515,9 @@
     "notes": ""
   },
   "SA": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Saudi_Arabia"
     ],
     "destination_country": "SA",
@@ -1511,9 +1526,9 @@
     "notes": ""
   },
   "SN": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Senegal"
     ],
     "destination_country": "SN",
@@ -1522,9 +1537,9 @@
     "notes": ""
   },
   "SC": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Seychelles"
     ],
     "destination_country": "SC",
@@ -1533,9 +1548,9 @@
     "notes": ""
   },
   "SL": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Sierra_Leone"
     ],
     "destination_country": "SL",
@@ -1544,9 +1559,9 @@
     "notes": ""
   },
   "SG": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Singapore"
     ],
     "destination_country": "SG",
@@ -1555,44 +1570,44 @@
     "notes": ""
   },
   "SK": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Slovakia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "SK",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "SI": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Slovenia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "SI",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "SB": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Solomon_Islands"
     ],
     "destination_country": "SB",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
+    "visa_requirement": "Visitor's permit on arrival",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "SO": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Somalia",
       "https://en.wikipedia.org/wiki/Bosaso_Airport",
       "https://en.wikipedia.org/wiki/Galcaio_Airport",
@@ -1604,43 +1619,43 @@
     "notes": "Available at Bosaso Airport, Galcaio Airport and Mogadishu Airport."
   },
   "ZA": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/South_Africa"
     ],
     "destination_country": "ZA",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "ES": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Spain",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "ES",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "LK": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Sri_Lanka"
     ],
     "destination_country": "LK",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
+    "visa_requirement": "Electronic Travel Authorization",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "SD": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Sudan"
     ],
     "destination_country": "SD",
@@ -1649,55 +1664,56 @@
     "notes": ""
   },
   "SR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Suriname"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Suriname",
+      "https://en.wikipedia.org/wiki/CARICOM_Single_Market_and_Economy#Abolition_of_work_permits_and_the_free_movement_of_labour"
     ],
     "destination_country": "SR",
-    "visa_requirement": "eVisa",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Holders of Caricom Certificate of Skills can stay indefinitely."
   },
   "SE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Sweden",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "SE",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "CH": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Switzerland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
     "destination_country": "CH",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "allowed_stay": "3 months",
+    "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
   "TJ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Tajikistan"
     ],
     "destination_country": "TJ",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "45 days",
     "notes": ""
   },
   "TH": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Thailand"
     ],
     "destination_country": "TH",
@@ -1706,9 +1722,9 @@
     "notes": ""
   },
   "TL": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/East_Timor"
     ],
     "destination_country": "TL",
@@ -1717,9 +1733,9 @@
     "notes": ""
   },
   "TG": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Togo"
     ],
     "destination_country": "TG",
@@ -1728,53 +1744,54 @@
     "notes": ""
   },
   "TO": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Tonga"
     ],
     "destination_country": "TO",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
+    "allowed_stay": "31 days",
     "notes": ""
   },
   "TT": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
-      "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
+      "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+      "https://en.wikipedia.org/wiki/CARICOM_Single_Market_and_Economy#Abolition_of_work_permits_and_the_free_movement_of_labour"
     ],
     "destination_country": "TT",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "",
-    "notes": ""
+    "allowed_stay": "6 months",
+    "notes": "Holders of Caricom Certificate of Skills can stay indefinitely."
   },
   "TN": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Tunisia"
     ],
     "destination_country": "TN",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "TR": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Turkey"
     ],
     "destination_country": "TR",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "TM": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Turkmenistan"
     ],
     "destination_country": "TM",
@@ -1783,9 +1800,9 @@
     "notes": ""
   },
   "TV": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Tuvalu"
     ],
     "destination_country": "TV",
@@ -1794,20 +1811,20 @@
     "notes": ""
   },
   "UG": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Uganda"
     ],
     "destination_country": "UG",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "3 months",
-    "notes": "May apply online."
+    "notes": ""
   },
   "UA": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Ukraine"
     ],
     "destination_country": "UA",
@@ -1816,20 +1833,20 @@
     "notes": ""
   },
   "AE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/United_Arab_Emirates"
     ],
     "destination_country": "AE",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "US": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/United_States"
     ],
     "destination_country": "US",
@@ -1838,53 +1855,53 @@
     "notes": ""
   },
   "UY": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Uruguay"
     ],
     "destination_country": "UY",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "UZ": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Uzbekistan"
     ],
     "destination_country": "UZ",
     "visa_requirement": "eVisa",
     "allowed_stay": "30 days",
-    "notes": ""
+    "notes": "5-day visa free transit when in transit at the international airports on condition of holding a confirmed onward ticket for a flight to a third country."
   },
   "VU": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Vanuatu"
     ],
     "destination_country": "VU",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "VE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Venezuela"
     ],
     "destination_country": "VE",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "YE": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Yemen"
     ],
     "destination_country": "YE",
@@ -1893,9 +1910,9 @@
     "notes": ""
   },
   "ZM": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Zambia"
     ],
     "destination_country": "ZM",
@@ -1904,9 +1921,9 @@
     "notes": ""
   },
   "ZW": {
-    "passport_country": "WS",
+    "passport_country": "BB",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens",
       "https://en.wikipedia.org/wiki/Zimbabwe"
     ],
     "destination_country": "ZW",

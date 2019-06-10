@@ -55,70 +55,268 @@
     "colors": ["#74acdf", "#f5b30e"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Argentine_citizens"
   },
-  {"name": "Armenia", "code": "AM"},
-  {"name": "Aruba", "code": "AW"},
-  {"name": "Australia", "code": "AU"},
-  {"name": "Austria", "code": "AT"},
-  {"name": "Azerbaijan", "code": "AZ"},
-  {"name": "Bahamas", "code": "BS"},
-  {"name": "Bahrain", "code": "BH"},
-  {"name": "Bangladesh", "code": "BD"},
-  {"name": "Barbados", "code": "BB"},
-  {"name": "Belarus", "code": "BY"},
-  {"name": "Belgium", "code": "BE"},
-  {"name": "Belize", "code": "BZ"},
-  {"name": "Benin", "code": "BJ"},
+  {
+    "name": "Armenia", 
+    "code": "AM",
+    "colors": ["#d20e1e", "#0033a0", "#f2a800"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens"
+  },
+  {
+    "name": "Aruba", 
+    "code": "AW"
+  },
+  {
+    "name": "Australia", 
+    "code": "AU",
+    "colors": ["#0a0996", "#d81818"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens"
+  },
+  {
+    "name": "Austria", 
+    "code": "AT",
+    "colors": ["#ef2031"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Austrian_citizens"
+  },
+  {
+    "name": "Azerbaijan", 
+    "code": "AZ",
+    "colors": ["#00a1dc", "#de0031", "#00ae68"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Azerbaijani_citizens"
+  },
+  {
+    "name": "Bahamas", 
+    "code": "BS",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Bahrain", 
+    "code": "BH",
+    "colors": ["#ce1126"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bahraini_citizens"
+  },
+  {
+    "name": "Bangladesh", 
+    "code": "BD",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens"
+  },
+  {
+    "name": "Barbados", 
+    "code": "BB",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Barbadian_citizens"
+  },
+  {
+    "name": "Belarus", 
+    "code": "BY",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belarusian_citizens"
+  },
+  {
+    "name": "Belgium", 
+    "code": "BE",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_citizens"
+  },
+  {
+    "name": "Belize", 
+    "code": "BZ",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belizean_citizens"
+  },
+  {
+    "name": "Benin", "code": "BJ",
+    "wikipediaSource": ""
+  },
   {
     "name": "Bermuda", 
     "code": "BM",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
   },
-  {"name": "Bhutan", "code": "BT"},
-  {"name": "Bolivia", "code": "BO"},
-  {"name": "Bosnia and Herzegovina", "code": "BA"},
-  {"name": "Botswana", "code": "BW"},
-  {"name": "Bouvet Island", "code": "BV"},
-  {"name": "Brazil", "code": "BR"},
-  {"name": "British Indian Ocean Territory", "code": "IO"},
-  {"name": "Brunei Darussalam", "code": "BN"},
-  {"name": "Bulgaria", "code": "BG"},
-  {"name": "Burkina Faso", "code": "BF"},
-  {"name": "Burundi", "code": "BI"},
-  {"name": "Cambodia", "code": "KH"},
-  {"name": "Cameroon", "code": "CM"},
-  {"name": "Canada", "code": "CA"},
-  {"name": "Cape Verde", "code": "CV"},
+  {
+    "name": "Bhutan", 
+    "code": "BT",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bhutanese_citizens"
+  },
+  {
+    "name": "Bolivia", 
+    "code": "BO",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bolivian_citizens"
+  },
+  {
+    "name": "Bosnia and Herzegovina", 
+    "code": "BA",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bosnia_and_Herzegovina_citizens"
+  },
+  {
+    "name": "Botswana", 
+    "code": "BW",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Botswana_citizens"
+  },
+  {
+    "name": "Bouvet Island", 
+    "code": "BV",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Brazil", 
+    "code": "BR",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens"
+  },
+  {
+    "name": "British Indian Ocean Territory", 
+    "code": "IO",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Brunei Darussalam", 
+    "aliases": ["Brunei"],
+    "code": "BN",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens"
+  },
+  {
+    "name": "Bulgaria", 
+    "code": "BG",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bulgarian_citizens"
+  },
+  {
+    "name": "Burkina Faso", 
+    "code": "BF",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Burundi", 
+    "code": "BI",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Cambodia", 
+    "code": "KH",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cambodian_citizens"
+  },
+  {
+    "name": "Cameroon", 
+    "code": "CM",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cameroonian_citizens"
+  },
+  {
+    "name": "Canada", 
+    "code": "CA",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens"
+  },
+  {
+    "name": "Cape Verde", 
+    "code": "CV",
+    "wikipediaSource": ""
+  },
   {
     "name": "Cayman Islands", 
     "code": "KY",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
   },
-  {"name": "Central African Republic", "code": "CF"},
-  {"name": "Chad", "code": "TD"},
-  {"name": "Chile", "code": "CL"},
+  {
+    "name": "Central African Republic", 
+    "code": "CF",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Central_African_Republic_citizens"
+  },
+  {
+    "name": "Chad", 
+    "code": "TD",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chadian_citizens"
+  },
+  {
+    "name": "Chile", 
+    "code": "CL",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chilean_citizens"
+  },
   {
     "name": "China", 
     "code": "CN",
     "colors": ["#de290f", "#ffc102"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens"
   },
-  {"name": "Christmas Island", "code": "CX"},
-  {"name": "Cocos (Keeling) Islands", "code": "CC"},
-  {"name": "Colombia", "code": "CO"},
-  {"name": "Comoros", "code": "KM"},
-  {"name": "Congo", "code": "CG"},
-  {"name": "Congo, The Democratic Republic of the", "code": "CD"},
-  {"name": "Cook Islands", "code": "CK"},
-  {"name": "Costa Rica", "code": "CR"},
-  {"name": "Cote D'Ivoire", "code": "CI"},
-  {"name": "Croatia", "code": "HR"},
-  {"name": "Cuba", "code": "CU"},
-  {"name": "Cyprus", "code": "CY"},
-  {"name": "Czech Republic", "code": "CZ"},
-  {"name": "Denmark", "code": "DK"},
-  {"name": "Djibouti", "code": "DJ"},
-  {"name": "Dominica", "code": "DM"},
-  {"name": "Dominican Republic", "code": "DO"},
+  {
+    "name": "Christmas Island", 
+    "code": "CX",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Cocos (Keeling) Islands", 
+    "code": "CC",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Colombia", 
+    "code": "CO",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Colombian_citizens"
+  },
+  {
+    "name": "Comoros", 
+    "code": "KM",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Congo, Republic of the", 
+    "code": "CG",
+    "aliases": ["Congo", "Republic of the Congo", "The Republic of the Congo"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens"
+  },
+  {
+    "name": "Congo, The Democratic Republic of the", 
+    "code": "CD",
+    "aliases": ["Democratic Republic of the Congo", "The Democratic Republic of the Congo"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Democratic_Republic_of_the_Congo_citizens"
+  },
+  {
+    "name": "Cook Islands", 
+    "code": "CK",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Costa Rica", 
+    "code": "CR",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Costa_Rican_citizens"
+  },
+  {
+    "name": "Cote D'Ivoire", 
+    "code": "CI",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Croatia", 
+    "code": "HR",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Croatian_citizens"
+  },
+  {
+    "name": "Cuba", 
+    "code": "CU",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cuban_citizens"
+  },
+  {
+    "name": "Cyprus", 
+    "code": "CY",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cypriot_citizens"
+  },
+  {
+    "name": "Czech Republic", 
+    "code": "CZ",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Czech_citizens"
+  },
+  {
+    "name": "Denmark", 
+    "code": "DK",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Danish_citizens"
+  },
+  {
+    "name": "Djibouti", 
+    "code": "DJ",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Djiboutian_citizens"
+  },
+  {
+    "name": "Dominica", 
+    "code": "DM",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Dominican Republic", 
+    "code": "DO",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens"
+  },
   {
     "name": "Ecuador", 
     "code": "EC",

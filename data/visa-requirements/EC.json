@@ -264,6 +264,17 @@
     "allowed_stay": "90 days",
     "notes": "Entry is allowed with a valid Ecuadorian identity card that is less than 10 years old.\nEcuadorians can live and work legally in Brazil under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a citizen at birth or a naturalized citizen for over 5 years, and passing a background check."
   },
+  "BN": {
+    "passport_country": "EC",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Ecuadorian_citizens",
+      "https://en.wikipedia.org/wiki/Brunei"
+    ],
+    "destination_country": "BN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "BG": {
     "passport_country": "EC",
     "sources": [

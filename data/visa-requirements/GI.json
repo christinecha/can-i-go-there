@@ -265,6 +265,17 @@
     "allowed_stay": "90 days",
     "notes": ""
   },
+  "BN": {
+    "passport_country": "GI",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Brunei"
+    ],
+    "destination_country": "BN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "BG": {
     "passport_country": "GI",
     "sources": [

@@ -1,8 +1,8 @@
 {
   "AF": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Afghanistan"
     ],
     "destination_country": "AF",
@@ -11,9 +11,9 @@
     "notes": ""
   },
   "AL": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Albania"
     ],
     "destination_country": "AL",
@@ -22,9 +22,9 @@
     "notes": ""
   },
   "DZ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Algeria"
     ],
     "destination_country": "DZ",
@@ -33,9 +33,9 @@
     "notes": ""
   },
   "AD": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Andorra"
     ],
     "destination_country": "AD",
@@ -44,9 +44,9 @@
     "notes": ""
   },
   "AO": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Angola"
     ],
     "destination_country": "AO",
@@ -55,53 +55,55 @@
     "notes": ""
   },
   "AG": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
     ],
     "destination_country": "AG",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "6 months",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "AR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Argentina"
     ],
     "destination_country": "AR",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
     "notes": ""
   },
   "AM": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Armenia"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Armenia",
+      "https://en.wikipedia.org/wiki/Zvartnots_International_Airport"
     ],
     "destination_country": "AM",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "120 days",
+    "notes": "Visa on arrival at Zvartnots International Airport or Georgia-Armenia border checkpoint or, prior to travel, online."
   },
   "AU": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Australia"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Australia",
+      "https://en.wikipedia.org/wiki/Visa_policy_of_Australia#Electronic_visas"
     ],
     "destination_country": "AU",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "May apply online (Online Visitor e600 visa)."
+    "visa_requirement": "Electronic Travel Authority",
+    "allowed_stay": "90 days",
+    "notes": "90 days on each visit in 12-month period is granted"
   },
   "AT": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Austria",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -111,53 +113,53 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "AZ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Azerbaijan"
     ],
     "destination_country": "AZ",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "BS": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/The_Bahamas"
     ],
     "destination_country": "BS",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "8 months",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "BH": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Bahrain"
     ],
     "destination_country": "BH",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "2 weeks",
+    "notes": "May also be obtained online in the form of an E-Visa."
   },
   "BD": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Bangladesh"
     ],
     "destination_country": "BD",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "30 days",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
     "notes": ""
   },
   "BB": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Barbados"
     ],
     "destination_country": "BB",
@@ -166,20 +168,21 @@
     "notes": ""
   },
   "BY": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Belarus"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Belarus",
+      "https://en.wikipedia.org/wiki/Minsk_International_Airport"
     ],
     "destination_country": "BY",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Visas are issued on arrival at the Minsk International Airport if the support documents were submitted not later than 3 business days before expected date of arrival.\nIn the case of transit visas, these may be obtained on arrival with a hotel confirmation, return ticket and visa to a 3rd country for a maximum validity of 2 calendar days."
   },
   "BE": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Belgium",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -189,31 +192,31 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "BZ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Belize"
     ],
     "destination_country": "BZ",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
+    "allowed_stay": "",
     "notes": ""
   },
   "BJ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Benin"
     ],
     "destination_country": "BJ",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "30 days",
-    "notes": ""
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days / 8 days",
+    "notes": "Must have an international vaccination certificate."
   },
   "BT": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Bhutan"
     ],
     "destination_country": "BT",
@@ -222,31 +225,31 @@
     "notes": ""
   },
   "BO": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Bolivia"
     ],
     "destination_country": "BO",
-    "visa_requirement": "Visa not required",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "BA": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
     ],
     "destination_country": "BA",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": ""
+    "notes": "90 days within any 6 month period"
   },
   "BW": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Botswana"
     ],
     "destination_country": "BW",
@@ -255,31 +258,20 @@
     "notes": ""
   },
   "BR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Brazil"
     ],
     "destination_country": "BR",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": ""
-  },
-  "BN": {
-    "passport_country": "TC",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Brunei"
-    ],
-    "destination_country": "BN",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BG": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Bulgaria"
     ],
     "destination_country": "BG",
@@ -287,21 +279,10 @@
     "allowed_stay": "90 days",
     "notes": "90 days within any 180 day period"
   },
-  "BF": {
-    "passport_country": "TC",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Burkina_Faso"
-    ],
-    "destination_country": "BF",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "1 month",
-    "notes": ""
-  },
   "BI": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Burundi"
     ],
     "destination_country": "BI",
@@ -309,34 +290,44 @@
     "allowed_stay": "",
     "notes": ""
   },
-  "KH": {
-    "passport_country": "TC",
+  "BF": {
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Burkina_Faso"
+    ],
+    "destination_country": "BF",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KH": {
+    "passport_country": "BN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Cambodia"
     ],
     "destination_country": "KH",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "30 days",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "14 days",
     "notes": ""
   },
   "CM": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Cameroon"
     ],
     "destination_country": "CM",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Holders of a pre-arranged approval issued by \"Le Delegue General de la Surete\" can obtain a visa on arrival."
   },
   "CA": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Canada",
-      "https://en.wikipedia.org/wiki/Visa_policy_of_Canada#Electronic_travel_authorization"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Canada"
     ],
     "destination_country": "CA",
     "visa_requirement": "Visa not required",
@@ -344,9 +335,9 @@
     "notes": "eTA required if arriving by air."
   },
   "CV": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Cape_Verde"
     ],
     "destination_country": "CV",
@@ -355,9 +346,9 @@
     "notes": ""
   },
   "CF": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Central_African_Republic"
     ],
     "destination_country": "CF",
@@ -366,9 +357,9 @@
     "notes": ""
   },
   "TD": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Chad"
     ],
     "destination_country": "TD",
@@ -377,53 +368,53 @@
     "notes": ""
   },
   "CL": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Chile"
     ],
     "destination_country": "CL",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": ""
-  },
-  "CN": {
-    "passport_country": "TC",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/China"
-    ],
-    "destination_country": "CN",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
-  "CO": {
-    "passport_country": "TC",
+  "CN": {
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/China"
+    ],
+    "destination_country": "CN",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "15 days",
+    "notes": ""
+  },
+  "CO": {
+    "passport_country": "BN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Colombia"
     ],
     "destination_country": "CO",
     "visa_requirement": "Visa not required",
     "allowed_stay": "180 days",
-    "notes": ""
+    "notes": "90 days - extendable up to 180-days stay within a one year period"
   },
   "KM": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Comoros"
     ],
     "destination_country": "KM",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
+    "allowed_stay": "45 days",
     "notes": ""
   },
   "CR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Costa_Rica"
     ],
     "destination_country": "CR",
@@ -432,9 +423,9 @@
     "notes": ""
   },
   "HR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Croatia"
     ],
     "destination_country": "HR",
@@ -443,20 +434,20 @@
     "notes": "90 days within any 180 day period"
   },
   "CU": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Cuba"
     ],
     "destination_country": "CU",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "Tourist Card required",
     "allowed_stay": "",
     "notes": ""
   },
   "CY": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Cyprus"
     ],
     "destination_country": "CY",
@@ -465,21 +456,20 @@
     "notes": "90 days within any 180 day period"
   },
   "CZ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Czech_Republic",
-      "https://en.wikipedia.org/wiki/Schengen_Area"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Czech_Republic"
     ],
     "destination_country": "CZ",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period in the Schengen Area"
+    "notes": "90 days within any 180 day period"
   },
   "DK": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Denmark",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -489,20 +479,20 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "DJ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Djibouti"
     ],
     "destination_country": "DJ",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "31 days",
     "notes": ""
   },
   "DM": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Dominica"
     ],
     "destination_country": "DM",
@@ -511,9 +501,9 @@
     "notes": ""
   },
   "DO": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Dominican_Republic"
     ],
     "destination_country": "DO",
@@ -522,9 +512,9 @@
     "notes": ""
   },
   "EC": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Ecuador"
     ],
     "destination_country": "EC",
@@ -533,20 +523,20 @@
     "notes": ""
   },
   "EG": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Egypt"
     ],
     "destination_country": "EG",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "15 days",
     "notes": ""
   },
   "SV": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/El_Salvador"
     ],
     "destination_country": "SV",
@@ -555,9 +545,9 @@
     "notes": ""
   },
   "GQ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Equatorial_Guinea"
     ],
     "destination_country": "GQ",
@@ -566,9 +556,9 @@
     "notes": ""
   },
   "ER": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Eritrea"
     ],
     "destination_country": "ER",
@@ -577,9 +567,9 @@
     "notes": ""
   },
   "EE": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Estonia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -589,21 +579,21 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "ET": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Ethiopia",
       "https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport"
     ],
     "destination_country": "ET",
     "visa_requirement": "eVisa",
     "allowed_stay": "up to 90 days",
-    "notes": "eVisa holders must arrive via Addis Ababa Bole International Airport."
+    "notes": "eVisa holders must arrive via Addis Ababa Bole International Airport"
   },
   "FJ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Fiji"
     ],
     "destination_country": "FJ",
@@ -612,9 +602,9 @@
     "notes": ""
   },
   "FI": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Finland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -624,9 +614,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "FR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/France",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -636,9 +626,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "GA": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Gabon",
       "https://en.wikipedia.org/wiki/Libreville_International_Airport"
     ],
@@ -648,9 +638,9 @@
     "notes": "Electronic visa holders must arrive via Libreville International Airport."
   },
   "GM": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/The_Gambia"
     ],
     "destination_country": "GM",
@@ -659,24 +649,20 @@
     "notes": ""
   },
   "GE": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Georgia_(country)",
-      "https://en.wikipedia.org/wiki/Anguillian_passport",
-      "https://en.wikipedia.org/wiki/Montserratian_passport",
-      "https://en.wikipedia.org/wiki/Pitcairn_Islands_passport",
-      "https://en.wikipedia.org/wiki/Saint_Helena_passport"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Georgia_(country)"
     ],
     "destination_country": "GE",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "",
-    "notes": "Not applicable to holders of Anguillian passport, Montserratian passport, Pitcairn Islands passport and Saint Helena passport."
+    "allowed_stay": "1 year",
+    "notes": ""
   },
   "DE": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Germany",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -686,9 +672,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "GH": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Ghana"
     ],
     "destination_country": "GH",
@@ -697,9 +683,9 @@
     "notes": ""
   },
   "GR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Greece",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -709,20 +695,20 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "GD": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Grenada"
     ],
     "destination_country": "GD",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "6 months",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "GT": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Guatemala"
     ],
     "destination_country": "GT",
@@ -731,9 +717,9 @@
     "notes": ""
   },
   "GN": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Guinea"
     ],
     "destination_country": "GN",
@@ -742,9 +728,9 @@
     "notes": ""
   },
   "GW": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Guinea-Bissau"
     ],
     "destination_country": "GW",
@@ -753,21 +739,20 @@
     "notes": ""
   },
   "GY": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Guyana",
-      "https://en.wikipedia.org/wiki/Montserratian_passport"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Guyana"
     ],
     "destination_country": "GY",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Holders of Montserratian passport are exempt."
+    "notes": ""
   },
   "HT": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Haiti"
     ],
     "destination_country": "HT",
@@ -776,20 +761,20 @@
     "notes": ""
   },
   "HN": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Honduras"
     ],
     "destination_country": "HN",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
+    "allowed_stay": "",
     "notes": ""
   },
   "HU": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Hungary",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -799,9 +784,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "IS": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Iceland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -811,35 +796,31 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "IN": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/India",
-      "https://en.wikipedia.org/wiki/Anguillian_passport",
-      "https://en.wikipedia.org/wiki/Caymanian_passport",
-      "https://en.wikipedia.org/wiki/Montserratian_passport",
-      "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_passport"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/India"
     ],
     "destination_country": "IN",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "e-Tourist Visa for holders of Anguillian passport, Caymanian passport, Montserratian passport and Turks and Caicos Islands passport."
+    "visa_requirement": "e-Visa",
+    "allowed_stay": "60 days",
+    "notes": "e-Visa holders must arrive via 26 designated airports or 3 designated seaports.\nAn Indian e-Tourist Visa can only be obtained twice in one calendar year."
   },
   "ID": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Indonesia"
     ],
     "destination_country": "ID",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "IQ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Iraq"
     ],
     "destination_country": "IQ",
@@ -848,9 +829,9 @@
     "notes": ""
   },
   "IE": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Republic_of_Ireland"
     ],
     "destination_country": "IE",
@@ -859,20 +840,20 @@
     "notes": ""
   },
   "IL": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Israel"
     ],
     "destination_country": "IL",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "3 months",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
     "notes": ""
   },
   "IT": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Italy",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -882,33 +863,31 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "JM": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Jamaica",
-      "https://en.wikipedia.org/wiki/British_Virgin_Islands_passport",
-      "https://en.wikipedia.org/wiki/Caymanian_passport"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Jamaica"
     ],
     "destination_country": "JM",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "",
-    "notes": "Not applicable to holders of British Virgin Islands passport and Caymanian passport."
+    "allowed_stay": "180 days",
+    "notes": ""
   },
   "JP": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Japan"
     ],
     "destination_country": "JP",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "15 days",
     "notes": ""
   },
   "JO": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Jordan"
     ],
     "destination_country": "JO",
@@ -917,46 +896,42 @@
     "notes": ""
   },
   "KZ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Kazakhstan"
     ],
     "destination_country": "KZ",
-    "visa_requirement": "Visa not required",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "KE": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Kenya"
     ],
     "destination_country": "KE",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "3 months",
-    "notes": "Can also be entered on a visa issued by Rwanda or Uganda."
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
   },
   "KI": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Kiribati",
-      "https://en.wikipedia.org/wiki/Bermudian_passport",
-      "https://en.wikipedia.org/wiki/Caymanian_passport",
-      "https://en.wikipedia.org/wiki/Montserratian_passport",
-      "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_passport"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Kiribati"
     ],
     "destination_country": "KI",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "Visa not required for holders of Bermudian passport, Caymanian passport, Montserratian passport, Turks and Caicos Islands passport."
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
   },
   "KP": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/North_Korea"
     ],
     "destination_country": "KP",
@@ -965,43 +940,42 @@
     "notes": ""
   },
   "KR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/South_Korea",
-      "https://en.wikipedia.org/wiki/Jeju_Island"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/South_Korea"
     ],
     "destination_country": "KR",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "Visa-Free access to Jeju Island for 30 days"
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
   },
   "KW": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Kuwait"
     ],
     "destination_country": "KW",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "3 months",
     "notes": ""
   },
   "KG": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Kyrgyzstan"
     ],
     "destination_country": "KG",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "60 days",
     "notes": ""
   },
   "LV": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Latvia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1011,9 +985,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "LB": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Lebanon"
     ],
     "destination_country": "LB",
@@ -1022,20 +996,20 @@
     "notes": ""
   },
   "LS": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Lesotho"
     ],
     "destination_country": "LS",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "LR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Liberia"
     ],
     "destination_country": "LR",
@@ -1044,9 +1018,9 @@
     "notes": ""
   },
   "LI": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Liechtenstein",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1056,9 +1030,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "LT": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Lithuania",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1068,9 +1042,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "LU": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Luxembourg",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1080,9 +1054,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "MG": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Madagascar"
     ],
     "destination_country": "MG",
@@ -1091,42 +1065,42 @@
     "notes": ""
   },
   "MW": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Malawi"
     ],
     "destination_country": "MW",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
-    "notes": ""
+    "allowed_stay": "30 days",
+    "notes": "Can extend for a total of 90 days."
   },
   "MY": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Malaysia"
     ],
     "destination_country": "MY",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "3 months",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "MV": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Maldives"
     ],
     "destination_country": "MV",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "30 days",
+    "allowed_stay": "15 days",
     "notes": ""
   },
   "ML": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Mali"
     ],
     "destination_country": "ML",
@@ -1135,9 +1109,9 @@
     "notes": ""
   },
   "MT": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Malta",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1147,20 +1121,20 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "MH": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Marshall_Islands"
     ],
     "destination_country": "MH",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "MR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Mauritania",
       "https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport"
     ],
@@ -1170,9 +1144,9 @@
     "notes": "Available at Nouakchott–Oumtounsy International Airport."
   },
   "MU": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Mauritius"
     ],
     "destination_country": "MU",
@@ -1181,9 +1155,9 @@
     "notes": ""
   },
   "MX": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Mexico"
     ],
     "destination_country": "MX",
@@ -1192,9 +1166,9 @@
     "notes": ""
   },
   "MC": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Monaco"
     ],
     "destination_country": "MC",
@@ -1203,9 +1177,9 @@
     "notes": ""
   },
   "MN": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Mongolia"
     ],
     "destination_country": "MN",
@@ -1214,9 +1188,9 @@
     "notes": ""
   },
   "MA": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Morocco"
     ],
     "destination_country": "MA",
@@ -1225,9 +1199,9 @@
     "notes": ""
   },
   "MZ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Mozambique"
     ],
     "destination_country": "MZ",
@@ -1236,32 +1210,31 @@
     "notes": ""
   },
   "MM": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Myanmar",
-      "https://en.wikipedia.org/wiki/Yangon_International_Airport"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Myanmar"
     ],
     "destination_country": "MM",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "28 days",
-    "notes": "eVisa holders must arrive via Yangon International Airport."
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "14 days",
+    "notes": ""
   },
   "NA": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Namibia"
     ],
     "destination_country": "NA",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "3 months",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
     "notes": ""
   },
   "NR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Nauru"
     ],
     "destination_country": "NR",
@@ -1270,9 +1243,9 @@
     "notes": ""
   },
   "NP": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Nepal"
     ],
     "destination_country": "NP",
@@ -1281,9 +1254,9 @@
     "notes": ""
   },
   "NL": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Netherlands",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1293,21 +1266,20 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "NZ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/New_Zealand",
-      "https://en.wikipedia.org/wiki/Right_of_abode_(United_Kingdom)"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/New_Zealand"
     ],
     "destination_country": "NZ",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "Visa not required for holders of a Certificate of Entitlement to the Right of Abode."
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
+    "notes": "Electronic Travel Authority and International Visitor Conservation and Tourism Levy must be obtained before arrival from 1 October 2019."
   },
   "NI": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Nicaragua"
     ],
     "destination_country": "NI",
@@ -1316,9 +1288,9 @@
     "notes": ""
   },
   "NE": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Niger"
     ],
     "destination_country": "NE",
@@ -1327,20 +1299,20 @@
     "notes": ""
   },
   "NG": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Nigeria"
     ],
     "destination_country": "NG",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Holders of written e-visa approval issued by Immigration Authority Headquarters in Abuja, can obtain a visa on arrival."
   },
   "NO": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Norway",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1350,31 +1322,31 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "OM": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Oman"
     ],
     "destination_country": "OM",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": "Issued free of charge."
   },
   "PK": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Pakistan"
     ],
     "destination_country": "PK",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "Electronic Travel Authorization",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Electronic Travel Authorization to obtain a visa on arrival for tourism purposes.\nElectronic Travel Authorization to obtain a visa on arrival for business purposes.\nOnline Visa eligible."
   },
   "PW": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Palau"
     ],
     "destination_country": "PW",
@@ -1383,9 +1355,9 @@
     "notes": ""
   },
   "PA": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Panama"
     ],
     "destination_country": "PA",
@@ -1394,31 +1366,31 @@
     "notes": ""
   },
   "PG": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Papua_New_Guinea"
     ],
     "destination_country": "PG",
+    "visa_requirement": "eVisa / Free visa on arrival",
+    "allowed_stay": "60 days",
+    "notes": ""
+  },
+  "PY": {
+    "passport_country": "BN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Paraguay"
+    ],
+    "destination_country": "PY",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
-  "PY": {
-    "passport_country": "TC",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Paraguay"
-    ],
-    "destination_country": "PY",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": ""
-  },
   "PE": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Peru"
     ],
     "destination_country": "PE",
@@ -1427,9 +1399,9 @@
     "notes": ""
   },
   "PH": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Philippines"
     ],
     "destination_country": "PH",
@@ -1438,9 +1410,9 @@
     "notes": ""
   },
   "PL": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Poland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1450,9 +1422,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "PT": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Portugal",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1462,21 +1434,20 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "QA": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Qatar",
-      "https://en.wikipedia.org/wiki/Hamad_International_Airport"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Qatar"
     ],
     "destination_country": "QA",
-    "visa_requirement": "Free visa on arrival",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
-    "notes": "Available at Hamad International Airport. eVisa is also available."
+    "notes": ""
   },
   "RO": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Romania"
     ],
     "destination_country": "RO",
@@ -1485,20 +1456,20 @@
     "notes": "90 days within any 180 day period"
   },
   "KN": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
     ],
     "destination_country": "KN",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "6 months",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "LC": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Saint_Lucia"
     ],
     "destination_country": "LC",
@@ -1507,20 +1478,20 @@
     "notes": ""
   },
   "VC": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
     ],
     "destination_country": "VC",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "6 months",
+    "allowed_stay": "1 month",
     "notes": ""
   },
   "WS": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Samoa"
     ],
     "destination_country": "WS",
@@ -1529,9 +1500,9 @@
     "notes": ""
   },
   "SM": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/San_Marino"
     ],
     "destination_country": "SM",
@@ -1540,9 +1511,9 @@
     "notes": ""
   },
   "SA": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Saudi_Arabia"
     ],
     "destination_country": "SA",
@@ -1551,54 +1522,53 @@
     "notes": ""
   },
   "SN": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Senegal"
     ],
     "destination_country": "SN",
-    "visa_requirement": "Visa not required",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "SC": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Seychelles"
     ],
     "destination_country": "SC",
-    "visa_requirement": "Visitor's Permit on arrival",
+    "visa_requirement": "Free Visitor's Permit on arrival",
     "allowed_stay": "3 months",
     "notes": ""
   },
   "SL": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Sierra_Leone"
     ],
     "destination_country": "SL",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Holders of a copy of a pre-arranged visa can obtain a visa on arrival."
   },
   "SG": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Singapore",
-      "https://en.wikipedia.org/wiki/Right_of_abode_(United_Kingdom)"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Singapore"
     ],
     "destination_country": "SG",
     "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
-    "notes": "90 days for holders of a Certificate of Entitlement to the Right of Abode."
+    "notes": ""
   },
   "SK": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Slovakia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1608,9 +1578,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "SI": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Slovenia",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1620,50 +1590,45 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "SB": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Solomon_Islands"
     ],
     "destination_country": "SB",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
+    "visa_requirement": "Visitor's permit on arrival",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "SO": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Somalia",
-      "https://en.wikipedia.org/wiki/Berbera",
-      "https://en.wikipedia.org/wiki/Borama",
-      "https://en.wikipedia.org/wiki/Burao",
-      "https://en.wikipedia.org/wiki/Erigavo",
-      "https://en.wikipedia.org/wiki/Hargeisa",
       "https://en.wikipedia.org/wiki/Bosaso_Airport",
       "https://en.wikipedia.org/wiki/Galcaio_Airport",
       "https://en.wikipedia.org/wiki/Mogadishu_Airport"
     ],
     "destination_country": "SO",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
-    "notes": "Available at Berbera, Borama, Burao, Erigavo and Hargeisa airports.\n30 days, available at Bosaso Airport, Galcaio Airport and Mogadishu Airport."
+    "allowed_stay": "30 days",
+    "notes": "Available at Bosaso Airport, Galcaio Airport and Mogadishu Airport."
   },
   "ZA": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/South_Africa"
     ],
     "destination_country": "ZA",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
     "notes": ""
   },
   "ES": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Spain",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1673,20 +1638,20 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "LK": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Sri_Lanka"
     ],
     "destination_country": "LK",
-    "visa_requirement": "Electronic Travel Authorization",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "SD": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Sudan"
     ],
     "destination_country": "SD",
@@ -1695,21 +1660,20 @@
     "notes": ""
   },
   "SR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Suriname",
-      "https://en.wikipedia.org/wiki/Montserratian_passport"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Suriname"
     ],
     "destination_country": "SR",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
-    "notes": "Holders of Montserratian passport are exempt."
+    "notes": ""
   },
   "SE": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Sweden",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1719,9 +1683,9 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "CH": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Switzerland",
       "https://en.wikipedia.org/wiki/Schengen_Area"
     ],
@@ -1731,31 +1695,31 @@
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
   "TJ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Tajikistan"
     ],
     "destination_country": "TJ",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "45 days",
     "notes": ""
   },
   "TH": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Thailand"
     ],
     "destination_country": "TH",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": "Maximum two visits annually if not arriving by air."
   },
   "TL": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/East_Timor"
     ],
     "destination_country": "TL",
@@ -1764,9 +1728,9 @@
     "notes": ""
   },
   "TG": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Togo"
     ],
     "destination_country": "TG",
@@ -1775,9 +1739,9 @@
     "notes": ""
   },
   "TO": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Tonga"
     ],
     "destination_country": "TO",
@@ -1786,20 +1750,20 @@
     "notes": ""
   },
   "TT": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
     ],
     "destination_country": "TT",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "TN": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Tunisia"
     ],
     "destination_country": "TN",
@@ -1808,20 +1772,20 @@
     "notes": ""
   },
   "TR": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Turkey"
     ],
     "destination_country": "TR",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "90 days",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "TM": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Turkmenistan"
     ],
     "destination_country": "TM",
@@ -1830,9 +1794,9 @@
     "notes": ""
   },
   "TV": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Tuvalu"
     ],
     "destination_country": "TV",
@@ -1841,92 +1805,90 @@
     "notes": ""
   },
   "UG": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Uganda"
     ],
     "destination_country": "UG",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "",
-    "notes": "May apply online.Can also be entered on a visa issued by Kenya or Rwanda."
+    "notes": "May apply online."
   },
   "UA": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Ukraine"
     ],
     "destination_country": "UA",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": "30 days within any 60 day period"
   },
   "AE": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/United_Arab_Emirates",
-      "https://en.wikipedia.org/wiki/Right_of_abode_(United_Kingdom)"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/United_Arab_Emirates"
     ],
     "destination_country": "AE",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "Visa on arrival for holders of a Certificate of Entitlement to the Right of Abode."
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
   },
   "GB": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/United_Kingdom"
     ],
     "destination_country": "GB",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "",
-    "notes": "Visa not required for a visit of up to six months, or if the BOTC passport holder also has a British Citizen passport and/or a certificate of the right of abode. Otherwise, a visa is required for work, study, joining family or any other stay of more than six months."
+    "allowed_stay": "6 months",
+    "notes": ""
   },
   "US": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/United_States",
-      "https://en.wikipedia.org/wiki/Bermudian_passport",
-      "https://en.wikipedia.org/wiki/Caymanian_passport",
-      "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_passport",
-      "https://en.wikipedia.org/wiki/British_Virgin_Islands_passport",
-      "https://en.wikipedia.org/wiki/United_States_Virgin_Islands"
+      "https://en.wikipedia.org/wiki/Visa_Waiver_Program",
+      "https://en.wikipedia.org/wiki/Electronic_System_for_Travel_Authorization",
+      "https://en.wikipedia.org/wiki/Guam",
+      "https://en.wikipedia.org/wiki/Northern_Mariana_Islands"
     ],
     "destination_country": "US",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "Visa not required for holders of Bermudian passport and for holders of Caymanian passport and Turks and Caicos Islands passport arriving directly from the Cayman Islands or Turks and Caicos Islands and holding a current certificate from the Clerk of the Court, indicating no criminal record. British Virgin Islands passport holders can travel to United States Virgin Islands and then continue travel to other parts of the United States if they present a Certificate of Good Conduct issued by the Royal Virgin Islands Police Department indicating no criminal record."
+    "visa_requirement": "Visa Waiver Program",
+    "allowed_stay": "90 days",
+    "notes": "On arrival from overseas; ESTA (valid for 2 years when issued) required if arriving by air or cruise ship.\nESTA is not required for Guam and Northern Mariana Islands."
   },
   "UY": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Uruguay"
     ],
     "destination_country": "UY",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
     "notes": ""
   },
   "UZ": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Uzbekistan"
     ],
     "destination_country": "UZ",
-    "visa_requirement": "eVisa",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
-    "notes": "Pre-approved visa can be picked up on arrival."
+    "notes": ""
   },
   "VU": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Vanuatu"
     ],
     "destination_country": "VU",
@@ -1935,51 +1897,47 @@
     "notes": ""
   },
   "VE": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Venezuela"
     ],
     "destination_country": "VE",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": ""
-  },
-  "YE": {
-    "passport_country": "TC",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Yemen"
-    ],
-    "destination_country": "YE",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
-  "ZM": {
-    "passport_country": "TC",
+  "YE": {
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Yemen"
+    ],
+    "destination_country": "YE",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "1 month",
+    "notes": ""
+  },
+  "ZM": {
+    "passport_country": "BN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
       "https://en.wikipedia.org/wiki/Zambia"
     ],
     "destination_country": "ZM",
-    "visa_requirement": "Visa not required",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "ZW": {
-    "passport_country": "TC",
+    "passport_country": "BN",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
-      "https://en.wikipedia.org/wiki/Zimbabwe",
-      "https://en.wikipedia.org/wiki/Anguillian_passport",
-      "https://en.wikipedia.org/wiki/Caymanian_passport",
-      "https://en.wikipedia.org/wiki/Montserratian_passport",
-      "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_passport"
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Zimbabwe"
     ],
     "destination_country": "ZW",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "Visa not required for holders of Anguillian passport, Caymanian passport, Montserratian passport, Turks and Caicos Islands passport."
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "3 months",
+    "notes": ""
   }
 }

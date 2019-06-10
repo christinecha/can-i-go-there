@@ -268,6 +268,17 @@
     "allowed_stay": "90 days",
     "notes": "90 days within any 180 day period"
   },
+  "BN": {
+    "passport_country": "SE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
+      "https://en.wikipedia.org/wiki/Brunei"
+    ],
+    "destination_country": "BN",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
   "BG": {
     "passport_country": "SE",
     "sources": [
