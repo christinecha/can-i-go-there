@@ -3,15 +3,21 @@ import countriesJSON from '../../shared/countries.json'
 function initDOM () {
   this.refs = {
     main: document.getElementsByTagName('MAIN')[0],
+
     destinationColor: document.getElementById('destination-color'),
     passportColor: document.getElementById('passport-color'),
-    destinationTypeahead: document.getElementById('destination-typeahead'),
-    passportTypeahead: document.getElementById('passport-typeahead'),
-    destination: document.getElementById('destination'),
-    passport: document.getElementById('passport'),
+
+    prompt: document.getElementById('prompt'),
+    typeahead: document.getElementById('typeahead'),
+
+    destination: document.getElementById('destination-code'),
+    passport: document.getElementById('passport-code'),
+
     requirement: document.getElementById('requirement'),
     allowedStay: document.getElementById('allowed-stay'),
     notes: document.getElementById('notes'),
+    sources: document.getElementById('sources'),
+
     optionsWrapper: document.getElementById('options-wrapper'),
     options: []
   }

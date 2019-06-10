@@ -2,49 +2,37 @@ import type from './util/type'
 import getRequirements from './util/getRequirements'
 
 function onCountrySelect (country = {}) {
-  const { code, name, colors } = country
+  const { code, colors } = country
   const color = colors ? colors[0] : ''
 
-  if (!this.state.passportSelected) {
+  if (!this.state.passport) {
     this.refs.passportColor.style.background = color
-
-    this.setState({ 
-      passportSelected: true
-    })
-
-    type(name, this.refs.passport)
-    .then(() => {
-      this.setState({ 
-        passport: code,
-        destinationFocused: true
-      })
-    })
 
     getRequirements(country)
     .then(requirements => {
       this.REQUIREMENTS_CACHE[code] = requirements
+
+      this.setState({ 
+        passport: code,
+      })
+  
+      this.refs.passport.textContent = code
     })
   }
   
-  else if (!this.state.destinationSelected) {
+  else if (!this.state.destination) {
     this.refs.destinationColor.style.background = color
+
+    this.refs.destination.textContent = code
     this.setState({ 
-      destinationSelected: true
+      destination: code,
     })
 
-    type(name, this.refs.destination)
-    .then(() => {
-      this.setState({ 
-        destination: code,
-      })
-
-      this.checkRequirements()
-    })
+    this.checkRequirements()
   }
 
-  this.setState({ 
-    typeaheadValue: '' 
-  })
+  this.refs.typeahead.value = ''
+  this.setState({ typeaheadValue: '' })
 }
 
 export default onCountrySelect

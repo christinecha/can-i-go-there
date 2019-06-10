@@ -11,29 +11,46 @@
       <div id="passport-color"></div>
       <div id="destination-color"></div>
 
-      <div class="passport-wrapper">
-        <label>If my passport is from</label>
-        <div class="passport-inputs">
-          <input id="passport-typeahead" />
-          <div id="passport" class="input"></div>
+      <div class="search-wrapper">
+          <label id="prompt"></label>
+          <div class="typeahead-wrapper">
+            <input id="typeahead" />
+          </div>
+          <div id="options-wrapper"></div>
+        </div>
+
+      <div class="countries">
+        <div class="passport-wrapper">
+            <div class="passport">
+              <label>Passport</label>
+              <div id="passport-code"></div>
+            </div>
+          </div>
+    
+          <div class="destination-wrapper">
+            <div class="destination">
+              <label>Destination</label>
+              <div id="destination-code"></div>
+          </div>
         </div>
       </div>
 
-      <br />
+      <div class="visa-info">
+        <div class="requirement-wrapper">
+          <div id="requirement"></div>
+        </div>
+        <div class="allowed-stay-wrapper">
+          <div id="allowed-stay"></div>
+        </div>        
+        
+        <div class="notes-wrapper">
+          <div id="notes"></div>
+        </div>
 
-      <div class="destination-wrapper">
-        <label>Can I go to</label>
-        <div class="destination-inputs">
-          <input id="destination-typeahead" />
-          <div id="destination" class="input"></div>
+        <div class="sources-wrapper">
+          <div id="sources"></div>
         </div>
       </div>
-
-      <div id="options-wrapper"></div>
-
-      <div id="requirement"></div>
-      <div id="allowed-stay"></div>
-      <div id="notes"></div>
     </main>
 
     <script src="/scripts/index.js"></script>

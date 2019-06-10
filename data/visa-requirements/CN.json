@@ -1,1198 +1,2047 @@
 {
   "AF": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Afghanistan",
+      "#cite_note-11",
+      "#cite_note-12"
+    ],
     "destination_country": "AF",
-    "visa_requirement": "Visa required[11]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "An introducing letter (from employer/organization/university/etc.) is required.[12]"
+    "notes": "An introducing letter (from employer/organization/university/etc.) is required."
   },
   "AL": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Albania",
+      "#cite_note-13",
+      "#cite_note-14"
+    ],
     "destination_country": "AL",
-    "visa_requirement": "Visa not required[13]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "",
-    "notes": "Albania offers visa-free travel for Chinese citizens on a temporary basis during the tourist season, valid from 1 March to 31 October 2019.[14]"
+    "notes": "Albania offers visa-free travel for Chinese citizens on a temporary basis during the tourist season, valid from 1 March to 31 October 2019."
   },
   "DZ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Algeria",
+      "#cite_note-15"
+    ],
     "destination_country": "DZ",
-    "visa_requirement": "Visa required[15]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "AD": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Andorra",
+      "#cite_note-16"
+    ],
     "destination_country": "AD",
-    "visa_requirement": "Visa required[16]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Although officially no visa is required, at least a Double Entry Schengen visa is required to enter Andorra since it has no own airport facility."
   },
   "AO": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Angola",
+      "#cite_note-17",
+      "#cite_note-18",
+      "#cite_note-19",
+      "#cite_note-20"
+    ],
     "destination_country": "AO",
-    "visa_requirement": "eVisa[17][18]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "30 days",
-    "notes": "Visitors who have been granted an online pre-visa or have requested such pre-visa from the consulates of Angola abroad, are then issued with a visa on arrival at the country's border check points.\nFor a maximum total stay of 90 days within a one year period.[19]\nBesides having printed confirmation that a visa will be issued upon arrival, passengers must: have a return/onward ticket, and have a hotel reservation confirmation.[20]"
+    "notes": "Visitors who have been granted an online pre-visa or have requested such pre-visa from the consulates of Angola abroad, are then issued with a visa on arrival at the country's border check points.\nFor a maximum total stay of 90 days within a one year period.\nBesides having printed confirmation that a visa will be issued upon arrival, passengers must: have a return/onward ticket, and have a hotel reservation confirmation."
   },
   "AG": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Antigua_and_Barbuda",
+      "#cite_note-21"
+    ],
     "destination_country": "AG",
-    "visa_requirement": "Visa not required[21]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "AR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Argentina",
+      "#cite_note-22",
+      "#cite_note-23",
+      "#cite_note-24"
+    ],
     "destination_country": "AR",
-    "visa_requirement": "Visa required[22]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Chinese citizens with an American Visa B2 or a Schengen Visa will require an electronic travel authorization (AVE) when traveling to Argentina as tourists for a period of up to 90 days.[23]\nAs of 1 October 2017 visas are issued with a 10-year validity period.[24]"
+    "notes": "Chinese citizens with an American Visa B2 or a Schengen Visa will require an electronic travel authorization (AVE) when traveling to Argentina as tourists for a period of up to 90 days.\nAs of 1 October 2017 visas are issued with a 10-year validity period."
   },
   "AM": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Armenia",
+      "#cite_note-25",
+      "#cite_note-26",
+      "#cite_note-27"
+    ],
     "destination_country": "AM",
-    "visa_requirement": "eVisa / Visa on arrival[25][26]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "120 days",
-    "notes": "Holders of passports for public affairs do not require a visa for up to 30 days.[27]"
+    "notes": "Holders of passports for public affairs do not require a visa for up to 30 days."
   },
   "AU": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Australia",
+      "#cite_note-28",
+      "#cite_note-29",
+      "/wiki/SmartGate",
+      "#cite_note-30"
+    ],
     "destination_country": "AU",
-    "visa_requirement": "Visa required[28]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).[29]\nEffective from 20 June 2016, Chinese biometric passport holders use automated passport control SmartGate on arrival to Australia.[30]"
+    "notes": "May apply online (Online Visitor e600 visa and Online e400 work visa).\nEffective from 20 June 2016, Chinese biometric passport holders use automated passport control SmartGate on arrival to Australia."
   },
   "AT": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Austria",
+      "#cite_note-31"
+    ],
     "destination_country": "AT",
-    "visa_requirement": "Visa required[31]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "AZ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Azerbaijan",
+      "#cite_note-32",
+      "#cite_note-:0-7",
+      "#cite_note-33",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "AZ",
-    "visa_requirement": "eVisa / Visa on arrival[32]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "30 days",
-    "notes": "Available at airports[7] eVisa is also available.[33]\nHolders of passports for public affairs do not require a visa.[34]"
+    "notes": "Available at airports eVisa is also available.\nHolders of passports for public affairs do not require a visa."
   },
   "BS": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/The_Bahamas",
+      "#cite_note-35",
+      "#cite_note-36"
+    ],
     "destination_country": "BS",
-    "visa_requirement": "Visa not required[35]",
-    "allowed_stay": "3 months[36]",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "BH": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Bahrain",
+      "#cite_note-37"
+    ],
     "destination_country": "BH",
-    "visa_requirement": "eVisa / Visa on arrival[37]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "14 days",
     "notes": ""
   },
   "BD": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Bangladesh",
+      "#cite_note-38",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "BD",
-    "visa_requirement": "Visa on arrival[38]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days.",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "BB": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Barbados",
+      "#cite_note-39"
+    ],
     "destination_country": "BB",
-    "visa_requirement": "Visa not required[39]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "BY": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Belarus",
+      "#cite_note-40",
+      "#cite_note-41",
+      "#cite_note-42",
+      "#cite_note-43"
+    ],
     "destination_country": "BY",
-    "visa_requirement": "Visa not required[40]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
-    "notes": "Visa free for 30 days, for a maximum total stay of 90 days within any year period.[41][42]\nHolders of passports for public affairs do not require a visa for up to 30 days.[43]"
+    "notes": "Visa free for 30 days, for a maximum total stay of 90 days within any year period.\nHolders of passports for public affairs do not require a visa for up to 30 days."
   },
   "BE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Belgium",
+      "#cite_note-44"
+    ],
     "destination_country": "BE",
-    "visa_requirement": "Visa required[44]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BZ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Belize",
+      "#cite_note-45",
+      "#cite_note-46"
+    ],
     "destination_country": "BZ",
-    "visa_requirement": "Visa required[45]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Visa is not required for cruise passengers.[46]"
+    "notes": "Visa is not required for cruise passengers."
   },
   "BJ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Benin",
+      "#cite_note-47",
+      "#cite_note-48"
+    ],
     "destination_country": "BJ",
-    "visa_requirement": "eVisa / Visa on arrival[47][48]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "30 days / 8 days",
     "notes": "Must have an international vaccination certificate.\nVisa is not required when traveling on duty for up to 90 days."
   },
   "BT": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Bhutan",
+      "#cite_note-49"
+    ],
     "destination_country": "BT",
-    "visa_requirement": "Visa required[49]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BO": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Bolivia",
+      "#cite_note-50",
+      "#cite_note-51",
+      "#cite_note-52",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "BO",
-    "visa_requirement": "Visa on arrival[50]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "",
-    "notes": "Visa valid for up to 90 days can be issued on arrival with evidence of onward tickets or booked hotel.[51] Bolivian embassy in Beijing also confirmed that Chinese nationals can get visa on arrival at airport or land checkpoint on 27 December 2017[52]\nHolders of passports for public affairs do not require a visa.[34]"
+    "notes": "Visa valid for up to 90 days can be issued on arrival with evidence of onward tickets or booked hotel. Bolivian embassy in Beijing also confirmed that Chinese nationals can get visa on arrival at airport or land checkpoint on 27 December 2017\nHolders of passports for public affairs do not require a visa."
   },
   "BA": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Bosnia_and_Herzegovina",
+      "#cite_note-53",
+      "#cite_note-54"
+    ],
     "destination_country": "BA",
-    "visa_requirement": "Visa not required[53]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "In any 180-day period.[54]"
+    "notes": "In any 180-day period."
   },
   "BW": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Botswana",
+      "#cite_note-55"
+    ],
     "destination_country": "BW",
-    "visa_requirement": "Visa required[55]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Brazil",
+      "#cite_note-56",
+      "#cite_note-57"
+    ],
     "destination_country": "BR",
-    "visa_requirement": "Visa required[56]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "As of 1 October 2017 visas are issued with a five-year validity period.[57]"
+    "notes": "As of 1 October 2017 visas are issued with a five-year validity period."
   },
   "BG": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Bulgaria",
+      "#cite_note-60"
+    ],
     "destination_country": "BG",
-    "visa_requirement": "Visa required[60]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "National visa may be substituted with a valid visa issued by a Schengen Area member state."
   },
   "BF": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Burkina_Faso",
+      "#cite_note-61"
+    ],
     "destination_country": "BF",
-    "visa_requirement": "Visa required[61]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BI": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Burundi",
+      "#cite_note-62",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "BI",
-    "visa_requirement": "Visa required[62]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "KH": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Cambodia",
+      "#cite_note-63",
+      "#cite_note-64"
+    ],
     "destination_country": "KH",
-    "visa_requirement": "eVisa / Visa on arrival[63]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "",
-    "notes": "Visas valid for 30 days can be obtained on arrival or online.[64]"
+    "notes": "Visas valid for 30 days can be obtained on arrival or online."
   },
   "CM": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Cameroon",
+      "#cite_note-65"
+    ],
     "destination_country": "CM",
-    "visa_requirement": "Visa required[65]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CA": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Canada",
+      "#cite_note-66",
+      "#cite_note-67",
+      "/wiki/Electronic_Travel_Authorization_(Canada)"
+    ],
     "destination_country": "CA",
-    "visa_requirement": "Visa required[66]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "No transit visa is required if transiting Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only), Vancouver International or Winnipeg Airports to or from the United States on same travel day (no overnight stay) while holding valid US visa and travelling on selected airlines. Need to departure through approved airports if travelling to the United States.[67]\nVisa is not required for permanent residents of the United States. An eTA is required by permanent residents of US if travelling by air."
+    "notes": "No transit visa is required if transiting Calgary, Montreal Trudeau (Air Canada Flights only), Toronto Pearson (Terminal 1 only), Vancouver International or Winnipeg Airports to or from the United States on same travel day (no overnight stay) while holding valid US visa and travelling on selected airlines. Need to departure through approved airports if travelling to the United States.\nVisa is not required for permanent residents of the United States. An eTA is required by permanent residents of US if travelling by air."
   },
   "CV": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Cape_Verde",
+      "#cite_note-68"
+    ],
     "destination_country": "CV",
-    "visa_requirement": "Visa on arrival[68]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "CF": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Central_African_Republic",
+      "#cite_note-69"
+    ],
     "destination_country": "CF",
-    "visa_requirement": "Visa required[69]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "TD": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Chad",
+      "#cite_note-70"
+    ],
     "destination_country": "TD",
-    "visa_requirement": "Visa required[70]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CL": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Chile",
+      "#cite_note-71"
+    ],
     "destination_country": "CL",
-    "visa_requirement": "Visa required[71]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "National visa may be substituted with a visa issued by Canada or the United States which is valid for a minimum of 6 months from the arrival date."
   },
   "CO": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Colombia",
+      "#cite_note-72",
+      "#cite_note-73"
+    ],
     "destination_country": "CO",
-    "visa_requirement": "Visa required[72]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "National visa may be substituted with a visa issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.[73]"
+    "notes": "National visa may be substituted with a visa issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date."
   },
   "KM": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Comoros",
+      "#cite_note-74",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "KM",
-    "visa_requirement": "Visa on arrival[74]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "45 days",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "CR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Costa_Rica",
+      "#cite_note-77"
+    ],
     "destination_country": "CR",
-    "visa_requirement": "Visa required[77]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Holders of passports for public affairs do not require a visa for stays up to 30 days.\nNational visa may be substituted with a visa issued by Canada or the United States."
   },
   "HR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Croatia",
+      "#cite_note-79"
+    ],
     "destination_country": "HR",
-    "visa_requirement": "Visa required[79]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "National visa may be substituted with a visa issued by a Schengen Area member state."
   },
   "CU": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Cuba",
+      "#cite_note-80"
+    ],
     "destination_country": "CU",
-    "visa_requirement": "Tourist Card Required[80]",
+    "visa_requirement": "Tourist Card Required",
     "allowed_stay": "",
     "notes": "Tourist Card is valid for a maximum stay of 30 days and is obtained in advance."
   },
   "CY": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Cyprus",
+      "#cite_note-81",
+      "#cite_note-82"
+    ],
     "destination_country": "CY",
-    "visa_requirement": "Visa required[81]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Holders of valid double or multiple entry Schengen visa or Bulgarian, Croatian and Romanian, as well as residence permits issued by Schengen Member States or by Bulgaria, Croatia and Romania, are not required to hold a short-stay visa to enter the Republic of Cyprus for a time period that does not exceed 90 days in any 180 day period. [82]"
+    "notes": "Holders of valid double or multiple entry Schengen visa or Bulgarian, Croatian and Romanian, as well as residence permits issued by Schengen Member States or by Bulgaria, Croatia and Romania, are not required to hold a short-stay visa to enter the Republic of Cyprus for a time period that does not exceed 90 days in any 180 day period."
   },
   "CZ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Czech_Republic",
+      "#cite_note-83"
+    ],
     "destination_country": "CZ",
-    "visa_requirement": "Visa required[83]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "DK": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Denmark",
+      "#cite_note-84"
+    ],
     "destination_country": "DK",
-    "visa_requirement": "Visa required[84]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "DJ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Djibouti",
+      "#cite_note-85",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "DJ",
-    "visa_requirement": "eVisa[85]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "31 days",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "DM": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Dominica",
+      "#cite_note-86"
+    ],
     "destination_country": "DM",
-    "visa_requirement": "Visa not required[86]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "21 days",
     "notes": ""
   },
   "DO": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Dominican_Republic",
+      "#cite_note-87"
+    ],
     "destination_country": "DO",
-    "visa_requirement": "Visa required[87]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Holders of a visa issued by Canada, United States, United Kingdom, Ireland, Bulgaria, Croatia, Cyprus, Romania and any Schengen Area country can obtain a Tourist Card on arrival for a maximum stay of 30 days. United Kingdom residents can obtain a Tourist Card on arrival for a maximum stay of 90 days."
   },
   "EC": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Ecuador",
+      "#cite_note-88"
+    ],
     "destination_country": "EC",
-    "visa_requirement": "Visa not required[88]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": "90 days within any one-year period"
   },
   "EG": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Egypt",
+      "#cite_note-89",
+      "/wiki/IATA",
+      "#cite_note-90",
+      "#cite_note-91",
+      "#cite_note-92"
+    ],
     "destination_country": "EG",
-    "visa_requirement": "Visa on arrival[89]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "",
-    "notes": "According to Egyptian diplomatic missions in China, Chinese citizens can apply for a visa on arrival since 19 July 2016 and can stay for up 30 days. However, according to IATA, Chinese citizens are visa exempt for 30 days if they hold a return ticket, a reservation in a 4 or 5 star hotel, and USD 2000.[90][91][92]"
+    "notes": "According to Egyptian diplomatic missions in China, Chinese citizens can apply for a visa on arrival since 19 July 2016 and can stay for up 30 days. However, according to IATA, Chinese citizens are visa exempt for 30 days if they hold a return ticket, a reservation in a 4 or 5 star hotel, and USD 2000."
   },
   "SV": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/El_Salvador",
+      "#cite_note-93",
+      "#cite_note-94"
+    ],
     "destination_country": "SV",
-    "visa_requirement": "Visa required[93]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "National visa may be substituted with a valid visa issued by a Schengen Area member state, Canada or the United States.[94]"
+    "notes": "National visa may be substituted with a valid visa issued by a Schengen Area member state, Canada or the United States."
   },
   "GQ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Equatorial_Guinea",
+      "#cite_note-95"
+    ],
     "destination_country": "GQ",
-    "visa_requirement": "Visa not required[95]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "",
     "notes": ""
   },
   "ER": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Eritrea",
+      "#cite_note-96",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "ER",
-    "visa_requirement": "Visa required[96]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "EE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Estonia",
+      "#cite_note-97"
+    ],
     "destination_country": "EE",
-    "visa_requirement": "Visa required[97]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "ET": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Ethiopia",
+      "#cite_note-99",
+      "/wiki/Addis_Ababa_Bole_International_Airport",
+      "#cite_note-100",
+      "/wiki/Addis_Ababa_Bole_International_Airport",
+      "#cite_note-101",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "ET",
-    "visa_requirement": "eVisa / Visa on arrival[99]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "up to 90 days",
-    "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.[100]\neVisa holders must arrive via Addis Ababa Bole International Airport.\neVisas are available for 30 or 90 days.[101]\nVisa free for holders of passports for public affairs.[34]"
+    "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\neVisa holders must arrive via Addis Ababa Bole International Airport.\neVisas are available for 30 or 90 days.\nVisa free for holders of passports for public affairs."
   },
   "FJ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Fiji",
+      "#cite_note-102"
+    ],
     "destination_country": "FJ",
-    "visa_requirement": "Visa not required[102]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "4 months",
     "notes": ""
   },
   "FI": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Finland",
+      "#cite_note-103"
+    ],
     "destination_country": "FI",
-    "visa_requirement": "Visa required[103]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "FR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/France",
+      "#cite_note-104"
+    ],
     "destination_country": "FR",
-    "visa_requirement": "Visa required[104]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "GA": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Gabon",
+      "#cite_note-105",
+      "#cite_note-106",
+      "/wiki/Libreville_International_Airport",
+      "#cite_note-107",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "GA",
-    "visa_requirement": "eVisa / Visa on arrival[105]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "",
-    "notes": "Starting from 20 December 2017, 90 days visa on arrival can be obtained at Libreville Airport.[106]\nElectronic visa holders must arrive via Libreville International Airport.[107]\nHolders of passports for public affairs do not require a visa.[34]"
+    "notes": "Starting from 20 December 2017, 90 days visa on arrival can be obtained at Libreville Airport.\nElectronic visa holders must arrive via Libreville International Airport.\nHolders of passports for public affairs do not require a visa."
   },
   "GM": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/The_Gambia",
+      "#cite_note-108",
+      "#cite_note-109"
+    ],
     "destination_country": "GM",
-    "visa_requirement": "Visa not required[108]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "An entry clearance must be obtained from the Gambian Immigration prior to travel.\nEntry clearance is not required if traveling as tourists on a charter flight.[109]"
+    "notes": "An entry clearance must be obtained from the Gambian Immigration prior to travel.\nEntry clearance is not required if traveling as tourists on a charter flight."
   },
   "GE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Georgia_(country)",
+      "#cite_note-110",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "GE",
-    "visa_requirement": "eVisa[110]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "30 days",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "DE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Germany",
+      "#cite_note-111"
+    ],
     "destination_country": "DE",
-    "visa_requirement": "Visa required[111]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "GH": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Ghana",
+      "#cite_note-112"
+    ],
     "destination_country": "GH",
-    "visa_requirement": "Visa required[112]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "GR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Greece",
+      "#cite_note-113"
+    ],
     "destination_country": "GR",
-    "visa_requirement": "Visa required[113]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "GD": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Grenada",
+      "#cite_note-114",
+      "#cite_note-115"
+    ],
     "destination_country": "GD",
-    "visa_requirement": "Visa not required[114]",
-    "allowed_stay": "30 days[115]",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "GT": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Guatemala",
+      "#cite_note-116"
+    ],
     "destination_country": "GT",
-    "visa_requirement": "Visa required[116]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "GN": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Guinea",
+      "#cite_note-117",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "GN",
-    "visa_requirement": "Visa required[117]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "GW": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Guinea-Bissau",
+      "#cite_note-118"
+    ],
     "destination_country": "GW",
-    "visa_requirement": "eVisa / Visa on arrival[118]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "GY": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Guyana",
+      "#cite_note-119"
+    ],
     "destination_country": "GY",
-    "visa_requirement": "Visa required[119]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Holders of passports for public affairs do not require a visa."
   },
   "HT": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Haiti",
+      "#cite_note-120"
+    ],
     "destination_country": "HT",
-    "visa_requirement": "Visa not required[120]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "3 months",
     "notes": ""
   },
   "HN": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Honduras",
+      "#cite_note-121"
+    ],
     "destination_country": "HN",
-    "visa_requirement": "Visa required[121]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "National visa may be substituted with a valid visa issued by Canada, the United States, or a Schengen Area member state, or a residence permit of the United Kingdom, Japan, Singapore, Australia and New Zealand."
   },
   "HU": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Hungary",
+      "#cite_note-122"
+    ],
     "destination_country": "HU",
-    "visa_requirement": "Visa required[122]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "IS": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Iceland",
+      "#cite_note-123"
+    ],
     "destination_country": "IS",
-    "visa_requirement": "Visa required[123]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "IN": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/India",
+      "#cite_note-124",
+      "#cite_note-Airports-125",
+      "#cite_note-Seaports-126",
+      "#cite_note-127"
+    ],
     "destination_country": "IN",
-    "visa_requirement": "e-Visa[124]",
+    "visa_requirement": "e-Visa",
     "allowed_stay": "60 days",
-    "notes": "e-Visa holders must arrive via 26 designated airports[Note 1] or 3 designated seaports.[Note 2][125]\nAn Indian e-Tourist Visa can only be obtained twice in one calendar year."
+    "notes": "e-Visa holders must arrive via 26 designated airports or 3 designated seaports.\nAn Indian e-Tourist Visa can only be obtained twice in one calendar year."
   },
   "ID": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Indonesia",
+      "#cite_note-128"
+    ],
     "destination_country": "ID",
-    "visa_requirement": "Visa not required[126]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "IQ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Iraq",
+      "#cite_note-132"
+    ],
     "destination_country": "IQ",
-    "visa_requirement": "Visa required[130]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "IE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Republic_of_Ireland",
+      "#cite_note-133",
+      "#cite_note-134",
+      "/wiki/Common_Travel_Area",
+      "#cite_note-135"
+    ],
     "destination_country": "IE",
-    "visa_requirement": "Visa required[131]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "National visa may be substituted with a valid C visa or visas endorsed with BIVS issued by the United Kingdom until October 2021.[132] Entry is permitted only if a first point of entry to the Common Travel Area was in the UK.[133]"
+    "notes": "National visa may be substituted with a valid C visa or visas endorsed with BIVS issued by the United Kingdom until October 2021. Entry is permitted only if a first point of entry to the Common Travel Area was in the UK."
   },
   "IL": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Israel",
+      "#cite_note-136",
+      "#cite_note-137"
+    ],
     "destination_country": "IL",
-    "visa_requirement": "Visa required[134]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "As of 2017 visas are issued with a 10-year validity period.[135]"
+    "notes": "As of 2017 visas are issued with a 10-year validity period."
   },
   "IT": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Italy",
+      "#cite_note-138"
+    ],
     "destination_country": "IT",
-    "visa_requirement": "Visa required[136]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "JM": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Jamaica",
+      "#cite_note-139"
+    ],
     "destination_country": "JM",
-    "visa_requirement": "Visa not required[137]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "JP": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Japan",
+      "#cite_note-140",
+      "#cite_note-141",
+      "#cite_note-142",
+      "#cite_note-143"
+    ],
     "destination_country": "JP",
-    "visa_requirement": "Visa required[138]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Passengers of approved cruise ships do not require a visa from April 2015.[139][140]\nVisa application requirements were simplified for Chinese citizens in May 2017.[141]"
+    "notes": "Passengers of approved cruise ships do not require a visa from April 2015.\nVisa application requirements were simplified for Chinese citizens in May 2017."
   },
   "JO": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Jordan",
+      "#cite_note-144"
+    ],
     "destination_country": "JO",
-    "visa_requirement": "Visa on arrival[142]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "KZ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Kazakhstan",
+      "#cite_note-145"
+    ],
     "destination_country": "KZ",
-    "visa_requirement": "Visa required[143]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "KE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Kenya",
+      "#cite_note-146"
+    ],
     "destination_country": "KE",
-    "visa_requirement": "eVisa / Visa on arrival[144]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "3 months",
     "notes": ""
   },
   "KI": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Kiribati",
+      "#cite_note-147"
+    ],
     "destination_country": "KI",
-    "visa_requirement": "Visa required[145]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "KP": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/North_Korea",
+      "#cite_note-148",
+      "/wiki/Tongnim_County",
+      "#cite_note-149",
+      "/wiki/Sinuiju",
+      "#cite_note-150",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "KP",
-    "visa_requirement": "Visa required[146]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Chinese tourists may visit Tongnim County without a visa for 2 days.[147] They may also visit Sinuiju for a day trip without a visa.[148]\nHolders of passports for public affairs do not require a visa.[34]"
+    "notes": "Chinese tourists may visit Tongnim County without a visa for 2 days. They may also visit Sinuiju for a day trip without a visa.\nHolders of passports for public affairs do not require a visa."
   },
   "KR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/South_Korea",
+      "#cite_note-151",
+      "/wiki/Jeju_Island",
+      "#cite_note-152",
+      "/wiki/Jeju_Island",
+      "/wiki/Seoul",
+      "/wiki/Busan",
+      "/wiki/Cheongju",
+      "/wiki/Muan",
+      "/wiki/Yangyang",
+      "#cite_note-153",
+      "#cite_note-154"
+    ],
     "destination_country": "KR",
-    "visa_requirement": "Visa required[149]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Visa is not required for visits to Jeju Island for up to 30 days.[150] If travelling by air to Jeju Island via Seoul, Busan, Cheongju, Muan and Yangyang, Chinese citizens travelling as part of a tourist group by authorized travel agent may stay in mainland South Korea for up to 15 days.[151]\nConditional visa free (15 days) from 1 December 2017 to 31 March 2018 if the Chinese nationals had applied tourist visa within five years, or hold public affairs passport. Landing permit for cruise passenger can be issued not only to group tourist but also to individual tourist from 1 Jan 2018[152]\nVisa is not required for holders of US green cards when in transit to/from US and a third country for a stay of 30 days."
+    "notes": "Visa is not required for visits to Jeju Island for up to 30 days. If travelling by air to Jeju Island via Seoul, Busan, Cheongju, Muan and Yangyang, Chinese citizens travelling as part of a tourist group by authorized travel agent may stay in mainland South Korea for up to 15 days.\nConditional visa free (15 days) from 1 December 2017 to 31 March 2018 if the Chinese nationals had applied tourist visa within five years, or hold public affairs passport. Landing permit for cruise passenger can be issued not only to group tourist but also to individual tourist from 1 Jan 2018\nVisa is not required for holders of US green cards when in transit to/from US and a third country for a stay of 30 days."
   },
   "KW": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Kuwait",
+      "#cite_note-155"
+    ],
     "destination_country": "KW",
-    "visa_requirement": "Visa required[153]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Holders of passports for public affairs do not require a visa for up to 30 days."
   },
   "KG": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Kyrgyzstan",
+      "#cite_note-156",
+      "/wiki/Manas_International_Airport",
+      "/wiki/Osh_Airport",
+      "/wiki/China",
+      "/wiki/Irkeshtam",
+      "/wiki/Torugart",
+      "/wiki/Kazakhstan",
+      "/wiki/Ak-Jol,_Chuy",
+      "/wiki/Ysyk-Ata_District",
+      "/wiki/Chaldybar",
+      "/wiki/Manas_District",
+      "/wiki/Tajikistan",
+      "/wiki/Alay_District",
+      "/wiki/Kulundu",
+      "/wiki/Batken_District",
+      "/wiki/Uzbekistan",
+      "/wiki/Dostuk",
+      "#cite_note-157"
+    ],
     "destination_country": "KG",
-    "visa_requirement": "eVisa[154]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
-    "notes": "Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk).[155]"
+    "notes": "Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk)."
   },
   "LV": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Latvia",
+      "#cite_note-162"
+    ],
     "destination_country": "LV",
-    "visa_requirement": "Visa required[158]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "LB": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Lebanon",
+      "#cite_note-163"
+    ],
     "destination_country": "LB",
-    "visa_requirement": "Visa on arrival[159]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "1 month",
     "notes": "Extendable for 2 additional months."
   },
   "LS": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Lesotho",
+      "#cite_note-164",
+      "#cite_note-165"
+    ],
     "destination_country": "LS",
-    "visa_requirement": "eVisa[160][161]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
   "LR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Liberia",
+      "#cite_note-166"
+    ],
     "destination_country": "LR",
-    "visa_requirement": "Visa required[162]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "LI": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Liechtenstein",
+      "#cite_note-168"
+    ],
     "destination_country": "LI",
-    "visa_requirement": "Visa required[164]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "LT": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Lithuania",
+      "#cite_note-169"
+    ],
     "destination_country": "LT",
-    "visa_requirement": "Visa required[165]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "LU": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Luxembourg",
+      "#cite_note-170"
+    ],
     "destination_country": "LU",
-    "visa_requirement": "Visa required[166]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "MG": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Madagascar",
+      "#cite_note-171"
+    ],
     "destination_country": "MG",
-    "visa_requirement": "Visa on arrival[167]",
-    "allowed_stay": "30 days",
-    "notes": "Free of charge."
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
   },
   "MW": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Malawi",
+      "#cite_note-172"
+    ],
     "destination_country": "MW",
-    "visa_requirement": "Visa on arrival[168]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "",
     "notes": ""
   },
   "MY": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Malaysia",
+      "#cite_note-173",
+      "#cite_note-174",
+      "#cite_note-175"
+    ],
     "destination_country": "MY",
-    "visa_requirement": "Online registration or eVisa[169]",
+    "visa_requirement": "Online registration or eVisa",
     "allowed_stay": "",
-    "notes": "Between 1 March 2016 and 31 December 2017, Chinese citizens do not require a visa for Malaysia for a stay of up to 15 days, however online registration prior to arrival is required.[170][171]"
+    "notes": "Between 1 March 2016 and 31 December 2017, Chinese citizens do not require a visa for Malaysia for a stay of up to 15 days, however online registration prior to arrival is required."
   },
   "MV": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Maldives",
+      "#cite_note-176"
+    ],
     "destination_country": "MV",
-    "visa_requirement": "Visa on arrival[172]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "ML": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Mali",
+      "#cite_note-177",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "ML",
-    "visa_requirement": "Visa required[173]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "MT": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Malta",
+      "#cite_note-178"
+    ],
     "destination_country": "MT",
-    "visa_requirement": "Visa required[174]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "MH": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Marshall_Islands",
+      "#cite_note-179"
+    ],
     "destination_country": "MH",
-    "visa_requirement": "Visa required[175]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "MR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Mauritania",
+      "#cite_note-180",
+      "/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "MR",
-    "visa_requirement": "Visa on arrival[176]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "",
-    "notes": "Available at Nouakchott–Oumtounsy International Airport.\nHolders of passports for public affairs do not require a visa.[34]"
+    "notes": "Available at Nouakchott–Oumtounsy International Airport.\nHolders of passports for public affairs do not require a visa."
   },
   "MU": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Mauritius",
+      "#cite_note-181"
+    ],
     "destination_country": "MU",
-    "visa_requirement": "Visa not required[177]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "MX": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Mexico",
+      "#cite_note-182",
+      "#cite_note-183"
+    ],
     "destination_country": "MX",
-    "visa_requirement": "Visa required[178]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "National visa may be substituted with a valid visa issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state. Also visa is not required for cruise ship passengers.[179]"
+    "notes": "National visa may be substituted with a valid visa issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state. Also visa is not required for cruise ship passengers."
   },
   "MC": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Monaco",
+      "#cite_note-187"
+    ],
     "destination_country": "MC",
-    "visa_requirement": "Visa required[183]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "MN": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Mongolia",
+      "#cite_note-188",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "MN",
-    "visa_requirement": "Visa required[184]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "MA": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Morocco",
+      "#cite_note-191"
+    ],
     "destination_country": "MA",
-    "visa_requirement": "Visa not required[187]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "MZ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Mozambique",
+      "#cite_note-192",
+      "#cite_note-193"
+    ],
     "destination_country": "MZ",
-    "visa_requirement": "Visa on arrival[188]",
-    "allowed_stay": "30 days[189]",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "MM": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Myanmar",
+      "#cite_note-194",
+      "#cite_note-195",
+      "/wiki/Yangon_International_Airport",
+      "/wiki/Naypyidaw_Airport",
+      "/wiki/Mandalay_International_Airport",
+      "/wiki/Thailand",
+      "/wiki/Tachileik",
+      "/wiki/Myawaddy",
+      "/wiki/Kawthaung",
+      "/wiki/India",
+      "/w/index.php?title=Rih_Khaw_Dar&action=edit&redlink=1",
+      "/wiki/Tamu,_Myanmar",
+      "/wiki/Yangon_International_Airport",
+      "/wiki/Naypyidaw_Airport",
+      "/wiki/Mandalay_International_Airport",
+      "/wiki/Automated_border_control_system",
+      "#cite_note-196"
+    ],
     "destination_country": "MM",
-    "visa_requirement": "eVisa / Visa on arrival[190][191]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "28/30 days",
-    "notes": "eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\neVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.\nVisa on arrival can be issued at Yangon, Nay Pyi Taw or Mandalay airport and is valid for 30 days.\nResidents in bordering provinces can apply for an entry-exit pass that work with their automated border control system to expedite crossing[192]"
+    "notes": "eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\neVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.\nVisa on arrival can be issued at Yangon, Nay Pyi Taw or Mandalay airport and is valid for 30 days.\nResidents in bordering provinces can apply for an entry-exit pass that work with their automated border control system to expedite crossing"
   },
   "NA": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Namibia",
+      "#cite_note-197"
+    ],
     "destination_country": "NA",
-    "visa_requirement": "Visa required[193]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Nauru",
+      "#cite_note-198"
+    ],
     "destination_country": "NR",
-    "visa_requirement": "Visa required[194]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NP": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Nepal",
+      "#cite_note-199",
+      "#cite_note-200"
+    ],
     "destination_country": "NP",
-    "visa_requirement": "Free visa on arrival[195]",
+    "visa_requirement": "Free visa on arrival",
     "allowed_stay": "",
-    "notes": "Visa is issued free of charge for tourists.[196]"
+    "notes": "Visa is issued free of charge for tourists."
   },
   "NL": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Netherlands",
+      "#cite_note-201"
+    ],
     "destination_country": "NL",
-    "visa_requirement": "Visa required[197]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NZ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/New_Zealand",
+      "#cite_note-202",
+      "#cite_note-203",
+      "#cite_note-204",
+      "/wiki/SmartGate",
+      "#cite_note-205"
+    ],
     "destination_country": "NZ",
-    "visa_requirement": "Visa required[198]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Visa is not required for Australian permanent residents and holders of Australian resident return visas.[199]\n5 Year visa are issued for partial applicant from 8 May 2017[200] Chinese biometric passport holders can use automated passport control SmartGate on arrival to New Zealand.[201]"
+    "notes": "Visa is not required for Australian permanent residents and holders of Australian resident return visas.\n5 Year visa are issued for partial applicant from 8 May 2017 Chinese biometric passport holders can use automated passport control SmartGate on arrival to New Zealand."
   },
   "NI": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Nicaragua",
+      "#cite_note-206"
+    ],
     "destination_country": "NI",
-    "visa_requirement": "Visa required[202]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Niger",
+      "#cite_note-207"
+    ],
     "destination_country": "NE",
-    "visa_requirement": "Visa required[203]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NG": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Nigeria",
+      "#cite_note-208",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "NG",
-    "visa_requirement": "Visa required[204]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "NO": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Norway",
+      "#cite_note-210"
+    ],
     "destination_country": "NO",
-    "visa_requirement": "Visa required[206]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "OM": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Oman",
+      "#cite_note-211",
+      "#cite_note-212"
+    ],
     "destination_country": "OM",
-    "visa_requirement": "eVisa[207][208]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "PK": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Pakistan",
+      "#cite_note-213",
+      "#cite_note-214",
+      "#cite_note-215",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "PK",
-    "visa_requirement": "Online Visa[209]",
+    "visa_requirement": "Online Visa",
     "allowed_stay": "",
-    "notes": "Online Visa eligible.[210]\nElectronic Travel Authorization to obtain a visa on arrival for business purposes.[211]\nHolders of passports for public affairs do not require a visa.[34]"
+    "notes": "Online Visa eligible.\nElectronic Travel Authorization to obtain a visa on arrival for business purposes.\nHolders of passports for public affairs do not require a visa."
   },
   "PW": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Palau",
+      "#cite_note-216",
+      "#cite_note-217"
+    ],
     "destination_country": "PW",
-    "visa_requirement": "Visa on arrival[212]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
-    "notes": "The Chinese government declared Palau as an illegal destination in August 2018[213]"
+    "notes": "The Chinese government declared Palau as an illegal destination in August 2018"
   },
   "PA": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Panama",
+      "#cite_note-218"
+    ],
     "destination_country": "PA",
-    "visa_requirement": "Visa required[214]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "National visa may be substituted with a valid visa issued by Australia, Canada, the United States or the United Kingdom for up to 30 days."
   },
   "PG": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Papua_New_Guinea",
+      "#cite_note-219"
+    ],
     "destination_country": "PG",
-    "visa_requirement": "Visa required[215]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Holders of passports for public affairs can obtain visa on arrival at Port Moresby airport valid for up to 30 days."
   },
   "PY": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Paraguay",
+      "#cite_note-220"
+    ],
     "destination_country": "PY",
-    "visa_requirement": "Visa required[216]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "PE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Peru",
+      "#cite_note-221"
+    ],
     "destination_country": "PE",
-    "visa_requirement": "Visa required[217]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "National visa may be substituted with a valid visa issued by the United States, Canada, Australia, United Kingdom or a Schengen Area member state or permanent residence documents of the United States, Canada, European Union or Australia for up to 180 days per stay for tourism and business."
   },
   "PH": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Philippines",
+      "#cite_note-222"
+    ],
     "destination_country": "PH",
-    "visa_requirement": "Visa required[218]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "National visa may be substituted with a valid visa issued by a Schengen Area member state, Australia, Canada, Japan or the United States."
   },
   "PL": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Poland",
+      "#cite_note-223"
+    ],
     "destination_country": "PL",
-    "visa_requirement": "Visa required[219]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "PT": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Portugal",
+      "#cite_note-224"
+    ],
     "destination_country": "PT",
-    "visa_requirement": "Visa required[220]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "QA": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Qatar",
+      "#cite_note-225",
+      "#cite_note-226",
+      "#cite_note-227"
+    ],
     "destination_country": "QA",
-    "visa_requirement": "Visa not required[221]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
-    "notes": "A bilateral visa-free agreement was signed on 9 July 2018 and it is enter into force on 21 December 2018.[222][223]"
+    "notes": "A bilateral visa-free agreement was signed on 9 July 2018 and it is enter into force on 21 December 2018."
   },
   "RO": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Romania",
+      "#cite_note-228"
+    ],
     "destination_country": "RO",
-    "visa_requirement": "Visa required[224]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "National visa may be substituted with a valid visa issued by a Schengen Area member state if the journey is completed before the expiration of the Schengen visa."
   },
   "KN": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Saint_Kitts_and_Nevis",
+      "#cite_note-233"
+    ],
     "destination_country": "KN",
-    "visa_requirement": "Visa not required[228]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "3 months",
     "notes": ""
   },
   "LC": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Saint_Lucia",
+      "#cite_note-234",
+      "#cite_note-235"
+    ],
     "destination_country": "LC",
-    "visa_requirement": "Visa not required[229][230]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "6 weeks",
     "notes": ""
   },
   "VC": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Saint_Vincent_and_the_Grenadines",
+      "#cite_note-236"
+    ],
     "destination_country": "VC",
-    "visa_requirement": "Visa required[231]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "WS": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Samoa",
+      "#cite_note-237"
+    ],
     "destination_country": "WS",
-    "visa_requirement": "Entry Permit on arrival[232]",
+    "visa_requirement": "Entry Permit on arrival",
     "allowed_stay": "60 days",
     "notes": ""
   },
   "SM": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/San_Marino",
+      "#cite_note-238",
+      "#cite_note-239",
+      "#cite_note-240"
+    ],
     "destination_country": "SM",
-    "visa_requirement": "Visa not required[233][234]",
-    "allowed_stay": "90 days.[235]",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days.",
     "notes": "Although officially no visa is required, at least a Single Entry Schengen visa is required to enter San Marino since it does not have an own airport facility and no border controls."
   },
   "SA": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Saudi_Arabia",
+      "#cite_note-244"
+    ],
     "destination_country": "SA",
-    "visa_requirement": "Visa required[239]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SN": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Senegal",
+      "#cite_note-245",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "SN",
-    "visa_requirement": "Visa on arrival[240]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
-    "notes": "Holders of passports for public affairs do not require a visa for 30 days.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa for 30 days."
   },
   "SC": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Seychelles",
+      "#cite_note-248",
+      "#cite_note-249"
+    ],
     "destination_country": "SC",
-    "visa_requirement": "Visa not required[243]",
-    "allowed_stay": "3 months[244]",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
     "notes": ""
   },
   "SL": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Sierra_Leone",
+      "#cite_note-250"
+    ],
     "destination_country": "SL",
-    "visa_requirement": "Visa required[245]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SG": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Singapore",
+      "#cite_note-251",
+      "#cite_note-:1-252"
+    ],
     "destination_country": "SG",
-    "visa_requirement": "eVisa[246]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
-    "notes": "Holders of passports for public affairs do not require a visa for up to 30 days.\nSince 28 January 2019, Singapore has granted a 96-hour visa-free transit facility for Chinese citizens entering Singapore. Passengers in transit can apply for VFTF at check-in counter without charge.[247]"
+    "notes": "Holders of passports for public affairs do not require a visa for up to 30 days.\nSince 28 January 2019, Singapore has granted a 96-hour visa-free transit facility for Chinese citizens entering Singapore. Passengers in transit can apply for VFTF at check-in counter without charge."
   },
   "SK": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Slovakia",
+      "#cite_note-253"
+    ],
     "destination_country": "SK",
-    "visa_requirement": "Visa required[248]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SI": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Slovenia",
+      "#cite_note-254"
+    ],
     "destination_country": "SI",
-    "visa_requirement": "Visa required[249]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SB": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Solomon_Islands",
+      "#cite_note-255"
+    ],
     "destination_country": "SB",
-    "visa_requirement": "Visa required[250]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SO": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Somalia",
+      "#cite_note-256",
+      "/wiki/Bosaso_Airport",
+      "/wiki/Galcaio_Airport",
+      "/wiki/Mogadishu_Airport"
+    ],
     "destination_country": "SO",
-    "visa_requirement": "Visa on arrival[251]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
     "notes": "Available at Bosaso Airport, Galcaio Airport and Mogadishu Airport."
   },
   "ZA": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/South_Africa",
+      "#cite_note-257"
+    ],
     "destination_country": "ZA",
-    "visa_requirement": "Visa required[252]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "ES": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Spain",
+      "#cite_note-259"
+    ],
     "destination_country": "ES",
-    "visa_requirement": "Visa required[254]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "LK": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Sri_Lanka",
+      "#cite_note-260",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "LK",
-    "visa_requirement": "eVisa / Visa on arrival[255]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "30 days",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "SD": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Sudan",
+      "#cite_note-261"
+    ],
     "destination_country": "SD",
-    "visa_requirement": "Visa required[256]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Suriname",
+      "#cite_note-262",
+      "#cite_note-263",
+      "#cite_note-264"
+    ],
     "destination_country": "SR",
-    "visa_requirement": "eVisa / Tourist card on arrival[257]",
+    "visa_requirement": "eVisa / Tourist card on arrival",
     "allowed_stay": "90 days",
-    "notes": "Single entry tourist card valid for up to 90 days may be obtained online, on arrival at the airport or in any Surinamese representation abroad.[258]\nMultiple entry eVisa is also avaible.[259]"
+    "notes": "Single entry tourist card valid for up to 90 days may be obtained online, on arrival at the airport or in any Surinamese representation abroad.\nMultiple entry eVisa is also avaible."
   },
   "SE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Sweden",
+      "#cite_note-265"
+    ],
     "destination_country": "SE",
-    "visa_requirement": "Visa required[260]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CH": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Switzerland",
+      "#cite_note-266"
+    ],
     "destination_country": "CH",
-    "visa_requirement": "Visa required[261]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "TJ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Tajikistan",
+      "#cite_note-268",
+      "#cite_note-269"
+    ],
     "destination_country": "TJ",
-    "visa_requirement": "eVisa[263]",
-    "allowed_stay": "45 days.[264]",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "45 days.",
     "notes": "Holders of passports for public affairs do not require a visa."
   },
   "TH": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Thailand",
+      "#cite_note-272",
+      "#cite_note-:1-252"
+    ],
     "destination_country": "TH",
-    "visa_requirement": "Visa on arrival[267]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "15 days",
-    "notes": "Beginning 14 February 2019, Chinese citizens visiting Thailand can apply for e-Visa online.[247]"
+    "notes": "Beginning 14 February 2019, Chinese citizens visiting Thailand can apply for e-Visa online."
   },
   "TL": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/East_Timor",
+      "#cite_note-273",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "TL",
-    "visa_requirement": "Visa on arrival[268]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "TG": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Togo",
+      "#cite_note-274",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "TG",
-    "visa_requirement": "Visa on arrival[269]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "7 days",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "TO": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Tonga",
+      "#cite_note-275",
+      "#cite_note-276"
+    ],
     "destination_country": "TO",
-    "visa_requirement": "Visa not required[270]",
-    "allowed_stay": "30 days[271]",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "TT": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Trinidad_and_Tobago",
+      "#cite_note-277"
+    ],
     "destination_country": "TT",
-    "visa_requirement": "Visa required[272]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "TN": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Tunisia",
+      "#cite_note-278",
+      "#cite_note-279"
+    ],
     "destination_country": "TN",
-    "visa_requirement": "Visa not required[273]",
-    "allowed_stay": "90 days[274]",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "TR": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Turkey",
+      "#cite_note-280",
+      "#cite_note-281",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "TR",
-    "visa_requirement": "eVisa[275]",
-    "allowed_stay": "30 days.[276]",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days.",
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "TM": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Turkmenistan",
+      "#cite_note-282",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "TM",
-    "visa_requirement": "Visa required[277]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "TV": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Tuvalu",
+      "#cite_note-283"
+    ],
     "destination_country": "TV",
-    "visa_requirement": "Visa on arrival[278]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "1 month",
     "notes": ""
   },
   "UG": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Uganda",
+      "#cite_note-284",
+      "#cite_note-285"
+    ],
     "destination_country": "UG",
-    "visa_requirement": "eVisa / Visa on arrival[279]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "",
-    "notes": "May apply online.[280]"
+    "notes": "May apply online."
   },
   "UA": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Ukraine",
+      "#cite_note-286"
+    ],
     "destination_country": "UA",
-    "visa_requirement": "eVisa[281]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "AE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/United_Arab_Emirates",
+      "#cite_note-287"
+    ],
     "destination_country": "AE",
-    "visa_requirement": "Visa not required[282]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "US": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/United_States",
+      "#cite_note-290",
+      "/wiki/B_visa",
+      "#cite_note-291",
+      "#cite_note-292"
+    ],
     "destination_country": "US",
-    "visa_requirement": "Visa required[285]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\"[286]\nTen-year multiple-entry B visa holders must provide updates through the Electronic Visa Update System (EVUS) every two years.[287]"
+    "notes": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\"\nTen-year multiple-entry B visa holders must provide updates through the Electronic Visa Update System (EVUS) every two years."
   },
   "UY": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Uruguay",
+      "#cite_note-293",
+      "#cite_note-294",
+      "#cite_note-295",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "UY",
-    "visa_requirement": "Visa required[288]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "National visa may be substituted with a valid visa issued by the United States, Canada or a European Union member state for stays up to 90 days when arriving via Montevideo airport or Montevideo and Colonia ports.[289][290]\nHolders of passports for public affairs do not require a visa.[34]"
+    "notes": "National visa may be substituted with a valid visa issued by the United States, Canada or a European Union member state for stays up to 90 days when arriving via Montevideo airport or Montevideo and Colonia ports.\nHolders of passports for public affairs do not require a visa."
   },
   "UZ": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Uzbekistan",
+      "#cite_note-296",
+      "#cite_note-297",
+      "#cite_note-298"
+    ],
     "destination_country": "UZ",
-    "visa_requirement": "eVisa[291][292]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "30 days",
-    "notes": "5-day visa free transit when in transit at the international airports on condition of holding a confirmed onward ticket for a flight to a third country.[293]"
+    "notes": "5-day visa free transit when in transit at the international airports on condition of holding a confirmed onward ticket for a flight to a third country."
   },
   "VU": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Vanuatu",
+      "#cite_note-299"
+    ],
     "destination_country": "VU",
-    "visa_requirement": "Visa not required[294]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "VE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Venezuela",
+      "#cite_note-301",
+      "#cite_note-bilateralagreements-34"
+    ],
     "destination_country": "VE",
-    "visa_requirement": "Visa required[296]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Holders of passports for public affairs do not require a visa.[34]"
+    "notes": "Holders of passports for public affairs do not require a visa."
   },
   "YE": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Yemen",
+      "#cite_note-303"
+    ],
     "destination_country": "YE",
-    "visa_requirement": "Visa required[298]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "ZM": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Zambia",
+      "#cite_note-304"
+    ],
     "destination_country": "ZM",
-    "visa_requirement": "eVisa[299]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
   "ZW": {
     "passport_country": "CN",
+    "sources": [
+      "/wiki/Zimbabwe",
+      "#cite_note-305"
+    ],
     "destination_country": "ZW",
-    "visa_requirement": "eVisa / Visa on arrival[300]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "3 months",
     "notes": ""
   }

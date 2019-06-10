@@ -1,1191 +1,1895 @@
 {
   "AF": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Afghanistan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-2"
+    ],
     "destination_country": "AF",
-    "visa_requirement": "Visa required[2]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "AL": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Albania",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-3"
+    ],
     "destination_country": "AL",
-    "visa_requirement": "Visa required[3]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "AD": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Andorra",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-4"
+    ],
     "destination_country": "AD",
-    "visa_requirement": "Visa required[4]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "AO": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Angola",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-5",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-6",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-7",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-8"
+    ],
     "destination_country": "AO",
-    "visa_requirement": "eVisa [5][6]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "30 days",
-    "notes": "Visitors who have been granted an online pre-visa or have requested such pre-visa from the consulates of Angola abroad, are then issued with a visa on arrival at the country's border check points.\nFor a maximum total stay of 90 days within a one year period.[7]\nBesides having printed confirmation that a visa will be issued upon arrival, passengers must: have a return/onward ticket, and have a hotel reservation confirmation.[8]"
+    "notes": "Visitors who have been granted an online pre-visa or have requested such pre-visa from the consulates of Angola abroad, are then issued with a visa on arrival at the country's border check points.\nFor a maximum total stay of 90 days within a one year period.\nBesides having printed confirmation that a visa will be issued upon arrival, passengers must: have a return/onward ticket, and have a hotel reservation confirmation."
   },
   "AG": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-9"
+    ],
     "destination_country": "AG",
-    "visa_requirement": "Electronic Entry Visa[9]",
+    "visa_requirement": "Electronic Entry Visa",
     "allowed_stay": "",
     "notes": ""
   },
   "AR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Argentina",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-10"
+    ],
     "destination_country": "AR",
-    "visa_requirement": "Visa required[10]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "AM": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Armenia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-11"
+    ],
     "destination_country": "AM",
-    "visa_requirement": "Visa required[11]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "AT": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Austria",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-14"
+    ],
     "destination_country": "AT",
-    "visa_requirement": "Visa required[14]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "AZ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Azerbaijan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-15",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-16"
+    ],
     "destination_country": "AZ",
-    "visa_requirement": "eVisa[15]",
-    "allowed_stay": "30 days[16]",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "BS": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Bahamas",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-17"
+    ],
     "destination_country": "BS",
-    "visa_requirement": "Visa required[17]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BH": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bahrain",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-18",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-19"
+    ],
     "destination_country": "BH",
-    "visa_requirement": "Visa required[18][19]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BD": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bangladesh",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-20"
+    ],
     "destination_country": "BD",
-    "visa_requirement": "Visa required[20]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BB": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Barbados",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-21"
+    ],
     "destination_country": "BB",
-    "visa_requirement": "Visa required[21]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BY": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Belarus",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-22"
+    ],
     "destination_country": "BY",
-    "visa_requirement": "Visa required[22]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Belgium",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-23"
+    ],
     "destination_country": "BE",
-    "visa_requirement": "Visa required[23]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BZ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Belize",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-24"
+    ],
     "destination_country": "BZ",
-    "visa_requirement": "Visa required[24]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BJ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Benin",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-25"
+    ],
     "destination_country": "BJ",
-    "visa_requirement": "Visa not required[25]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "BT": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bhutan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-26"
+    ],
     "destination_country": "BT",
-    "visa_requirement": "Visa required[26]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BO": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bolivia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-27"
+    ],
     "destination_country": "BO",
-    "visa_requirement": "Visa on arrival[27]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "BA": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-28"
+    ],
     "destination_country": "BA",
-    "visa_requirement": "Visa required[28]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BW": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Botswana",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-29"
+    ],
     "destination_country": "BW",
-    "visa_requirement": "Visa required[29]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Brazil",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-30"
+    ],
     "destination_country": "BR",
-    "visa_requirement": "Visa required[30]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BG": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Bulgaria",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-32"
+    ],
     "destination_country": "BG",
-    "visa_requirement": "Visa required[32]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BF": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Burkina_Faso",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-33"
+    ],
     "destination_country": "BF",
-    "visa_requirement": "Visa required[33]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "BI": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Burundi",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-34"
+    ],
     "destination_country": "BI",
-    "visa_requirement": "Visa required[34]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "KH": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cambodia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-35"
+    ],
     "destination_country": "KH",
-    "visa_requirement": "Visa required[35]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CM": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cameroon",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-36"
+    ],
     "destination_country": "CM",
-    "visa_requirement": "Visa required[36]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CA": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Canada",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-37"
+    ],
     "destination_country": "CA",
-    "visa_requirement": "Visa required[37]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CV": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cape_Verde",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-38"
+    ],
     "destination_country": "CV",
-    "visa_requirement": "Visa on arrival[38]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "",
     "notes": ""
   },
   "CF": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Central_African_Republic",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-39"
+    ],
     "destination_country": "CF",
-    "visa_requirement": "Visa required[39]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "TD": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chad",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-40"
+    ],
     "destination_country": "TD",
-    "visa_requirement": "Visa required[40]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CL": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chile",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-41"
+    ],
     "destination_country": "CL",
-    "visa_requirement": "Visa required[41]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CN": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/China",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-42"
+    ],
     "destination_country": "CN",
-    "visa_requirement": "Visa required[42]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CO": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Colombia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-43",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-44"
+    ],
     "destination_country": "CO",
-    "visa_requirement": "Visa required[43]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "May apply online.[44]"
+    "notes": "May apply online."
   },
   "KM": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Comoros",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-45"
+    ],
     "destination_country": "KM",
-    "visa_requirement": "Visa on arrival[45]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "",
     "notes": ""
   },
   "CR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Costa_Rica",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-48"
+    ],
     "destination_country": "CR",
-    "visa_requirement": "Visa required[48]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "HR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Croatia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-50"
+    ],
     "destination_country": "HR",
-    "visa_requirement": "Visa required[50]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CU": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cuba",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-51"
+    ],
     "destination_country": "CU",
-    "visa_requirement": "Tourist card required[51]",
+    "visa_requirement": "Tourist card required",
     "allowed_stay": "",
     "notes": "Tourist card in advance via travel agency, airline or at the embassy."
   },
   "CY": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cyprus",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-52"
+    ],
     "destination_country": "CY",
-    "visa_requirement": "Visa required[52]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CZ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Czech_Republic",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-53"
+    ],
     "destination_country": "CZ",
-    "visa_requirement": "Visa required[53]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "DK": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Denmark",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-54"
+    ],
     "destination_country": "DK",
-    "visa_requirement": "Visa required[54]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "DJ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Djibouti",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-55"
+    ],
     "destination_country": "DJ",
-    "visa_requirement": "eVisa[55]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "31 days",
     "notes": ""
   },
   "DM": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dominica",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-56"
+    ],
     "destination_country": "DM",
-    "visa_requirement": "Visa not required[56]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "21 days",
     "notes": ""
   },
   "DO": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Dominican_Republic",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-57"
+    ],
     "destination_country": "DO",
-    "visa_requirement": "Visa required[57]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Visa not required for Algerians with a valid multiple entrance schengen visa for a maximum stay of 180 days"
   },
   "EC": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ecuador",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-58"
+    ],
     "destination_country": "EC",
-    "visa_requirement": "Visa not required[58]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "EG": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Egypt",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-59"
+    ],
     "destination_country": "EG",
-    "visa_requirement": "Visa required[59]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Visa not required for Algerian citizens under the age of 14."
   },
   "SV": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/El_Salvador",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-60"
+    ],
     "destination_country": "SV",
-    "visa_requirement": "Visa required[60]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "GQ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Equatorial_Guinea",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-61"
+    ],
     "destination_country": "GQ",
-    "visa_requirement": "Visa required[61]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "ER": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Eritrea",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-62"
+    ],
     "destination_country": "ER",
-    "visa_requirement": "Visa required[62]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "EE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Estonia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-63"
+    ],
     "destination_country": "EE",
-    "visa_requirement": "Visa required[63]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "ET": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ethiopia",
+      "https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-65",
+      "https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-66"
+    ],
     "destination_country": "ET",
     "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "up to 90 days",
-    "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.[65]\neVisa holders must arrive via Addis Ababa Bole International Airport.\neVisas are available for 30 or 90 days.[66]"
+    "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\neVisa holders must arrive via Addis Ababa Bole International Airport.\neVisas are available for 30 or 90 days."
   },
   "FJ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Fiji",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-67"
+    ],
     "destination_country": "FJ",
-    "visa_requirement": "Visa required[67]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "FI": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Finland",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-68"
+    ],
     "destination_country": "FI",
-    "visa_requirement": "Visa required[68]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "FR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/France",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-69"
+    ],
     "destination_country": "FR",
-    "visa_requirement": "Visa required[69]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "GA": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Gabon",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-70",
+      "https://en.wikipedia.org/wiki/Libreville_International_Airport"
+    ],
     "destination_country": "GA",
-    "visa_requirement": "eVisa[70]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": "Electronic visa holders must arrive via Libreville International Airport."
   },
   "GM": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Gambia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-71",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-72"
+    ],
     "destination_country": "GM",
-    "visa_requirement": "Visa required[71]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "In addition to a visa, an entry clearance must be obtained from the Gambian Immigration prior to travel.[72]"
+    "notes": "In addition to a visa, an entry clearance must be obtained from the Gambian Immigration prior to travel."
   },
   "GE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Georgia_(country)",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-73",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-74"
+    ],
     "destination_country": "GE",
-    "visa_requirement": "eVisa[73][74]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
   "DE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Germany",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-75"
+    ],
     "destination_country": "DE",
-    "visa_requirement": "Visa required[75]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "GH": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ghana",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-76"
+    ],
     "destination_country": "GH",
-    "visa_requirement": "Visa on arrival[76]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "GR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Greece",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-77"
+    ],
     "destination_country": "GR",
-    "visa_requirement": "Visa required[77]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "GD": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grenada",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-78"
+    ],
     "destination_country": "GD",
-    "visa_requirement": "Visa required[78]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "GT": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Guatemala",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-79"
+    ],
     "destination_country": "GT",
-    "visa_requirement": "Visa required[79]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "GN": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Guinea",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-80"
+    ],
     "destination_country": "GN",
-    "visa_requirement": "Visa not required[80]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "",
     "notes": ""
   },
   "GW": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Guinea-Bissau",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-81"
+    ],
     "destination_country": "GW",
-    "visa_requirement": "eVisa / Visa on arrival[81]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "GY": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Guyana",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-82"
+    ],
     "destination_country": "GY",
-    "visa_requirement": "Visa required[82]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "HT": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Haiti",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-83"
+    ],
     "destination_country": "HT",
-    "visa_requirement": "Visa not required[83]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "3 months",
     "notes": ""
   },
   "HN": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Honduras",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-84"
+    ],
     "destination_country": "HN",
-    "visa_requirement": "Visa required[84]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "HU": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Hungary",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-85"
+    ],
     "destination_country": "HU",
-    "visa_requirement": "Visa required[85]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "IS": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Iceland",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-86"
+    ],
     "destination_country": "IS",
-    "visa_requirement": "Visa required[86]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "IN": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-87"
+    ],
     "destination_country": "IN",
-    "visa_requirement": "Visa required[87]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "ID": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Indonesia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-88"
+    ],
     "destination_country": "ID",
-    "visa_requirement": "Visa not required[88]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "IQ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Iraq",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-91"
+    ],
     "destination_country": "IQ",
-    "visa_requirement": "Visa required[91]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "IE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-92"
+    ],
     "destination_country": "IE",
-    "visa_requirement": "Visa required[92]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "IL": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Israel",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-93"
+    ],
     "destination_country": "IL",
-    "visa_requirement": "Visa required[93]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "IT": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Italy",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-94"
+    ],
     "destination_country": "IT",
-    "visa_requirement": "Visa required[94]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "JM": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jamaica",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-95"
+    ],
     "destination_country": "JM",
-    "visa_requirement": "Visa required[95]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "JP": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Japan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-96"
+    ],
     "destination_country": "JP",
-    "visa_requirement": "Visa required[96]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "JO": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Jordan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-97"
+    ],
     "destination_country": "JO",
-    "visa_requirement": "Visa on arrival[97]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
     "notes": "Free of charge"
   },
   "KZ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kazakhstan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-98"
+    ],
     "destination_country": "KZ",
-    "visa_requirement": "Visa required[98]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "KE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kenya",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-99"
+    ],
     "destination_country": "KE",
-    "visa_requirement": "eVisa / Visa on arrival[99]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "3 months",
     "notes": ""
   },
   "KI": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kiribati",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-100"
+    ],
     "destination_country": "KI",
-    "visa_requirement": "Visa required[100]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "KP": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/North_Korea",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-101"
+    ],
     "destination_country": "KP",
-    "visa_requirement": "Visa required[101]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "KR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/South_Korea",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-102",
+      "https://en.wikipedia.org/wiki/Jeju_Island"
+    ],
     "destination_country": "KR",
-    "visa_requirement": "Visa required[102]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Visa-Free access to Jeju Island for 30 days"
   },
   "KW": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kuwait",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-103"
+    ],
     "destination_country": "KW",
-    "visa_requirement": "Visa required[103]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "KG": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-104"
+    ],
     "destination_country": "KG",
-    "visa_requirement": "eVisa[104]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
   "LV": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Latvia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-106"
+    ],
     "destination_country": "LV",
-    "visa_requirement": "Visa required[106]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "LB": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lebanon",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-107"
+    ],
     "destination_country": "LB",
-    "visa_requirement": "Visa required[107]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "LS": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lesotho",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-108",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-109"
+    ],
     "destination_country": "LS",
-    "visa_requirement": "eVisa[108][109]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
   "LR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Liberia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-110"
+    ],
     "destination_country": "LR",
-    "visa_requirement": "Visa required[110]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "LI": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Liechtenstein",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-112"
+    ],
     "destination_country": "LI",
-    "visa_requirement": "Visa required[112]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "LT": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Lithuania",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-113"
+    ],
     "destination_country": "LT",
-    "visa_requirement": "Visa required[113]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "LU": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Luxembourg",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-114"
+    ],
     "destination_country": "LU",
-    "visa_requirement": "Visa required[114]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "MG": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Madagascar",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-115"
+    ],
     "destination_country": "MG",
-    "visa_requirement": "Visa on arrival[115]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "MW": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Malawi",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-116"
+    ],
     "destination_country": "MW",
-    "visa_requirement": "Visa required[116]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "MY": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Malaysia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-117"
+    ],
     "destination_country": "MY",
-    "visa_requirement": "Visa not required[117]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "3 months",
     "notes": ""
   },
   "MV": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maldives",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-118"
+    ],
     "destination_country": "MV",
-    "visa_requirement": "Visa on arrival[118]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "ML": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mali",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-119"
+    ],
     "destination_country": "ML",
-    "visa_requirement": "Visa not required[119]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "3 months",
     "notes": ""
   },
   "MT": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Malta",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-120"
+    ],
     "destination_country": "MT",
-    "visa_requirement": "Visa required[120]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "MH": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Marshall_Islands",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-121"
+    ],
     "destination_country": "MH",
-    "visa_requirement": "Visa required[121]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "MR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mauritania",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-122"
+    ],
     "destination_country": "MR",
-    "visa_requirement": "Visa not required[122]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "",
     "notes": ""
   },
   "MU": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mauritius",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-123"
+    ],
     "destination_country": "MU",
-    "visa_requirement": "Visa on arrival[123]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "15 days",
     "notes": ""
   },
   "MX": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mexico",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-124"
+    ],
     "destination_country": "MX",
-    "visa_requirement": "Visa required[124]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Visa not required for Algerians with a valid multiple entrance schengen visa for a maximum stay of 180 days"
   },
   "MC": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monaco",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-128"
+    ],
     "destination_country": "MC",
-    "visa_requirement": "Visa required[128]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "MN": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mongolia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-129"
+    ],
     "destination_country": "MN",
-    "visa_requirement": "Visa required[129]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "MA": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Morocco",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-131"
+    ],
     "destination_country": "MA",
-    "visa_requirement": "Visa not required[131]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "MZ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Mozambique",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-132"
+    ],
     "destination_country": "MZ",
-    "visa_requirement": "Visa on arrival[132]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "MM": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Myanmar",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-133",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-134"
+    ],
     "destination_country": "MM",
-    "visa_requirement": "eVisa[133]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
-    "notes": "Visa is obtained online[134]"
+    "notes": "Visa is obtained online"
   },
   "NA": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Namibia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-135"
+    ],
     "destination_country": "NA",
-    "visa_requirement": "Visa required[135]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nauru",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-136"
+    ],
     "destination_country": "NR",
-    "visa_requirement": "Visa required[136]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NP": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nepal",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-137"
+    ],
     "destination_country": "NP",
-    "visa_requirement": "Visa on arrival[137]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "NL": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Netherlands",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-138"
+    ],
     "destination_country": "NL",
-    "visa_requirement": "Visa required[138]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NZ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/New_Zealand",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-139"
+    ],
     "destination_country": "NZ",
-    "visa_requirement": "Visa required[139]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NI": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nicaragua",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-140"
+    ],
     "destination_country": "NI",
-    "visa_requirement": "Visa on arrival[140]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "NE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Niger",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-141"
+    ],
     "destination_country": "NE",
-    "visa_requirement": "Visa required[141]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NG": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nigeria",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-142"
+    ],
     "destination_country": "NG",
-    "visa_requirement": "Visa required[142]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "NO": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Norway",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-144"
+    ],
     "destination_country": "NO",
-    "visa_requirement": "Visa required[144]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "OM": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Oman",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-145"
+    ],
     "destination_country": "OM",
-    "visa_requirement": "Visa required[145]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "PK": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Pakistan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-146",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-147",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-148"
+    ],
     "destination_country": "PK",
-    "visa_requirement": "Online Visa[146]",
+    "visa_requirement": "Online Visa",
     "allowed_stay": "",
-    "notes": "Online Visa eligible.[147]\nElectronic Travel Authorization to obtain a visa on arrival for business purposes.[148]"
+    "notes": "Online Visa eligible.\nElectronic Travel Authorization to obtain a visa on arrival for business purposes."
   },
   "PW": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Palau",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-149"
+    ],
     "destination_country": "PW",
-    "visa_requirement": "Visa on arrival[149]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "PA": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Panama",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-150"
+    ],
     "destination_country": "PA",
-    "visa_requirement": "Visa required[150]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "PG": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-151"
+    ],
     "destination_country": "PG",
-    "visa_requirement": "Visa required[151]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "PY": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Paraguay",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-152"
+    ],
     "destination_country": "PY",
-    "visa_requirement": "Visa required[152]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "PE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Peru",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-153"
+    ],
     "destination_country": "PE",
-    "visa_requirement": "Visa required[153]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "PH": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Philippines",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-154"
+    ],
     "destination_country": "PH",
-    "visa_requirement": "Visa required[154]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "PL": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Poland",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-155"
+    ],
     "destination_country": "PL",
-    "visa_requirement": "Visa required[155]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "PT": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Portugal",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-156"
+    ],
     "destination_country": "PT",
-    "visa_requirement": "Visa required[156]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "QA": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Qatar",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-157",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-158"
+    ],
     "destination_country": "QA",
-    "visa_requirement": "eVisa[157][158]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
   "RO": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Romania",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-159"
+    ],
     "destination_country": "RO",
-    "visa_requirement": "Visa required[159]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "KN": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-163"
+    ],
     "destination_country": "KN",
-    "visa_requirement": "eVisa[162]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
   "LC": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saint_Lucia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-164"
+    ],
     "destination_country": "LC",
-    "visa_requirement": "Visa required[163]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "VC": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-165"
+    ],
     "destination_country": "VC",
-    "visa_requirement": "Visa not required[164]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "1 month",
     "notes": ""
   },
   "WS": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Samoa",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-166"
+    ],
     "destination_country": "WS",
-    "visa_requirement": "Entry Permit on arrival[165]",
+    "visa_requirement": "Entry Permit on arrival",
     "allowed_stay": "60 days",
     "notes": ""
   },
   "SM": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/San_Marino",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-167"
+    ],
     "destination_country": "SM",
-    "visa_requirement": "Visa required[166]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SA": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saudi_Arabia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-169"
+    ],
     "destination_country": "SA",
-    "visa_requirement": "Visa required[168]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SN": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Senegal",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-170"
+    ],
     "destination_country": "SN",
-    "visa_requirement": "Visa on arrival[169]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "SC": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Seychelles",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-172"
+    ],
     "destination_country": "SC",
-    "visa_requirement": "Visitor's Permit on arrival[171]",
+    "visa_requirement": "Visitor's Permit on arrival",
     "allowed_stay": "3 months",
     "notes": ""
   },
   "SL": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sierra_Leone",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-173"
+    ],
     "destination_country": "SL",
-    "visa_requirement": "Visa required[172]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SG": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Singapore",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-174"
+    ],
     "destination_country": "SG",
-    "visa_requirement": "Visa required[173]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SK": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Slovakia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-175"
+    ],
     "destination_country": "SK",
-    "visa_requirement": "Visa required[174]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SI": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Slovenia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-176"
+    ],
     "destination_country": "SI",
-    "visa_requirement": "Visa required[175]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SB": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Solomon_Islands",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-177"
+    ],
     "destination_country": "SB",
-    "visa_requirement": "Visa required[176]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SO": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Somalia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-178",
+      "https://en.wikipedia.org/wiki/Bosaso_Airport",
+      "https://en.wikipedia.org/wiki/Galcaio_Airport",
+      "https://en.wikipedia.org/wiki/Mogadishu_Airport"
+    ],
     "destination_country": "SO",
-    "visa_requirement": "Visa on arrival[177]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
     "notes": "Available at Bosaso Airport, Galcaio Airport and Mogadishu Airport."
   },
   "ZA": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/South_Africa",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-179"
+    ],
     "destination_country": "ZA",
-    "visa_requirement": "Visa required[178]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "ES": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spain",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-181"
+    ],
     "destination_country": "ES",
-    "visa_requirement": "Visa required[180]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "LK": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sri_Lanka",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-182"
+    ],
     "destination_country": "LK",
-    "visa_requirement": "eVisa / Visa on arrival[181]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "",
     "notes": ""
   },
   "SD": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sudan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-183"
+    ],
     "destination_country": "SD",
-    "visa_requirement": "Visa required[182]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "SR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Suriname",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-184"
+    ],
     "destination_country": "SR",
-    "visa_requirement": "eVisa[183]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
   "SE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sweden",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-185"
+    ],
     "destination_country": "SE",
-    "visa_requirement": "Visa required[184]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "CH": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Switzerland",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-186"
+    ],
     "destination_country": "CH",
-    "visa_requirement": "Visa required[185]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "TJ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tajikistan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-191",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-192"
+    ],
     "destination_country": "TJ",
-    "visa_requirement": "eVisa[190]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "45 days",
-    "notes": "E-visa holders can enter through all border points.[191]"
+    "notes": "E-visa holders can enter through all border points."
   },
   "TH": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Thailand",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-195"
+    ],
     "destination_country": "TH",
-    "visa_requirement": "Visa required[194]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "TL": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/East_Timor",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-196"
+    ],
     "destination_country": "TL",
-    "visa_requirement": "Visa on arrival[195]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "30 days",
     "notes": ""
   },
   "TG": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Togo",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-197"
+    ],
     "destination_country": "TG",
-    "visa_requirement": "Visa on arrival[196]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "7 days",
     "notes": ""
   },
   "TO": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tonga",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-198"
+    ],
     "destination_country": "TO",
-    "visa_requirement": "Visa required[197]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "TT": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-199"
+    ],
     "destination_country": "TT",
-    "visa_requirement": "Visa required[198]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "TN": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tunisia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-200"
+    ],
     "destination_country": "TN",
-    "visa_requirement": "Visa not required[199]",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": ""
   },
   "TR": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Turkey",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-201"
+    ],
     "destination_country": "TR",
-    "visa_requirement": "Visa required[200]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Those below 18 or over 35 years old may obtain a visa online"
   },
   "TM": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Turkmenistan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-202"
+    ],
     "destination_country": "TM",
-    "visa_requirement": "Visa required[201]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "TV": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tuvalu",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-203"
+    ],
     "destination_country": "TV",
-    "visa_requirement": "Visa on arrival[202]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "1 month",
     "notes": ""
   },
   "UG": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Uganda",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-204",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-205"
+    ],
     "destination_country": "UG",
-    "visa_requirement": "eVisa / Visa on arrival[203]",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "",
-    "notes": "May apply online.[204]"
+    "notes": "May apply online."
   },
   "UA": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ukraine",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-206"
+    ],
     "destination_country": "UA",
-    "visa_requirement": "Visa required[205]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "AE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-207"
+    ],
     "destination_country": "AE",
-    "visa_requirement": "Visa required[206]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "US": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-209"
+    ],
     "destination_country": "US",
-    "visa_requirement": "Visa required[208]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "UY": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Uruguay",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-210"
+    ],
     "destination_country": "UY",
-    "visa_requirement": "Visa required[209]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "UZ": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Uzbekistan",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-211",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-212"
+    ],
     "destination_country": "UZ",
-    "visa_requirement": "eVisa[210]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "30 days",
-    "notes": "5-day visa free transit when in transit at the international airports on condition of holding a confirmed onward ticket for a flight to a third country.[211]"
+    "notes": "5-day visa free transit when in transit at the international airports on condition of holding a confirmed onward ticket for a flight to a third country."
   },
   "VU": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vanuatu",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-213"
+    ],
     "destination_country": "VU",
-    "visa_requirement": "Visa required[212]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "VE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Venezuela",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-215"
+    ],
     "destination_country": "VE",
-    "visa_requirement": "Visa required[214]",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
   "YE": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Yemen",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-217"
+    ],
     "destination_country": "YE",
-    "visa_requirement": "Visa on arrival[216]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "1 month",
     "notes": ""
   },
   "ZM": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Zambia",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-218"
+    ],
     "destination_country": "ZM",
-    "visa_requirement": "eVisa[217]",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
   "ZW": {
     "passport_country": "DZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Zimbabwe",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Algerian_citizens#cite_note-219"
+    ],
     "destination_country": "ZW",
-    "visa_requirement": "Visa on arrival[218]",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "3 months",
     "notes": ""
   }

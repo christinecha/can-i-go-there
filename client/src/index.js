@@ -19,10 +19,6 @@ const App = () => {
     REQUIREMENTS_CACHE: {},
 
     state: {
-      passportFocused: true,
-      passportSelected: false,
-      destinationFocused: false,
-      destinationSelected: false,
       typeaheadValue: '',
       passport: '',
       destination: ''
@@ -36,12 +32,10 @@ const App = () => {
     init() {
       this.initDOM()
       this.render()
-      this.refs.passportTypeahead.focus()
+      this.refs.typeahead.focus()
 
       document.addEventListener('keydown', this.onDocumentKeyDown.bind(this))
-      this.refs.passportTypeahead.addEventListener('keyup', this.onInput.bind(this))
-      this.refs.destinationTypeahead.addEventListener('keyup', this.onInput.bind(this))
-
+      this.refs.typeahead.addEventListener('keyup', this.onInput.bind(this))
 
       this.refs.options.forEach($option => {
         $option.addEventListener('click', () => {
@@ -51,27 +45,30 @@ const App = () => {
           this.onCountrySelect(country)
         })
       })
+
+      this.refs.passport.addEventListener('click', () => {
+        this.setState({ 
+          passport: '',
+          destination: '',
+        })
+      })
+
+      this.refs.destination.addEventListener('click', () => {
+        this.setState({ 
+          destination: '',
+        })
+      })
     },
 
     onInput(e) {
-      const { passportSelected } = this.state
-      const input = passportSelected 
-        ? this.refs.destination 
-        : this.refs.passport
-
       const typeaheadValue = (e.target.value || '').toLowerCase()
-      input.textContent = typeaheadValue
       this.setState({ 
         typeaheadValue,
       })
     },
 
     onDocumentKeyDown() {
-      if (!this.state.passportSelected) {
-        this.refs.passportTypeahead.focus()
-      } else {
-        this.refs.destinationTypeahead.focus()
-      }
+      this.refs.typeahead.focus()
     },
     
     onCountrySelect,

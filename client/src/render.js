@@ -16,22 +16,22 @@ function render () {
     return country.indexOf(this.state.typeaheadValue) === 0
   }
 
-  if (!this.state.passportSelected) {
+  if (!this.state.passport) {
+    this.refs.prompt.textContent = "If my passport is from"
     this.refs.options.forEach(($option) => {
       const isActive = isAvailablePassport($option) && isTypeaheadMatch($option)
       $option.dataset.isActive = isActive
     })
-  } else if (!this.state.destinationSelected) {
+  } else if (!this.state.destination) {
+    this.refs.prompt.textContent = "Can I go to"
     this.refs.options.forEach(($option) => {
       const isActive = isAvailableDestination($option) && isTypeaheadMatch($option)
       $option.dataset.isActive = isActive
     })
   }
 
-  this.refs.main.dataset.passportSelected = this.state.passportSelected
-  this.refs.main.dataset.destinationSelected = this.state.destinationSelected
-  this.refs.main.dataset.passportFocused = this.state.passportFocused
-  this.refs.main.dataset.destinationFocused = this.state.destinationFocused
+  this.refs.main.dataset.passportSelected = !!this.state.passport
+  this.refs.main.dataset.destinationSelected = !!this.state.destination
 }
 
 export default render

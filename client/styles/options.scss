@@ -1,6 +1,5 @@
-main[data-passport-focused="true"] {
-  .passport-wrapper,
-  #options-wrapper {
+main:not([data-destination-selected="true"]) {
+  .search-wrapper {
     opacity: 1;
     visibility: visible;
   }
@@ -12,25 +11,18 @@ main[data-passport-selected="true"] {
     visibility: visible;
     transform: none;
   }
-}
 
-main[data-destination-focused="true"] {
-  #passport::after {
-    visibility: hidden;
-  }
-
-  .destination-wrapper {
+  .passport-wrapper {
     opacity: 1;
     visibility: visible;
-
-    transition: opacity 200ms 400ms linear, visibility 600ms step-start;
   }
 }
 
 main[data-destination-selected="true"] {
-  #options-wrapper {
-    opacity: 0;
-    visibility: hidden;
+  .destination-wrapper,
+  .visa-info {
+    opacity: 1;
+    visibility: visible;
   }
 
   #destination-color {
@@ -38,13 +30,22 @@ main[data-destination-selected="true"] {
     visibility: visible;
     transform: none;
   }
+
+  .requirement-wrapper, 
+  .allowed-stay-wrapper, 
+  .notes-wrapper,
+  .sources-wrapper {
+    opacity: 1;
+    transform: none;
+  }
 }
 
 .passport-wrapper,
 .destination-wrapper,
-#options-wrapper,
+.search-wrapper,
 #passport-color,
-#destination-color {
+#destination-color,
+.visa-info {
   opacity: 0;
   visibility: hidden;
 }
@@ -57,109 +58,60 @@ main[data-destination-selected="true"] {
   background: blue;
   width: 100%;
   height: 100%;
-  transform: translate3d(0, -100%,0);
-  transition: transform 400ms cubic-bezier(0.58, 0.39, 0.85, 0.6);
+  opacity: 0;
+  transition: opacity 300ms linear;
   z-index: -1;
 }
 
 #destination-color {
-  left: 30%;
+  left: 50%;
+  width: 50%;
   transform: translate3d(100%, 0,0);
-  transition: transform 400ms cubic-bezier(0.58, 0.39, 0.85, 0.6);
+  transition: transform 200ms cubic-bezier(0.58, 0.39, 0.85, 0.6),
+              opacity 300ms linear;
 }
 
-.passport-inputs,
-.destination-inputs {
-  position: relative;
+.countries {
+  display: flex;
 }
 
-.input {
+.passport-wrapper,
+.destination-wrapper {
   position: relative;
+  width: 50%;
 
-  &::after {
-    @keyframes blink {
-      49% { opacity: 1; }
-      50% { opacity: 0; }
-      89% { opacity: 0; }
-      90% { opacity: 1; }
-    }
-
-    content: "";
+  label {
     position: absolute;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    margin: auto;
-    width: 4px;
-    height: 100%;
-    background: white;
-
-    animation-name: blink;
-    animation-duration: 1000ms;
-    animation-iteration-count: infinite;
+    top: 100%;
+    text-align: center;
+    width: 220px;
   }
 }
 
-#passport-typeahead,
-#destination-typeahead {
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-}
-
-#requirement, #allowed-stay, #notes {
-  padding: 5px;
-  max-width: 600px;
-  color: white;
-}
-
-#options-wrapper {
-  position: fixed;
-  top: 100px;
-  right: 50px;
-  height: 100%;
-  overflow: scroll;
-  padding-right: 20px;
-
-  transition: opacity 200ms ease-out,
-              visibility 200ms step-end;
-
-  overflow: -moz-scrollbars-none;
-  -ms-overflow-style: none;
-  &::-webkit-scrollbar { 
-    width: 0 !important; 
-    background: transparent; 
+.passport-wrapper {
+  label {
+    left: 0;
+    transform-origin: 0% 50%;
+    transform: rotateZ(-90deg);
   }
 }
 
-
-.option {
+.destination-wrapper {
   text-align: right;
+
+  label {
+    right: 0;
+    transform-origin: 100% 50%;
+    transform: rotateZ(90deg);
+  }
+}
+
+#passport-code,
+#destination-code {
   cursor: pointer;
-  user-select: none;
   text-transform: uppercase;
-  font-size: 20px;
-  color: rgba(255,255,255,0.4);
-
-  height: 0;
-  visibility: hidden;
-  opacity: 0;
-
-  transition: height 200ms 200ms ease-out, 
-              opacity 200ms ease-out,
-              visibility 400ms step-end;
-}
-
-.option:hover {
-  color: rgba(255,255,255,1);
-}
-
-.option[data-is-active="true"] {
-  visibility: visible;
-  height: 40px;
-  opacity: 1;
-  transition: height 200ms ease-out, 
-              opacity 200ms 200ms ease-out,
-              visibility 400ms step-start;
+  font-size: 200px;
+  line-height: 1;
+  height: 1em;
+  padding: 0 10px;
 }

@@ -41,11 +41,31 @@ const getVisaRequirements = country => {
       const rows = Array.from($(table).find('tr'))
       
       rows.forEach(r => {
-        const sanitizedRow = { 'passport_country': country.code }
+        const sanitizedRow = { 
+          'passport_country': country.code, 
+          sources: [] 
+        }
 
         Array.from($(r).find('td')).forEach((col, n) => {
           const heading = HEADINGS[n]
           if (!heading) { return }
+
+          const links = Array.from($(col).find('a'))
+          links.forEach(link => {
+            const href = $(link).attr('href')
+            const text =  $(link).text()
+
+            if (text[0] === '[') {
+              $(link).remove()
+            }
+
+            const source = href[0] === '/'
+              ? `https://en.wikipedia.org${href}`
+              : `${country.wikipediaSource}${href}`
+
+            sanitizedRow.sources.push(source)
+          })
+
           const value = $(col).text().trim()
           const formattedValue = heading.formatter
             ? heading.formatter(value)

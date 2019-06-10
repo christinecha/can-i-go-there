@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack",
+    "build": "npm run scrape:all && webpack",
     "dev": "webpack-dev-server",
-    "scrape": "node ./shared/visa-requirements/trigger-all.js"
+    "scrape:all": "node ./shared/visa-requirements/trigger-all.js",
+    "scrape:one": "node ./shared/visa-requirements/trigger-one.js"
   },
   "author": "",
   "license": "ISC",
