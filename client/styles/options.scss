@@ -52,7 +52,7 @@ main[data-destination-selected="true"] {
 
 #passport-color,
 #destination-color {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   background: #005aff;
@@ -73,6 +73,7 @@ main[data-destination-selected="true"] {
 }
 
 .countries {
+  width: 100%;
   display: flex;
 }
 
@@ -82,18 +83,22 @@ main[data-destination-selected="true"] {
   width: 50%;
 
   label {
-    position: absolute;
-    top: 100%;
-    text-align: center;
-    width: 220px;
+    @media (min-width: 768px) {
+      text-align: center;
+      position: absolute;
+      top: 100%;
+      width: 220px;
+    }
   }
 }
 
 .passport-wrapper {
   label {
-    left: 0;
-    transform-origin: 0% 50%;
-    transform: rotateZ(-90deg);
+    @media (min-width: 768px) {
+      left: 0;
+      transform-origin: 0% 50%;
+      transform: rotateZ(-90deg);
+    }
   }
 }
 
@@ -101,9 +106,11 @@ main[data-destination-selected="true"] {
   text-align: right;
 
   label {
-    right: 0;
-    transform-origin: 100% 50%;
-    transform: rotateZ(90deg);
+    @media (min-width: 768px) {
+      right: 0;
+      transform-origin: 100% 50%;
+      transform: rotateZ(90deg);
+    }
   }
 }
 
@@ -114,5 +121,12 @@ main[data-destination-selected="true"] {
   font-size: 200px;
   line-height: 1;
   height: 1em;
-  padding: 0 10px;
+
+  @media (max-width: 767px) {
+    font-size: 60px;
+  }
+
+  @media (min-width: 768px) {
+    padding: 0 20px;
+  }
 }

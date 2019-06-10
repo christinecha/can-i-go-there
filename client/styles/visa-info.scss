@@ -25,21 +25,29 @@
 }
 
 .requirement-wrapper {
-  font-size: 40px;
+  font-size: 28px;
   text-transform: uppercase;
   margin-bottom: 5px;
 
   transition: transform 300ms 300ms ease-out,
               opacity 100ms 300ms linear;
+
+  @media (min-width: 768px) {
+    font-size: 40px;
+  }
 }
 
 .allowed-stay-wrapper {
-  font-size: 24px;
+  font-size: 18px;
   text-transform: uppercase;
   margin-bottom: 20px;
 
   transition: transform 300ms 400ms ease-out,
               opacity 100ms 400ms linear;
+
+  @media (min-width: 768px) {
+    font-size: 24px;
+  }
 }
 
 .notes-wrapper {
@@ -74,9 +82,13 @@
   a {
     color: $black;
     margin-bottom: 2px;
-    max-width: 350px;
+    max-width: 100%;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+
+    @media (min-width: 768px) {
+      max-width: 350px;
+    }
   }
 }

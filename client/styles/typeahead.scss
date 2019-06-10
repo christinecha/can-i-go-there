@@ -21,6 +21,10 @@ $option-font-size: 20px;
   position: relative;
   margin-bottom: 20px;
 
+  @media (max-width: 767px) {
+    display: none;
+  }
+
   &::after {
     @keyframes blink {
       49% { opacity: 1; }
@@ -55,14 +59,17 @@ $option-font-size: 20px;
 }
 
 #options-wrapper {
+  overflow: -moz-scrollbars-none;
+  -ms-overflow-style: none;
   height: calc(100% - 90px);
   overflow: scroll;
 
   transition: opacity 200ms ease-out,
               visibility 200ms step-end;
 
-  overflow: -moz-scrollbars-none;
-  -ms-overflow-style: none;
+  @media (max-width: 767px) {
+    height: calc(100% - 50px);
+  }
 
   &::-webkit-scrollbar { 
     width: 0 !important; 
