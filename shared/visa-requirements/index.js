@@ -43,7 +43,7 @@ const getVisaRequirements = country => {
       rows.forEach(r => {
         const sanitizedRow = { 
           'passport_country': country.code, 
-          sources: [] 
+          sources: [ country.wikipediaSource ] 
         }
 
         Array.from($(r).find('td')).forEach((col, n) => {
@@ -59,9 +59,13 @@ const getVisaRequirements = country => {
               $(link).remove()
             }
 
+            if (href[0] === '#') {
+              return
+            }
+            
             const source = href[0] === '/'
               ? `https://en.wikipedia.org${href}`
-              : `${country.wikipediaSource}${href}`
+              : href
 
             if (sanitizedRow.sources.indexOf(source) < 0) {
               sanitizedRow.sources.push(source)
