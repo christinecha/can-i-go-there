@@ -656,8 +656,16 @@
     "code": "PN",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
   },
-  {"name": "Poland", "code": "PL"},
-  {"name": "Portugal", "code": "PT"},
+  {
+    "name": "Poland", 
+    "code": "PL",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Polish_citizens"
+  },
+  {
+    "name": "Portugal", 
+    "code": "PT",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Portuguese_citizens"
+  },
   {"name": "Puerto Rico", "code": "PR"},
   {"name": "Qatar", "code": "QA"},
   {"name": "Reunion", "code": "RE"},
@@ -705,7 +713,12 @@
   },
   {"name": "Switzerland", "code": "CH"},
   {"name": "Syrian Arab Republic", "code": "SY"},
-  {"name": "Taiwan, Province of China", "code": "TW"},
+  {
+    "name": "Taiwan", 
+    "aliases": ["Taiwan, Province of China"],
+    "code": "TW",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens"
+  },
   {"name": "Tajikistan", "code": "TJ"},
   {"name": "Tanzania, United Republic of", "code": "TZ"},
   {"name": "Thailand", "code": "TH"},
@@ -722,11 +735,32 @@
     "code": "TC",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
   },
-  {"name": "Tuvalu", "code": "TV"},
-  {"name": "Uganda", "code": "UG"},
-  {"name": "Ukraine", "code": "UA"},
-  {"name": "United Arab Emirates", "code": "AE"},
-  {"name": "United Kingdom", "code": "GB"},
+  {
+    "name": "Tuvalu", 
+    "code": "TV",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Uganda", 
+    "code": "UG",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens"
+  },
+  {
+    "name": "Ukraine", 
+    "code": "UA",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens"
+  },
+  {
+    "name": "United Arab Emirates", 
+    "code": "AE",
+    "aliases": ["UAE"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens"
+  },
+  {
+    "name": "United Kingdom", 
+    "code": "GB",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens"
+  },
   {
     "name": "United States", 
     "code": "US",
@@ -734,17 +768,70 @@
     "colors": ["#c00d0e", "#15137b"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens"
   },
-  {"name": "United States Minor Outlying Islands", "code": "UM"},
-  {"name": "Uruguay", "code": "UY"},
-  {"name": "Uzbekistan", "code": "UZ"},
-  {"name": "Vanuatu", "code": "VU"},
-  {"name": "Venezuela", "code": "VE"},
-  {"name": "Viet Nam", "code": "VN"},
-  {"name": "Virgin Islands, British", "code": "VG"},
-  {"name": "Virgin Islands, U.S.", "code": "VI"},
-  {"name": "Wallis and Futuna", "code": "WF"},
-  {"name": "Western Sahara", "code": "EH"},
-  {"name": "Yemen", "code": "YE"},
-  {"name": "Zambia", "code": "ZM"},
-  {"name": "Zimbabwe", "code": "ZW"}
+  {
+    "name": "United States Minor Outlying Islands", 
+    "code": "UM",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Uruguay", 
+    "code": "UY",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Uruguayan_citizens"
+  },
+  {
+    "name": "Uzbekistan", 
+    "code": "UZ",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Uzbekistani_citizens"
+  },
+  {
+    "name": "Vanuatu", 
+    "code": "VU",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vanuatuan_citizens"
+  },
+  {
+    "name": "Venezuela", 
+    "code": "VE",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Venezuelan_citizens"
+  },
+  {
+    "name": "Viet Nam", 
+    "code": "VN",
+    "aliases": ["Vietnam"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Vietnamese_citizens"
+  },
+  {
+    "name": "Virgin Islands, British", 
+    "code": "VG",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Virgin Islands, U.S.", 
+    "code": "VI",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Wallis and Futuna", 
+    "code": "WF",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Western Sahara", 
+    "code": "EH",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Yemen", 
+    "code": "YE",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Yemeni_citizens"
+  },
+  {
+    "name": "Zambia", 
+    "code": "ZM",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zambian_citizens"
+  },
+  {
+    "name": "Zimbabwe", 
+    "code": "ZW",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zimbabwean_citizens"
+  }
 ]
