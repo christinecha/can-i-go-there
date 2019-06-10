@@ -41,7 +41,9 @@ function render () {
 
   const { preselect } = this.state
   const activeOptions = this.refs.options.filter(o => o.dataset.isActive === "true")
-  activeOptions[preselect].dataset.isPreselected = true
+  if (activeOptions[preselect]) {
+    activeOptions[preselect].dataset.isPreselected = true
+  }
 
   this.refs.main.dataset.passportSelected = !!this.state.passport
   this.refs.main.dataset.destinationSelected = !!this.state.destination
