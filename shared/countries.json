@@ -547,12 +547,14 @@
   {
     "name": "Israel", 
     "code": "IL",
-    "wikipediaSource": ""
+    "colors": ["#0038b8"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens"
   },
   {
     "name": "Italy", 
     "code": "IT",
-    "wikipediaSource": ""
+    "colors": ["#d82431", "#009246"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Italian_citizens"
   },
   {
     "name": "Jamaica", 
@@ -578,6 +580,7 @@
     "name": "Korea, Republic of", 
     "aliases": [ "South Korea" ],
     "code": "KR",
+    "colors": ["#004aa7", "#cd2e3a", "#191919"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Korean_citizens"
   },
   {"name": "Kuwait", "code": "KW"},
