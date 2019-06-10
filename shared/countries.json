@@ -324,7 +324,7 @@
   {
     "name": "Ecuador", 
     "code": "EC",
-    "colors": ["#034ea2", "#ffdd00", "#ed1c23"],
+    "colors": ["#034ea2", "#ffc800", "#ed1c23"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ecuadorian_citizens"
   },
   {
@@ -730,6 +730,8 @@
   {
     "name": "United States", 
     "code": "US",
+    "aliases": ["America", "United States of America", "USA", "U.S.A."],
+    "colors": ["#c00d0e", "#15137b"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens"
   },
   {"name": "United States Minor Outlying Islands", "code": "UM"},

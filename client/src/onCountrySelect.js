@@ -2,8 +2,10 @@ import type from './util/type'
 import getRequirements from './util/getRequirements'
 
 function onCountrySelect (country = {}) {
-  const { code, colors } = country
-  const color = colors ? colors[0] : ''
+  const { code } = country
+  const colors = country.colors || []
+  const rand = Math.floor(Math.random() * colors.length)
+  const color = colors[rand] || ''
 
   if (!this.state.passport) {
     this.refs.passportColor.style.background = color

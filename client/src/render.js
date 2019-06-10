@@ -12,8 +12,15 @@ function render () {
   }
 
   const isTypeaheadMatch = $option => {
-    const { country } = $option.dataset
-    return country.indexOf(this.state.typeaheadValue) === 0
+    const { countryCode } = $option.dataset
+    const country = this.COUNTRIES_BY_CODE[countryCode]
+    const aliases = country.aliases || []
+    const names = [ country.name, countryCode, ...aliases ]
+
+    const match = names
+      .map(n => n.toLowerCase())
+      .find(n => n.indexOf(this.state.typeaheadValue) === 0)
+    return !!match
   }
 
   if (!this.state.passport) {
