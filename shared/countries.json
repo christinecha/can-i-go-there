@@ -156,6 +156,7 @@
   {
     "name": "Brazil", 
     "code": "BR",
+    "colors": ["#389b00", "#002776", "#fedf00"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens"
   },
   {
@@ -187,16 +188,19 @@
   {
     "name": "Cambodia", 
     "code": "KH",
+    "colors": ["#032ea1", "#e00025"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cambodian_citizens"
   },
   {
     "name": "Cameroon", 
     "code": "CM",
+    "colors": ["#007a5e", "#ce1126", "#fcd116"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cameroonian_citizens"
   },
   {
     "name": "Canada", 
     "code": "CA",
+    "colors": ["#d52b1e"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Canadian_citizens"
   },
   {
