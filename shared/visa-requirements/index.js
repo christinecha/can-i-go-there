@@ -63,7 +63,9 @@ const getVisaRequirements = country => {
               ? `https://en.wikipedia.org${href}`
               : `${country.wikipediaSource}${href}`
 
-            sanitizedRow.sources.push(source)
+            if (sanitizedRow.sources.indexOf(source) < 0) {
+              sanitizedRow.sources.push(source)
+            }
           })
 
           const value = $(col).text().trim()
