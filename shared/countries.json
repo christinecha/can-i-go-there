@@ -507,37 +507,38 @@
   {
     "name": "Hungary", 
     "code": "HU",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Hungarian_citizens"
   },
   {
     "name": "Iceland", 
     "code": "IS",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Icelandic_citizens"
   },
   {
     "name": "India", 
     "code": "IN",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
   },
   {
     "name": "Indonesia", 
     "code": "ID",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens"
   },
   {
-    "name": "Iran, Islamic Republic Of", 
+    "name": "Iran", 
     "code": "IR",
-    "wikipediaSource": ""
+    "aliases": ["Iran, Islamic Republic Of", "Islamic Republic Of Iran"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens"
   },
   {
     "name": "Iraq", 
     "code": "IQ",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens"
   },
   {
     "name": "Ireland", 
     "code": "IE",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens"
   },
   {
     "name": "Isle of Man", 
@@ -559,45 +560,129 @@
   {
     "name": "Jamaica", 
     "code": "JM",
-    "wikipediaSource": ""
+    "colors": ["#029e34", "#fbd500", "#101010"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Jamaican_citizens"
   },
   {
     "name": "Japan", 
     "code": "JP",
+    "colors": ["#bc002d"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Japanese_citizens"
   },
-  {"name": "Jersey", "code": "JE"},
-  {"name": "Jordan", "code": "JO"},
-  {"name": "Kazakhstan", "code": "KZ"},
-  {"name": "Kenya", "code": "KE"},
-  {"name": "Kiribati", "code": "KI"},
   {
-    "name": "Korea, Democratic People's Republic of", 
-    "code": "KP",
-    "aliases": [ "North Korea" ]
+    "name": "Jersey", 
+    "code": "JE",
+    "wikipediaSource": ""
   },
   {
-    "name": "Korea, Republic of", 
-    "aliases": [ "South Korea" ],
+    "name": "Jordan", 
+    "code": "JO",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens"
+  },
+  {
+    "name": "Kazakhstan", 
+    "code": "KZ",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kazakhstani_citizens"
+  },
+  {
+    "name": "Kenya", 
+    "code": "KE",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kenyan_citizens"
+  },
+  {
+    "name": "Kiribati", 
+    "code": "KI",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kiribati_citizens"
+  },
+  {
+    "name": "Korea, North", 
+    "aliases": [ "North Korea", "Democratic People's Republic of Korea", "Korea, Democratic People's Republic of" ],
+    "code": "KP",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_North_Korean_citizens"
+  },
+  {
+    "name": "Korea, South", 
+    "aliases": [ "South Korea", "Republic of Korea", "Korea, Republic of" ],
     "code": "KR",
     "colors": ["#004aa7", "#cd2e3a", "#191919"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Korean_citizens"
   },
-  {"name": "Kuwait", "code": "KW"},
-  {"name": "Kyrgyzstan", "code": "KG"},
-  {"name": "Lao People's Democratic Republic", "code": "LA"},
-  {"name": "Latvia", "code": "LV"},
-  {"name": "Lebanon", "code": "LB"},
-  {"name": "Lesotho", "code": "LS"},
-  {"name": "Liberia", "code": "LR"},
-  {"name": "Libyan Arab Jamahiriya", "code": "LY"},
-  {"name": "Liechtenstein", "code": "LI"},
-  {"name": "Lithuania", "code": "LT"},
-  {"name": "Luxembourg", "code": "LU"},
-  {"name": "Macao", "code": "MO"},
-  {"name": "Macedonia, The Former Yugoslav Republic of", "code": "MK"},
-  {"name": "Madagascar", "code": "MG"},
-  {"name": "Malawi", "code": "MW"},
+  {
+    "name": "Kuwait", 
+    "code": "KW",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens"
+  },
+  {
+    "name": "Kyrgyzstan", 
+    "code": "KG",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Kyrgyzstani_citizens"
+  },
+  {
+    "name": "Laos", 
+    "aliases": [ "Lao People's Democratic Republic" ],
+    "code": "LA",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Laotian_citizens"
+  },
+  {
+    "name": "Latvia", 
+    "code": "LV",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Latvian_citizens"
+  },
+  {
+    "name": "Lebanon", 
+    "code": "LB",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens"
+  },
+  {
+    "name": "Lesotho", 
+    "code": "LS",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lesotho_citizens"
+  },
+  {
+    "name": "Liberia", 
+    "code": "LR",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Liberian_citizens"
+  },
+  {
+    "name": "Libyan Arab Jamahiriya", 
+    "code": "LY",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Liechtenstein", 
+    "code": "LI",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens"
+  },
+  {
+    "name": "Lithuania", 
+    "code": "LT",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Lithuanian_citizens"
+  },
+  {
+    "name": "Luxembourg", 
+    "code": "LU",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Macao", 
+    "code": "MO",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Macedonia, The Former Yugoslav Republic of", 
+    "code": "MK",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Madagascar", 
+    "code": "MG",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Malawi", 
+    "code": "MW",
+    "wikipediaSource": ""
+  },
   {
     "name": "Malaysia", 
     "code": "MY",
@@ -666,12 +751,36 @@
     "code": "PT",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Portuguese_citizens"
   },
-  {"name": "Puerto Rico", "code": "PR"},
-  {"name": "Qatar", "code": "QA"},
-  {"name": "Reunion", "code": "RE"},
-  {"name": "Romania", "code": "RO"},
-  {"name": "Russian Federation", "code": "RU"},
-  {"name": "RWANDA", "code": "RW"},
+  {
+    "name": "Puerto Rico", 
+    "code": "PR",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Qatar", 
+    "code": "QA",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Reunion", 
+    "code": "RE",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Romania", 
+    "code": "RO",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Russian Federation", 
+    "code": "RU",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "RWANDA", 
+    "code": "RW",
+    "wikipediaSource": ""
+  },
   {
     "name": "Saint Helena", 
     "code": "SH",
