@@ -720,7 +720,12 @@
   {"name": "Netherlands Antilles", "code": "AN"},
   {"name": "New Caledonia", "code": "NC"},
   {"name": "New Zealand", "code": "NZ"},
-  {"name": "Nicaragua", "code": "NI"},
+  {
+    "name": "Nicaragua", 
+    "code": "NI",
+    "colors": ["#007ed8"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nicaraguan_citizens"
+  },
   {"name": "Niger", "code": "NE"},
   {"name": "Nigeria", "code": "NG"},
   {"name": "Niue", "code": "NU"},
