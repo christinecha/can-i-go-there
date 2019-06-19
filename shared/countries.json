@@ -425,7 +425,7 @@
   {
     "name": "Gabon", 
     "code": "GA",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Gabonese_citizens"
   },
   {
     "name": "Gambia", 
@@ -936,7 +936,11 @@
     "code": "SH",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
   },
-  {"name": "Saint Kitts and Nevis", "code": "KN"},
+  {
+    "name": "Saint Kitts and Nevis", 
+    "code": "KN",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens"
+  },
   {
     "name": "Saint Lucia", 
     "code": "LC",
