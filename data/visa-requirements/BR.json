@@ -868,6 +868,17 @@
     "allowed_stay": "30 days",
     "notes": ""
   },
+  "IR": {
+    "passport_country": "BR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "IQ": {
     "passport_country": "BR",
     "sources": [
@@ -1038,6 +1049,21 @@
     "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "1 month",
     "notes": "Visa on arrival available at Manas International Airport.\nElectronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk)."
+  },
+  "LA": {
+    "passport_country": "BR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
+      "https://en.wikipedia.org/wiki/Laos",
+      "https://en.wikipedia.org/wiki/Luang_Prabang_International_Airport",
+      "https://en.wikipedia.org/wiki/Pakse_International_Airport",
+      "https://en.wikipedia.org/wiki/Savannakhet_Airport",
+      "https://en.wikipedia.org/wiki/Wattay_International_Airport"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Conditions apply.\nAvailable at international airports Luangphabang, Pakse, Savannakhet and Vientiane, and at 4 land borders Friendship Bridge, and at 13 border crossings as well as Tanalaeng train station in Vientiane, which connects to the train station in Nongkai, Thailand.\nEntry points Lalai, Lantui, Meuang mom, Pakxan, and Phoudou are open only to visa holders.\nExtendable up to 60 days."
   },
   "LV": {
     "passport_country": "BR",
@@ -1535,6 +1561,28 @@
     "allowed_stay": "3 months",
     "notes": "3 months during a 6 months period"
   },
+  "RU": {
+    "passport_country": "BR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
+      "https://en.wikipedia.org/wiki/Russia"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
+  },
+  "RW": {
+    "passport_country": "BR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "KN": {
     "passport_country": "BR",
     "sources": [
@@ -1973,6 +2021,17 @@
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": "Entry is allowed with a valid ID card that is less than 10 years old."
+  },
+  "VN": {
+    "passport_country": "BR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Brazilian_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam"
+    ],
+    "destination_country": "VN",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": ""
   },
   "YE": {
     "passport_country": "BR",

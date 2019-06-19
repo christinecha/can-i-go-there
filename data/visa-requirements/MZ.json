@@ -1,0 +1,1966 @@
+{
+  "AF": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Afghanistan"
+    ],
+    "destination_country": "AF",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "AL": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Albania"
+    ],
+    "destination_country": "AL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "DZ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Algeria"
+    ],
+    "destination_country": "DZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "AD": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Andorra"
+    ],
+    "destination_country": "AD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "AO": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Angola"
+    ],
+    "destination_country": "AO",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "AG": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
+    ],
+    "destination_country": "AG",
+    "visa_requirement": "Electronic Entry Visa",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "AR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Argentina"
+    ],
+    "destination_country": "AR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "AM": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Armenia"
+    ],
+    "destination_country": "AM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "AT": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Austria"
+    ],
+    "destination_country": "AT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "AZ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Azerbaijan"
+    ],
+    "destination_country": "AZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BS": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/The_Bahamas"
+    ],
+    "destination_country": "BS",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BH": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Bahrain"
+    ],
+    "destination_country": "BH",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "14 days",
+    "notes": ""
+  },
+  "BD": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Bangladesh"
+    ],
+    "destination_country": "BD",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "BB": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Barbados"
+    ],
+    "destination_country": "BB",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BY": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Belarus"
+    ],
+    "destination_country": "BY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Belgium"
+    ],
+    "destination_country": "BE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BZ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Belize"
+    ],
+    "destination_country": "BZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BJ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Benin"
+    ],
+    "destination_country": "BJ",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "BT": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Bhutan"
+    ],
+    "destination_country": "BT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BO": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Bolivia"
+    ],
+    "destination_country": "BO",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "BA": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
+    ],
+    "destination_country": "BA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BW": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Botswana"
+    ],
+    "destination_country": "BW",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "BR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Brazil"
+    ],
+    "destination_country": "BR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BN": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Brunei"
+    ],
+    "destination_country": "BN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BG": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Bulgaria"
+    ],
+    "destination_country": "BG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BF": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Burkina_Faso"
+    ],
+    "destination_country": "BF",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BI": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Burundi"
+    ],
+    "destination_country": "BI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KH": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Cambodia"
+    ],
+    "destination_country": "KH",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "CM": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Cameroon"
+    ],
+    "destination_country": "CM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CA": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Canada"
+    ],
+    "destination_country": "CA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CV": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Cape_Verde"
+    ],
+    "destination_country": "CV",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "CF": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Central_African_Republic"
+    ],
+    "destination_country": "CF",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TD": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Chad"
+    ],
+    "destination_country": "TD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CL": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Chile"
+    ],
+    "destination_country": "CL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CN": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/China"
+    ],
+    "destination_country": "CN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CO": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Colombia"
+    ],
+    "destination_country": "CO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "May apply online."
+  },
+  "KM": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Comoros"
+    ],
+    "destination_country": "KM",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CG": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_the_Congo"
+    ],
+    "destination_country": "CG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CD": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+    ],
+    "destination_country": "CD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Costa_Rica"
+    ],
+    "destination_country": "CR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "HR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Croatia"
+    ],
+    "destination_country": "HR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CU": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Cuba"
+    ],
+    "destination_country": "CU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CY": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Cyprus"
+    ],
+    "destination_country": "CY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CZ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Czech_Republic"
+    ],
+    "destination_country": "CZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "DK": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Denmark"
+    ],
+    "destination_country": "DK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "DJ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Djibouti"
+    ],
+    "destination_country": "DJ",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "31 days",
+    "notes": ""
+  },
+  "DM": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Dominica"
+    ],
+    "destination_country": "DM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "6 months",
+    "notes": ""
+  },
+  "DO": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Dominican_Republic"
+    ],
+    "destination_country": "DO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "EC": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Ecuador"
+    ],
+    "destination_country": "EC",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "EG": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Egypt"
+    ],
+    "destination_country": "EG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SV": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/El_Salvador"
+    ],
+    "destination_country": "SV",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GQ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Equatorial_Guinea"
+    ],
+    "destination_country": "GQ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "ER": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Eritrea"
+    ],
+    "destination_country": "ER",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "EE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Estonia"
+    ],
+    "destination_country": "EE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "ET": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Ethiopia",
+      "https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport"
+    ],
+    "destination_country": "ET",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "up to 90 days",
+    "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\neVisa holders must arrive via Addis Ababa Bole International Airport.\neVisas are available for 30 or 90 days."
+  },
+  "FJ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Fiji"
+    ],
+    "destination_country": "FJ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "FI": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Finland"
+    ],
+    "destination_country": "FI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "FR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/France"
+    ],
+    "destination_country": "FR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GA": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Gabon",
+      "https://en.wikipedia.org/wiki/Libreville_International_Airport"
+    ],
+    "destination_country": "GA",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": "Electronic visa holders must arrive via Libreville International Airport."
+  },
+  "GM": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/The_Gambia"
+    ],
+    "destination_country": "GM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "In addition to a visa, an entry clearance must be obtained from the Gambian Immigration prior to travel."
+  },
+  "GE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Georgia_(country)"
+    ],
+    "destination_country": "GE",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "DE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Germany"
+    ],
+    "destination_country": "DE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GH": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Ghana"
+    ],
+    "destination_country": "GH",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "GR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Greece"
+    ],
+    "destination_country": "GR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GD": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Grenada"
+    ],
+    "destination_country": "GD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "GT": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Guatemala"
+    ],
+    "destination_country": "GT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GN": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Guinea"
+    ],
+    "destination_country": "GN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GW": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Guinea-Bissau"
+    ],
+    "destination_country": "GW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "GY": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Guyana"
+    ],
+    "destination_country": "GY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "HT": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Haiti"
+    ],
+    "destination_country": "HT",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "HN": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Honduras"
+    ],
+    "destination_country": "HN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "HU": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Hungary"
+    ],
+    "destination_country": "HU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IS": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Iceland"
+    ],
+    "destination_country": "IS",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IN": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/India"
+    ],
+    "destination_country": "IN",
+    "visa_requirement": "e-Visa",
+    "allowed_stay": "60 days",
+    "notes": "e-Visa holders must arrive via 26 designated airports or 3 designated seaports.\nAn Indian e-Tourist Visa can only be obtained twice in one calendar year."
+  },
+  "ID": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Indonesia"
+    ],
+    "destination_country": "ID",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "IR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "IQ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Iraq"
+    ],
+    "destination_country": "IQ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Ireland"
+    ],
+    "destination_country": "IE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IL": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Israel"
+    ],
+    "destination_country": "IL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IT": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Italy"
+    ],
+    "destination_country": "IT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "JM": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Jamaica"
+    ],
+    "destination_country": "JM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "180 days",
+    "notes": ""
+  },
+  "JP": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Japan"
+    ],
+    "destination_country": "JP",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "JO": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Jordan"
+    ],
+    "destination_country": "JO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KZ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Kazakhstan"
+    ],
+    "destination_country": "KZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Kenya"
+    ],
+    "destination_country": "KE",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "KI": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Kiribati"
+    ],
+    "destination_country": "KI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KP": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/North_Korea"
+    ],
+    "destination_country": "KP",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/South_Korea"
+    ],
+    "destination_country": "KR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KW": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Kuwait"
+    ],
+    "destination_country": "KW",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KG": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Kyrgyzstan"
+    ],
+    "destination_country": "KG",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LA": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Laos"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "LV": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Latvia"
+    ],
+    "destination_country": "LV",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LB": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Lebanon"
+    ],
+    "destination_country": "LB",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LS": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Lesotho"
+    ],
+    "destination_country": "LS",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "LR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Liberia"
+    ],
+    "destination_country": "LR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LI": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Liechtenstein"
+    ],
+    "destination_country": "LI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LT": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Lithuania"
+    ],
+    "destination_country": "LT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LU": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Luxembourg"
+    ],
+    "destination_country": "LU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MG": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Madagascar"
+    ],
+    "destination_country": "MG",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "MW": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Malawi"
+    ],
+    "destination_country": "MW",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MY": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Malaysia"
+    ],
+    "destination_country": "MY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MV": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Maldives"
+    ],
+    "destination_country": "MV",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "ML": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Mali"
+    ],
+    "destination_country": "ML",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MT": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Malta"
+    ],
+    "destination_country": "MT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MH": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Marshall_Islands"
+    ],
+    "destination_country": "MH",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Mauritania",
+      "https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport"
+    ],
+    "destination_country": "MR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "",
+    "notes": "Available at Nouakchott–Oumtounsy International Airport."
+  },
+  "MU": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Mauritius"
+    ],
+    "destination_country": "MU",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "MX": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Mexico"
+    ],
+    "destination_country": "MX",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MC": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Monaco"
+    ],
+    "destination_country": "MC",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MN": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Mongolia"
+    ],
+    "destination_country": "MN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MA": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Morocco"
+    ],
+    "destination_country": "MA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MM": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Myanmar"
+    ],
+    "destination_country": "MM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NA": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Namibia"
+    ],
+    "destination_country": "NA",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "NR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Nauru"
+    ],
+    "destination_country": "NR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NP": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Nepal"
+    ],
+    "destination_country": "NP",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "NL": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Netherlands"
+    ],
+    "destination_country": "NL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NZ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/New_Zealand"
+    ],
+    "destination_country": "NZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NI": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Nicaragua"
+    ],
+    "destination_country": "NI",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "NE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Niger"
+    ],
+    "destination_country": "NE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NG": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Nigeria"
+    ],
+    "destination_country": "NG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NO": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Norway"
+    ],
+    "destination_country": "NO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "OM": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Oman"
+    ],
+    "destination_country": "OM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PK": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Pakistan"
+    ],
+    "destination_country": "PK",
+    "visa_requirement": "Electronic Travel Authorization",
+    "allowed_stay": "",
+    "notes": "Electronic Travel Authorization to obtain a visa on arrival for tourism purposes.\nElectronic Travel Authorization to obtain a visa on arrival for business purposes.\nOnline Visa eligible."
+  },
+  "PW": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Palau"
+    ],
+    "destination_country": "PW",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "PA": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Panama"
+    ],
+    "destination_country": "PA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PG": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Papua_New_Guinea"
+    ],
+    "destination_country": "PG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PY": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Paraguay"
+    ],
+    "destination_country": "PY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Peru"
+    ],
+    "destination_country": "PE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PH": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Philippines"
+    ],
+    "destination_country": "PH",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "PL": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Poland"
+    ],
+    "destination_country": "PL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PT": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Portugal"
+    ],
+    "destination_country": "PT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "QA": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Qatar"
+    ],
+    "destination_country": "QA",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "RO": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Romania"
+    ],
+    "destination_country": "RO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "RU": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Russia"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "RW": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "KN": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
+    ],
+    "destination_country": "KN",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LC": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Lucia"
+    ],
+    "destination_country": "LC",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "6 weeks",
+    "notes": ""
+  },
+  "VC": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
+    ],
+    "destination_country": "VC",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "1 month",
+    "notes": ""
+  },
+  "WS": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Samoa"
+    ],
+    "destination_country": "WS",
+    "visa_requirement": "Entry Permit on arrival",
+    "allowed_stay": "60 days",
+    "notes": ""
+  },
+  "SM": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/San_Marino"
+    ],
+    "destination_country": "SM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SA": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Saudi_Arabia"
+    ],
+    "destination_country": "SA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SN": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Senegal"
+    ],
+    "destination_country": "SN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SC": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Seychelles"
+    ],
+    "destination_country": "SC",
+    "visa_requirement": "Visitor's Permit on arrival",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "SL": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Sierra_Leone"
+    ],
+    "destination_country": "SL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SG": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Singapore"
+    ],
+    "destination_country": "SG",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "SK": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Slovakia"
+    ],
+    "destination_country": "SK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SI": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Slovenia"
+    ],
+    "destination_country": "SI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SB": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Solomon_Islands"
+    ],
+    "destination_country": "SB",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SO": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Somalia",
+      "https://en.wikipedia.org/wiki/Bosaso_Airport",
+      "https://en.wikipedia.org/wiki/Galcaio_Airport",
+      "https://en.wikipedia.org/wiki/Mogadishu_Airport"
+    ],
+    "destination_country": "SO",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Available at Bosaso Airport, Galcaio Airport and Mogadishu Airport."
+  },
+  "ZA": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/South_Africa"
+    ],
+    "destination_country": "ZA",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "ES": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Spain"
+    ],
+    "destination_country": "ES",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LK": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Sri_Lanka"
+    ],
+    "destination_country": "LK",
+    "visa_requirement": "Electronic Travel Authorization",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "SD": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Sudan"
+    ],
+    "destination_country": "SD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Suriname"
+    ],
+    "destination_country": "SR",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Sweden"
+    ],
+    "destination_country": "SE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CH": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Switzerland"
+    ],
+    "destination_country": "CH",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TJ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Tajikistan"
+    ],
+    "destination_country": "TJ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TH": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Thailand"
+    ],
+    "destination_country": "TH",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TL": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/East_Timor"
+    ],
+    "destination_country": "TL",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "TG": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Togo"
+    ],
+    "destination_country": "TG",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "7 days",
+    "notes": ""
+  },
+  "TO": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Tonga"
+    ],
+    "destination_country": "TO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TT": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
+    ],
+    "destination_country": "TT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TN": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Tunisia"
+    ],
+    "destination_country": "TN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TR": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Turkey"
+    ],
+    "destination_country": "TR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TM": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Turkmenistan"
+    ],
+    "destination_country": "TM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TV": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Tuvalu"
+    ],
+    "destination_country": "TV",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "1 month",
+    "notes": ""
+  },
+  "UG": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Uganda"
+    ],
+    "destination_country": "UG",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "",
+    "notes": "May apply online."
+  },
+  "UA": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Ukraine"
+    ],
+    "destination_country": "UA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "AE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/United_Arab_Emirates"
+    ],
+    "destination_country": "AE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "US": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/United_States"
+    ],
+    "destination_country": "US",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "UY": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Uruguay"
+    ],
+    "destination_country": "UY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "UZ": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Uzbekistan"
+    ],
+    "destination_country": "UZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "VU": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Vanuatu"
+    ],
+    "destination_country": "VU",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "VE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Venezuela"
+    ],
+    "destination_country": "VE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "VN": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam"
+    ],
+    "destination_country": "VN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "YE": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Yemen"
+    ],
+    "destination_country": "YE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "ZM": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Zambia"
+    ],
+    "destination_country": "ZM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "ZW": {
+    "passport_country": "MZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Mozambican_citizens",
+      "https://en.wikipedia.org/wiki/Zimbabwe"
+    ],
+    "destination_country": "ZW",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  }
+}

@@ -277,9 +277,9 @@
       "https://en.wikipedia.org/wiki/Brazil"
     ],
     "destination_country": "BR",
-    "visa_requirement": "eVisa",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "90 days per year; valid for 2 years.\nVisa Waiver Program will be effective 6/17/2019."
+    "notes": "Up to 90 days per visit, but no more than 180 days per year."
   },
   "BN": {
     "passport_country": "US",
@@ -923,6 +923,18 @@
     "allowed_stay": "30 days",
     "notes": ""
   },
+  "IR": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/Iran",
+      "https://en.wikipedia.org/wiki/Embassy_of_Pakistan,_Washington,_D.C."
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Iranian visas must be obtained from the Special Interests section of the Embassy of Pakistan, Washington, D.C. or an Iranian embassy all around the world \nUS visitors are fingerprinted and photographed upon entry.\nIndependent travelers must be accompanied by an authorized guide at all times.\nTourist visa not required for Kish Island."
+  },
   "IQ": {
     "passport_country": "US",
     "sources": [
@@ -1082,6 +1094,21 @@
     "visa_requirement": "Visa not required",
     "allowed_stay": "60 days",
     "notes": ""
+  },
+  "LA": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/Laos",
+      "https://en.wikipedia.org/wiki/Luang_Prabang_International_Airport",
+      "https://en.wikipedia.org/wiki/Pakse_International_Airport",
+      "https://en.wikipedia.org/wiki/Savannakhet_Airport",
+      "https://en.wikipedia.org/wiki/Wattay_International_Airport"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Conditions apply.\nAvailable at international airports Luangphabang, Pakse, Savannakhet and Vientiane, and at 4 land borders Friendship Bridge, and at 13 border crossings as well as Tanalaeng train station in Vientiane, which connects to the train station in Nongkai, Thailand.\nEntry points Lalai, Lantui, Meuang mom, Pakxan, and Phoudou are open only to visa holders.\nExtendable up to 60 days."
   },
   "LV": {
     "passport_country": "US",
@@ -1598,6 +1625,29 @@
     "allowed_stay": "90 days",
     "notes": "90 days within any 180-day period. Beginning in January 2021, ETIAS system will become mandatory for all Non-EU international travellers."
   },
+  "RU": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/Russia"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "72-hour visa-free for international cruise ship/ferry passengers only if travelling with an organized tour and accompanied at all times by a tour operator.\nRegistration required after 7 business days.\nAmerican citizens may receive multiple entry visas valid for three years."
+  },
+  "RW": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda",
+      "https://en.wikipedia.org/wiki/International_Certificate_of_Vaccination"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Visitors are fingerprinted\nInternational Certificate of Vaccination required."
+  },
   "KN": {
     "passport_country": "US",
     "sources": [
@@ -2049,6 +2099,18 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "VN": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam",
+      "https://en.wikipedia.org/wiki/Ph%C3%BA_Qu%E1%BB%91c"
+    ],
+    "destination_country": "VN",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": "A single entry eVisa is available.\nPhú Quốc visa exemption for up to 30 days."
   },
   "YE": {
     "passport_country": "US",

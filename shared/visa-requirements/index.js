@@ -5,6 +5,7 @@ const HEADINGS = require('./HEADINGS')
 
 const validateHeadings = headings => {
   return !headings.find((h, i) => {
+    if (i >= HEADINGS.length) return false
     if (!HEADINGS[i]) return true
 
     const cleanHeading = h.trim().toLowerCase()

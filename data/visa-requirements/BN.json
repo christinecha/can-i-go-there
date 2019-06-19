@@ -839,6 +839,17 @@
     "allowed_stay": "30 days",
     "notes": ""
   },
+  "IR": {
+    "passport_country": "BN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "IQ": {
     "passport_country": "BN",
     "sources": [
@@ -992,6 +1003,17 @@
     "destination_country": "KG",
     "visa_requirement": "Visa not required",
     "allowed_stay": "60 days",
+    "notes": ""
+  },
+  "LA": {
+    "passport_country": "BN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Laos"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "14 days",
     "notes": ""
   },
   "LV": {
@@ -1477,6 +1499,28 @@
     "allowed_stay": "90 days",
     "notes": "90 days within any 180 day period"
   },
+  "RU": {
+    "passport_country": "BN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Russia"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "14 days",
+    "notes": "For a maximum total stay of 90 days within any 180 day period"
+  },
+  "RW": {
+    "passport_country": "BN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "KN": {
     "passport_country": "BN",
     "sources": [
@@ -1928,6 +1972,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "VN": {
+    "passport_country": "BN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam"
+    ],
+    "destination_country": "VN",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "14 days",
+    "notes": "A single entry eVisa valid for 30 days is also available."
   },
   "YE": {
     "passport_country": "BN",

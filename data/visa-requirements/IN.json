@@ -1,0 +1,2016 @@
+{
+  "AF": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Afghanistan"
+    ],
+    "destination_country": "AF",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa fee waived for regular or ordinary Indian passport holders."
+  },
+  "AL": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Albania"
+    ],
+    "destination_country": "AL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa free for a maximum stay of 90 days within 180 days for valid visa holders or residents of the Schengen Area member states, the UK and US, subject to visa being used at least once before"
+  },
+  "DZ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Algeria"
+    ],
+    "destination_country": "DZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "AD": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Andorra"
+    ],
+    "destination_country": "AD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Andorra has no visa regime, but is only accessible through France and Spain."
+  },
+  "AO": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Angola"
+    ],
+    "destination_country": "AO",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": "Visitors who have been granted an online pre-visa or have requested such pre-visa from the consulates of Angola abroad, are then issued with a visa on arrival at the country's border check points.\nFor a maximum total stay of 90 days within a one year period.\nBesides having printed confirmation that a visa will be issued upon arrival, passengers must: have a return/onward ticket, and have a hotel reservation confirmation."
+  },
+  "AG": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
+    ],
+    "destination_country": "AG",
+    "visa_requirement": "Electronic Entry Visa",
+    "allowed_stay": "",
+    "notes": "Visa free for a maximum stay of 30 days for valid visa holders or residents of Canada, the Schengen Area member states, UK and US."
+  },
+  "AR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Argentina"
+    ],
+    "destination_country": "AR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa free of charge for Indian and Moroccan passport holders. Indian passport holders with a valid US B2 visa or a European type C Schengen visa can avail an electronic travel authorization for the purposes of tourism."
+  },
+  "AM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Armenia"
+    ],
+    "destination_country": "AM",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "120 days",
+    "notes": ""
+  },
+  "AT": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Austria"
+    ],
+    "destination_country": "AT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "AZ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Azerbaijan"
+    ],
+    "destination_country": "AZ",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": "$26 Payable upon arrival, and visa kiosk's will provide an eVisa"
+  },
+  "BS": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/The_Bahamas"
+    ],
+    "destination_country": "BS",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa on arrival for all Indian nationals who have valid Schengen, UK, US, and Canadian visas."
+  },
+  "BH": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Bahrain",
+      "https://en.wikipedia.org/wiki/Gulf_Cooperation_Council"
+    ],
+    "destination_country": "BH",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "90 days",
+    "notes": "14 days to 1 year multiple entry visa (max stay 90 days).\nVisa on arrival for Gulf Cooperation Council residents."
+  },
+  "BD": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Bangladesh"
+    ],
+    "destination_country": "BD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Due to bilateral agreements, Diplomatic Passport and Official Passport holders are eligible for a visa on arrival if entering by air, road or sea but not train.\nVisa fee waived for regular or ordinary passport holders who apply in India."
+  },
+  "BB": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Barbados"
+    ],
+    "destination_country": "BB",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "BY": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Belarus",
+      "https://en.wikipedia.org/wiki/Minsk_International_Airport"
+    ],
+    "destination_country": "BY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a Schengen visa or a national visa of country of EU, and if arriving and departing via Minsk International Airport."
+  },
+  "BE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Belgium"
+    ],
+    "destination_country": "BE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BZ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Belize"
+    ],
+    "destination_country": "BZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Permanent residents and holders of multiple entry visa of the US or Canada may obtain a visa on arrival. Holders of a valid visa issued by a Schengen Member state are visa exempt for a maximum stay of 90 days."
+  },
+  "BJ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Benin"
+    ],
+    "destination_country": "BJ",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days / 8 days",
+    "notes": "Must have an international vaccination certificate."
+  },
+  "BT": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Bhutan",
+      "https://en.wikipedia.org/wiki/Voter_ID_(India)",
+      "https://en.wikipedia.org/wiki/Indian_Passport"
+    ],
+    "destination_country": "BT",
+    "visa_requirement": "Freedom of Movement",
+    "allowed_stay": "",
+    "notes": "Indian nationals may also use their Voter ID card with photograph or Indian Passport to enter Bhutan by air and land."
+  },
+  "BO": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Bolivia"
+    ],
+    "destination_country": "BO",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "BA": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
+    ],
+    "destination_country": "BA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid multiple-entry visa issued by an EU or Schengen Area member state, or USA"
+  },
+  "BW": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Botswana"
+    ],
+    "destination_country": "BW",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Brazil"
+    ],
+    "destination_country": "BR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BN": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Brunei"
+    ],
+    "destination_country": "BN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BG": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Bulgaria"
+    ],
+    "destination_country": "BG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a C visa issued by Croatia, Cyprus, Romania or a Schengen Area member state"
+  },
+  "BF": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Burkina_Faso"
+    ],
+    "destination_country": "BF",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "BI": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Burundi"
+    ],
+    "destination_country": "BI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KH": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Cambodia"
+    ],
+    "destination_country": "KH",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Fee of US$30 applicable"
+  },
+  "CM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Cameroon"
+    ],
+    "destination_country": "CM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CA": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Canada",
+      "https://en.wikipedia.org/wiki/Permanent_residence_(United_States)"
+    ],
+    "destination_country": "CA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a US permanent resident card; Travelers with a US permanent resident card arriving by air require an Electronic Travel Authorization (ETA).\nTransit visa: required"
+  },
+  "CV": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Cape_Verde"
+    ],
+    "destination_country": "CV",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "CF": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Central_African_Republic"
+    ],
+    "destination_country": "CF",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TD": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Chad"
+    ],
+    "destination_country": "TD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CL": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Chile"
+    ],
+    "destination_country": "CL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Tourism/business visas (B1/B2) or Permanent Residents from the United States of America, with at least 6 months of validity, could travel to Chile without visa."
+  },
+  "CN": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/China",
+      "https://en.wikipedia.org/wiki/Fuzhou_Changle_International_Airport",
+      "https://en.wikipedia.org/wiki/Huangshan_Tunxi_International_Airport",
+      "https://en.wikipedia.org/wiki/Mudanjiang_Hailang_Airport",
+      "https://en.wikipedia.org/wiki/Shenzhen_Bao%27an_International_Airport",
+      "https://en.wikipedia.org/wiki/Yanji_Chaoyangchuan_Airport",
+      "https://en.wikipedia.org/wiki/Urumqi_Diwopu_International_Airport"
+    ],
+    "destination_country": "CN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Under the 24-hour TWOV policy, transit visa is not required for travelers who:\nhold a passport valid for at least 3 months from the date of entry;\narrive by air, cruise ship or train (except for arriving at certain airports listed below);\nhold confirmed air, cruise ship or train tickets to a third-country final destination.\ndepart Mainland China on a flight, cruise ship or train within 24 hours after arrival.\nThe 24-hour transit rule allows multiple stops within Mainland China for most airports, as long as the traveler has a flight, cruise or train segment leaving Mainland China in 24 hours, so it is possible to enter through a port of entry in China, take multiple segments of domestic flights within China, and depart from a different port of entry in less than 24 hours. Multi-stop transit is not allowed in some airports listed below.\nFuzhou Changle International Airport, Huangshan Tunxi International Airport, Mudanjiang Hailang Airport, Shenzhen Bao'an International Airport, Yanji Chaoyangchuan Airport\n\nUrumqi Diwopu International Airport: Passengers in transit are permitted to remain in the airport for a maximum period of 2 hours. Multi-stop transit is not permitted. The airport also maintains an individual list of nationalities not eligible for visa-free transit."
+  },
+  "CO": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Colombia"
+    ],
+    "destination_country": "CO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid C or D visa issued by a Schengen Area member state or a valid visa (with 180 days left) issued by the US (except for C1 transit visas)."
+  },
+  "KM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Comoros"
+    ],
+    "destination_country": "KM",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "45 days",
+    "notes": ""
+  },
+  "CG": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_the_Congo"
+    ],
+    "destination_country": "CG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa not required if presenting a V.I.P invitation letter"
+  },
+  "CD": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+    ],
+    "destination_country": "CD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa on arrival if a letter (visa volant) issued by the Ministry of Interior and Security is presented"
+  },
+  "CR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Costa_Rica"
+    ],
+    "destination_country": "CR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid visa issued by the US or with a multiple-entry visa issued by Canada or a member state of the European Union."
+  },
+  "HR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Croatia"
+    ],
+    "destination_country": "HR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid visa issued by a Schengen Area member state"
+  },
+  "CU": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Cuba"
+    ],
+    "destination_country": "CU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Eligible to travel to Cuba with a tourist card if they also hold a valid visa or a residence permit issued by Canada, the United States or an EU member state."
+  },
+  "CY": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Cyprus"
+    ],
+    "destination_country": "CY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a double or multiple entry C visa issued by Bulgaria, Croatia, Romania or a Schengen Area member state."
+  },
+  "CZ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Czech_Republic"
+    ],
+    "destination_country": "CZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "May transit without a visa\nholders of a residence permit in Andorra, Canada, Japan, San Marino, and the United States\nholders of a visa for stay in the states of the EEA and in Canada, Japan, Schengen, and the United States\nfamily members of EU citizens"
+  },
+  "DK": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Denmark"
+    ],
+    "destination_country": "DK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "DJ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Djibouti",
+      "https://en.wikipedia.org/wiki/Djibouti%E2%80%93Ambouli_International_Airport"
+    ],
+    "destination_country": "DJ",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "31 days",
+    "notes": "Visa on arrival also available at Djibouti–Ambouli International Airport until 30 April 2018."
+  },
+  "DM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Dominica"
+    ],
+    "destination_country": "DM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "6 months",
+    "notes": ""
+  },
+  "DO": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Dominican_Republic"
+    ],
+    "destination_country": "DO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid visa issued by Canada, US or any EU member state."
+  },
+  "EC": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Ecuador"
+    ],
+    "destination_country": "EC",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "EG": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Egypt"
+    ],
+    "destination_country": "EG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Passengers with a residence permit issued by a GCC Member State can obtain a visa on arrival for a maximum stay of 30 days. The residence permit must be valid for a minimum of 6 months from the arrival date.\nIf travelling as a part of an organized tourist group that consists of at least 10 persons and holding both onward and return flight tickets, booked accommodation and a signed Letter of Guarantee (LG) from an Egyptian travel agency, a visa on arrival in Egypt can be obtained\nAir transit passengers with a confirmed onward ticket for a flight to a third country within 48 hours do not need visas; however, this exemption does not apply when transiting through Alexandria (HBE)"
+  },
+  "SV": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/El_Salvador"
+    ],
+    "destination_country": "SV",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "GQ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Equatorial_Guinea"
+    ],
+    "destination_country": "GQ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "ER": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Eritrea"
+    ],
+    "destination_country": "ER",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "EE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Estonia"
+    ],
+    "destination_country": "EE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "ET": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Ethiopia",
+      "https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport"
+    ],
+    "destination_country": "ET",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "up to 90 days",
+    "notes": "Visa on arrival is obtainable only at Addis Ababa Bole International Airport.\neVisa holders must arrive via Addis Ababa Bole International Airport.\neVisas are available for 30 or 90 days."
+  },
+  "FJ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Fiji"
+    ],
+    "destination_country": "FJ",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "4 months",
+    "notes": ""
+  },
+  "FI": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Finland"
+    ],
+    "destination_country": "FI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "FR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/France"
+    ],
+    "destination_country": "FR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "Transit visa not required."
+  },
+  "GA": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Gabon",
+      "https://en.wikipedia.org/wiki/Libreville_International_Airport"
+    ],
+    "destination_country": "GA",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "1 month",
+    "notes": "Electronic visa holders must arrive via Libreville International Airport."
+  },
+  "GM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/The_Gambia"
+    ],
+    "destination_country": "GM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa not required if Passengers traveling as tourists on a charter flight"
+  },
+  "GE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Georgia_(country)"
+    ],
+    "destination_country": "GE",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": "30 days within 120 days\nNational visa may be substituted with a valid visa or residence permit issued by USA, UK, Japan, Canada, Australia, New Zealand, Israel, South Korea, Schengen, and GCC countries, whose holders may be granted visa-free entry for 30days."
+  },
+  "DE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Germany"
+    ],
+    "destination_country": "DE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "May transit without a visa\nHolding any valid visa or residence permit issued by USA, UK, Japan, Canada, Ireland, Schengen or Bulgaria, Romania, Croatia, Cyprus, Liechtenstein.\nHolders of a residence permit in Andorra, Monaco, or San Marino."
+  },
+  "GH": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Ghana"
+    ],
+    "destination_country": "GH",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Greece"
+    ],
+    "destination_country": "GR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GD": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Grenada"
+    ],
+    "destination_country": "GD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "GT": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Guatemala"
+    ],
+    "destination_country": "GT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid visa issued by Canada, the US or a Schengen Area member state."
+  },
+  "GN": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Guinea"
+    ],
+    "destination_country": "GN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GW": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Guinea-Bissau"
+    ],
+    "destination_country": "GW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "GY": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Guyana"
+    ],
+    "destination_country": "GY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa on arrival if holding a letter of invitation from sponsor or host"
+  },
+  "HT": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Haiti"
+    ],
+    "destination_country": "HT",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "HN": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Honduras"
+    ],
+    "destination_country": "HN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid visa issued by Canada, the US or a Schengen Area member state."
+  },
+  "HU": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Hungary"
+    ],
+    "destination_country": "HU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IS": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Iceland"
+    ],
+    "destination_country": "IS",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "ID": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Indonesia"
+    ],
+    "destination_country": "ID",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": "30 days for tourism purposes."
+  },
+  "IR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "IQ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Iraq"
+    ],
+    "destination_country": "IQ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+      "https://en.wikipedia.org/wiki/United_Kingdom",
+      "https://en.wikipedia.org/wiki/Common_Travel_Area"
+    ],
+    "destination_country": "IE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a UK C visa holders until October 2021. Entry permitted only if first point of entry to the Common Travel Area is in the UK. May transit without a visa."
+  },
+  "IL": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Israel"
+    ],
+    "destination_country": "IL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IT": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Italy"
+    ],
+    "destination_country": "IT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "JM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Jamaica"
+    ],
+    "destination_country": "JM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "6 months",
+    "notes": ""
+  },
+  "JP": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Japan"
+    ],
+    "destination_country": "JP",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa fee is refunded if any case visa rejected.\nVisa fee INR 510 only for Indian citizens."
+  },
+  "JO": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Jordan"
+    ],
+    "destination_country": "JO",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "KZ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Kazakhstan"
+    ],
+    "destination_country": "KZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa not required if transiting with Air Astana (KC) at Almaty (ALA) or Astana (TSE) for a maximum stay of 72 hours with a stamped visa of the final country (until 31 December 2019).\nHolders of invitation issued by the Migration Service of Kazakhstan can apply for a visa online since January 2019."
+  },
+  "KE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Kenya"
+    ],
+    "destination_country": "KE",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "3 months",
+    "notes": "may enter with East Africa Tourist Visa\nfee USD100.\nVisa Validity 90days with Multiple entries.\nThis visa valid in The Republic of Kenya, Republic of Rwanda and Republic of Uganda"
+  },
+  "KI": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Kiribati"
+    ],
+    "destination_country": "KI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KP": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/North_Korea"
+    ],
+    "destination_country": "KP",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/South_Korea"
+    ],
+    "destination_country": "KR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa free transit (up to 30 days) provided holding a valid US, Canada, Australia, New Zealand Visa, and arriving from or departing to those countries."
+  },
+  "KW": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Kuwait"
+    ],
+    "destination_country": "KW",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KG": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "https://en.wikipedia.org/wiki/Osh_Airport",
+      "https://en.wikipedia.org/wiki/China",
+      "https://en.wikipedia.org/wiki/Irkeshtam",
+      "https://en.wikipedia.org/wiki/Torugart",
+      "https://en.wikipedia.org/wiki/Kazakhstan",
+      "https://en.wikipedia.org/wiki/Ak-Jol,_Chuy",
+      "https://en.wikipedia.org/wiki/Ysyk-Ata_District",
+      "https://en.wikipedia.org/wiki/Chaldybar",
+      "https://en.wikipedia.org/wiki/Manas_District",
+      "https://en.wikipedia.org/wiki/Tajikistan",
+      "https://en.wikipedia.org/wiki/Alay_District",
+      "https://en.wikipedia.org/wiki/Kulundu",
+      "https://en.wikipedia.org/wiki/Batken_District",
+      "https://en.wikipedia.org/wiki/Uzbekistan",
+      "https://en.wikipedia.org/wiki/Dostuk"
+    ],
+    "destination_country": "KG",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": "Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk)."
+  },
+  "LA": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Laos",
+      "https://en.wikipedia.org/wiki/Luang_Prabang_International_Airport",
+      "https://en.wikipedia.org/wiki/Pakse_International_Airport",
+      "https://en.wikipedia.org/wiki/Savannakhet_Airport",
+      "https://en.wikipedia.org/wiki/Wattay_International_Airport"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Conditions apply.\nAvailable at international airports Luangphabang, Pakse, Savannakhet and Vientiane, and at 4 land borders Friendship Bridge, and at 13 border crossings as well as Tanalaeng train station in Vientiane, which connects to the train station in Nongkai, Thailand.\nEntry points Lalai, Lantui, Meuang mom, Pakxan, and Phoudou are open only to visa holders.\nExtendable up to 60 days."
+  },
+  "LV": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Latvia"
+    ],
+    "destination_country": "LV",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LB": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Lebanon",
+      "https://en.wikipedia.org/wiki/General_Directorate_of_General_Security"
+    ],
+    "destination_country": "LB",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "In addition to a visa, an approval should be obtained from the immigration department of the General Directorate of General Security (La Sûreté Générale)."
+  },
+  "LS": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Lesotho"
+    ],
+    "destination_country": "LS",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "LR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Liberia"
+    ],
+    "destination_country": "LR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LI": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Liechtenstein"
+    ],
+    "destination_country": "LI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LT": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Lithuania"
+    ],
+    "destination_country": "LT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LU": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Luxembourg"
+    ],
+    "destination_country": "LU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MG": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Madagascar"
+    ],
+    "destination_country": "MG",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MW": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Malawi"
+    ],
+    "destination_country": "MW",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MY": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Malaysia"
+    ],
+    "destination_country": "MY",
+    "visa_requirement": "eVisa/eNTRI",
+    "allowed_stay": "30 days",
+    "notes": "Visa on arrival is also issued if arriving from Thailand, Singapore or Indonesia and holding a valid visa for any of those countries."
+  },
+  "MV": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Maldives"
+    ],
+    "destination_country": "MV",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "ML": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Mali"
+    ],
+    "destination_country": "ML",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MT": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Malta"
+    ],
+    "destination_country": "MT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MH": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Marshall_Islands"
+    ],
+    "destination_country": "MH",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "MR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Mauritania"
+    ],
+    "destination_country": "MR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MU": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Mauritius"
+    ],
+    "destination_country": "MU",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "MX": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Mexico"
+    ],
+    "destination_country": "MX",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid visa or permanent residence documents issued by the US, Canada, Japan, UK or Schengen Area member state to enter Mexico for tourism, transit, or business purposes."
+  },
+  "MC": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Monaco"
+    ],
+    "destination_country": "MC",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MN": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Mongolia"
+    ],
+    "destination_country": "MN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MA": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Morocco"
+    ],
+    "destination_country": "MA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MZ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Mozambique"
+    ],
+    "destination_country": "MZ",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Myanmar",
+      "https://en.wikipedia.org/wiki/Yangon_International_Airport",
+      "https://en.wikipedia.org/wiki/Naypyidaw_Airport",
+      "https://en.wikipedia.org/wiki/Mandalay_International_Airport",
+      "https://en.wikipedia.org/wiki/Thailand",
+      "https://en.wikipedia.org/wiki/Tachileik",
+      "https://en.wikipedia.org/wiki/Myawaddy",
+      "https://en.wikipedia.org/wiki/Kawthaung",
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/w/index.php?title=Rih_Khaw_Dar&action=edit&redlink=1",
+      "https://en.wikipedia.org/wiki/Tamu,_Myanmar"
+    ],
+    "destination_country": "MM",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "28 days",
+    "notes": "eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\neVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.\nVisa on arrival can be issued for tourism at Yangon, Nay Pyi Taw or Mandalay airport and is valid for 30 days."
+  },
+  "NA": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Namibia"
+    ],
+    "destination_country": "NA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Nauru"
+    ],
+    "destination_country": "NR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NP": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Nepal",
+      "https://en.wikipedia.org/wiki/Voter_ID_(India)",
+      "https://en.wikipedia.org/wiki/Indian_Passport",
+      "https://en.wikipedia.org/wiki/1950_Indo-Nepal_Treaty_of_Peace_and_Friendship"
+    ],
+    "destination_country": "NP",
+    "visa_requirement": "Freedom of movement",
+    "allowed_stay": "",
+    "notes": "Indian nationals may also use their Voter ID card with photograph or Indian Passport to enter Nepal by air and land.\nIndian citizens may live and work freely in Nepal under the terms of the 1950 Indo-Nepal Treaty of Peace and Friendship. This treaty is implemented in law through section 14 of the Nepal Immigration Act 1992, regulations 3, 20 and 44A of the Nepal Immigration Regulation 1994, and section 8.4 the Nepal Immigration Procedures 2008."
+  },
+  "NL": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Netherlands"
+    ],
+    "destination_country": "NL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": ""
+  },
+  "NZ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/New_Zealand"
+    ],
+    "destination_country": "NZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with an Australian permanent residence documents."
+  },
+  "NI": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Nicaragua"
+    ],
+    "destination_country": "NI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Nationals of India with a normal passport and a valid visa issued by Canada, the USA or a Schengen Member State can obtain a visa on arrival for a maximum stay of 30 days. Fee $10."
+  },
+  "NE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Niger"
+    ],
+    "destination_country": "NE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NG": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Nigeria"
+    ],
+    "destination_country": "NG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NO": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Norway"
+    ],
+    "destination_country": "NO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "OM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Oman"
+    ],
+    "destination_country": "OM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a GCC visa of certain categories (managers, sales executives, etc.) when a visitor visa on arrival can be granted if the visitor is coming directly from a GCC country via air or land. All passengers from India, who reside in or hold an entry visa to one of the following countries (USA, Canada, Australia, UK and Schengen states) are allowed to obtain non-sponsored electronic tourist visa to enter Oman."
+  },
+  "PK": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Pakistan"
+    ],
+    "destination_country": "PK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PW": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Palau"
+    ],
+    "destination_country": "PW",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "PA": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Panama",
+      "https://en.wikipedia.org/wiki/Wikipedia:Please_clarify"
+    ],
+    "destination_country": "PA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid multiple entry visa issued by US (including Green Card Holders,) UK, Canada, Australia or a Schengen visa, which has been used at least once to enter those countries, and with at least one year validity remaining at the time of entry into Panama.[clarification needed]"
+  },
+  "PG": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Papua_New_Guinea"
+    ],
+    "destination_country": "PG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PY": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Paraguay"
+    ],
+    "destination_country": "PY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Peru"
+    ],
+    "destination_country": "PE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid US, Canada, Australia, Schengen Area or UK visa or permanent resident permit may be granted visa-free entry for a maximum of 180 days. The visa must be valid for a minimum of 6 months from the arrival date."
+  },
+  "PH": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Philippines"
+    ],
+    "destination_country": "PH",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid US, Japanese, Australian, Canadian, Schengen, Singapore or UK visa or permanent resident permit whose holders may be granted visa-free entry for an initial stay not exceeding 14 days."
+  },
+  "PL": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Poland"
+    ],
+    "destination_country": "PL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PT": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Portugal"
+    ],
+    "destination_country": "PT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "QA": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Qatar"
+    ],
+    "destination_country": "QA",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "RO": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Romania"
+    ],
+    "destination_country": "RO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a double or multiple entry C visa issued by a Schengen Area member state valid for the period of intended stay."
+  },
+  "RU": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Russia",
+      "https://en.wikipedia.org/wiki/Amur_Oblast",
+      "https://en.wikipedia.org/wiki/Chukotka_Autonomous_Okrug",
+      "https://en.wikipedia.org/wiki/Kamchatka_Krai",
+      "https://en.wikipedia.org/wiki/Khabarovsk_Krai",
+      "https://en.wikipedia.org/wiki/Primorskiy_Krai",
+      "https://en.wikipedia.org/wiki/Sakhalin_Oblast",
+      "https://en.wikipedia.org/wiki/Russian_Far_East",
+      "https://en.wikipedia.org/wiki/Saint_Petersburg"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "eVisa for up to 8 days for Amur Oblast, Chukotka, Kamchatka, Khabarovsk Krai, Primorye and Sakhalin regions of the Russian Far East for tourism, business and humanitarian purposes. Available at 6 airports, 5 seaports, some railway and road entry points.\nVisa not required if visiting Saint Petersburg for up to 72 hours via ferry from Finland."
+  },
+  "RW": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "may enter with East Africa Tourist Visa\nfee USD100.\nVisa Validity 90days with Multiple entries.\nThis visa valid in The Republic of Kenya, Republic of Rwanda and Republic of Uganda"
+  },
+  "KN": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
+    ],
+    "destination_country": "KN",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "LC": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Lucia"
+    ],
+    "destination_country": "LC",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "6 weeks",
+    "notes": ""
+  },
+  "VC": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
+    ],
+    "destination_country": "VC",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "1 month",
+    "notes": ""
+  },
+  "WS": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Samoa"
+    ],
+    "destination_country": "WS",
+    "visa_requirement": "Entry Permit on arrival",
+    "allowed_stay": "60 days",
+    "notes": ""
+  },
+  "SM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/San_Marino"
+    ],
+    "destination_country": "SM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Same rules as for Italy. No border control but accessible only via Italy."
+  },
+  "SA": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Saudi_Arabia"
+    ],
+    "destination_country": "SA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SN": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Senegal"
+    ],
+    "destination_country": "SN",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "SC": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Seychelles"
+    ],
+    "destination_country": "SC",
+    "visa_requirement": "Visitor's Permit on arrival",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "SL": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Sierra_Leone"
+    ],
+    "destination_country": "SL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SG": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Singapore"
+    ],
+    "destination_country": "SG",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": "May obtain online eVisa through eligible authorized travel agencies or through local sponsors (Singapore citizen or permanent residents).\nIndian nationals with valid visa from countries such as UK, USA, Canada, Japan, Australia, New Zealand, Germany and Switzerland who are in transit to or from any third country by air may be conditionally eligible for 96-hours Visa Free Transit Facility (VFTF)."
+  },
+  "SK": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Slovakia"
+    ],
+    "destination_country": "SK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SI": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Slovenia"
+    ],
+    "destination_country": "SI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SB": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Solomon_Islands"
+    ],
+    "destination_country": "SB",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SO": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Somalia",
+      "https://en.wikipedia.org/wiki/Bosaso_Airport",
+      "https://en.wikipedia.org/wiki/Galcaio_Airport",
+      "https://en.wikipedia.org/wiki/Mogadishu_Airport"
+    ],
+    "destination_country": "SO",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Available at Bosaso Airport, Galcaio Airport and Mogadishu Airport."
+  },
+  "ZA": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/South_Africa"
+    ],
+    "destination_country": "ZA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa fee waived for regular or ordinary Indian passport holders."
+  },
+  "ES": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Spain"
+    ],
+    "destination_country": "ES",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LK": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Sri_Lanka"
+    ],
+    "destination_country": "LK",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "SD": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Sudan"
+    ],
+    "destination_country": "SD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Suriname"
+    ],
+    "destination_country": "SR",
+    "visa_requirement": "eVisa / Tourist card on arrival",
+    "allowed_stay": "90 days",
+    "notes": "Single entry tourist card valid for up to 90 days may be obtained online, on arrival at the airport or in any Surinamese representation abroad.\nMultiple entry eVisa is also avaible."
+  },
+  "SE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Sweden"
+    ],
+    "destination_country": "SE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": ""
+  },
+  "CH": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Switzerland"
+    ],
+    "destination_country": "CH",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TJ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Tajikistan"
+    ],
+    "destination_country": "TJ",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": "eVisa holders can enter through all border points."
+  },
+  "TH": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Thailand"
+    ],
+    "destination_country": "TH",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "15 days",
+    "notes": "Thailand providing e-visa on arrival.\nVisa fee of 2000 THB is payable upon entry.\nVisa must be obtained at the first point of entry.\nVisa charge is waived until 31st October 2019."
+  },
+  "TG": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Togo"
+    ],
+    "destination_country": "TG",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "7 days",
+    "notes": ""
+  },
+  "TO": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Tonga"
+    ],
+    "destination_country": "TO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TT": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
+    ],
+    "destination_country": "TT",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "TN": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Tunisia"
+    ],
+    "destination_country": "TN",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "TR": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Turkey"
+    ],
+    "destination_country": "TR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Conditional eVisa issued for the period of 30 days to holders of a valid visa or residence permit issued by one of the Schengen member countries, US, UK, or Ireland."
+  },
+  "TM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Turkmenistan"
+    ],
+    "destination_country": "TM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Letter of invitation issued by a company registered in Turkmenistan and approved by the Ministry of Foreign Affairs can obtain a visa on arrival for a maximum stay of 10 days. They can apply to extend their stay for an additional 10 days."
+  },
+  "TV": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Tuvalu"
+    ],
+    "destination_country": "TV",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "1 month",
+    "notes": ""
+  },
+  "UG": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Uganda"
+    ],
+    "destination_country": "UG",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "3 months",
+    "notes": "may enter with East Africa Tourist Visa\nfee USD100.\nVisa Validity 90days with Multiple entries.\nThis visa valid in The Republic of Kenya, Republic of Rwanda and Republic of Uganda"
+  },
+  "UA": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Ukraine"
+    ],
+    "destination_country": "UA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": ""
+  },
+  "AE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+      "https://en.wikipedia.org/wiki/Air_Arabia",
+      "https://en.wikipedia.org/wiki/Air_Astana",
+      "https://en.wikipedia.org/wiki/Emirates_(airline)",
+      "https://en.wikipedia.org/wiki/Etihad_Airways",
+      "https://en.wikipedia.org/wiki/Air_Baltic",
+      "https://en.wikipedia.org/wiki/Air_Serbia",
+      "https://en.wikipedia.org/wiki/Flydubai",
+      "https://en.wikipedia.org/wiki/Turkish_Airlines",
+      "https://en.wikipedia.org/wiki/IndiGo"
+    ],
+    "destination_country": "AE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "USA valid visa or green card which is valid for a minimum of 6 months can obtain a visa on arrival for a maximum stay of 14 days. They can apply to extend their stay for an additional 14 days.\nIndian passport holder with a valid UK or EU residence permit can also avail visa on arrival for 14 days, which can also be extended.\nVisitors normally require a sponsor but visas can also be arranged online through an airline if they are arriving on Air Arabia, Air Astana, Emirates, Etihad (and Air Baltic and Air Serbia), flydubai, Turkish Airlines and Indigo Airlines."
+  },
+  "US": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/United_States"
+    ],
+    "destination_country": "US",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "UY": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Uruguay"
+    ],
+    "destination_country": "UY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa issued free of cost."
+  },
+  "UZ": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Uzbekistan"
+    ],
+    "destination_country": "UZ",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": "5-day visa free transit when in transit at the international airports on condition of holding a confirmed onward ticket for a flight to a third country."
+  },
+  "VU": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Vanuatu"
+    ],
+    "destination_country": "VU",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "VE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Venezuela"
+    ],
+    "destination_country": "VE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "VN": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam"
+    ],
+    "destination_country": "VN",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days.",
+    "notes": ""
+  },
+  "YE": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Yemen"
+    ],
+    "destination_country": "YE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "ZM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Zambia"
+    ],
+    "destination_country": "ZM",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "ZW": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Zimbabwe"
+    ],
+    "destination_country": "ZW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "3 months",
+    "notes": "30 days for visits on business, 3 months for tourists"
+  }
+}

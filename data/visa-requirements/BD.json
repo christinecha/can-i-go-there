@@ -828,6 +828,17 @@
     "allowed_stay": "30 Days",
     "notes": ""
   },
+  "IR": {
+    "passport_country": "BD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "IQ": {
     "passport_country": "BD",
     "sources": [
@@ -997,6 +1008,17 @@
     "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": "Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk)."
+  },
+  "LA": {
+    "passport_country": "BD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
+      "https://en.wikipedia.org/wiki/Laos"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Unless travelling on an official visit and holding an official letter of guarantee issued by the Ministry of Foreign Affairs of Laos."
   },
   "LV": {
     "passport_country": "BD",
@@ -1483,6 +1505,28 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "RU": {
+    "passport_country": "BD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
+      "https://en.wikipedia.org/wiki/Russia"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "No visa required for Official and Diplomatic passport holders."
+  },
+  "RW": {
+    "passport_country": "BD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 Days",
+    "notes": ""
+  },
   "KN": {
     "passport_country": "BD",
     "sources": [
@@ -1927,6 +1971,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "VN": {
+    "passport_country": "BD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam"
+    ],
+    "destination_country": "VN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Traveling directly to Phu Quoc Island are allowed to stay on the island for up-to 30 days without a visa."
   },
   "YE": {
     "passport_country": "BD",

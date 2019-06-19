@@ -85,7 +85,7 @@
     "destination_country": "AM",
     "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "120 days",
-    "notes": "Holders of passports for public affairs do not require a visa for up to 30 days."
+    "notes": "Holders of passports for public affairs do not require a visa for up to 30 days.\nVisa free agreement between China and Armenia was signed on 26 May 2019 and it is yet to be entered in force."
   },
   "AU": {
     "passport_country": "CN",
@@ -829,6 +829,17 @@
     "allowed_stay": "30 days",
     "notes": ""
   },
+  "IR": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
   "IQ": {
     "passport_country": "CN",
     "sources": [
@@ -1007,6 +1018,21 @@
     "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": "Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk)."
+  },
+  "LA": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Laos",
+      "https://en.wikipedia.org/wiki/Luang_Prabang_International_Airport",
+      "https://en.wikipedia.org/wiki/Pakse_International_Airport",
+      "https://en.wikipedia.org/wiki/Savannakhet_Airport",
+      "https://en.wikipedia.org/wiki/Wattay_International_Airport"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Conditions apply.\nAvailable at international airports Luangphabang, Pakse, Savannakhet and Vientiane, and at 4 land borders Friendship Bridge, and at 13 border crossings as well as Tanalaeng train station in Vientiane, which connects to the train station in Nongkai, Thailand.\nEntry points Lalai, Lantui, Meuang mom, Pakxan, and Phoudou are open only to visa holders.\nExtendable up to 60 days.\nHolders of passports for public affairs do not require a visa."
   },
   "LV": {
     "passport_country": "CN",
@@ -1494,6 +1520,34 @@
     "allowed_stay": "",
     "notes": "National visa may be substituted with a valid visa issued by a Schengen Area member state if the journey is completed before the expiration of the Schengen visa."
   },
+  "RU": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Russia",
+      "https://en.wikipedia.org/wiki/Amur_Oblast",
+      "https://en.wikipedia.org/wiki/Chukotka_Autonomous_Okrug",
+      "https://en.wikipedia.org/wiki/Kamchatka_Krai",
+      "https://en.wikipedia.org/wiki/Khabarovsk_Krai",
+      "https://en.wikipedia.org/wiki/Primorskiy_Krai",
+      "https://en.wikipedia.org/wiki/Sakhalin_Oblast",
+      "https://en.wikipedia.org/wiki/Russian_Far_East"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa free for a maximum stay of 15 days for visitors travelling as part of a tour group (5 to 50 persons), accompanied by a representative of a tour operator accredited in both Russia and China.\neVisa for up to 8 days for Amur Oblast, Chukotka, Kamchatka, Khabarovsk Krai, Primorye and Sakhalin regions of the Russian Far East for tourism, business and humanitarian purposes. Available at 6 airports, 5 seaports, some railway and road entry points.\nA visa-free travel arrangement is expected to be signed soon, although date unknown."
+  },
+  "RW": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": ""
+  },
   "KN": {
     "passport_country": "CN",
     "sources": [
@@ -1926,6 +1980,20 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Holders of passports for public affairs do not require a visa."
+  },
+  "VN": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam",
+      "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City",
+      "https://en.wikipedia.org/wiki/Hanoi",
+      "https://en.wikipedia.org/wiki/Da_Nang"
+    ],
+    "destination_country": "VN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Holders of passports for public affairs do not require a visa for up to 30 days.\nVisa collection on arrival can be arranged online through travel agencies and are available at Ho Chi Minh City, Hanoi and Da Nang airports."
   },
   "YE": {
     "passport_country": "CN",

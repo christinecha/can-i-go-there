@@ -815,6 +815,17 @@
     "allowed_stay": "30 days",
     "notes": ""
   },
+  "IR": {
+    "passport_country": "GH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "15 days",
+    "notes": ""
+  },
   "IQ": {
     "passport_country": "GH",
     "sources": [
@@ -966,6 +977,17 @@
     ],
     "destination_country": "KG",
     "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LA": {
+    "passport_country": "GH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
+      "https://en.wikipedia.org/wiki/Laos"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
@@ -1453,6 +1475,28 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "RU": {
+    "passport_country": "GH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
+      "https://en.wikipedia.org/wiki/Russia"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "RW": {
+    "passport_country": "GH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
   "KN": {
     "passport_country": "GH",
     "sources": [
@@ -1881,6 +1925,17 @@
       "https://en.wikipedia.org/wiki/Venezuela"
     ],
     "destination_country": "VE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "VN": {
+    "passport_country": "GH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam"
+    ],
+    "destination_country": "VN",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""

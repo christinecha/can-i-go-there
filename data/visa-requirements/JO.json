@@ -1,0 +1,2142 @@
+{
+  "AF": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Afghanistan",
+      "https://en.wikipedia.org/wiki/Hamid_Karzai_International_Airport",
+      "https://en.wikipedia.org/wiki/United_Nations",
+      "https://en.wikipedia.org/wiki/Interpol",
+      "https://en.wikipedia.org/wiki/List_of_diplomatic_missions_of_Afghanistan"
+    ],
+    "destination_country": "AF",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visitors born in Afghanistan, born to Afghan parents or with parents born in Afghanistan are exempt from any visa requirements; a copy of the parent's passport is required.\nVisitors arriving via military air need to legalize their stay if they wish to leave via commercial airline.\nVisas on arrival are available at Hamid Karzai International Airport to  United Nations employees, Interpol employees, business visitors, journalists, athletes, airline staff and passengers in transit from countries that do not have a diplomatic mission of Afghanistan.\nAll visitors are fingerprinted."
+  },
+  "AL": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Albania",
+      "https://en.wikipedia.org/wiki/European_Union",
+      "https://en.wikipedia.org/wiki/Schengen_Area",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/United_Kingdom",
+      "https://en.wikipedia.org/wiki/Permanent_residence_(United_States)",
+      "https://en.wikipedia.org/wiki/Long-term_resident_(European_Union)",
+      "https://en.wikipedia.org/wiki/Albanians"
+    ],
+    "destination_country": "AL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Any visitor who holds a valid, multiple entry and previously used visa issued by a  Schengen Area country,  United States, or the  United Kingdom can enter Albania without a visa for 90 days. Visa must have been used at least once before arrival to Albania. The visa exemption also applies to valid Green Card holders and holders of resident permits issued by a Schengen country for a maximum allowed stay of 90 days.\nVisitors of Albanian ethnicity do not require a visa to enter Albania for a maximum allowed stay of 90 days within 180 days."
+  },
+  "DZ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Algeria",
+      "https://en.wikipedia.org/wiki/Israel"
+    ],
+    "destination_country": "DZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visas are not required for visitors with a re-entry permit or a residence permit (or Carte Personelle) issued by Algeria.\nPersons may be denied entry if entering with a passport containing visas or stamps issued by  Israel."
+  },
+  "AD": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Andorra",
+      "https://en.wikipedia.org/wiki/France",
+      "https://en.wikipedia.org/wiki/Spain"
+    ],
+    "destination_country": "AD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Although no visa requirements exist, apply the relevant regulations of  France or  Spain, whichever must be transited to reach Andorra."
+  },
+  "AO": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Angola",
+      "https://en.wikipedia.org/wiki/International_Certificate_of_Vaccination"
+    ],
+    "destination_country": "AO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "An International Certificate of Vaccination is required.\nThe personnel of oil companies established in Angola may obtain a visa on arrival, provided they are holding the necessary documents which includes a visa on arrival application that must be submitted by the oil company at least 2 weeks prior to arrival."
+  },
+  "AG": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
+      "https://en.wikipedia.org/wiki/Permanent_residence_(United_States)",
+      "https://en.wikipedia.org/wiki/Canada_Permanent_Resident_Card",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Canada",
+      "https://en.wikipedia.org/wiki/European_Union",
+      "https://en.wikipedia.org/wiki/Schengen_Area",
+      "https://en.wikipedia.org/wiki/United_Kingdom",
+      "https://en.wikipedia.org/wiki/Jordanian_Dinar",
+      "https://en.wikipedia.org/wiki/East_Caribbean_Dollar",
+      "https://en.wikipedia.org/wiki/Departure_tax"
+    ],
+    "destination_country": "AG",
+    "visa_requirement": "Electronic Entry Visa",
+    "allowed_stay": "",
+    "notes": "Permanent residents of the United States and Canada and holders of valid visas issued by the  United States,  Canada,  Schengen Area and the  United Kingdom do not require a visa for an allowed stay of up to 30 days. A visa waiver fee of US$100 (~71 JOD) is payable upon arrival.\nVisitors must have a printed e-visa confirmation.\nAntigua and Barbuda apply a stringent application of rules regarding proof of sufficient funds, a return ticket and accommodation.\nAntigua & Barbuda has a 70 XCD (~18 JOD) airport Departure tax.\nCruise ship visitors who would normally require a visa do not require one provided that they arrive in Antigua and Barbuda in the morning and depart the same evening."
+  },
+  "AR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Argentina"
+    ],
+    "destination_country": "AR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "All visitors are fingerprinted and photographed upon entry."
+  },
+  "AM": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Armenia",
+      "https://en.wikipedia.org/wiki/Armenian_Dram",
+      "https://en.wikipedia.org/wiki/Jordanian_Dinar",
+      "https://en.wikipedia.org/wiki/Zvartnots_International_Airport",
+      "https://en.wikipedia.org/wiki/Yerevan",
+      "https://en.wikipedia.org/wiki/Shirak_Airport",
+      "https://en.wikipedia.org/wiki/Gyumri",
+      "https://en.wikipedia.org/wiki/Ayrum",
+      "https://en.wikipedia.org/wiki/Bagratashen",
+      "https://en.wikipedia.org/wiki/Gogavan",
+      "https://en.wikipedia.org/wiki/Meghri",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "AM",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "120 days",
+    "notes": "Holders of confirmed onward tickets may stay in transit without a visa for a maximum time of 72 hours (3 days).\nA visa on arrival costs 15,000 AMD (~22 JOD).\nVisitors may apply for an e-visa which allows applicants an allowed stay of up to 120 days with a US$31 (~22 JOD) fee or 21 days with a US$6 (4.25 JOD) fee.\nVisas are granted on arrival at the following entry points: Zvartnots International Airport ( Yerevan), Shirak Airport ( Gyumri), Ayrum railway station , Bagratashen, Gogavan (borders with Georgia), Meghri (border with  Iran)."
+  },
+  "AU": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Australia",
+      "https://en.wikipedia.org/wiki/Gold_Coast_Airport",
+      "https://en.wikipedia.org/wiki/List_of_airports_in_Australia"
+    ],
+    "destination_country": "AU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Holders of confirmed onward tickets may stay in transit at Gold Coast Airport or any other international airport in Australia without a visa for a maximum time of 2 hours as long as they are arriving and departing on the same aircraft (excluding Gold Coast Airport). Holders of confirmed onward tickets may also stay in transit without a visa at any international airport in Australia (except for Gold Coast Airport) for a maximum time of 8 hours."
+  },
+  "AT": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Austria",
+      "https://en.wikipedia.org/wiki/Residence_card_of_a_family_member_of_a_Union_citizen",
+      "https://en.wikipedia.org/wiki/Bulgaria",
+      "https://en.wikipedia.org/wiki/Croatia",
+      "https://en.wikipedia.org/wiki/Cyprus",
+      "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+      "https://en.wikipedia.org/wiki/Romania",
+      "https://en.wikipedia.org/wiki/United_Kingdom",
+      "https://en.wikipedia.org/wiki/Switzerland",
+      "https://en.wikipedia.org/wiki/European_Union",
+      "https://en.wikipedia.org/wiki/European_Economic_Area",
+      "https://en.wikipedia.org/wiki/Long-term_resident_(European_Union)",
+      "https://en.wikipedia.org/wiki/Monaco",
+      "https://en.wikipedia.org/wiki/Schengen_Area",
+      "https://en.wikipedia.org/wiki/Malta"
+    ],
+    "destination_country": "AT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Passengers entering Austria on a one-way ticket without sufficient funds to purchase a return/onward ticket could be refused entry.\nValid visas in travel documents that are full and invalidated are accepted when accompanied by a new travel document.\nVisitors with a family member residence card issued by  Bulgaria,  Croatia,  Cyprus,  Ireland,  Romania or the  United Kingdom to family members of a national of   Switzerland or an  EEA Member State are visa exempt for a maximum  allowed stay of 90 days within a 180-day period. This does not apply to visitors with a different type of residence permit.\nVisitors with a residence permit issued by  Monaco or a  Schengen Member State are visa exempt for a maximum allowed stay of 90 days within a 180-day period (residence permits issued by  Malta must be biometric).\nVisitors' means of subsistence during their stay are assessed on a case-by-case basis and may be refused entry if inadequate."
+  },
+  "AZ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Azerbaijan",
+      "http://www.migration.gov.az",
+      "https://en.wikipedia.org/wiki/Armenia",
+      "https://en.wikipedia.org/wiki/Armenian_diaspora",
+      "https://en.wikipedia.org/wiki/2015_European_Games",
+      "https://en.wikipedia.org/wiki/Republic_of_Artsakh",
+      "https://en.wikipedia.org/wiki/De_facto",
+      "https://en.wikipedia.org/wiki/Nagorno-Karabakh_Republic",
+      "https://en.wikipedia.org/wiki/Armenian-controlled_territories_surrounding_Nagorno_Karabakh",
+      "https://en.wikipedia.org/wiki/Exclave",
+      "https://en.wikipedia.org/wiki/Karki,_Azerbaijan",
+      "https://en.wikipedia.org/wiki/Yuxar%C4%B1_%C6%8Fskipara",
+      "https://en.wikipedia.org/wiki/Barxudarl%C4%B1",
+      "https://en.wikipedia.org/wiki/Sofulu,_Qazakh",
+      "https://en.wikipedia.org/wiki/De_jure",
+      "https://en.wikipedia.org/wiki/Persona_non_grata",
+      "https://en.wikipedia.org/wiki/Port_of_entry"
+    ],
+    "destination_country": "AZ",
+    "visa_requirement": "ASAN Electronic Visa",
+    "allowed_stay": "30 days",
+    "notes": "Holders of confirmed onward tickets may stay in transit without a visa for a maximum time of 72 hours (3 days).\nIf intending to stay in the Republic of Azerbaijan for more than ten days, the visitor must register at the State Migration Service of the Republic of Azerbaijan within three days upon arrival in Azerbaijan.\nHolders of diplomatic passports or official/service passports do not require a visa to visit Azerbaijan for up to 90 days.\nDue to a state of war with Armenia, the Government of Azerbaijan bans the entry of citizens from  Armenia, as well as citizens of any other country who are of Armenian descent, to the Republic of Azerbaijan (though there have been exceptions, notably for Armenia's participation at the 2015 European Games held in Azerbaijan).\nThe government of Azerbaijan strictly bans any visit of foreign citizens to the separatist region of  Nagorno-Karabakh (the de facto Nagorno-Karabakh Republic), its surrounding territories and the Azerbaijani exclaves of Karki, Yuxarı Əskipara, Barxudarlı and Sofulu which are de jure part of Azerbaijan but under control of Armenia, without prior consent of the Government of Azerbaijan. Foreign citizens who enter these occupied territories, will be permanently banned from entering the Republic of Azerbaijan and will be included into the \"list of persona non grata\".\nASAN Electronic Visa applications are also available directly at the ports of entry at any land border. The e-visa should be printed and presented together with the passport (that should be valid at least 3 months more than the validity period of the electronic visa) at the border checkpoint.\nHolders of an official invitation letter issued by the State Migration Service of Azerbaijan or any other Azerbaijani government authority can be granted a visa on arrival."
+  },
+  "BS": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/The_Bahamas",
+      "https://en.wikipedia.org/wiki/Canada_Permanent_Resident_Card",
+      "https://en.wikipedia.org/wiki/Canada",
+      "https://en.wikipedia.org/wiki/Permanent_residence_(United_States)",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Cruise_ship"
+    ],
+    "destination_country": "BS",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Holders of confirmed onward tickets may stay in transit without a visa for a maximum time of 72 hours (3 days).\nA visa is not required for visitors with a permanent resident card issued by  Canada or a Permanent Resident/Resident Alien Card (Form I-551) issued by the  United States for a maximum allowed stay of 30 days.\nCruise ship passengers travelling to and returning from the Bahamas are required to obtain a visa for entry. Both entry and departure must be by a cruise ship."
+  },
+  "BH": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Bahrain",
+      "https://en.wikipedia.org/wiki/Saudi_Arabia",
+      "https://en.wikipedia.org/wiki/King_Fahd_Causeway",
+      "https://en.wikipedia.org/wiki/Cooperation_Council_for_the_Arab_States_of_the_Gulf"
+    ],
+    "destination_country": "BH",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "14 days",
+    "notes": "Holders of diplomatic passports or official/service passports can obtain a visa on arrival.\nHolders of a pre-arranged Stopover Paid by Carrier (STPC) issued to those in transit for a minimum of 8 hours and a maximum of 24 hours are permitted to leave the Airport and proceed to their hotel, if holding passports valid for at least 3 months and subject to immigration approval.\nPassengers with a visa issued by  Saudi Arabia and permitted entry by land can obtain a 24-hour transit visa on arrival if continuing their journey by land using the King Fahd Causeway.\nVisitors may also apply for a multiple entry visa valid for one year for an allowed stay of 90 days or a multiple entry visa valid for three months for an allowed stay of one month.\nResidents of  Gulf Cooperation Council countries who have already stayed for more than six months in their country of residence and their professions are in an approved list are eligible for either a 72-hour or a 7-day visa upon their arrival at the airport.\neVisa applicants must supply scanned copies of their air tickets, passports and hotel bookings and are valid for 30 days from the date of approval."
+  },
+  "BD": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Bangladesh",
+      "https://en.wikipedia.org/wiki/Jordanian_Dinar",
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_crew_members",
+      "https://en.wikipedia.org/wiki/Bangladesh_Investment_Development_Authority",
+      "https://en.wikipedia.org/wiki/Bangladeshis",
+      "https://en.wikipedia.org/wiki/List_of_diplomatic_missions_of_Bangladesh"
+    ],
+    "destination_country": "BD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Crew members traveling for non-duty purposes can obtain a visa on arrival (Fee: ~US$50/~35 JOD) if holding Crew Member Identification Cards. Otherwise, the same regulations as for passengers apply.\nPassengers with a diplomatic passport and a return/onward ticket can obtain a visa on arrival for a maximum allowed stay of 30 days. They can apply to extend their stay.\nPassengers with a return/onward ticket and a confirmation letter issued by the Bangladesh Board of Investment (BOI) traveling on business can obtain a visa on arrival. The letter must contain a BOI registration number and the accredited inviting organization must notify the Immigration authorities prior to arrival.\nPassengers with an onward ticket can obtain a transit visa on arrival for a maximum allowed stay of 72 hours (3 days).\nPassengers with a return/onward ticket and proof of being of Bangladeshi origin can, along with their spouses and children obtain a visa on arrival for a maximum allowed stay of 30 days which can be extended if need be.\nBangladeshi diplomatic missions provide a No Visa Required (NVR) seal for Bangladeshis holding a foreign passport/nationality, No Visa Required (NVR) seals are provided to non-Bangladeshis who are descendants or spouses of Bangladeshis as well. This seal allows the passenger to travel to Bangladesh on multiple occasions without restrictions on duration within the validity of the visa. The No Visa Required (NVR) facility is valid until the validity of the passport ends and can be transferred to the new passport of the same person as required."
+  },
+  "BB": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Barbados",
+      "https://en.wikipedia.org/wiki/Caribbean_Development_Bank"
+    ],
+    "destination_country": "BB",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visas are not required for visitors with a Travel Certificate issued by the Caribbean Development Bank.\nPassengers with a confirmed onward ticket can obtain a transit visa on arrival for a maximum allowed stay of 12 hours."
+  },
+  "BY": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Belarus",
+      "https://en.wikipedia.org/wiki/Health_insurance",
+      "https://en.wikipedia.org/wiki/Minsk_National_Airport",
+      "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(Belarus)",
+      "https://en.wikipedia.org/wiki/Business_day"
+    ],
+    "destination_country": "BY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "All visitors are required to have adequate health insurance which can be purchased on arrival at Minsk National Airport.\nThe Foreign Admissions Division at Minsk National Airport of the Consular Directorate of the Ministry of Foreign Affairs issues visas on arrival if the support documents were submitted no later than 3 business days before the expected date of arrival.\nRegistration upon arrival for stays longer than 5 days is mandatory.\nNo transit without a visa under any circumstance."
+  },
+  "BE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Belgium",
+      "https://en.wikipedia.org/wiki/Residence_card_of_a_family_member_of_a_Union_citizen",
+      "https://en.wikipedia.org/wiki/Bulgaria",
+      "https://en.wikipedia.org/wiki/Croatia",
+      "https://en.wikipedia.org/wiki/Cyprus",
+      "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+      "https://en.wikipedia.org/wiki/Romania",
+      "https://en.wikipedia.org/wiki/United_Kingdom",
+      "https://en.wikipedia.org/wiki/Switzerland",
+      "https://en.wikipedia.org/wiki/European_Union",
+      "https://en.wikipedia.org/wiki/European_Economic_Area",
+      "https://en.wikipedia.org/wiki/EUR",
+      "https://en.wikipedia.org/wiki/Jordanian_Dinar"
+    ],
+    "destination_country": "BE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Valid visas in travel documents that are full and invalidated are accepted when accompanied by a new travel document.\nVisitors with a family member residence card issued by  Bulgaria,  Croatia,  Cyprus,  Ireland,  Romania or the  United Kingdom to family members of a national of   Switzerland or an  EEA Member State are visa exempt for a maximum allowed stay of 90 days. This does not apply to visitors with a different type of residence permit.\nVisitors without the following means of subsistence during their stay may be refused entry: 45 EUR (~37 JOD) per day for aliens staying with a private individual; €95 (~78 JOD) per day for aliens staying at a hotel."
+  },
+  "BZ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Belize",
+      "https://en.wikipedia.org/wiki/European_Union",
+      "https://en.wikipedia.org/wiki/Schengen_Area",
+      "https://en.wikipedia.org/wiki/Permanent_residence_(United_States)",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Jordanian_Dinar"
+    ],
+    "destination_country": "BZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "A visa is not required for visitors with a valid visa issued by a  Schengen Area Member State for a maximum allowed stay of 90 days.\nVisitors with a US Permanent Resident/Resident Alien Card (Form I-551) or a multiple-entry visa issued by the  United States can obtain a visa on arrival for a fee of US$50 (~35 JOD).\nAll visitors are required to have sufficient funds, US$75 per day, and the documents required for their next destination."
+  },
+  "BJ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Benin"
+    ],
+    "destination_country": "BJ",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days / 8 days",
+    "notes": "Must have an international vaccination certificate."
+  },
+  "BT": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Bhutan",
+      "https://en.wikipedia.org/wiki/Thimphu",
+      "https://en.wikipedia.org/wiki/Paro,_Bhutan",
+      "https://en.wikipedia.org/wiki/List_of_Buddhist_temples#Bhutan",
+      "https://en.wikipedia.org/wiki/Ministry_of_Home_and_Cultural_Affairs_(Bhutan)"
+    ],
+    "destination_country": "BT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "All foreigners must obtain a visa before visiting Bhutan. Foreign tourists must use a licensed Bhutanese tour operator or one of their international partners to pre-arrange their visa and book their holiday.\nA daily fee is charged for every day of stay.\nUpon entering Bhutan, all foreigners are issued a 7 or 14 days \"Entry Permit\" by default, valid for Thimphu and Paro only. The rest of Bhutan is considered a restricted area, and foreigners need a \"Restricted-Area Permit\" to enter.\nForeigners wishing to visit Buddhist temples must obtain a \"Temple Permit\" from the Ministry of Culture."
+  },
+  "BO": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Bolivia"
+    ],
+    "destination_country": "BO",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": "90 days within one year\nExtension of stay is possible.\nHolders of diplomatic and official/service passports do not require a visa for up to 90 days.\nVisitors may obtain a visa on arrival only when holding a hotel confirmation or an invitation letter issued by the Bolivian Immigration Authorities, as well as an outbound ticket.\nAlternatively, the visa may be obtained at any Bolivian embassy or consulate free of charge."
+  },
+  "BA": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+      "https://en.wikipedia.org/wiki/Long-term_resident_(European_Union)",
+      "https://en.wikipedia.org/wiki/European_Union",
+      "https://en.wikipedia.org/wiki/Schengen_Area",
+      "https://en.wikipedia.org/wiki/Monaco"
+    ],
+    "destination_country": "BA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Holders of diplomatic or official/service passports do not require a visa for a maximum allowed stay of 90 days.\nRegistration with the local police within 24 hours of arrival in Bosnia and Herzegovina is mandatory.\nValid multiple entry visa holders and residents of the  Schengen Area member states and  Monaco can enter Bosnia and Herzegovina without a visa for a maximum allowed stay of 15 days. They must arrive from one of the Schengen Area member states, Monaco or a third country that has a bilateral readmission agreement with Bosnia and Herzegovina."
+  },
+  "BW": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Botswana"
+    ],
+    "destination_country": "BW",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "90 days",
+    "notes": "Visitors wishing to stay in Botswana for more than 90 days should apply for an extension prior to arrival."
+  },
+  "BR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Brazil",
+      "https://en.wikipedia.org/wiki/Federal_Police_Department"
+    ],
+    "destination_country": "BR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "A valid visa in an expired passport is accepted if:\nthe page containing the valid visa has not been invalidated or mutilated and the visa is clearly legible.\nthe passenger holds a valid passport of the same nationality.\na handwritten annotation does not appear in the passport.\nHolders of diplomatic or official/service passports do not require a visa to visit Brazil for up to 30 days.\nVisas issued to Tourist Visa applicants are valid for first entry within 90 days, and the validity of the visa begins on the day of the first entry to Brazil.\nAll foreigners staying in Brazil for more than 90 days must register with the Federal Police in Brazil and obtain an identity card."
+  },
+  "BN": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Brunei",
+      "https://en.wikipedia.org/wiki/Caning_in_Brunei",
+      "https://en.wikipedia.org/wiki/Brunei_International_Airport"
+    ],
+    "destination_country": "BN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Immigration offences, such as overstay of visa, have been punishable by caning since June 12, 2004. This punishment, often combined with a jail sentence, concerns business travelers to Brunei who overstay their work visas, as well as their work associates, and others who don't abide by immigration laws.\nPassengers transiting through Brunei International Airport for less than 24 hours (1 day) do not require a visa. Those traveling to a third country can obtain a transit visa on arrival for a maximum allowed stay of 72 hours (3 days)."
+  },
+  "BG": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Bulgaria",
+      "https://en.wikipedia.org/wiki/Croatia",
+      "https://en.wikipedia.org/wiki/Cyprus",
+      "https://en.wikipedia.org/wiki/Romania",
+      "https://en.wikipedia.org/wiki/European_Union",
+      "https://en.wikipedia.org/wiki/Schengen_Area",
+      "https://en.wikipedia.org/wiki/Residence_card_of_a_family_member_of_a_Union_citizen",
+      "https://en.wikipedia.org/wiki/Switzerland",
+      "https://en.wikipedia.org/wiki/European_Economic_Area",
+      "https://en.wikipedia.org/wiki/Long-term_resident_(European_Union)",
+      "https://en.wikipedia.org/wiki/Malta"
+    ],
+    "destination_country": "BG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Holders of short stay and transit visas issued by  Croatia,  Cyprus and  Romania can enter Bulgaria for the duration of their visa.\nNational visas issued by Bulgaria or Schengen visas issued by a  Schengen Member State in expired, full or invalidated travel documents are accepted if accompanied by a new valid travel document of the same nationality.\nVisitors with a family member residence card issued by   Switzerland or another  EEA Member State are visa exempt and allowed a total stay of 90 days within a period of 180 days. The card must be issued to family members of a national of Switzerland or an EEA Member State. They must travel with or travel to join the national of Switzerland or an EEA Member State. This does not apply to visitors with a different type of residence permit.\nVisitors with a residence permit issued by Croatia, Cyprus, Romania or a Schengen Member State are visa exempt for a maximum allowed stay of 90 days within a 180-day period (residence permits issued by  Malta must be biometric).\nHolders of a  Schengen visa can enter Bulgaria for up to 90 days within a 180-day period during the validity of their Schengen visa (must hold a double or multiple entry C or D visa) without having to apply for a Bulgarian visa."
+  },
+  "BF": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Burkina_Faso",
+      "https://en.wikipedia.org/wiki/International_Certificate_of_Vaccination"
+    ],
+    "destination_country": "BF",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Passengers holding confirmed onward tickets may transit through airports of Burkina Faso for up to 24 hours (1 day) without a transit visa. A transit visa can be obtained on arrival for a maximum allowed stay of 72 hours (3 days).\nVisa on arrival is available to holders of consular, diplomatic, special or official/service passports free of charge.\nAn International Certificate of Vaccination is required."
+  },
+  "BI": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Burundi",
+      "https://en.wikipedia.org/wiki/Bujumbura_International_Airport"
+    ],
+    "destination_country": "BI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Passengers with an Entry Authorization letter issued by the authorities of Burundi before departure are eligible for a visa on arrival at Bujumbura International Airport for a maximum allowed stay of 1 month. They can apply to extend their stay.\nAll visitors are fingerprinted on arrival in Burundi."
+  },
+  "KH": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Cambodia"
+    ],
+    "destination_country": "KH",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "CM": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Cameroon"
+    ],
+    "destination_country": "CM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CA": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Canada"
+    ],
+    "destination_country": "CA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CV": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Cape_Verde"
+    ],
+    "destination_country": "CV",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CF": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Central_African_Republic"
+    ],
+    "destination_country": "CF",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TD": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Chad"
+    ],
+    "destination_country": "TD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CL": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Chile"
+    ],
+    "destination_country": "CL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CN": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/China"
+    ],
+    "destination_country": "CN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CO": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Colombia"
+    ],
+    "destination_country": "CO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KM": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Comoros"
+    ],
+    "destination_country": "KM",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CG": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_the_Congo"
+    ],
+    "destination_country": "CG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CD": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+    ],
+    "destination_country": "CD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Costa_Rica"
+    ],
+    "destination_country": "CR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "HR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Croatia"
+    ],
+    "destination_country": "HR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CU": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Cuba"
+    ],
+    "destination_country": "CU",
+    "visa_requirement": "Tourist card required",
+    "allowed_stay": "",
+    "notes": "Tourist card must be obtained in advance via travel agency, airline or at the embassy."
+  },
+  "CY": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Cyprus"
+    ],
+    "destination_country": "CY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CZ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Czech_Republic"
+    ],
+    "destination_country": "CZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "DK": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Denmark"
+    ],
+    "destination_country": "DK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "DJ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Djibouti"
+    ],
+    "destination_country": "DJ",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "31 days",
+    "notes": ""
+  },
+  "DM": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Dominica"
+    ],
+    "destination_country": "DM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "21 days",
+    "notes": ""
+  },
+  "DO": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Dominican_Republic"
+    ],
+    "destination_country": "DO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "EC": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Ecuador"
+    ],
+    "destination_country": "EC",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "EG": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Egypt"
+    ],
+    "destination_country": "EG",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
+    "notes": "Visitors must be holding a normal 5-year passport, provided passport does not contain a stamp from the Jordanian Registration Office on the reverse side cover of the passport."
+  },
+  "SV": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/El_Salvador"
+    ],
+    "destination_country": "SV",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GQ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Equatorial_Guinea"
+    ],
+    "destination_country": "GQ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "ER": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Eritrea"
+    ],
+    "destination_country": "ER",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "EE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Estonia"
+    ],
+    "destination_country": "EE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "ET": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Ethiopia",
+      "https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport"
+    ],
+    "destination_country": "ET",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "up to 90 days",
+    "notes": "eVisa holders must arrive via Addis Ababa Bole International Airport"
+  },
+  "FJ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Fiji"
+    ],
+    "destination_country": "FJ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "FI": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Finland"
+    ],
+    "destination_country": "FI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "FR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/France"
+    ],
+    "destination_country": "FR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa exemption agreement has been signed for Jordanian Diplomatic passports."
+  },
+  "GA": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Gabon",
+      "https://en.wikipedia.org/wiki/Libreville_International_Airport"
+    ],
+    "destination_country": "GA",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": "Electronic visa holders must arrive via Libreville International Airport."
+  },
+  "GM": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/The_Gambia"
+    ],
+    "destination_country": "GM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Georgia_(country)"
+    ],
+    "destination_country": "GE",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "1 year",
+    "notes": ""
+  },
+  "DE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Germany"
+    ],
+    "destination_country": "DE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GH": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Ghana"
+    ],
+    "destination_country": "GH",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Greece"
+    ],
+    "destination_country": "GR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GD": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Grenada"
+    ],
+    "destination_country": "GD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GT": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Guatemala"
+    ],
+    "destination_country": "GT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GN": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Guinea"
+    ],
+    "destination_country": "GN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GW": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Guinea-Bissau"
+    ],
+    "destination_country": "GW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "GY": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Guyana"
+    ],
+    "destination_country": "GY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "HT": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Haiti"
+    ],
+    "destination_country": "HT",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "HN": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Honduras"
+    ],
+    "destination_country": "HN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "HU": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Hungary"
+    ],
+    "destination_country": "HU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IS": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Iceland"
+    ],
+    "destination_country": "IS",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IN": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/India"
+    ],
+    "destination_country": "IN",
+    "visa_requirement": "e-Visa",
+    "allowed_stay": "60 days",
+    "notes": "e-Visa holders must arrive via 26 designated airports or 3 designated seaports.\nAn Indian e-Tourist Visa can only be obtained twice in one calendar year."
+  },
+  "ID": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Indonesia"
+    ],
+    "destination_country": "ID",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "IR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IQ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Iraq"
+    ],
+    "destination_country": "IQ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Ireland"
+    ],
+    "destination_country": "IE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "IL": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Israel"
+    ],
+    "destination_country": "IL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Confirmation from Israeli government is required before a visa is issued."
+  },
+  "IT": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Italy"
+    ],
+    "destination_country": "IT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "JM": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Jamaica"
+    ],
+    "destination_country": "JM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "JP": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Japan"
+    ],
+    "destination_country": "JP",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KZ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Kazakhstan"
+    ],
+    "destination_country": "KZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Kenya"
+    ],
+    "destination_country": "KE",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "KI": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Kiribati"
+    ],
+    "destination_country": "KI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KP": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/North_Korea"
+    ],
+    "destination_country": "KP",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/South_Korea"
+    ],
+    "destination_country": "KR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KW": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Kuwait"
+    ],
+    "destination_country": "KW",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "KG": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Kyrgyzstan",
+      "https://en.wikipedia.org/wiki/Manas_International_Airport",
+      "https://en.wikipedia.org/wiki/Osh_Airport",
+      "https://en.wikipedia.org/wiki/China",
+      "https://en.wikipedia.org/wiki/Irkeshtam",
+      "https://en.wikipedia.org/wiki/Torugart",
+      "https://en.wikipedia.org/wiki/Kazakhstan",
+      "https://en.wikipedia.org/wiki/Ak-Jol,_Chuy",
+      "https://en.wikipedia.org/wiki/Ysyk-Ata_District",
+      "https://en.wikipedia.org/wiki/Chaldybar",
+      "https://en.wikipedia.org/wiki/Manas_District",
+      "https://en.wikipedia.org/wiki/Tajikistan",
+      "https://en.wikipedia.org/wiki/Alay_District",
+      "https://en.wikipedia.org/wiki/Kulundu",
+      "https://en.wikipedia.org/wiki/Batken_District",
+      "https://en.wikipedia.org/wiki/Uzbekistan",
+      "https://en.wikipedia.org/wiki/Dostuk"
+    ],
+    "destination_country": "KG",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": "Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk)."
+  },
+  "LA": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Laos"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LV": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Latvia"
+    ],
+    "destination_country": "LV",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LB": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Lebanon",
+      "https://en.wikipedia.org/wiki/ID_card"
+    ],
+    "destination_country": "LB",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
+    "notes": "ID card valid."
+  },
+  "LS": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Lesotho"
+    ],
+    "destination_country": "LS",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Liberia"
+    ],
+    "destination_country": "LR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LI": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Liechtenstein"
+    ],
+    "destination_country": "LI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LT": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Lithuania"
+    ],
+    "destination_country": "LT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LU": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Luxembourg"
+    ],
+    "destination_country": "LU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MG": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Madagascar"
+    ],
+    "destination_country": "MG",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "MW": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Malawi"
+    ],
+    "destination_country": "MW",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MY": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Malaysia"
+    ],
+    "destination_country": "MY",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "MV": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Maldives"
+    ],
+    "destination_country": "MV",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "ML": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Mali"
+    ],
+    "destination_country": "ML",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MT": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Malta"
+    ],
+    "destination_country": "MT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MH": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Marshall_Islands"
+    ],
+    "destination_country": "MH",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Mauritania",
+      "https://en.wikipedia.org/wiki/Nouakchott%E2%80%93Oumtounsy_International_Airport"
+    ],
+    "destination_country": "MR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "",
+    "notes": "Available at Nouakchott–Oumtounsy International Airport."
+  },
+  "MU": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Mauritius"
+    ],
+    "destination_country": "MU",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "60 days",
+    "notes": ""
+  },
+  "MX": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Mexico"
+    ],
+    "destination_country": "MX",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MC": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Monaco"
+    ],
+    "destination_country": "MC",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MN": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Mongolia"
+    ],
+    "destination_country": "MN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MA": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Morocco"
+    ],
+    "destination_country": "MA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MZ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Mozambique"
+    ],
+    "destination_country": "MZ",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MM": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Myanmar",
+      "https://en.wikipedia.org/wiki/Yangon_International_Airport",
+      "https://en.wikipedia.org/wiki/Naypyidaw_Airport",
+      "https://en.wikipedia.org/wiki/Mandalay_International_Airport",
+      "https://en.wikipedia.org/wiki/Thailand",
+      "https://en.wikipedia.org/wiki/Tachileik",
+      "https://en.wikipedia.org/wiki/Myawaddy",
+      "https://en.wikipedia.org/wiki/Kawthaung",
+      "https://en.wikipedia.org/wiki/India",
+      "https://en.wikipedia.org/w/index.php?title=Rih_Khaw_Dar&action=edit&redlink=1",
+      "https://en.wikipedia.org/wiki/Tamu,_Myanmar"
+    ],
+    "destination_country": "MM",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "28 days",
+    "notes": "eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports or via land border crossings with Thailand — Tachileik, Myawaddy and Kawthaung or India — Rih Khaw Dar and Tamu.\neVisa is available for tourism only."
+  },
+  "NA": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Namibia"
+    ],
+    "destination_country": "NA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Nauru"
+    ],
+    "destination_country": "NR",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NP": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Nepal"
+    ],
+    "destination_country": "NP",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NL": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Netherlands"
+    ],
+    "destination_country": "NL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NZ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/New_Zealand"
+    ],
+    "destination_country": "NZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NI": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Nicaragua"
+    ],
+    "destination_country": "NI",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "NE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Niger"
+    ],
+    "destination_country": "NE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NG": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Nigeria"
+    ],
+    "destination_country": "NG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "NO": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Norway"
+    ],
+    "destination_country": "NO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "OM": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Oman"
+    ],
+    "destination_country": "OM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PK": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Pakistan"
+    ],
+    "destination_country": "PK",
+    "visa_requirement": "Electronic Travel Authorization",
+    "allowed_stay": "",
+    "notes": "Electronic Travel Authorization to obtain a visa on arrival for tourism purposes.\nElectronic Travel Authorization to obtain a visa on arrival for business purposes.\nOnline Visa eligible."
+  },
+  "PW": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Palau"
+    ],
+    "destination_country": "PW",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "PA": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Panama"
+    ],
+    "destination_country": "PA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PG": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Papua_New_Guinea"
+    ],
+    "destination_country": "PG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PY": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Paraguay"
+    ],
+    "destination_country": "PY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Peru"
+    ],
+    "destination_country": "PE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PH": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Philippines"
+    ],
+    "destination_country": "PH",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PL": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Poland"
+    ],
+    "destination_country": "PL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "PT": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Portugal"
+    ],
+    "destination_country": "PT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "QA": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Qatar"
+    ],
+    "destination_country": "QA",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "RO": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Romania"
+    ],
+    "destination_country": "RO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "RU": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Russia"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "RW": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "KN": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
+    ],
+    "destination_country": "KN",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "LC": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Lucia"
+    ],
+    "destination_country": "LC",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "VC": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
+    ],
+    "destination_country": "VC",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "WS": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Samoa"
+    ],
+    "destination_country": "WS",
+    "visa_requirement": "Entry Permit on arrival",
+    "allowed_stay": "60 days",
+    "notes": ""
+  },
+  "SM": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/San_Marino"
+    ],
+    "destination_country": "SM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SA": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Saudi_Arabia"
+    ],
+    "destination_country": "SA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SN": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Senegal"
+    ],
+    "destination_country": "SN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SC": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Seychelles"
+    ],
+    "destination_country": "SC",
+    "visa_requirement": "Visitor's Permit on arrival",
+    "allowed_stay": "3 months",
+    "notes": ""
+  },
+  "SL": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Sierra_Leone"
+    ],
+    "destination_country": "SL",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SG": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Singapore"
+    ],
+    "destination_country": "SG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SK": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Slovakia"
+    ],
+    "destination_country": "SK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa exemption agreement has been signed for Jordanian Diplomatic passports."
+  },
+  "SI": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Slovenia"
+    ],
+    "destination_country": "SI",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SB": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Solomon_Islands"
+    ],
+    "destination_country": "SB",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SO": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Somalia",
+      "https://en.wikipedia.org/wiki/Bosaso_Airport",
+      "https://en.wikipedia.org/wiki/Galcaio_Airport",
+      "https://en.wikipedia.org/wiki/Mogadishu_Airport"
+    ],
+    "destination_country": "SO",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Available at Bosaso Airport, Galcaio Airport and Mogadishu Airport."
+  },
+  "ZA": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/South_Africa"
+    ],
+    "destination_country": "ZA",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "ES": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Spain"
+    ],
+    "destination_country": "ES",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "LK": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Sri_Lanka"
+    ],
+    "destination_country": "LK",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "SD": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Sudan"
+    ],
+    "destination_country": "SD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Suriname"
+    ],
+    "destination_country": "SR",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "SE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Sweden"
+    ],
+    "destination_country": "SE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "CH": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Switzerland"
+    ],
+    "destination_country": "CH",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TJ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Tajikistan",
+      "https://en.wikipedia.org/wiki/Dushanbe_International_Airport"
+    ],
+    "destination_country": "TJ",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "45 days",
+    "notes": "Visa on arrival available at Dushanbe International Airport.\nVisa also available online.\nE-visa holders can enter through all border points."
+  },
+  "TH": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Thailand"
+    ],
+    "destination_country": "TH",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TL": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/East_Timor"
+    ],
+    "destination_country": "TL",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "TG": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Togo"
+    ],
+    "destination_country": "TG",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "7 days",
+    "notes": ""
+  },
+  "TO": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Tonga"
+    ],
+    "destination_country": "TO",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TT": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
+    ],
+    "destination_country": "TT",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TN": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Tunisia"
+    ],
+    "destination_country": "TN",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "TR": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Turkey"
+    ],
+    "destination_country": "TR",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "TM": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Turkmenistan"
+    ],
+    "destination_country": "TM",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "TV": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Tuvalu"
+    ],
+    "destination_country": "TV",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "1 month",
+    "notes": ""
+  },
+  "UG": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Uganda"
+    ],
+    "destination_country": "UG",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "",
+    "notes": "May apply online."
+  },
+  "UA": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Ukraine"
+    ],
+    "destination_country": "UA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "AE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/United_Arab_Emirates"
+    ],
+    "destination_country": "AE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "GB": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/United_Kingdom"
+    ],
+    "destination_country": "GB",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "US": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/United_States"
+    ],
+    "destination_country": "US",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "UY": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Uruguay"
+    ],
+    "destination_country": "UY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "UZ": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Uzbekistan"
+    ],
+    "destination_country": "UZ",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "VU": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Vanuatu"
+    ],
+    "destination_country": "VU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "VE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Venezuela"
+    ],
+    "destination_country": "VE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "VN": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam"
+    ],
+    "destination_country": "VN",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "YE": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Yemen"
+    ],
+    "destination_country": "YE",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "ZM": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Zambia"
+    ],
+    "destination_country": "ZM",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "ZW": {
+    "passport_country": "JO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Jordanian_citizens",
+      "https://en.wikipedia.org/wiki/Zimbabwe"
+    ],
+    "destination_country": "ZW",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": ""
+  }
+}

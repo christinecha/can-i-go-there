@@ -816,6 +816,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "IR": {
+    "passport_country": "CM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Cameroonian_citizens",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "IQ": {
     "passport_country": "CM",
     "sources": [
@@ -970,6 +981,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LA": {
+    "passport_country": "CM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Cameroonian_citizens",
+      "https://en.wikipedia.org/wiki/Laos"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LV": {
     "passport_country": "CM",
     "sources": [
@@ -1054,7 +1076,7 @@
       "https://en.wikipedia.org/wiki/Madagascar"
     ],
     "destination_country": "MG",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
@@ -1340,9 +1362,9 @@
       "https://en.wikipedia.org/wiki/Pakistan"
     ],
     "destination_country": "PK",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "Online Visa",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Online Visa eligible.\nElectronic Travel Authorization to obtain a visa on arrival for business purposes."
   },
   "PW": {
     "passport_country": "CM",
@@ -1452,6 +1474,28 @@
     "destination_country": "RO",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
+    "notes": ""
+  },
+  "RU": {
+    "passport_country": "CM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Cameroonian_citizens",
+      "https://en.wikipedia.org/wiki/Russia"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "RW": {
+    "passport_country": "CM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Cameroonian_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "KN": {
@@ -1662,7 +1706,7 @@
       "https://en.wikipedia.org/wiki/Suriname"
     ],
     "destination_country": "SR",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
@@ -1882,6 +1926,17 @@
       "https://en.wikipedia.org/wiki/Venezuela"
     ],
     "destination_country": "VE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "VN": {
+    "passport_country": "CM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Cameroonian_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam"
+    ],
+    "destination_country": "VN",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""

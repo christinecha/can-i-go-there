@@ -815,6 +815,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "IR": {
+    "passport_country": "CD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Democratic_Republic_of_the_Congo_citizens",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "15 days",
+    "notes": ""
+  },
   "IQ": {
     "passport_country": "CD",
     "sources": [
@@ -969,6 +980,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LA": {
+    "passport_country": "CD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Democratic_Republic_of_the_Congo_citizens",
+      "https://en.wikipedia.org/wiki/Laos"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LV": {
     "passport_country": "CD",
     "sources": [
@@ -1054,7 +1076,7 @@
       "https://en.wikipedia.org/wiki/Madagascar"
     ],
     "destination_country": "MG",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "eVisa / Visa on arrival",
     "allowed_stay": "90 days",
     "notes": ""
   },
@@ -1447,6 +1469,28 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "RU": {
+    "passport_country": "CD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Democratic_Republic_of_the_Congo_citizens",
+      "https://en.wikipedia.org/wiki/Russia"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "RW": {
+    "passport_country": "CD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Democratic_Republic_of_the_Congo_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
   "KN": {
     "passport_country": "CD",
     "sources": [
@@ -1655,7 +1699,7 @@
       "https://en.wikipedia.org/wiki/Suriname"
     ],
     "destination_country": "SR",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
@@ -1876,6 +1920,17 @@
       "https://en.wikipedia.org/wiki/Venezuela"
     ],
     "destination_country": "VE",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "VN": {
+    "passport_country": "CD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Democratic_Republic_of_the_Congo_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam"
+    ],
+    "destination_country": "VN",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""

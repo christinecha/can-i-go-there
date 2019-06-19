@@ -858,6 +858,17 @@
     "allowed_stay": "30 days",
     "notes": ""
   },
+  "IR": {
+    "passport_country": "BE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_citizens",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "IQ": {
     "passport_country": "BE",
     "sources": [
@@ -1011,6 +1022,21 @@
     "visa_requirement": "Visa not required",
     "allowed_stay": "60 days",
     "notes": ""
+  },
+  "LA": {
+    "passport_country": "BE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_citizens",
+      "https://en.wikipedia.org/wiki/Laos",
+      "https://en.wikipedia.org/wiki/Luang_Prabang_International_Airport",
+      "https://en.wikipedia.org/wiki/Pakse_International_Airport",
+      "https://en.wikipedia.org/wiki/Savannakhet_Airport",
+      "https://en.wikipedia.org/wiki/Wattay_International_Airport"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Conditions apply.\nAvailable at international airports Luangphabang, Pakse, Savannakhet and Vientiane, and at 4 land borders Friendship Bridge, and at 13 border crossings as well as Tanalaeng train station in Vientiane, which connects to the train station in Nongkai, Thailand.\nEntry points Lalai, Lantui, Meuang mom, Pakxan, and Phoudou are open only to visa holders.\nExtendable up to 60 days."
   },
   "LV": {
     "passport_country": "BE",
@@ -1498,6 +1524,28 @@
     "visa_requirement": "Visa not required",
     "allowed_stay": "Freedom of movement\nID card valid"
   },
+  "RU": {
+    "passport_country": "BE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_citizens",
+      "https://en.wikipedia.org/wiki/Russia"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "RW": {
+    "passport_country": "BE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_citizens",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "KN": {
     "passport_country": "BE",
     "sources": [
@@ -1949,6 +1997,17 @@
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": ""
+  },
+  "VN": {
+    "passport_country": "BE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Belgian_citizens",
+      "https://en.wikipedia.org/wiki/Vietnam"
+    ],
+    "destination_country": "VN",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": "30 day visa exemption at Phu Quoc Island."
   },
   "YE": {
     "passport_country": "BE",

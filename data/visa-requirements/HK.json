@@ -1,4 +1,15 @@
 {
+  "TW": {
+    "passport_country": "HK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "https://en.wikipedia.org/wiki/Taiwan",
+      "https://en.wikipedia.org/wiki/NT$"
+    ],
+    "destination_country": "TW",
+    "visa_requirement": "Entry permit on arrival or online entry permit",
+    "allowed_stay": "Entry permit on arrival for NT$300. Free online registration prior to arrival is also available. Applicable only to those born in Hong Kong or Macau, or those who have previously entered Taiwan at least once as a permanent resident of Hong Kong. Not applicable to HKSAR passport holders with nationality or citizenship of another country except for persons with dual Chinese nationality and British National (Overseas) status.\nIn addition, HKSAR passport holders can now apply entry permit online."
+  },
   "AF": {
     "passport_country": "HK",
     "sources": [
@@ -827,6 +838,17 @@
     "allowed_stay": "30 days",
     "notes": ""
   },
+  "IR": {
+    "passport_country": "HK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "https://en.wikipedia.org/wiki/Iran"
+    ],
+    "destination_country": "IR",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "IQ": {
     "passport_country": "HK",
     "sources": [
@@ -997,6 +1019,21 @@
     "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": "Electronic visa holders must arrive via Manas International Airport or Osh Airport or through land crossings with China (at Irkeshtam and Torugart), Kazakhstan (at Ak-jol, Ak-Tilek, Chaldybar, Chon-Kapka), Tajikistan (at Bor-Dobo, Kulundu, Kyzyl-Bel) and Uzbekistan (at Dostuk)."
+  },
+  "LA": {
+    "passport_country": "HK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "https://en.wikipedia.org/wiki/Laos",
+      "https://en.wikipedia.org/wiki/Luang_Prabang_International_Airport",
+      "https://en.wikipedia.org/wiki/Pakse_International_Airport",
+      "https://en.wikipedia.org/wiki/Savannakhet_Airport",
+      "https://en.wikipedia.org/wiki/Wattay_International_Airport"
+    ],
+    "destination_country": "LA",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": "Conditions apply.\nAvailable at international airports Luangphabang, Pakse, Savannakhet and Vientiane, and at 4 land borders Friendship Bridge, and at 13 border crossings as well as Tanalaeng train station in Vientiane, which connects to the train station in Nongkai, Thailand.\nEntry points Lalai, Lantui, Meuang mom, Pakxan, and Phoudou are open only to visa holders.\nExtendable up to 60 days."
   },
   "LV": {
     "passport_country": "HK",
@@ -1482,6 +1519,28 @@
     "allowed_stay": "90 days",
     "notes": "90 days within any 180 day period"
   },
+  "RU": {
+    "passport_country": "HK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "https://en.wikipedia.org/wiki/Russia"
+    ],
+    "destination_country": "RU",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "14 days",
+    "notes": ""
+  },
+  "RW": {
+    "passport_country": "HK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "https://en.wikipedia.org/wiki/Rwanda"
+    ],
+    "destination_country": "RW",
+    "visa_requirement": "eVisa / Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "KN": {
     "passport_country": "HK",
     "sources": [
@@ -1928,6 +1987,17 @@
     "destination_country": "VE",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "VN": {
+    "passport_country": "HK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "https://en.wikipedia.org/wiki/Vietnam"
+    ],
+    "destination_country": "VN",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "YE": {
