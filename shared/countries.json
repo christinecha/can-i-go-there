@@ -193,12 +193,12 @@
   {
     "name": "Burkina Faso", 
     "code": "BF",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Burkinabe_citizens"
   },
   {
     "name": "Burundi", 
     "code": "BI",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Burundian_citizens"
   },
   {
     "name": "Cambodia", 
@@ -221,7 +221,7 @@
   {
     "name": "Cape Verde", 
     "code": "CV",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Cape_Verdean_citizens"
   },
   {
     "name": "Cayman Islands", 
