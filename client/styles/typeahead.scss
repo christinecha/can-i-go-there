@@ -82,7 +82,6 @@ $option-font-size: 20px;
   }
 }
 
-
 .option {
   display: none;
   text-align: right;
@@ -95,13 +94,16 @@ $option-font-size: 20px;
   @media (max-width: 767px) {
     padding: 3px 0;
   }
+
+  @media (min-width: 768px) {
+    &:hover,
+    &[data-is-preselected="true"] {
+      color: rgba(255,255,255,1);
+    }
+  
+    &[data-is-active="true"] {
+      display: block;
+    }
+  }
 }
 
-.option:hover,
-.option[data-is-preselected="true"] {
-  color: rgba(255,255,255,1);
-}
-
-.option[data-is-active="true"] {
-  display: block;
-}
