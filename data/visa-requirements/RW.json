@@ -1226,6 +1226,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "CS": {
+    "passport_country": "RW",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Rwandan_citizens",
+      "https://en.wikipedia.org/wiki/Serbia"
+    ],
+    "destination_country": "CS",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "MA": {
     "passport_country": "RW",
     "sources": [
@@ -1579,15 +1590,14 @@
     "notes": ""
   },
   "SC": {
-    "passport_country": "RW",
     "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Rwandan_citizens",
-      "https://en.wikipedia.org/wiki/Seychelles"
+      "https://en.wikipedia.org/wiki/Visa_policy_of_Seychelles"
     ],
     "destination_country": "SC",
-    "visa_requirement": "Free Visitor's Permit on arrival",
-    "allowed_stay": "3 months",
-    "notes": ""
+    "visa_requirement": "No Visa Required",
+    "allowed_stay": "Three months, with extensions up to twelve months.",
+    "notes": "All foreign nationals visiting Seychelles are granted visa free access. They must be in a possession of a valid passport, return or onward ticket, proof of accommodation and sufficient funds. The Visitor’s Permit is issued free of charge and is initially valid for up to three months but it can be extended for a fee for a period of up to three months with further extensions not exceeding total period of twelve months.",
+    "passport_country": "RW"
   },
   "SL": {
     "passport_country": "RW",
@@ -1735,6 +1745,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "SY": {
+    "passport_country": "RW",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Rwandan_citizens",
+      "https://en.wikipedia.org/wiki/Syria"
+    ],
+    "destination_country": "SY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "TJ": {
     "passport_country": "RW",
     "sources": [
@@ -1744,6 +1765,17 @@
     "destination_country": "TJ",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
+    "notes": ""
+  },
+  "TZ": {
+    "passport_country": "RW",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Rwandan_citizens",
+      "https://en.wikipedia.org/wiki/Tanzania"
+    ],
+    "destination_country": "TZ",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "6 months",
     "notes": ""
   },
   "TH": {
@@ -1987,5 +2019,65 @@
     "visa_requirement": "Visa on arrival",
     "allowed_stay": "",
     "notes": ""
+  },
+  "IO": {
+    "sources": [
+      "https://biot.gov.io/visiting/"
+    ],
+    "destination_country": "IO",
+    "visa_requirement": "Access Restricted",
+    "allowed_stay": "",
+    "notes": "The British Indian Ocean Territory is not a tourist destination. Access is restricted and a permit is required in advance of travel. There are no commercial flights and permits for yachts are only issued to allow safe passage through the Indian Ocean (Outer Islands only). Access to Diego Garcia is only permitted to those with connections either to the military facility or to the Territory’s Administration.",
+    "passport_country": "RW"
+  },
+  "CK": {
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_policy_of_New_Zealand#Cook_Islands"
+    ],
+    "destination_country": "CK",
+    "visa_requirement": "No Visa Required",
+    "allowed_stay": "Periods of 31 days, up to a maximum of 6 months",
+    "notes": "All visitors to the Cook Islands, irrespective of nationality, are visa-exempt for a maximum stay of 31 days. Visitors travelling for tourist purposes may extend their stay, for periods of 31 days, up to a maximum of 6 months.",
+    "passport_country": "RW"
+  },
+  "NU": {
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_policy_of_New_Zealand#Niue"
+    ],
+    "destination_country": "NU",
+    "visa_requirement": "Permit Required",
+    "allowed_stay": "30 days",
+    "notes": "Except for nationals of New Zealand who are Niueans or descendants of Niueans, visas are required by all nationalities except for bona fide visitors staying 30 days or less. Visitors must have sufficient funds for the length of their stay together with a confirmed reservation for accommodation and those not holding return or onward tickets could be refused entry. Extensions of stay are possible.",
+    "passport_country": "RW"
+  },
+  "GS": {
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_policies_of_British_Overseas_Territories"
+    ],
+    "destination_country": "GS",
+    "visa_requirement": "Permit Required",
+    "allowed_stay": "",
+    "notes": "The Commissioner of South Georgia and the South Sandwich Islands, based in Stanley, regulates all access to the territory. Visas are not required, but all visitors irrespective of their nationality or mode of transport must apply to the Commissioner for permission to land in advance. The visit permit is issued to a 'permit holder', normally a cruise vessel expedition leader or a yacht master. Visitors travelling to South Georgia as paying passengers on cruise ships and yachts do not need to submit a visit application.",
+    "passport_country": "RW"
+  },
+  "SJ": {
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_policy_of_Svalbard"
+    ],
+    "destination_country": "SJ",
+    "visa_requirement": "No Visa Required",
+    "allowed_stay": "",
+    "notes": "Uniquely, the Norwegian archipelago of Svalbard is an entirely visa-free zone. Everybody may live and work in Svalbard indefinitely regardless of country of citizenship.",
+    "passport_country": "RW"
+  },
+  "TK": {
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_policy_of_New_Zealand#Tokelau"
+    ],
+    "destination_country": "TK",
+    "visa_requirement": "Permit Required",
+    "allowed_stay": "",
+    "notes": "All visitors must obtain a permit to enter Tokelau from the Tokelau Apia Liaison Office in Apia, at least 2 weeks prior to travel. Tokelau can only be reached by boat from Samoa and a permit from the Samoan Immigration Authorities is required to leave and re-enter Samoa.",
+    "passport_country": "RW"
   }
 }

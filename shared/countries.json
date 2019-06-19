@@ -19,7 +19,8 @@
   },
   {
     "name": "American Samoa", 
-    "code": "AS"
+    "code": "AS",
+    "noPassport": true
   },
   {
     "name": "Andorra",
@@ -41,7 +42,8 @@
   },
   {
     "name": "Antarctica", 
-    "code": "AQ"
+    "code": "AQ",
+    "noPassport": true
   },
   {
     "name": "Antigua and Barbuda", 
@@ -63,7 +65,8 @@
   },
   {
     "name": "Aruba", 
-    "code": "AW"
+    "code": "AW",
+    "noPassport": true
   },
   {
     "name": "Australia", 
@@ -85,8 +88,9 @@
   },
   {
     "name": "Bahamas", 
+    "aliases": ["The Bahamas"],
     "code": "BS",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bahamian_citizens"
   },
   {
     "name": "Bahrain", 
@@ -120,8 +124,9 @@
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Belizean_citizens"
   },
   {
-    "name": "Benin", "code": "BJ",
-    "wikipediaSource": ""
+    "name": "Benin", 
+    "code": "BJ",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Beninese_citizens"
   },
   {
     "name": "Bermuda", 
@@ -150,8 +155,9 @@
   },
   {
     "name": "Bouvet Island", 
+    "destinationMirror": "NO",
     "code": "BV",
-    "wikipediaSource": ""
+    "noPassport": true
   },
   {
     "name": "Brazil", 
@@ -162,11 +168,20 @@
   {
     "name": "British Indian Ocean Territory", 
     "code": "IO",
-    "wikipediaSource": ""
+    "noPassport": true,
+    "visaPolicy": {
+      "sources": [
+        "https://biot.gov.io/visiting/"
+      ],
+      "destination_country": "IO",
+      "visa_requirement": "Access Restricted",
+      "allowed_stay": "",
+      "notes": "The British Indian Ocean Territory is not a tourist destination. Access is restricted and a permit is required in advance of travel. There are no commercial flights and permits for yachts are only issued to allow safe passage through the Indian Ocean (Outer Islands only). Access to Diego Garcia is only permitted to those with connections either to the military facility or to the Territory’s Administration."
+    }
   },
   {
-    "name": "Brunei Darussalam", 
-    "aliases": ["Brunei"],
+    "name": "Brunei", 
+    "aliases": ["Brunei Darussalam"],
     "code": "BN",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Bruneian_citizens"
   },
@@ -269,7 +284,16 @@
   {
     "name": "Cook Islands", 
     "code": "CK",
-    "wikipediaSource": ""
+    "wikipediaSource": "",
+    "visaPolicy": {
+      "sources": [
+        "https://en.wikipedia.org/wiki/Visa_policy_of_New_Zealand#Cook_Islands"
+      ],
+      "destination_country": "CK",
+      "visa_requirement": "No Visa Required",
+      "allowed_stay": "Periods of 31 days, up to a maximum of 6 months",
+      "notes": "All visitors to the Cook Islands, irrespective of nationality, are visa-exempt for a maximum stay of 31 days. Visitors travelling for tourist purposes may extend their stay, for periods of 31 days, up to a maximum of 6 months."
+    }
   },
   {
     "name": "Costa Rica", 
@@ -278,8 +302,9 @@
   },
   {
     "name": "Cote D'Ivoire", 
+    "aliases": ["Ivory Coast", "The Ivory Coast"],
     "code": "CI",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ivorian_citizens"
   },
   {
     "name": "Croatia", 
@@ -314,7 +339,7 @@
   {
     "name": "Dominica", 
     "code": "DM",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominica_citizens"
   },
   {
     "name": "Dominican Republic", 
@@ -692,19 +717,53 @@
   {"name": "Mali", "code": "ML"},
   {"name": "Malta", "code": "MT"},
   {"name": "Marshall Islands", "code": "MH"},
-  {"name": "Martinique", "code": "MQ"},
-  {"name": "Mauritania", "code": "MR"},
-  {"name": "Mauritius", "code": "MU"},
-  {"name": "Mayotte", "code": "YT"},
+  {
+    "name": "Martinique", 
+    "code": "MQ",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Mauritania", 
+    "code": "MR",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritanian_citizens"
+  },
+  {
+    "name": "Mauritius", 
+    "code": "MU",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mauritian_citizens"
+  },
+  {
+    "name": "Mayotte", 
+    "code": "YT",
+    "wikipediaSource": ""
+  },
   {
     "name": "Mexico", 
     "code": "MX",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mexican_citizens"
   },
-  {"name": "Micronesia, Federated States of", "code": "FM"},
-  {"name": "Moldova, Republic of", "code": "MD"},
-  {"name": "Monaco", "code": "MC"},
-  {"name": "Mongolia", "code": "MN"},
+  {
+    "name": "Micronesia", 
+    "aliases": ["Micronesia, Federated States of", "Federated States of Micronesia"],
+    "code": "FM",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Micronesian_citizens"
+  },
+  {
+    "name": "Moldova", 
+    "code": "MD",
+    "aliases": ["Moldova, Republic of", "Republic of Moldova"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moldovan_citizens"
+  },
+  {
+    "name": "Monaco", 
+    "code": "MC",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mon%C3%A9gasque_citizens"
+  },
+  {
+    "name": "Mongolia", 
+    "code": "MN",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens"
+  },
   {
     "name": "Montserrat", 
     "code": "MS",
@@ -764,7 +823,19 @@
     "code": "NG",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerian_citizens"
   },
-  {"name": "Niue", "code": "NU"},
+  {
+    "name": "Niue", 
+    "code": "NU",
+    "visaPolicy": {
+      "sources": [
+        "https://en.wikipedia.org/wiki/Visa_policy_of_New_Zealand#Niue"
+      ],
+      "destination_country": "NU",
+      "visa_requirement": "Permit Required",
+      "allowed_stay": "30 days",
+      "notes": "Except for nationals of New Zealand who are Niueans or descendants of Niueans, visas are required by all nationalities except for bona fide visitors staying 30 days or less. Visitors must have sufficient funds for the length of their stay together with a confirmed reservation for accommodation and those not holding return or onward tickets could be refused entry. Extensions of stay are possible."
+    }
+  },
   {"name": "Norfolk Island", "code": "NF"},
   {"name": "Northern Mariana Islands", "code": "MP"},
   {
@@ -878,50 +949,225 @@
     "code": "WS",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Samoan_citizens"
   },
-  {"name": "San Marino", "code": "SM"},
-  {"name": "Sao Tome and Principe", "code": "ST"},
-  {"name": "Saudi Arabia", "code": "SA"},
-  {"name": "Senegal", "code": "SN"},
-  {"name": "Serbia and Montenegro", "code": "CS"},
-  {"name": "Seychelles", "code": "SC"},
-  {"name": "Sierra Leone", "code": "SL"},
-  {"name": "Singapore", "code": "SG"},
-  {"name": "Slovakia", "code": "SK"},
-  {"name": "Slovenia", "code": "SI"},
-  {"name": "Solomon Islands", "code": "SB"},
-  {"name": "Somalia", "code": "SO"},
-  {"name": "South Africa", "code": "ZA"},
-  {"name": "South Georgia and the South Sandwich Islands", "code": "GS"},
-  {"name": "Spain", "code": "ES"},
-  {"name": "Sri Lanka", "code": "LK"},
-  {"name": "Sudan", "code": "SD"},
-  {"name": "Suriname", "code": "SR"},
-  {"name": "Svalbard and Jan Mayen", "code": "SJ"},
-  {"name": "Swaziland", "code": "SZ"},
+  {
+    "name": "San Marino", 
+    "code": "SM",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sammarinese_citizens"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "colors": ["#09af26", "#d30731", "#ffbf00", "#1f1f1f"],
+    "aliases": ["Sao Tome", "Democratic Republic of São Tomé and Príncipe"], 
+    "code": "ST",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Santomean_citizens"
+  },
+  {
+    "name": "Saudi Arabia", 
+    "code": "SA",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saudi_citizens"
+  },
+  {
+    "name": "Senegal", 
+    "code": "SN",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Senegalese_citizens"
+  },
+  {
+    "name": "Serbia and Montenegro", 
+    "aliases": ["Republic of Serbia", "Serbia", "Montenegro"], 
+    "code": "CS",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Serbian_citizens"
+  },
+  {
+    "name": "Seychelles", 
+    "code": "SC",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Seychellois_citizens",
+    "visaPolicy": {
+      "sources": [
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Seychelles"
+      ],
+      "destination_country": "SC",
+      "visa_requirement": "No Visa Required",
+      "allowed_stay": "Three months, with extensions up to twelve months.",
+      "notes": "All foreign nationals visiting Seychelles are granted visa free access. They must be in a possession of a valid passport, return or onward ticket, proof of accommodation and sufficient funds. The Visitor’s Permit is issued free of charge and is initially valid for up to three months but it can be extended for a fee for a period of up to three months with further extensions not exceeding total period of twelve months."
+    }
+  },
+  {
+    "name": "Sierra Leone", 
+    "code": "SL",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sierra_Leonean_citizens"
+  },
+  {
+    "name": "Singapore", 
+    "code": "SG",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Singaporean_citizens"
+  },
+  {
+    "name": "Slovakia", 
+    "code": "SK",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Slovak_citizens"
+  },
+  {
+    "name": "Slovenia", 
+    "code": "SI",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Slovenian_citizens"
+  },
+  {
+    "name": "Solomon Islands", 
+    "code": "SB",
+    "wikipediaSource": ""
+  },
+  {
+    "name": "Somalia", 
+    "code": "SO",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens"
+  },
+  {
+    "name": "South Africa", 
+    "code": "ZA",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_African_citizens"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands", 
+    "code": "GS",
+    "noPassport": true,
+    "visaPolicy": {
+      "sources": [
+        "https://en.wikipedia.org/wiki/Visa_policies_of_British_Overseas_Territories"
+      ],
+      "destination_country": "GS",
+      "visa_requirement": "Permit Required",
+      "allowed_stay": "",
+      "notes": "The Commissioner of South Georgia and the South Sandwich Islands, based in Stanley, regulates all access to the territory. Visas are not required, but all visitors irrespective of their nationality or mode of transport must apply to the Commissioner for permission to land in advance. The visit permit is issued to a 'permit holder', normally a cruise vessel expedition leader or a yacht master. Visitors travelling to South Georgia as paying passengers on cruise ships and yachts do not need to submit a visit application."
+    }
+  },
+  {
+    "name": "Spain", 
+    "code": "ES",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens"
+  },
+  {
+    "name": "Sri Lanka", 
+    "code": "LK",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens"
+  },
+  {
+    "name": "Sudan", 
+    "code": "SD",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens"
+  },
+  {
+    "name": "Suriname", 
+    "code": "SR",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Surinamese_citizens"
+  },
+  {
+    "name": "Svalbard", 
+    "aliases": ["Svalbard and Jan Mayen"],
+    "code": "SJ",
+    "noPassport": true,
+    "visaPolicy": {
+      "sources": [
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Svalbard"
+      ],
+      "destination_country": "SJ",
+      "visa_requirement": "No Visa Required",
+      "allowed_stay": "",
+      "notes": "Uniquely, the Norwegian archipelago of Svalbard is an entirely visa-free zone. Everybody may live and work in Svalbard indefinitely regardless of country of citizenship."
+    }
+  },
+  {
+    "name": "Swaziland", 
+    "code": "SZ",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swazi_citizens"
+  },
   {
     "name": "Sweden", 
     "code": "SE",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens"
   },
-  {"name": "Switzerland", "code": "CH"},
-  {"name": "Syrian Arab Republic", "code": "SY"},
+  {
+    "name": "Switzerland", 
+    "code": "CH",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swiss_citizens"
+  },
+  {
+    "name": "Syria", 
+    "aliases": ["Syrian Arab Republic"],
+    "code": "SY",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens"
+  },
   {
     "name": "Taiwan", 
     "aliases": ["Taiwan, Province of China"],
     "code": "TW",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens"
   },
-  {"name": "Tajikistan", "code": "TJ"},
-  {"name": "Tanzania, United Republic of", "code": "TZ"},
-  {"name": "Thailand", "code": "TH"},
-  {"name": "Timor-Leste", "code": "TL"},
-  {"name": "Togo", "code": "TG"},
-  {"name": "Tokelau", "code": "TK"},
-  {"name": "Tonga", "code": "TO"},
-  {"name": "Trinidad and Tobago", "code": "TT"},
-  {"name": "Tunisia", "code": "TN"},
-  {"name": "Turkey", "code": "TR"},
-  {"name": "Turkmenistan", "code": "TM"},
+  {
+    "name": "Tajikistan", 
+    "code": "TJ",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tajik_citizens"
+  },
+  {
+    "name": "Tanzania", 
+    "aliases": ["Tanzania, United Republic of", "United Republic of Tanzania", "Republic of Tanzania"],
+    "code": "TZ",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tanzanian_citizens"
+  },
+  {
+    "name": "Thailand", 
+    "code": "TH",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens"
+  },
+  {
+    "name": "Timor-Leste", 
+    "aliases": ["East Timor", "Timor Leste", "Timor l'Este"],
+    "code": "TL",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens"
+  },
+  {
+    "name": "Togo", 
+    "code": "TG",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Togolese_citizens"
+  },
+  {
+    "name": "Tokelau", 
+    "code": "TK",
+    "noPassport": true,
+    "visaPolicy": {
+      "sources": [
+        "https://en.wikipedia.org/wiki/Visa_policy_of_New_Zealand#Tokelau"
+      ],
+      "destination_country": "TK",
+      "visa_requirement": "Permit Required",
+      "allowed_stay": "",
+      "notes": "All visitors must obtain a permit to enter Tokelau from the Tokelau Apia Liaison Office in Apia, at least 2 weeks prior to travel. Tokelau can only be reached by boat from Samoa and a permit from the Samoan Immigration Authorities is required to leave and re-enter Samoa."
+    }
+  },
+  {
+    "name": "Tonga", 
+    "code": "TO",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tongan_citizens"
+  },
+  {
+    "name": "Trinidad and Tobago", 
+    "code": "TT",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Trinidad_and_Tobago_citizens"
+  },
+  {
+    "name": "Tunisia", 
+    "code": "TN",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tunisian_citizens"
+  },
+  {
+    "name": "Turkey", 
+    "code": "TR",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens"
+  },
+  {
+    "name": "Turkmenistan", 
+    "code": "TM",
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkmen_citizens"
+  },
   {
     "name": "Turks and Caicos Islands", 
     "code": "TC",
@@ -930,7 +1176,7 @@
   {
     "name": "Tuvalu", 
     "code": "TV",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tuvaluan_citizens"
   },
   {
     "name": "Uganda", 
@@ -963,7 +1209,7 @@
   {
     "name": "United States Minor Outlying Islands", 
     "code": "UM",
-    "wikipediaSource": ""
+    "noPassport": true
   },
   {
     "name": "Uruguay", 
@@ -993,23 +1239,25 @@
   },
   {
     "name": "Virgin Islands, British", 
+    "aliases": ["British Virgin Islands"],
     "code": "VG",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens"
   },
   {
     "name": "Virgin Islands, U.S.", 
+    "aliases": ["Virgin Islands, US", "U.S. Virgin Islands", "US Virgin Islands"],
     "code": "VI",
-    "wikipediaSource": ""
+    "noPassport": true
   },
   {
     "name": "Wallis and Futuna", 
     "code": "WF",
-    "wikipediaSource": ""
+    "noPassport": true
   },
   {
     "name": "Western Sahara", 
     "code": "EH",
-    "wikipediaSource": ""
+    "noPassport": true
   },
   {
     "name": "Yemen", 
