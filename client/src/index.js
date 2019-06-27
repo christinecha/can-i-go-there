@@ -34,9 +34,9 @@ const App = () => {
       this.refs.typeahead.focus()
       
       document.addEventListener('keydown', this.onDocumentKeyDown.bind(this))
-      this.refs.typeahead.addEventListener('keyup', this.onInput.bind(this))
+      this.refs.typeahead.addEventListener('keydown', this.onInput.bind(this))
 
-      document.addEventListener('keyup', (e) => {
+      document.addEventListener('keydown', (e) => {
         const activeOptions = this.refs.options.filter(o => o.dataset.isActive === "true")
 
         // ENTER
