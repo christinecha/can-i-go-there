@@ -23,7 +23,7 @@ module.exports = {
   mode: 'development',
   output: {
     path: path.resolve(PUBLIC_DIR),
-    publicPath: '/public/',
+    publicPath: '/',
     filename: 'scripts/[name]',
     chunkFilename: 'scripts/[name]',
   },
@@ -37,8 +37,8 @@ module.exports = {
     }
   },
   plugins: [
-    ...pages.map(page => (
-      new HtmlWebpackPlugin(page)
-    )),
+    // ...pages.map(page => (
+    //   new HtmlWebpackPlugin(page)
+    // )),
   ],
 }
