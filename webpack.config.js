@@ -37,8 +37,8 @@ module.exports = {
     }
   },
   plugins: [
-    // ...pages.map(page => (
-    //   new HtmlWebpackPlugin(page)
-    // )),
+    ...pages.map(page => (
+      new HtmlWebpackPlugin(page)
+    )),
   ],
 }
