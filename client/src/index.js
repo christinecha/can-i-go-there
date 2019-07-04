@@ -18,7 +18,7 @@ const App = () => {
 
     state: {
       typeaheadValue: '',
-      passport: '',
+      passport: window.INITIAL_PASSPORT || '',
       destination: '',
       preselect: 0,
     },

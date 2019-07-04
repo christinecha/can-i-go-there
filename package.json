@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack && sass ./client/styles/index.scss ./client/dist/styles/index.css",
-    "dev": "webpack-dev-server & sass ./client/styles/index.scss ./client/dist/styles/index.css --watch",
+    "build": "webpack && sass ./client/styles/index.scss ./public/styles/index.css",
+    "dev": "webpack-dev-server & sass ./client/styles/index.scss ./public/styles/index.css --watch",
     "scrape:all": "node ./shared/visa-requirements/trigger-all.js",
     "scrape:one": "node ./shared/visa-requirements/trigger-one.js"
   },
@@ -26,6 +26,7 @@
     "babel-loader": "^8.0.6",
     "clean-webpack-plugin": "^2.0.2",
     "css-loader": "^2.1.1",
+    "html-webpack-plugin": "^3.2.0",
     "netlify-lambda": "^1.4.13",
     "node-sass": "^4.12.0",
     "sass": "^1.21.0",

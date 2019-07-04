@@ -1,8 +1,10 @@
 const path = require('path')
 const fs = require('fs-extra')
-const CleanWebpackPlugin = require('clean-webpack-plugin');
+const HtmlWebpackPlugin = require('html-webpack-plugin')
+const pages = require('./pages-config')
 
 const JSON_FOLDER = path.resolve(__dirname, 'data/visa-requirements')
+const PUBLIC_DIR = path.resolve(__dirname, 'public')
 
 const getJSONFiles = () => {
   const files = fs.readdirSync(JSON_FOLDER)
@@ -20,25 +22,23 @@ module.exports = {
   },
   mode: 'development',
   output: {
-    path: path.resolve(__dirname, './client/scripts'),
-    publicPath: '/scripts/',
-    filename: '[name]',
-    chunkFilename: '[name]',
+    path: path.resolve(PUBLIC_DIR),
+    publicPath: '/public/',
+    filename: 'scripts/[name]',
+    chunkFilename: 'scripts/[name]',
   },
   devServer: {
     port: 8000,
     proxy: {
-      '/.netlify/functions/*': {
-        target: 'http://localhost:9000/',
-        secure: false
-      },
-      '/dist/*': {
-        target: 'http://localhost:8000/client',
+      '*': {
+        target: 'http://localhost:8000/public',
         secure: false
       }
     }
   },
   plugins: [
-    new CleanWebpackPlugin(),
+    ...pages.map(page => (
+      new HtmlWebpackPlugin(page)
+    )),
   ],
 }
