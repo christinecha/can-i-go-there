@@ -1257,6 +1257,28 @@
     "allowed_stay": "180 days",
     "notes": ""
   },
+  "FM": {
+    "passport_country": "PT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Portuguese_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "PT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Portuguese_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
+  },
   "MC": {
     "passport_country": "PT",
     "sources": [
@@ -1566,12 +1588,13 @@
     "passport_country": "PT",
     "sources": [
       "https://en.wikipedia.org/wiki/Visa_requirements_for_Portuguese_citizens",
-      "https://en.wikipedia.org/wiki/Russia"
+      "https://en.wikipedia.org/wiki/Russia",
+      "https://en.wikipedia.org/wiki/Kaliningrad_Oblast"
     ],
     "destination_country": "RU",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Portuguese citizens are eligible for eVisa access to Kaliningrad Oblast for up to 8 days."
   },
   "RW": {
     "passport_country": "PT",

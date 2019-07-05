@@ -1197,6 +1197,28 @@
     "allowed_stay": "",
     "notes": "Holders of a valid visa for Canada, Japan, USA, UK or a Schengen member state may stay for a maximum of 180 days."
   },
+  "FM": {
+    "passport_country": "LK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "LK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": "May apply online."
+  },
   "MC": {
     "passport_country": "LK",
     "sources": [

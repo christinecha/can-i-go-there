@@ -1235,6 +1235,28 @@
     "allowed_stay": "180 days",
     "notes": ""
   },
+  "FM": {
+    "passport_country": "SG",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Singaporean_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "SG",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Singaporean_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180-day period"
+  },
   "MC": {
     "passport_country": "SG",
     "sources": [
@@ -1548,12 +1570,13 @@
       "https://en.wikipedia.org/wiki/Khabarovsk_Krai",
       "https://en.wikipedia.org/wiki/Primorskiy_Krai",
       "https://en.wikipedia.org/wiki/Sakhalin_Oblast",
-      "https://en.wikipedia.org/wiki/Russian_Far_East"
+      "https://en.wikipedia.org/wiki/Russian_Far_East",
+      "https://en.wikipedia.org/wiki/Kaliningrad_Oblast"
     ],
     "destination_country": "RU",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "eVisa for up to 8 days for Amur Oblast, Chukotka, Kamchatka, Khabarovsk Krai, Primorye and Sakhalin regions of the Russian Far East for tourism, business and humanitarian purposes. Available at 6 airports, 5 seaports, some railway and road entry points.\nHolders of an APEC Business Travel Card (ABTC) travelling on business do not require a visa."
+    "notes": "eVisa for up to 8 days for Amur Oblast, Chukotka, Kamchatka, Khabarovsk Krai, Primorye and Sakhalin regions of the Russian Far East for tourism, business and humanitarian purposes. Available at 6 airports, 5 seaports, some railway and road entry points.\nHolders of an APEC Business Travel Card (ABTC) travelling on business do not require a visa.\nSingaporean citizens are eligible for eVisas to Kaliningrad Oblast for up to 8 days."
   },
   "RW": {
     "passport_country": "SG",

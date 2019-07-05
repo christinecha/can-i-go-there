@@ -470,7 +470,7 @@
       "https://en.wikipedia.org/wiki/Cuba"
     ],
     "destination_country": "CU",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "Tourist card required",
     "allowed_stay": "",
     "notes": "No visa required, tourist card for maximum 30 days on arrival/prior to arrival"
   },
@@ -1202,6 +1202,28 @@
     "allowed_stay": "",
     "notes": "No visa required for those holding a valid US or Schengen visa."
   },
+  "FM": {
+    "passport_country": "DO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "DO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "MC": {
     "passport_country": "DO",
     "sources": [
@@ -1530,7 +1552,7 @@
     "destination_country": "KN",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Visa is obtained online."
+    "notes": ""
   },
   "LC": {
     "passport_country": "DO",

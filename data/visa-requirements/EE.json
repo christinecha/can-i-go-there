@@ -1228,6 +1228,28 @@
     "allowed_stay": "180 days",
     "notes": ""
   },
+  "FM": {
+    "passport_country": "EE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Estonian_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
+  },
+  "MD": {
+    "passport_country": "EE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Estonian_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
+  },
   "MC": {
     "passport_country": "EE",
     "sources": [

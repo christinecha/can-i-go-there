@@ -372,9 +372,9 @@
       "https://en.wikipedia.org/wiki/Chile"
     ],
     "destination_country": "CL",
-    "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": ""
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa required since June 22, 2019"
   },
   "CN": {
     "passport_country": "VE",
@@ -1229,6 +1229,28 @@
     "visa_requirement": "Visa not required",
     "allowed_stay": "180 days",
     "notes": ""
+  },
+  "FM": {
+    "passport_country": "VE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Venezuelan_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "VE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Venezuelan_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
   },
   "MC": {
     "passport_country": "VE",

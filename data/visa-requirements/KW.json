@@ -1198,6 +1198,28 @@
     "allowed_stay": "",
     "notes": "US visa holders travelling to Mexico for tourism, can be authorised to stay up to 6 months"
   },
+  "FM": {
+    "passport_country": "KW",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "KW",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Kuwaiti_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "MC": {
     "passport_country": "KW",
     "sources": [

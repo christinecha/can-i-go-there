@@ -1222,6 +1222,28 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "FM": {
+    "passport_country": "OM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Omani_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "OM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Omani_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "MC": {
     "passport_country": "OM",
     "sources": [

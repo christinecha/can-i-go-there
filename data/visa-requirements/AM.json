@@ -74,7 +74,7 @@
     "destination_country": "AR",
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
-    "notes": "work permit"
+    "notes": ""
   },
   "AU": {
     "passport_country": "AM",
@@ -1199,6 +1199,28 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Visa required, except for passengers with a valid visa issued by Canada, Japan, United States, United Kingdom or a Schengen Member State for a maximum stay of 180 days."
+  },
+  "FM": {
+    "passport_country": "AM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "AM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Armenian_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
   },
   "MC": {
     "passport_country": "AM",

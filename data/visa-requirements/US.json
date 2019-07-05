@@ -223,8 +223,8 @@
     ],
     "destination_country": "BJ",
     "visa_requirement": "eVisa",
-    "allowed_stay": "",
-    "notes": "International Certificate of Vaccination required."
+    "allowed_stay": "90 days",
+    "notes": "International Certificate of Vaccination required.\neVisas are available for 30 or 90 days"
   },
   "BT": {
     "passport_country": "US",
@@ -374,7 +374,7 @@
     ],
     "destination_country": "CV",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "",
+    "allowed_stay": "30 days",
     "notes": "Obtainable at Nelson Mandela International Airport, Cesária Évora Airport, Amílcar Cabral International Airport and Aristides Pereira International Airport.\nPassengers arriving via Africa must hold an International Certificate of Vaccination."
   },
   "CF": {
@@ -623,7 +623,7 @@
     ],
     "destination_country": "EG",
     "visa_requirement": "eVisa / Visa on arrival",
-    "allowed_stay": "",
+    "allowed_stay": "30 days",
     "notes": "eVisa issued for 30 days.\n30 days when arriving by air;\nTourists arriving at Sharm El Sheikh, Saint Catherine or Taba airports and remaining in the Sinai resorts do not require a visa up to 15 days"
   },
   "SV": {
@@ -733,8 +733,8 @@
     ],
     "destination_country": "GA",
     "visa_requirement": "eVisa / Visa on arrival",
-    "allowed_stay": "",
-    "notes": "Electronic visa holders must arrive via Libreville International Airport.\nInternational Certificate of Vaccination required."
+    "allowed_stay": "6 months",
+    "notes": "eVisas are available for one to six months.\nElectronic visa holders must arrive via Libreville International Airport.\nInternational Certificate of Vaccination required."
   },
   "GM": {
     "passport_country": "US",
@@ -1311,6 +1311,30 @@
     "visa_requirement": "Visa not required",
     "allowed_stay": "180 days",
     "notes": "Visitors entering by land and traveling farther than 20 kilometers into Mexico or staying longer than 72 hours must obtain a document Forma Migratoria Multiple.\nPassport Card or Enhanced Drivers License valid for Land and Sea Travel"
+  },
+  "FM": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
+      "https://en.wikipedia.org/wiki/Yap",
+      "https://en.wikipedia.org/wiki/Compact_of_Free_Association"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "unlimited",
+    "notes": "All states except Yap have a departure fee.\nU.S. citizens may live and work freely in Micronesia under the Compact of Free Association.\nThere is no limit to the length of time U.S. citizens can remain in the FSM."
+  },
+  "MD": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180-day period\nRegistration upon arrival is mandatory."
   },
   "MC": {
     "passport_country": "US",
@@ -2052,7 +2076,7 @@
     ],
     "destination_country": "UG",
     "visa_requirement": "eVisa / Visa on arrival",
-    "allowed_stay": "",
+    "allowed_stay": "90 days",
     "notes": "Determined at the port of entry.\nMust apply online at least 2 business days or more prior to travel. As of March 2017, airlines were refusing passengers permission to board flights to Uganda if they did not have a print-out of the document showing that they had successfully applied for an eVisa. Ugandan immigration authorities also may require additional documentation, including proof of a return plane ticket and detailed tour itinerary in Uganda.\nInternational Certificate of Vaccination required."
   },
   "UA": {

@@ -1216,6 +1216,30 @@
     "allowed_stay": "180 days",
     "notes": ""
   },
+  "FM": {
+    "passport_country": "CZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Czech_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
+  },
+  "MD": {
+    "passport_country": "CZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Czech_citizens",
+      "https://en.wikipedia.org/wiki/Moldova",
+      "https://en.wikipedia.org/wiki/Czech_national_identity_card",
+      "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period\nID card valid[citation needed]"
+  },
   "MC": {
     "passport_country": "CZ",
     "sources": [
@@ -1530,12 +1554,13 @@
     "passport_country": "CZ",
     "sources": [
       "https://en.wikipedia.org/wiki/Visa_requirements_for_Czech_citizens",
-      "https://en.wikipedia.org/wiki/Russia"
+      "https://en.wikipedia.org/wiki/Russia",
+      "https://en.wikipedia.org/wiki/Kaliningrad_Oblast"
     ],
     "destination_country": "RU",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Czech citizens are eligible for eVisa access to Kaliningrad Oblast for up to 8 days."
   },
   "RW": {
     "passport_country": "CZ",

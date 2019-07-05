@@ -606,18 +606,6 @@
     "allowed_stay": "",
     "notes": ""
   },
-  "ET": {
-    "passport_country": "PK",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens",
-      "https://en.wikipedia.org/wiki/Ethiopia",
-      "https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport"
-    ],
-    "destination_country": "ET",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "up to 90 days",
-    "notes": "eVisa holders must arrive via Addis Ababa Bole International Airport"
-  },
   "FJ": {
     "passport_country": "PK",
     "sources": [
@@ -1231,6 +1219,28 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Ordinary passport holders do not require visa for tourism, business or transit if they possess a valid and non-expired visa for, or are legal permanent residents of, the United States of America, Canada, Japan, United Kingdom or Schengen area."
+  },
+  "FM": {
+    "passport_country": "PK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "PK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "E-Visa can be obtainable if Pakistani nationals holding Schengen Member State valid visa."
   },
   "MC": {
     "passport_country": "PK",

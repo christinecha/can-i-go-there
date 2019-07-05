@@ -1237,6 +1237,30 @@
     "allowed_stay": "180 days",
     "notes": ""
   },
+  "FM": {
+    "passport_country": "PL",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Polish_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
+  },
+  "MD": {
+    "passport_country": "PL",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Polish_citizens",
+      "https://en.wikipedia.org/wiki/Moldova",
+      "https://en.wikipedia.org/wiki/Polish_identity_card",
+      "http://www.mfa.gov.pl/pl/informacje_konsularne/wizy/"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period\nID card valid"
+  },
   "MC": {
     "passport_country": "PL",
     "sources": [

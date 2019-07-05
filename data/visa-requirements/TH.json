@@ -1222,6 +1222,28 @@
     "allowed_stay": "",
     "notes": "No visa required for holders of a valid visa issued by Canada, Japan, USA, United Kingdom or a Schengen Member State and holders of an APEC Business Travel Card if traveling on business"
   },
+  "FM": {
+    "passport_country": "TH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "TH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "90 days",
+    "notes": "Need invitation letter to apply for eVisa, except for holders of a residence permit or a valid visa (except Transit Visa) issued by an EU Member State or a state party to the Schengen Agreement"
+  },
   "MC": {
     "passport_country": "TH",
     "sources": [

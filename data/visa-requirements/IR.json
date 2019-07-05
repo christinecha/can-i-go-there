@@ -855,7 +855,7 @@
     "destination_country": "IN",
     "visa_requirement": "eVisa",
     "allowed_stay": "",
-    "notes": "e-Visa holders must arrive via 26 designated airports or 3 designated seaports.\nAn Indian e-Tourist Visa can only be obtained twice in one calendar year.\nAlso, Iranian citizens of Pakistani origin are not eligible for e-Visa."
+    "notes": "e-Visa holders must arrive via 26 designated airports or 3 designated seaports.\nAn Indian e-Tourist Visa can only be obtained twice in one calendar year."
   },
   "ID": {
     "passport_country": "IR",
@@ -1234,6 +1234,28 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Visa required; except with valid visa issued by Canada, Japan, United States, United Kingdom or an EU Member State, then max 180 days."
+  },
+  "FM": {
+    "passport_country": "IR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "IR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
   },
   "MC": {
     "passport_country": "IR",

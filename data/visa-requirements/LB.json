@@ -205,7 +205,7 @@
     "destination_country": "BY",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Visa not required for a maximum stay of 10 days at Brest (BQT), Augustow Canal, or Grodno (GNA) provided holding a confirmation issued by a travel agency\nVisa not required for a maximum stay of 5 days for valid visa holders or residents of the European Union member states. Must arrive via Minsk International Airport\nVisa not required for passengers visiting to Belovezhskaya Pushcha National Park for up to 3 days\nVisa on arrival at the Minsk International Airport if the support documents were submitted to the  Consular Division at Minsk (not later than 3 (for short-term visas) or 5 working days (for long-term visas) the expected date of arrival\nVisa on arrival at the Minsk International Airport for holders holders of an invitation letter issued by a Belarusian tourist company or a medical or health organization. The letter must be written on afficial headed paper with the passenger's name, passport details, purpose, and duration of stay. The letter must also have the original signature and official seal of the head of the inviting organization[citation needed]\nPassengers are required to have a health insurance which can be purchased on arrival at the Minsk International Airport[citation needed]\nTransiting without a visa is not allowed under any circumstance[citation needed]\nRegistration with the local police within 7 days of arrival is mandatory[citation needed]"
+    "notes": "Visa not required for a maximum stay of 10 days at Brest (BQT), Augustow Canal, or Grodno (GNA) provided holding a confirmation issued by a travel agency\nVisa not required for a maximum stay of 5 days for valid visa holders or residents of the European Union member states. Must arrive via Minsk International Airport\nVisa not required for passengers visiting to Belovezhskaya Pushcha National Park for up to 3 days\nVisa on arrival at the Minsk International Airport if the support documents were submitted to the  Consular Division at Minsk (not later than 3 (for short-term visas) or 5 working days (for long-term visas) the expected date of arrival\nVisa on arrival at the Minsk International Airport for holders of an invitation letter issued by a Belarusian tourist company or a medical or health organization. The letter must be written on afficial headed paper with the passenger's name, passport details, purpose, and duration of stay. The letter must also have the original signature and official seal of the head of the inviting organization[citation needed]\nPassengers are required to have a health insurance which can be purchased on arrival at the Minsk International Airport[citation needed]\nTransiting without a visa is not allowed under any circumstance[citation needed]\nRegistration with the local police within 7 days of arrival is mandatory[citation needed]"
   },
   "BE": {
     "passport_country": "LB",
@@ -1135,16 +1135,14 @@
     "sources": [
       "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
       "https://en.wikipedia.org/wiki/Laos",
-      "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "https://en.wikipedia.org/wiki/Wattay_International_Airport",
       "https://en.wikipedia.org/wiki/Luang_Prabang_International_Airport",
-      "https://en.wikipedia.org/wiki/Pakse_International_Airport",
-      "https://en.wikipedia.org/wiki/Savannakhet_Airport",
-      "https://en.wikipedia.org/wiki/Wattay_International_Airport"
+      "https://en.wikipedia.org/wiki/Pakse_International_Airport"
     ],
     "destination_country": "LA",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "Electronic Visa / Visa on arrival",
     "allowed_stay": "30 days per trip",
-    "notes": "Valid for 30 days per trip\nVisa not required for a maximum stay of 30 days for passengers under 15 years of age of Lao origin[citation needed]\nVisa on arrival for a maximum stay of 60 days for passengers between 15 and 65 years of age of Lao origin[citation needed]\nVisa on arrival for a maximum stay of 90 days for passengers over 65 years of age of Lao origin[citation needed]\nVisa on arrival for a maximum stay of 30 days for holders of an official letter of guarantee issued by the Ministry of Foreign Affairs of Lao People's Dem. Rep., provided they are travelling on an official visit[citation needed]\nConditions apply.\nAvailable at international airports Luangphabang, Pakse, Savannakhet and Vientiane, and at 4 land borders Friendship Bridge, and at 13 border crossings as well as Tanalaeng train station in Vientiane, which connects to the train station in Nongkai, Thailand.\nEntry points Lalai, Lantui, Meuang mom, Pakxan, and Phoudou are open only to visa holders.\nExtendable up to 60 days."
+    "notes": "Valid for 30 days per trip\nPoints of entry with an Evisa are: Wattay International Airport, Luang Prabang International Airport, Pakse International Airport, Lao-Thai Friendship Bridge I, Lao-Thai Friendship Bridge II, Lao-Thai Friendship Bridge IV, Boten International Checkpoint"
   },
   "LV": {
     "passport_country": "LB",
@@ -1343,6 +1341,30 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Visa not required for a maximum stay of 180 days within 1 year for valid visa holders or residents of Canada, the European Union member states, Japan, or the United States[citation needed]"
+  },
+  "FM": {
+    "passport_country": "LB",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
+      "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days within 180 days",
+    "notes": "Valid for 30 days within 180 days[citation needed]\nExtensions of stay is possible up to a maximum stay of 60 days for a fee\nDeparture tax applies[citation needed]"
+  },
+  "MD": {
+    "passport_country": "LB",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
+      "https://en.wikipedia.org/wiki/Moldova",
+      "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "May Apply Online[citation needed]\nPrinted visa authorization must be presented at the time of travel[citation needed]\nRegistration with the local police upon is mandatory[citation needed]"
   },
   "MC": {
     "passport_country": "LB",
@@ -1557,12 +1579,13 @@
     "sources": [
       "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
       "https://en.wikipedia.org/wiki/Pakistan",
-      "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"
+      "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+      "https://en.wikipedia.org/wiki/Lebanon"
     ],
     "destination_country": "PK",
     "visa_requirement": "Electronic Visa",
     "allowed_stay": "",
-    "notes": "Obtainable online\nPrinted visa authorization must be presented at the time of travel\nElectronic Travel Authorization to obtain a visa on arrival for business purposes.\nVisa not required for holders of a Pakistan Origin Card (POC)[citation needed]\nVisa not required for holders of a National Identity Card for Overseas Pakistani (NICOP)[citation needed]\nVisa not required for holders of passports issued by the Republic of Lebanon containing a \"Visa exempt\" stamp issued by Pakistan[citation needed]\nVisa not required for passengers of Pakistani origin for a maximum stay of 72 hours provided they are travelling due to an emergency and have dual nationality with Pakistan and passports are appropriately endorsed[citation needed]"
+    "notes": "Obtainable online\nPrinted visa authorization must be presented at the time of travel\nElectronic Travel Authorization to obtain a visa on arrival for business purposes.\nVisa not required for holders of a Pakistan Origin Card (POC)[citation needed]\nVisa not required for holders of a National Identity Card for Overseas Pakistani (NICOP)[citation needed]\nVisa not required for holders of passports issued by the Republic of Lebanon containing a \"Visa exempt\" stamp issued by Pakistan[citation needed]\nVisa not required for passengers of Pakistani origin for a maximum stay of 72 hours provided they are travelling due to an emergency and have dual nationality with Pakistan and passports are appropriately endorsed[citation needed]\nVisa on arrival for indians holders of an approval from the immigration authorities at the intended post of arrival provided holding a recommendation letter from the Chamber of Commerce & Industries (CC&1) in the Republic of Lebanon or country or residence abroad, an invitation letter from a business organization recommended by the concered trade organization in Pakistan, or a recommendation letter by Investor Consular of Board of Investment posted at Pakistan diplomatic missions abroad"
   },
   "PW": {
     "passport_country": "LB",
@@ -1828,7 +1851,7 @@
     "destination_country": "SL",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Visa on arrival for holders holders of a confirmation from the immigration that a visa has been approved before departure[citation needed]\nInternational Certificate of Vaccination is required[citation needed]"
+    "notes": "Visa on arrival for holders of a confirmation from the immigration that a visa has been approved before departure[citation needed]\nInternational Certificate of Vaccination is required[citation needed]"
   },
   "SG": {
     "passport_country": "LB",
@@ -1939,7 +1962,7 @@
     "destination_country": "LK",
     "visa_requirement": "Electronic Visa / Visa on arrival",
     "allowed_stay": "30 days per trip",
-    "notes": "Valid for 30 days per trip[citation needed]\nElectronic Travel Authorization is obtainable online, at Sri Lanka diplomatic missions overseas, or on arrival at any port of entry in Sri Lanka[citation needed]\nObtainable online\nPrinted visa authorization must be presented at the time of travel\nExtensions of stay is possible up to a maximum stay of 150 days for a fee"
+    "notes": "Valid for 30 days per trip[citation needed]\nElectronic Travel Authorization is obtainable online, at Sri Lanka diplomatic missions abroad, or on arrival at any port of entry in Sri Lanka[citation needed]\nObtainable online\nPrinted visa authorization must be presented at the time of travel\nExtensions of stay is possible up to a maximum stay of 150 days for a fee"
   },
   "SD": {
     "passport_country": "LB",

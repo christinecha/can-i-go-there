@@ -1239,6 +1239,28 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "FM": {
+    "passport_country": "VG",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "VG",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
+  },
   "MC": {
     "passport_country": "VG",
     "sources": [
@@ -2096,7 +2118,7 @@
       "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_passport"
     ],
     "destination_country": "ZW",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": "Visa not required for holders of Anguillian passport, Caymanian passport, Montserratian passport, Turks and Caicos Islands passport."
   },

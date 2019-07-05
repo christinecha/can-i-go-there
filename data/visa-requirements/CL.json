@@ -566,8 +566,8 @@
     ],
     "destination_country": "EC",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "National ID card accepted\nChileans can live and work legally in Ecuador under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a citizen at birth or a naturalized citizen for over 5 years, and passing a background check."
+    "allowed_stay": "180 days",
+    "notes": "National ID card accepted\nChileans can live and work legally in Ecuador under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a citizen at birth or a naturalized citizen for over 5 years, and passing a background check.\nExtendable length of stay."
   },
   "EG": {
     "passport_country": "CL",
@@ -1184,8 +1184,7 @@
     ],
     "destination_country": "MV",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "30 days",
-    "notes": ""
+    "allowed_stay": ""
   },
   "ML": {
     "passport_country": "CL",
@@ -1254,6 +1253,28 @@
     "visa_requirement": "Visa not required",
     "allowed_stay": "180 days",
     "notes": ""
+  },
+  "FM": {
+    "passport_country": "CL",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chilean_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "CL",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chilean_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
   },
   "MC": {
     "passport_country": "CL",

@@ -1200,6 +1200,28 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "FM": {
+    "passport_country": "SY",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "SY",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Invitation letter holders may apply for a visa electronically."
+  },
   "MC": {
     "passport_country": "SY",
     "sources": [

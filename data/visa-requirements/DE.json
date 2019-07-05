@@ -1230,6 +1230,29 @@
     "allowed_stay": "180 days",
     "notes": ""
   },
+  "FM": {
+    "passport_country": "DE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
+  },
+  "MD": {
+    "passport_country": "DE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_German_citizens",
+      "https://en.wikipedia.org/wiki/Moldova",
+      "https://en.wikipedia.org/wiki/German_identity_card"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period\nID card valid"
+  },
   "MC": {
     "passport_country": "DE",
     "sources": [

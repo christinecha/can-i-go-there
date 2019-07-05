@@ -161,8 +161,8 @@
     ],
     "destination_country": "BY",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 days",
-    "notes": "90 days within any 180 day period\nAccording to Belarus law must register during 5 working days(except Sunday and public holidays)at the place of Migration Office.\nA migration card must be produced along with passport."
+    "allowed_stay": "",
+    "notes": ""
   },
   "BE": {
     "passport_country": "AZ",
@@ -1195,6 +1195,28 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "FM": {
+    "passport_country": "AZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Azerbaijani_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "AZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Azerbaijani_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
   },
   "MC": {
     "passport_country": "AZ",

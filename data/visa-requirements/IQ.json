@@ -1016,9 +1016,9 @@
       "https://en.wikipedia.org/wiki/Laos"
     ],
     "destination_country": "LA",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": "Visa on arrival if having invitation letter from Ministry of Foreign Affairs."
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
   },
   "LV": {
     "passport_country": "IQ",
@@ -1208,6 +1208,28 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Visa free for a maximum stay of 180 days for valid visa holders or residents of the Schengen Area member states, the United Kingdom, the United States, Canada and Japan."
+  },
+  "FM": {
+    "passport_country": "IQ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "IQ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Invitation letter holders may apply for a visa electronically."
   },
   "MC": {
     "passport_country": "IQ",
@@ -1788,8 +1810,8 @@
       "https://en.wikipedia.org/wiki/Tanzania"
     ],
     "destination_country": "TZ",
-    "visa_requirement": "eVisa / Visa on arrival",
-    "allowed_stay": "3 months",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
     "notes": ""
   },
   "TH": {

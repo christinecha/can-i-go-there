@@ -1212,6 +1212,28 @@
     "allowed_stay": "",
     "notes": "Visa not required for a max. stay of 90 days for holders of a valid multiple entry visa issued by the USA."
   },
+  "FM": {
+    "passport_country": "HT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "HT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Haitian_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "MC": {
     "passport_country": "HT",
     "sources": [

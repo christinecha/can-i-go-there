@@ -1221,6 +1221,28 @@
     "allowed_stay": "",
     "notes": "Permanent residents of Canada or of the United States (i.e., Green Card Holders), or holders of a valid Schengen visa or US visa do not require a visa."
   },
+  "FM": {
+    "passport_country": "PH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Philippine_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "PH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Philippine_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "MC": {
     "passport_country": "PH",
     "sources": [

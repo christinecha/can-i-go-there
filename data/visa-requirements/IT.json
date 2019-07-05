@@ -1228,6 +1228,28 @@
     "allowed_stay": "180 days",
     "notes": ""
   },
+  "FM": {
+    "passport_country": "IT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Italian_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
+  },
+  "MD": {
+    "passport_country": "IT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Italian_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
+  },
   "MC": {
     "passport_country": "IT",
     "sources": [
@@ -1543,12 +1565,13 @@
     "passport_country": "IT",
     "sources": [
       "https://en.wikipedia.org/wiki/Visa_requirements_for_Italian_citizens",
-      "https://en.wikipedia.org/wiki/Russia"
+      "https://en.wikipedia.org/wiki/Russia",
+      "https://en.wikipedia.org/wiki/Kaliningrad_Oblast"
     ],
     "destination_country": "RU",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "72-hours visa free visit when entering by regular ferry via port of St. Petersburg, provided that a passenger spends the night on-board or in accommodation specifically approved by the travel agency."
+    "notes": "72-hours visa free visit when entering by regular ferry via port of St. Petersburg, provided that a passenger spends the night on-board or in accommodation specifically approved by the travel agency.\nItalian citizens are eligible for eVisas to Kaliningrad Oblast for 8 days."
   },
   "RW": {
     "passport_country": "IT",

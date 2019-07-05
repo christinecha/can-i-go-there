@@ -1247,6 +1247,28 @@
     "allowed_stay": "",
     "notes": "Visa requirement is waived for valid US, Canada, Japan, UK or Schengen visa holders."
   },
+  "FM": {
+    "passport_country": "ID",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "ID",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
   "MC": {
     "passport_country": "ID",
     "sources": [
@@ -1558,7 +1580,7 @@
     "destination_country": "RU",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "72-hour visa-free visit to St Petersburg, if travelling using St. Peter Line."
+    "notes": "72-hour visa-free visit to St Petersburg, if travelling using St. Peter Line.\nThe new e-visa system for foreigners visiting Kaliningrad will be introduced on July 1, adding that citizens of 53 countries will be eligible."
   },
   "RW": {
     "passport_country": "ID",
@@ -1648,7 +1670,7 @@
       "https://en.wikipedia.org/wiki/International_Certificate_of_Vaccination"
     ],
     "destination_country": "SN",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "International Certificate of Vaccination required."
   },

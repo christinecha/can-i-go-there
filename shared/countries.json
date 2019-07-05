@@ -686,27 +686,30 @@
   {
     "name": "Luxembourg", 
     "code": "LU",
-    "wikipediaSource": ""
+    "colors": ["#ed2839", "#00a1de"],
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Luxembourgish_citizens"
   },
   {
     "name": "Macao", 
+    "aliases": ["Macau"],
     "code": "MO",
-    "wikipediaSource": ""
+    "noPassport": true,
   },
   {
-    "name": "Macedonia, The Former Yugoslav Republic of", 
+    "name": "Macedonia", 
+    "aliases": ["North Macedonia"],
     "code": "MK",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_citizens_of_North_Macedonia"
   },
   {
     "name": "Madagascar", 
     "code": "MG",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malagasy_citizens"
   },
   {
     "name": "Malawi", 
     "code": "MW",
-    "wikipediaSource": ""
+    "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Malawian_citizens"
   },
   {
     "name": "Malaysia", 

@@ -458,7 +458,7 @@
     ],
     "destination_country": "CU",
     "visa_requirement": "Tourist card required",
-    "allowed_stay": "",
+    "allowed_stay": "30 days",
     "notes": "Tourist card must be obtained in advance via travel agency, airline or at the embassy."
   },
   "CY": {
@@ -669,8 +669,8 @@
     ],
     "destination_country": "GE",
     "visa_requirement": "eVisa",
-    "allowed_stay": "",
-    "notes": ""
+    "allowed_stay": "30 days",
+    "notes": "30 days within any 120 days period"
   },
   "DE": {
     "passport_country": "ZM",
@@ -1190,6 +1190,28 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "FM": {
+    "passport_country": "ZM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Zambian_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "ZM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Zambian_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "MC": {
     "passport_country": "ZM",
     "sources": [
@@ -1406,8 +1428,8 @@
       "https://en.wikipedia.org/wiki/Papua_New_Guinea"
     ],
     "destination_country": "PG",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "Easy Visitor Permit",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "PY": {

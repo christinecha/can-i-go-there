@@ -1235,6 +1235,28 @@
     "allowed_stay": "",
     "notes": "National visa may be substituted with a valid visa or permanent residence documents issued by the US, Canada, Japan, UK or Schengen Area member state to enter Mexico for tourism, transit, or business purposes."
   },
+  "FM": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid ('C' or 'D') visa or a valid residence permit issued by a Schengen Area or European Union member state for visits up to 90 days.\nIndian citizens can apply for a visa online without a need for an invitation letter."
+  },
   "MC": {
     "passport_country": "IN",
     "sources": [
@@ -1464,7 +1486,7 @@
       "https://en.wikipedia.org/wiki/Papua_New_Guinea"
     ],
     "destination_country": "PG",
-    "visa_requirement": "Visa required",
+    "visa_requirement": "eVisa",
     "allowed_stay": "",
     "notes": ""
   },
@@ -1557,12 +1579,13 @@
       "https://en.wikipedia.org/wiki/Primorskiy_Krai",
       "https://en.wikipedia.org/wiki/Sakhalin_Oblast",
       "https://en.wikipedia.org/wiki/Russian_Far_East",
-      "https://en.wikipedia.org/wiki/Saint_Petersburg"
+      "https://en.wikipedia.org/wiki/Saint_Petersburg",
+      "https://en.wikipedia.org/wiki/Kaliningrad_Oblast"
     ],
     "destination_country": "RU",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "eVisa for up to 8 days for Amur Oblast, Chukotka, Kamchatka, Khabarovsk Krai, Primorye and Sakhalin regions of the Russian Far East for tourism, business and humanitarian purposes. Available at 6 airports, 5 seaports, some railway and road entry points.\nVisa not required if visiting Saint Petersburg for up to 72 hours via ferry from Finland."
+    "notes": "eVisa for up to 8 days for Amur Oblast, Chukotka, Kamchatka, Khabarovsk Krai, Primorye and Sakhalin regions of the Russian Far East for tourism, business and humanitarian purposes. Available at 6 airports, 5 seaports, some railway and road entry points.\nVisa not required if visiting Saint Petersburg for up to 72 hours via ferry from Finland.\nIndian citizens are eligible for eVisa access to Kaliningrad Oblast for up to 8 days."
   },
   "RW": {
     "passport_country": "IN",

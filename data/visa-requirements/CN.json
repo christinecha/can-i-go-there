@@ -837,8 +837,8 @@
     ],
     "destination_country": "IR",
     "visa_requirement": "Visa on arrival",
-    "allowed_stay": "3 months",
-    "notes": ""
+    "allowed_stay": "",
+    "notes": "The Iranian authorities decided to lift the visa requirement for Chinese nationals on June 2019. However, the decision is not finalized yet."
   },
   "IQ": {
     "passport_country": "CN",
@@ -974,12 +974,13 @@
       "https://en.wikipedia.org/wiki/Busan",
       "https://en.wikipedia.org/wiki/Cheongju",
       "https://en.wikipedia.org/wiki/Muan",
-      "https://en.wikipedia.org/wiki/Yangyang"
+      "https://en.wikipedia.org/wiki/Yangyang",
+      "https://en.wikipedia.org/wiki/Lawful_permanent_residents_(United_States)"
     ],
     "destination_country": "KR",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Visa is not required for visits to Jeju Island for up to 30 days. If travelling by air to Jeju Island via Seoul, Busan, Cheongju, Muan and Yangyang, Chinese citizens travelling as part of a tourist group by authorized travel agent may stay in mainland South Korea for up to 15 days.\nConditional visa free (15 days) from 1 December 2017 to 31 March 2018 if the Chinese nationals had applied tourist visa within five years, or hold public affairs passport. Landing permit for cruise passenger can be issued not only to group tourist but also to individual tourist from 1 Jan 2018\nVisa is not required for holders of US green cards when in transit to/from US and a third country for a stay of 30 days."
+    "notes": "Visa is not required for visits to Jeju Island for up to 30 days. If travelling by air to Jeju Island via Seoul, Busan, Cheongju, Muan and Yangyang, Chinese citizens travelling as part of a tourist group by authorized travel agent may stay in mainland South Korea for up to 15 days.\nConditional visa free (15 days) from 1 December 2017 to 31 March 2018 if the Chinese nationals had applied tourist visa within five years, or hold public affairs passport. Landing permit for cruise passenger can be issued not only to group tourist but also to individual tourist from 1 Jan 2018\nVisa is not required for U.S Green card holders when in transit to/from US and a third country for a stay of 30 days."
   },
   "KW": {
     "passport_country": "CN",
@@ -1222,6 +1223,28 @@
     "allowed_stay": "",
     "notes": "National visa may be substituted with a valid visa issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state. Also visa is not required for cruise ship passengers."
   },
+  "FM": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "e-Visa",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid visa issued by a Schengen Area member state for visits up to 90 days. *Holders of passports for public affairs do not require a visa.\nChinese citizens can apply for a visa online without a need for an invitation letter."
+  },
   "MC": {
     "passport_country": "CN",
     "sources": [
@@ -1328,7 +1351,7 @@
       "https://en.wikipedia.org/wiki/Nepal"
     ],
     "destination_country": "NP",
-    "visa_requirement": "Free visa on arrival",
+    "visa_requirement": "Visa on arrival",
     "allowed_stay": "",
     "notes": "Visa is issued free of charge for tourists."
   },
@@ -1450,8 +1473,8 @@
       "https://en.wikipedia.org/wiki/Papua_New_Guinea"
     ],
     "destination_country": "PG",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
     "notes": "Holders of passports for public affairs can obtain visa on arrival at Port Moresby airport valid for up to 30 days."
   },
   "PY": {
@@ -1542,12 +1565,13 @@
       "https://en.wikipedia.org/wiki/Khabarovsk_Krai",
       "https://en.wikipedia.org/wiki/Primorskiy_Krai",
       "https://en.wikipedia.org/wiki/Sakhalin_Oblast",
-      "https://en.wikipedia.org/wiki/Russian_Far_East"
+      "https://en.wikipedia.org/wiki/Russian_Far_East",
+      "https://en.wikipedia.org/wiki/Kaliningrad_Oblast"
     ],
     "destination_country": "RU",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Visa free for a maximum stay of 15 days for visitors travelling as part of a tour group (5 to 50 persons), accompanied by a representative of a tour operator accredited in both Russia and China.\neVisa for up to 8 days for Amur Oblast, Chukotka, Kamchatka, Khabarovsk Krai, Primorye and Sakhalin regions of the Russian Far East for tourism, business and humanitarian purposes. Available at 6 airports, 5 seaports, some railway and road entry points.\nA visa-free travel arrangement is expected to be signed soon, although date unknown."
+    "notes": "Visa free for a maximum stay of 15 days for visitors travelling as part of a tour group (5 to 50 persons), accompanied by a representative of a tour operator accredited in both Russia and China.\neVisa for up to 8 days for Amur Oblast, Chukotka, Kamchatka, Khabarovsk Krai, Primorye and Sakhalin regions of the Russian Far East for tourism, business and humanitarian purposes. Available at 6 airports, 5 seaports, some railway and road entry points.\nA visa-free travel arrangement is expected to be signed soon, although date unknown.\nChinese citizens are eligible for eVisas to Kaliningrad Oblast for up to 8 days."
   },
   "RW": {
     "passport_country": "CN",
@@ -1557,7 +1581,8 @@
     ],
     "destination_country": "RW",
     "visa_requirement": "eVisa / Visa on arrival",
-    "allowed_stay": ""
+    "allowed_stay": "",
+    "notes": ""
   },
   "KN": {
     "passport_country": "CN",

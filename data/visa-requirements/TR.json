@@ -1205,6 +1205,29 @@
     "allowed_stay": "30 days",
     "notes": "180 days visa free if holding a valid visa for Canada, Japan, USA, United Kingdom or a Schengen Member State."
   },
+  "FM": {
+    "passport_country": "TR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
+  "MD": {
+    "passport_country": "TR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
+      "https://en.wikipedia.org/wiki/Moldova",
+      "https://en.wikipedia.org/wiki/ID_card"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period\nID card valid"
+  },
   "MC": {
     "passport_country": "TR",
     "sources": [

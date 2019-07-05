@@ -8,7 +8,7 @@
     "destination_country": "AF",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Due to safety concerns, Russian government advises its citizens not to visit Afghanistan."
   },
   "AL": {
     "passport_country": "RU",
@@ -706,7 +706,7 @@
     "destination_country": "GE",
     "visa_requirement": "Visa not required",
     "allowed_stay": "1 year",
-    "notes": ""
+    "notes": "Due to absence of Russian diplomatic representation in the country, Russian government advises its citizens not to visit Georgia."
   },
   "DE": {
     "passport_country": "RU",
@@ -889,7 +889,7 @@
     "destination_country": "IQ",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Due to safety concerns, Russian government advises its citizens not to visit Iraq."
   },
   "IE": {
     "passport_country": "RU",
@@ -1238,6 +1238,28 @@
     "visa_requirement": "Electronic Authorization",
     "allowed_stay": "180 days",
     "notes": "Electronic permit gives the right to enter the country only by air.\n180 days for valid Canada, Japan, USA, United Kingdom or a Schengen Member State visa holders."
+  },
+  "FM": {
+    "passport_country": "RU",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
+      "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+    ],
+    "destination_country": "FM",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": "Extension of stay is possible."
+  },
+  "MD": {
+    "passport_country": "RU",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
+      "https://en.wikipedia.org/wiki/Moldova"
+    ],
+    "destination_country": "MD",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180-day period"
   },
   "MC": {
     "passport_country": "RU",
@@ -2037,7 +2059,7 @@
     "destination_country": "YE",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": ""
+    "notes": "Due to safety concerns, Russian government advises its citizens not to visit Yemen."
   },
   "ZM": {
     "passport_country": "RU",
