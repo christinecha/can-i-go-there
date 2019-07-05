@@ -26,6 +26,15 @@ const shared = {
     filename: 'scripts/[name]',
     chunkFilename: 'scripts/[name]',
   },
+  module: {
+    rules: [
+      {
+        test: /\.js?$/,
+        loaders: ['babel-loader'],
+        exclude: /node_modules/,
+      },
+    ]
+  }
 }
 
 const production = {

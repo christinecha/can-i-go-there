@@ -693,7 +693,7 @@
     "name": "Macao", 
     "aliases": ["Macau"],
     "code": "MO",
-    "noPassport": true,
+    "noPassport": true
   },
   {
     "name": "Macedonia", 
