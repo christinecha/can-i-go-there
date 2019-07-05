@@ -15,18 +15,32 @@ const getJSONFiles = () => {
   }, {});
 }
 
-module.exports = {
+const shared = {
   entry: {
     'index.js': './client/src/index.js',
     ...getJSONFiles()
   },
-  mode: 'development',
   output: {
     path: path.resolve(PUBLIC_DIR),
     publicPath: '/',
     filename: 'scripts/[name]',
     chunkFilename: 'scripts/[name]',
   },
+}
+
+const production = {
+  ...shared,
+  mode: 'production',
+  plugins: [
+    ...pages.map(page => (
+      new HtmlWebpackPlugin(page)
+    )),
+  ],
+}
+
+const development = {
+  ...shared,
+  mode: 'development',
   devServer: {
     port: 8000,
     proxy: {
@@ -41,8 +55,14 @@ module.exports = {
     }
   },
   plugins: [
-    ...pages.map(page => (
+    ...pages
+    .filter((p, i) => i < 10)
+    .map(page => (
       new HtmlWebpackPlugin(page)
     )),
   ],
 }
+
+module.exports = process.env.NODE_ENV === 'production'
+  ? production
+  : development

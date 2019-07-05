@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack && sass ./client/styles/index.scss ./public/styles/index.css",
-    "dev": "webpack-dev-server & sass ./client/styles/index.scss ./public/styles/index.css --watch",
+    "build": "NODE_ENV=production webpack && sass ./client/styles/index.scss ./public/styles/index.css",
+    "dev": "NODE_ENV=development webpack && webpack-dev-server & sass ./client/styles/index.scss ./public/styles/index.css --watch",
     "scrape:all": "node ./shared/visa-requirements/trigger-all.js",
     "scrape:one": "node ./shared/visa-requirements/trigger-one.js"
   },
