@@ -9,9 +9,9 @@ const countries = require('./shared/countries.json')
 const shared = {
   template: './template.ejs',
   meta: {
-    description: 'Check the visa requirements for your passport to any destination country.',
+    description: 'Do I need a visa to travel? Check the visa requirements for your passport to any destination country.',
     'og:title': 'Can I Go There?',
-    'og:description': 'Check the visa requirements for your passport to any destination country.',
+    'og:description': 'Do I need a visa to travel? Check the visa requirements for your passport to any destination country.',
     'og:image': 'https://can-i-go-there.com/assets/preview.jpeg',
     'og:url': 'https://can-i-go-there.com',
     'twitter:card': 'summary_large_image',
@@ -53,8 +53,8 @@ const pages = [
         filename: `${passport.code.toLowerCase()}.html`,
         meta: {
           ...shared.meta,
-          description: `Visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
-          'og:description': `Can I go there? Check out the visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
+          description: `Do I need a visa to travel?  Check out the visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
+          'og:description': `Do I need a visa to travel? Check out the visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
           'og:title': `Can I Go There? Visa Requirements for Citizens of ${passport.name}`,
         },
       }
