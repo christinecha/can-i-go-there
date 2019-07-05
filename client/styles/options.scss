@@ -149,3 +149,13 @@ main[data-destination-selected="true"] {
     color: rgba(255,255,255,0.8);
   }
 }
+
+#seo-content {
+  color: white;
+  margin-bottom: 20px;
+  max-width: 300px;
+
+  @media (max-width: 767px) {
+    display: none;
+  }
+}

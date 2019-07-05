@@ -35,7 +35,6 @@ const App = () => {
 
       if (window.INITIAL_PASSPORT) {
         const country = this.COUNTRIES_BY_CODE[window.INITIAL_PASSPORT]
-        console.log(country)
         this.onCountrySelect(country)
       }
       
