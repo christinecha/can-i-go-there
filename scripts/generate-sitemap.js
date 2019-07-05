@@ -11,7 +11,7 @@ const URLS = [
 pages.forEach((page) => {
   const slug = page.filename.split('.html')[0]
   if (slug === 'index') return
-  URLS.push(`https:/can-i-go-there.com/${slug}`)
+  URLS.push(`https://can-i-go-there.com/${slug}`)
 })
 
 fs.writeFileSync(SITEMAP_FILEPATH, URLS.join('\n'))
