@@ -16,6 +16,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.3",
+    "core-js": "^2.6.9",
     "fs-extra": "^8.0.1",
     "jsonfile": "^5.0.0"
   },
