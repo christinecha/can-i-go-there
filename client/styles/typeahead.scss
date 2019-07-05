@@ -91,6 +91,10 @@ $option-font-size: 20px;
   color: rgba(255,255,255,0.4);
   font-size: $option-font-size;
 
+  &[data-is-active="true"] {
+    display: block;
+  }
+
   @media (max-width: 767px) {
     padding: 3px 0;
   }
@@ -99,10 +103,6 @@ $option-font-size: 20px;
     &:hover,
     &[data-is-preselected="true"] {
       color: rgba(255,255,255,1);
-    }
-  
-    &[data-is-active="true"] {
-      display: block;
     }
   }
 }

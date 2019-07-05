@@ -18,7 +18,7 @@ const App = () => {
 
     state: {
       typeaheadValue: '',
-      passport: window.INITIAL_PASSPORT || '',
+      passport: '',
       destination: '',
       preselect: 0,
     },
@@ -32,6 +32,11 @@ const App = () => {
       this.initDOM()
       this.render()
       this.refs.typeahead.focus()
+
+      if (window.INITIAL_PASSPORT) {
+        const country = this.COUNTRIES_BY_CODE[window.INITIAL_PASSPORT]
+        this.onCountrySelect(country)
+      }
       
       document.addEventListener('keydown', this.onDocumentKeyDown.bind(this))
       this.refs.typeahead.addEventListener('keyup', this.onInput.bind(this))

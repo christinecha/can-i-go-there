@@ -30,7 +30,11 @@ module.exports = {
   devServer: {
     port: 8000,
     proxy: {
-      '*': {
+      '/styles/*': {
+        target: 'http://localhost:8000/public',
+        secure: false
+      },
+      '/scripts/*': {
         target: 'http://localhost:8000/public',
         secure: false
       }
