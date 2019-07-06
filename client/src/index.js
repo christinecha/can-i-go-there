@@ -1,4 +1,5 @@
 import countriesJSON from '../../shared/countries.json'
+import flagsJSON from '../../shared/flags.json'
 import initDOM from './initDOM'
 import render from './render'
 import onCountrySelect from './onCountrySelect'
@@ -14,6 +15,7 @@ const App = () => {
   return {
     COUNTRIES_BY_CODE, 
     AVAILABLE_PASSPORTS,
+    FLAGS_BY_CODE: flagsJSON,
     REQUIREMENTS_CACHE: {},
 
     state: {
@@ -44,6 +46,15 @@ const App = () => {
       document.addEventListener('keyup', (e) => {
         const activeOptions = this.refs.options.filter(o => o.dataset.isActive === "true")
 
+        // ESC
+        if (e.keyCode === 27) {
+          this.setState({ 
+            passport: '',
+            destination: '',
+          })
+          return
+        }
+
         // ENTER
         if (e.keyCode === 13) {
           const option = activeOptions[this.state.preselect]
@@ -73,7 +84,8 @@ const App = () => {
       })
 
       this.refs.options.forEach($option => {
-        $option.addEventListener('click', () => {
+        $option.addEventListener('click', (e) => {
+          e.preventDefault()
           const countryCode = $option.dataset.countryCode
           const country = this.COUNTRIES_BY_CODE[countryCode] || {}
 

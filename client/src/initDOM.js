@@ -23,11 +23,12 @@ function initDOM () {
   }
 
   const createOption = (country = {}) => {
-    const opt = document.createElement('DIV')
+    const opt = document.createElement('A')
     opt.classList.add('option')
     opt.innerHTML = country.name
     opt.dataset.country = country.name.toLowerCase()
     opt.dataset.countryCode = country.code
+    opt.href = `/${country.code.toLowerCase()}`
     return opt
   }
 

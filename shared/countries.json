@@ -1405,6 +1405,7 @@
   {
     "name": "New Zealand",
     "code": "NZ",
+    "colors": ["#001f7e", "#cd0c27"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_New_Zealand_citizens",
     "adjectiveForm": "New Zealand"
   },

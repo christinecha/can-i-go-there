@@ -91,6 +91,7 @@ $option-font-size: 20px;
   color: rgba(255,255,255,0.4);
   font-size: $option-font-size;
   min-height: 1.7em;
+  text-decoration: none;
 
   &[data-is-active="true"] {
     display: block;

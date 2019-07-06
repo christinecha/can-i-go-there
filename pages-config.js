@@ -8,7 +8,7 @@ const countries = require('./shared/countries.json')
 
 const shared = {
   template: './template.ejs',
-  seoContent: ' Do I need a visa? Check the visa requirements for any passport going to any destination\u00A0country.',
+  seoContent: 'Check the visa requirements for citizens of any passport traveling anywhere in the\u00A0world.',
   meta: {
     description: 'Do I need a visa to travel? Check the visa requirements for your passport to any destination country.',
     'og:title': 'Can I Go There?',
@@ -49,7 +49,7 @@ const pages = [
     .map(passport => {
       const adjectiveForm = passport.adjectiveForm || passport.name
 
-      const seoContent = `Do I need a visa? Can I use an eVisa? Check out all the visa requirements for ${adjectiveForm} citizens traveling anywhere in the\u00A0world.`
+      const seoContent = `Check out all the visa requirements for ${adjectiveForm} citizens traveling anywhere in the\u00A0world.`
 
       return {
         ...shared,
