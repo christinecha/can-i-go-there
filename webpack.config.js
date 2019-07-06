@@ -60,6 +60,10 @@ const development = {
       '/scripts/*': {
         target: 'http://localhost:8000/public',
         secure: false
+      },
+      '/assets/*': {
+        target: 'http://localhost:8000/assets',
+        secure: false
       }
     }
   },

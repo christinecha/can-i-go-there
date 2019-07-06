@@ -13,7 +13,7 @@ const shared = {
     description: 'Do I need a visa to travel? Check the visa requirements for your passport to any destination country.',
     'og:title': 'Can I Go There?',
     'og:description': 'Do I need a visa to travel? Check the visa requirements for your passport to any destination country.',
-    'og:image': 'https://can-i-go-there.com/assets/preview.jpeg',
+    'og:image': 'https://can-i-go-there.com/assets/us-fr-preview.jpg',
     'og:url': 'https://can-i-go-there.com',
     'twitter:card': 'summary_large_image',
   },
