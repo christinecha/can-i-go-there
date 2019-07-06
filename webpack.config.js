@@ -65,7 +65,7 @@ const development = {
   },
   plugins: [
     ...pages
-    .filter((p, i) => i < 10)
+    .filter((p, i) => i < 2)
     .map(page => (
       new HtmlWebpackPlugin(page)
     )),

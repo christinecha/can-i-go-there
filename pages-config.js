@@ -8,6 +8,7 @@ const countries = require('./shared/countries.json')
 
 const shared = {
   template: './template.ejs',
+  seoContent: ' Do I need a visa? Check the visa requirements for any passport going to any destination\u00A0country.',
   meta: {
     description: 'Do I need a visa to travel? Check the visa requirements for your passport to any destination country.',
     'og:title': 'Can I Go There?',
@@ -51,9 +52,10 @@ const pages = [
         title: `Visa Requirements: Citizens of ${passport.name}`,
         INITIAL_PASSPORT: passport.code,
         filename: `${passport.code.toLowerCase()}.html`,
+        seoContent: `Do I need a visa? Can I use an eVisa? Check out all the visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
         meta: {
           ...shared.meta,
-          description: `Do I need a visa to travel?  Check out the visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
+          description: `Do I need a visa to travel? Check out the visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
           'og:description': `Do I need a visa to travel? Check out the visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
           'og:title': `Can I Go There? Visa Requirements for Citizens of ${passport.name}`,
         },
