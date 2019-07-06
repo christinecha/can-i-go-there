@@ -52,7 +52,7 @@ const pages = [
         title: `Visa Requirements: Citizens of ${passport.name}`,
         INITIAL_PASSPORT: passport.code,
         filename: `${passport.code.toLowerCase()}.html`,
-        seoContent: `Do I need a visa? Can I use an eVisa? Check out all the visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
+        seoContent: `Do I need a visa? Can I use an eVisa? Check out all the visa requirements for citizens of ${passport.name} traveling anywhere in the\u00A0world.`,
         meta: {
           ...shared.meta,
           description: `Do I need a visa to travel? Check out the visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
