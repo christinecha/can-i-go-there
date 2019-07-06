@@ -1094,6 +1094,17 @@
     "allowed_stay": "",
     "notes": "Pre-arranged visa can be picked up on arrival."
   },
+  "LY": {
+    "passport_country": "RU",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Due to safety concerns, Russian government advises its citizens not to visit Libya."
+  },
   "LI": {
     "passport_country": "RU",
     "sources": [
@@ -1430,6 +1441,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "May apply online.\nPre-arranged visa can be picked up on arrival."
+  },
+  "MK": {
+    "passport_country": "RU",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 6-month period\nWithout a voucher and an invitation/letter of guarantee until 15 March 2020."
   },
   "NO": {
     "passport_country": "RU",

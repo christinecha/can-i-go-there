@@ -1065,6 +1065,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "GE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "GE",
     "sources": [
@@ -1399,6 +1410,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "GE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Georgian_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa not required for holders of normal Georgian passports endorsed \"Business\" or travelling as a tourist either individually with \"vouchers\" or in a travel group organised by travel agencies."
   },
   "NO": {
     "passport_country": "GE",

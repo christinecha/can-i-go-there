@@ -1069,6 +1069,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "LI",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LT": {
     "passport_country": "LI",
     "sources": [
@@ -1391,6 +1402,18 @@
     "visa_requirement": "eVisa",
     "allowed_stay": "30 days",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "LI",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Liechtenstein_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia",
+      "https://en.wikipedia.org/wiki/Liechtenstein_identity_card"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "ID card valid"
   },
   "NO": {
     "passport_country": "LI",

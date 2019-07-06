@@ -1064,6 +1064,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "NG",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "NG",
     "sources": [
@@ -1093,6 +1104,17 @@
       "https://en.wikipedia.org/wiki/Luxembourg"
     ],
     "destination_country": "LU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MK": {
+    "passport_country": "NG",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Nigerian_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Macedonia"
+    ],
+    "destination_country": "MK",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
@@ -1358,8 +1380,8 @@
       "https://en.wikipedia.org/wiki/Nicaragua"
     ],
     "destination_country": "NI",
-    "visa_requirement": "Visa on arrival",
-    "allowed_stay": "30 days",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
     "notes": ""
   },
   "NE": {

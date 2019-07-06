@@ -46,13 +46,23 @@ const storeCountryData =  country => {
   })
 }
 
+const missingColors = []
+const missingSource = []
+
 countriesJSON.forEach((country, i) => {
+  if (
+    !country.destinationMirror
+    && (!country.colors || country.colors.length < 1)
+  ) {
+    missingColors.push(country.code)
+  }
+
   if (country.noPassport) {
     return
   }
-
+  
   if (!country.wikipediaSource) {
-    console.log('Missing wikipedia source for:', country.code, country.name)
+    missingSource.push(country.code)
     return
   }
 
@@ -63,3 +73,13 @@ countriesJSON.forEach((country, i) => {
 
   storeCountryData(country)
 })
+
+if (missingColors.length) {
+  console.log('--------------')
+  console.log(`Missing colors for [${missingColors.length}] countries:\n${missingColors.join(', ')}`)
+}
+
+if (missingSource.length) {
+  console.log('--------------')
+  console.log(`Missing source for [${missingSource.length}] countries:\n${missingSource.join(', ')}`)
+}

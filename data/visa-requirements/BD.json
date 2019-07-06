@@ -1065,6 +1065,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "BD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Admission refused",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "BD",
     "sources": [
@@ -1395,6 +1406,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "BD",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Bangladeshi_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Approval from the Ministry of Interior required."
   },
   "NO": {
     "passport_country": "BD",

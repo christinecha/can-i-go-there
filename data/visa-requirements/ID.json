@@ -1097,6 +1097,17 @@
     "allowed_stay": "",
     "notes": "International Certificate of Vaccination required."
   },
+  "LY": {
+    "passport_country": "ID",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "As of March 2015, due to safety concerns, Indonesian government advises its citizens not to visit Libya."
+  },
   "LI": {
     "passport_country": "ID",
     "sources": [
@@ -1424,6 +1435,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "International Certificate of Vaccination required."
+  },
+  "MK": {
+    "passport_country": "ID",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
   },
   "NO": {
     "passport_country": "ID",

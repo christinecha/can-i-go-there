@@ -945,7 +945,7 @@
     "destination_country": "JO",
     "visa_requirement": "Visa not required",
     "allowed_stay": "",
-    "notes": "Conditions apply.\nBorder crossing prohibited via King Hussein/Allenby Bridge crossing.\nUp to 2 days visa free entry from Yitzhak Rabin Crossing / Wadi Araba Crossing.\n30 days visa free entry upon arrival from Jordan River Crossing and Queen Alia International Airport."
+    "notes": "Conditions apply.\nBorder crossing prohibited via King Hussein/Allenby Bridge crossing.\nUp to 2 days visa free entry from Yitzhak Rabin Crossing / Wadi Araba Crossing.\n30 days visa free entry upon arrival from Jordan River Crossing and Queen Alia International Airport.\nVisitors going through the Jordan River Crossing staying less than 3 days will have to pay a 40JD visa fee, otherwise the fee is 10JD."
   },
   "KZ": {
     "passport_country": "IL",
@@ -1101,6 +1101,18 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "LY": {
+    "passport_country": "IL",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens",
+      "https://en.wikipedia.org/wiki/Libya",
+      "https://en.wikipedia.org/wiki/Arab_League_boycott_of_Israel"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Admission refused",
+    "allowed_stay": "",
+    "notes": "Part of the Arab League boycott of Israel."
   },
   "LI": {
     "passport_country": "IL",
@@ -1437,6 +1449,17 @@
     "destination_country": "NG",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
+    "notes": ""
+  },
+  "MK": {
+    "passport_country": "IL",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "NO": {

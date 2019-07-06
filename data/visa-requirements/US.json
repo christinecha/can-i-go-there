@@ -1158,6 +1158,17 @@
     "allowed_stay": "",
     "notes": "International Certificate of Vaccination required."
   },
+  "LY": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visitors travelling to Libya for touristic purposes are required to convert USD 1,000 or equivalent on arrival.\nHolders of passports bearing an Israeli visa or entry/exit stamps from Israel are not allowed to enter Libya."
+  },
   "LI": {
     "passport_country": "US",
     "sources": [
@@ -1505,6 +1516,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "US",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_United_States_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "Registration with the local police within 24 hours of arrival is mandatory"
   },
   "NO": {
     "passport_country": "US",

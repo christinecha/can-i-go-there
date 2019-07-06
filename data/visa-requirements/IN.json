@@ -1092,6 +1092,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "IN",
     "sources": [
@@ -1422,6 +1433,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "IN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid double or multi entry C visa issued by a  British, Canadian or U.S. visa or Schengen Area member state for max stay of 15 days. Need onward tickets."
   },
   "NO": {
     "passport_country": "IN",

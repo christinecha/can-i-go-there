@@ -1058,6 +1058,17 @@
     "allowed_stay": "",
     "notes": "Pre-arranged visa on arrival is available."
   },
+  "LY": {
+    "passport_country": "DO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "DO",
     "sources": [
@@ -1090,6 +1101,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "DO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Dominican_Republic_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "No visa required for holders of a multiple entry Schengen visa."
   },
   "MG": {
     "passport_country": "DO",
@@ -1752,7 +1774,7 @@
     "destination_country": "SR",
     "visa_requirement": "eVisa / Tourist card on arrival",
     "allowed_stay": "90 days",
-    "notes": "Single entry tourist card valid for up to 90 days may be obtained online, on arrival at the airport or in any Surinamese representation abroad.\nMultiple entry eVisa is also avaible."
+    "notes": "Single entry tourist card valid for up to 90 days may be obtained online, on arrival at the airport or in any Surinamese representation abroad.\nMultiple entry eVisa is also available."
   },
   "SE": {
     "passport_country": "DO",

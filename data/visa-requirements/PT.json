@@ -1109,6 +1109,17 @@
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival."
   },
+  "LY": {
+    "passport_country": "PT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Portuguese_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Pre-approved visa can be picked up on arrival."
+  },
   "LI": {
     "passport_country": "PT",
     "sources": [
@@ -1448,6 +1459,18 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival."
+  },
+  "MK": {
+    "passport_country": "PT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Portuguese_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia",
+      "https://en.wikipedia.org/wiki/Citizen_Card_(Portugal)"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "CC valid"
   },
   "NO": {
     "passport_country": "PT",

@@ -1089,6 +1089,18 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "KR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Korean_citizens",
+      "https://en.wikipedia.org/wiki/Libya",
+      "https://en.wikipedia.org/wiki/ISIL"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Travel banned",
+    "allowed_stay": "",
+    "notes": "As of 2014, due to threats by ISIL, South Korean government bans its citizens from visiting Libya."
+  },
   "LI": {
     "passport_country": "KR",
     "sources": [
@@ -1419,6 +1431,17 @@
     "destination_country": "NG",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
+    "notes": ""
+  },
+  "MK": {
+    "passport_country": "KR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_South_Korean_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "NO": {

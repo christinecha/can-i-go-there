@@ -608,13 +608,12 @@
     "passport_country": "SY",
     "sources": [
       "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens",
-      "https://en.wikipedia.org/wiki/Ethiopia",
-      "https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport"
+      "https://en.wikipedia.org/wiki/Ethiopia"
     ],
     "destination_country": "ET",
-    "visa_requirement": "eVisa",
-    "allowed_stay": "up to 90 days",
-    "notes": "eVisa holders must arrive via Addis Ababa Bole International Airport"
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
   },
   "FJ": {
     "passport_country": "SY",
@@ -1057,6 +1056,17 @@
     "allowed_stay": "",
     "notes": "Pre-arranged visa can be picked up on arrival"
   },
+  "LY": {
+    "passport_country": "SY",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Admission refused",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "SY",
     "sources": [
@@ -1086,6 +1096,17 @@
       "https://en.wikipedia.org/wiki/Luxembourg"
     ],
     "destination_country": "LU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MK": {
+    "passport_country": "SY",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Macedonia"
+    ],
+    "destination_country": "MK",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""

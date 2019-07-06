@@ -1065,6 +1065,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "MA",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "MA",
     "sources": [
@@ -1382,6 +1393,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "MA",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa free for a maximum stay of 15 days for valid visa holders of the Schengen Area member states."
   },
   "NO": {
     "passport_country": "MA",

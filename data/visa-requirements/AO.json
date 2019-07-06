@@ -1039,6 +1039,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "AO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "AO",
     "sources": [
@@ -1355,6 +1366,17 @@
       "https://en.wikipedia.org/wiki/Nigeria"
     ],
     "destination_country": "NG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MK": {
+    "passport_country": "AO",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Angolan_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""

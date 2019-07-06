@@ -1084,6 +1084,17 @@
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival."
   },
+  "LY": {
+    "passport_country": "EE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Estonian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Pre-approved visa can be picked up on arrival."
+  },
   "LI": {
     "passport_country": "EE",
     "sources": [
@@ -1418,6 +1429,18 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival."
+  },
+  "MK": {
+    "passport_country": "EE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Estonian_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia",
+      "https://en.wikipedia.org/wiki/Estonian_identity_card"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "ID card valid"
   },
   "NO": {
     "passport_country": "EE",

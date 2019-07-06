@@ -1082,6 +1082,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "FI",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "FI",
     "sources": [
@@ -1416,6 +1427,18 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "FI",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Finnish_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia",
+      "https://en.wikipedia.org/wiki/Finnish_identity_card"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "ID card valid"
   },
   "NO": {
     "passport_country": "FI",

@@ -1070,6 +1070,17 @@
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival."
   },
+  "LY": {
+    "passport_country": "GB",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Pre-approved visa can be picked up on arrival."
+  },
   "LI": {
     "passport_country": "GB",
     "sources": [
@@ -1395,6 +1406,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival."
+  },
+  "MK": {
+    "passport_country": "GB",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
   },
   "NO": {
     "passport_country": "GB",

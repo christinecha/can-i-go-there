@@ -1053,6 +1053,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "LK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "LK",
     "sources": [
@@ -1085,6 +1096,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "LK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Multiple-entry Schengen visa covers entry for a maximum of 15 days, and at least 5 more than the stay."
   },
   "MG": {
     "passport_country": "LK",

@@ -1083,6 +1083,17 @@
     "allowed_stay": "",
     "notes": "May apply through e-mail."
   },
+  "LY": {
+    "passport_country": "TW",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "TW",
     "sources": [
@@ -1417,6 +1428,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "TW",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "Passport with National ID number required."
   },
   "NO": {
     "passport_country": "TW",

@@ -1085,6 +1085,17 @@
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival, subject to conditions."
   },
+  "LY": {
+    "passport_country": "IE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Pre-approved visa can be picked up on arrival.\nPassengers arriving in Libya must hold a non-objection form issued by the Libyan Immigration Authorities.\nAll travellers arriving in Libya for tourism must convert $1000 USD in freely convertible currency, or debit the amount from a credit card upon arrival in the country."
+  },
   "LI": {
     "passport_country": "IE",
     "sources": [
@@ -1116,6 +1127,17 @@
     "destination_country": "LU",
     "visa_requirement": "Freedom of movement",
     "allowed_stay": "",
+    "notes": ""
+  },
+  "MK": {
+    "passport_country": "IE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "MG": {

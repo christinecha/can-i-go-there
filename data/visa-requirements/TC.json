@@ -1091,6 +1091,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "TC",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "TC",
     "sources": [
@@ -1417,6 +1428,18 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "TC",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia",
+      "https://en.wikipedia.org/wiki/Gibraltar_passport"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa not required for holders of Gibraltar passport."
   },
   "NO": {
     "passport_country": "TC",

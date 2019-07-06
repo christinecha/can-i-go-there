@@ -1095,6 +1095,17 @@
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival."
   },
+  "LY": {
+    "passport_country": "LT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Lithuanian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Pre-approved visa can be picked up on arrival."
+  },
   "LI": {
     "passport_country": "LT",
     "sources": [
@@ -1116,6 +1127,18 @@
     "destination_country": "LU",
     "visa_requirement": "Visa not required",
     "allowed_stay": "Freedom of movement\nID card valid"
+  },
+  "MK": {
+    "passport_country": "LT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Lithuanian_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Macedonia",
+      "https://en.wikipedia.org/wiki/Lithuanian_identity_card"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "ID card valid"
   },
   "MG": {
     "passport_country": "LT",

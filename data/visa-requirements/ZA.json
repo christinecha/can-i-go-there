@@ -1066,6 +1066,17 @@
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival."
   },
+  "LY": {
+    "passport_country": "ZA",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_South_African_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Pre-approved visa can be picked up on arrival."
+  },
   "LI": {
     "passport_country": "ZA",
     "sources": [
@@ -1397,6 +1408,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival."
+  },
+  "MK": {
+    "passport_country": "ZA",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_South_African_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
   },
   "NO": {
     "passport_country": "ZA",

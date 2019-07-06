@@ -1074,6 +1074,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "AG",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Antigua_and_Barbuda_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "AG",
     "sources": [
@@ -1109,6 +1120,17 @@
     "visa_requirement": "Visa not required",
     "allowed_stay": "3 months",
     "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
+  },
+  "MK": {
+    "passport_country": "AG",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Antigua_and_Barbuda_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
   },
   "MG": {
     "passport_country": "AG",

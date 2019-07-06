@@ -1053,6 +1053,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "IS",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Icelandic_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "IS",
     "sources": [
@@ -1082,6 +1093,17 @@
     "destination_country": "LU",
     "visa_requirement": "Visa not required",
     "allowed_stay": "Freedom of movement"
+  },
+  "MK": {
+    "passport_country": "IS",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Icelandic_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
   },
   "MG": {
     "passport_country": "IS",

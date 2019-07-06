@@ -606,6 +606,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "ET": {
+    "passport_country": "PK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens",
+      "https://en.wikipedia.org/wiki/Ethiopia"
+    ],
+    "destination_country": "ET",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "FJ": {
     "passport_country": "PK",
     "sources": [
@@ -1071,6 +1082,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "PK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "PK",
     "sources": [
@@ -1405,6 +1427,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "PK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Pakistani_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa not required if holding two or multiple entry short-stay visa issued by a Schengen member state for stays that of no more than 90 days during any 180-day period"
   },
   "NO": {
     "passport_country": "PK",

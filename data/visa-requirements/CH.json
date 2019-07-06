@@ -1088,6 +1088,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "CH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Swiss_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "CH",
     "sources": [
@@ -1421,6 +1432,18 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "CH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Swiss_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia",
+      "https://en.wikipedia.org/wiki/Swiss_identity_card"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "ID card valid for 30 days"
   },
   "NO": {
     "passport_country": "CH",

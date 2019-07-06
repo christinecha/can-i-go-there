@@ -1106,6 +1106,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "UA",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Holders of passports containing an Israeli stamp or visa will be refused entry in Libya."
+  },
   "LI": {
     "passport_country": "UA",
     "sources": [
@@ -1440,6 +1451,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Pre-approved visa on arrival is available."
+  },
+  "MK": {
+    "passport_country": "UA",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
   },
   "NO": {
     "passport_country": "UA",

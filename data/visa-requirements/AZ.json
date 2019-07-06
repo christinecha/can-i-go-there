@@ -1052,6 +1052,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "AZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Azerbaijani_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "AZ",
     "sources": [
@@ -1371,6 +1382,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "AZ",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Azerbaijani_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period\nAccording to North Macedonia law one must register within 24 hours of their arrival at the local police."
   },
   "NO": {
     "passport_country": "AZ",

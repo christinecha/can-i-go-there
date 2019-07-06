@@ -1082,6 +1082,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "VE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Venezuelan_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "VE",
     "sources": [
@@ -1117,6 +1128,17 @@
     "visa_requirement": "Visa not required",
     "allowed_stay": "90 days",
     "notes": "90 days within any 180 day period in the Schengen Area"
+  },
+  "MK": {
+    "passport_country": "VE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Venezuelan_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
   },
   "MG": {
     "passport_country": "VE",

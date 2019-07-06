@@ -1088,6 +1088,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "TT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Trinidad_and_Tobago_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "TT",
     "sources": [
@@ -1412,6 +1423,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "TT",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Trinidad_and_Tobago_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Holders of a valid Type \"C\" multiple entry visa or Permanent Residency for the Schengen Area may enter North Macedonia for up to 15 days visa free. A temporary residence permit (with expiration date) is not accepted.\nHolders of a valid UK, Canada or USA visa may enter North Macedonia for up to 15 days visa free.\nHolders of UN travel documents do not require a visa."
   },
   "NO": {
     "passport_country": "TT",

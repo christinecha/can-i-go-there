@@ -1058,6 +1058,17 @@
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival."
   },
+  "LY": {
+    "passport_country": "DK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Danish_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Pre-approved visa can be picked up on arrival."
+  },
   "LI": {
     "passport_country": "DK",
     "sources": [
@@ -1385,6 +1396,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Pre-approved visa can be picked up on arrival."
+  },
+  "MK": {
+    "passport_country": "DK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Danish_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "",
+    "notes": "90 days"
   },
   "NO": {
     "passport_country": "DK",

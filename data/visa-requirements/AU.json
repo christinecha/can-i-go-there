@@ -1091,6 +1091,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "AU",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Due to safety concerns, Australian government advises its citizens not to visit Libya."
+  },
   "LI": {
     "passport_country": "AU",
     "sources": [
@@ -1426,6 +1437,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Visa not required for Nigerian-born citizens."
+  },
+  "MK": {
+    "passport_country": "AU",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Australian_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "90 days within any 180 day period"
   },
   "NO": {
     "passport_country": "AU",

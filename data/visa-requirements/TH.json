@@ -1078,6 +1078,17 @@
     "allowed_stay": "",
     "notes": "Pre-arranged visa can be obtained on arrival."
   },
+  "LY": {
+    "passport_country": "TH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "TH",
     "sources": [
@@ -1399,6 +1410,17 @@
       "https://en.wikipedia.org/wiki/Nigeria"
     ],
     "destination_country": "NG",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MK": {
+    "passport_country": "TH",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""

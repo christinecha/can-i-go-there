@@ -1080,6 +1080,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "GR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Greek_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Persons with passports indication previous travel to Israel will be denied entry to Libya."
+  },
   "LI": {
     "passport_country": "GR",
     "sources": [
@@ -1415,6 +1426,18 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "GR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Greek_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia",
+      "https://en.wikipedia.org/wiki/Greek_identity_card"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": "ID card valid"
   },
   "NO": {
     "passport_country": "GR",

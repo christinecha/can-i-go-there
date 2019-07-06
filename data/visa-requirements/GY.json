@@ -472,7 +472,7 @@
     ],
     "destination_country": "CU",
     "visa_requirement": "Tourist Card required",
-    "allowed_stay": "",
+    "allowed_stay": "30 days",
     "notes": "Visa not required, but Tourist Card must be obtained in advance through a travel agent, airline, or Cuban diplomatic mission."
   },
   "CY": {
@@ -683,9 +683,9 @@
       "https://en.wikipedia.org/wiki/Georgia_(country)"
     ],
     "destination_country": "GE",
-    "visa_requirement": "Visa required",
-    "allowed_stay": "",
-    "notes": ""
+    "visa_requirement": "eVisa",
+    "allowed_stay": "30 days",
+    "notes": "30 days within any 120 day period"
   },
   "DE": {
     "passport_country": "GY",
@@ -1073,6 +1073,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "GY",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Guyanese_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "GY",
     "sources": [
@@ -1102,6 +1113,17 @@
       "https://en.wikipedia.org/wiki/Luxembourg"
     ],
     "destination_country": "LU",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
+  "MK": {
+    "passport_country": "GY",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Guyanese_citizens",
+      "https://en.wikipedia.org/wiki/Republic_of_Macedonia"
+    ],
+    "destination_country": "MK",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""

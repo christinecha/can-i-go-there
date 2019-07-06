@@ -1,4 +1,16 @@
 {
+  "MO": {
+    "passport_country": "HK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "https://en.wikipedia.org/wiki/Macau",
+      "https://en.wikipedia.org/wiki/Hong_Kong_Permanent_Identity_Card",
+      "https://en.wikipedia.org/wiki/HKSAR_passport"
+    ],
+    "destination_country": "MO",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "Visa free for holders of Hong Kong Permanent Identity Cards for a stay of less than one year. Visa not required for 7 days for passengers in transit holding HKSAR passports."
+  },
   "TW": {
     "passport_country": "HK",
     "sources": [
@@ -473,7 +485,7 @@
     ],
     "destination_country": "CU",
     "visa_requirement": "Tourist Card required",
-    "allowed_stay": "",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "CY": {
@@ -1081,6 +1093,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "HK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "HK",
     "sources": [
@@ -1404,6 +1427,17 @@
     "destination_country": "NG",
     "visa_requirement": "Visa required",
     "allowed_stay": "",
+    "notes": ""
+  },
+  "MK": {
+    "passport_country": "HK",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "NO": {

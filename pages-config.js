@@ -47,17 +47,21 @@ const pages = [
   ...countries
     .filter(c => !!c.wikipediaSource)
     .map(passport => {
+      const adjectiveForm = passport.adjectiveForm || passport.name
+
+      const seoContent = `Do I need a visa? Can I use an eVisa? Check out all the visa requirements for ${adjectiveForm} citizens traveling anywhere in the\u00A0world.`
+
       return {
         ...shared,
-        title: `Visa Requirements: Citizens of ${passport.name}`,
+        title: `Visa Requirements: ${adjectiveForm} Citizens`,
         INITIAL_PASSPORT: passport.code,
         filename: `${passport.code.toLowerCase()}.html`,
-        seoContent: `Do I need a visa? Can I use an eVisa? Check out all the visa requirements for citizens of ${passport.name} traveling anywhere in the\u00A0world.`,
+        seoContent,
         meta: {
           ...shared.meta,
-          description: `Do I need a visa to travel? Check out the visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
-          'og:description': `Do I need a visa to travel? Check out the visa requirements for citizens of ${passport.name} traveling anywhere in the world.`,
-          'og:title': `Can I Go There? Visa Requirements for Citizens of ${passport.name}`,
+          description: seoContent,
+          'og:description': seoContent,
+          'og:title': `Can I Go There? Visa Requirements for ${adjectiveForm}Citizens`,
         },
       }
     }),

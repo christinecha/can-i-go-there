@@ -1052,6 +1052,17 @@
     "allowed_stay": "",
     "notes": "Passengers with a pre-arranged visa can obtain a visa on arrival"
   },
+  "LY": {
+    "passport_country": "TN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Tunisian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "TN",
     "sources": [
@@ -1370,6 +1381,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "TN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Tunisian_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Not required if holding a multiple entry C Schengen visa"
   },
   "NO": {
     "passport_country": "TN",

@@ -1075,6 +1075,17 @@
     "allowed_stay": "",
     "notes": "Pre-arranged visa can be picked up on arrival."
   },
+  "LY": {
+    "passport_country": "AE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "AE",
     "sources": [
@@ -1399,6 +1410,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Holders of written e-Visa approval issued by the Immigration Authority can obtain a visa on arrival, provided they hold a visa application form and e-Visa application payment receipt and have an invitation letter from a Nigerian company accepting immigration responsibilities."
+  },
+  "MK": {
+    "passport_country": "AE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "90 days",
+    "notes": ""
   },
   "NO": {
     "passport_country": "AE",

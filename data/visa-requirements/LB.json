@@ -289,7 +289,7 @@
       "https://en.wikipedia.org/wiki/Botswana"
     ],
     "destination_country": "BW",
-    "visa_requirement": "Visa  required",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
   },
@@ -1180,6 +1180,18 @@
     "allowed_stay": "",
     "notes": "Visa on arrival if arriving from a country without a diplomatic mission of Liberia and a visa is pre-arranged and paid for by a local sponsor in Liberia[citation needed]\nInternational Certificate of Vaccination is required[citation needed]"
   },
+  "LY": {
+    "passport_country": "LB",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
+      "https://en.wikipedia.org/wiki/Libya",
+      "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa not required for holders of a copy of a letter issued by the Libyan immigration authorities confirming that a visa will be granted on arrival at the airport[citation needed]\nPassengers must hold a non-objection form issued by the Libyan Immigration Authorities in addition to the visa[citation needed]"
+  },
   "LI": {
     "passport_country": "LB",
     "sources": [
@@ -1548,6 +1560,22 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Passengers traveling for tourism purposes must hold an authorization to travel issued by a travel company in North Korea[citation needed]"
+  },
+  "MK": {
+    "passport_country": "LB",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia",
+      "https://en.wikipedia.org/wiki/Canada",
+      "https://en.wikipedia.org/wiki/European_Union",
+      "https://en.wikipedia.org/wiki/United_Kingdom",
+      "https://en.wikipedia.org/wiki/United_States",
+      "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa not required for a maximum stay of 15 days for valid visa holders or residents of Canada, the European Union member states, the United Kingdom, or the United States. The visa must be valid for at least 5 days beyond the period of intended stay in North Macedonia.[citation needed]\nPassengers must hold an approval issued by the Ministry of Interior in addition to the visa[citation needed]\nRegistration with the local police within 24 hours of arrival is mandatory[citation needed]"
   },
   "NO": {
     "passport_country": "LB",

@@ -1085,6 +1085,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "IR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Admission refused",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "IR",
     "sources": [
@@ -1421,6 +1432,18 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": ""
+  },
+  "MK": {
+    "passport_country": "IR",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia",
+      "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Visa required; except for holders of valid multi entry Schengen visa, used at least once prior arrival, then max 15 days.[citation needed]"
   },
   "NO": {
     "passport_country": "IR",

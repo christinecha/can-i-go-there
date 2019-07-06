@@ -1079,6 +1079,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "LY": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "LI": {
     "passport_country": "CN",
     "sources": [
@@ -1410,6 +1421,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Holders of passports for public affairs do not require a visa."
+  },
+  "MK": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "National visa may be substituted with a valid visa issued by a Schengen Area member state, the United States, Canada or United Kingdom for stays up to 15 days if the visa is valid for at least five days beyond the period of intended stay in North Macedonia. Holders of passports for public affairs do not require a visa for up to 90 days."
   },
   "NO": {
     "passport_country": "CN",

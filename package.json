@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "inject:adjectives": "node ./scripts/inject-adjective-forms.js",
     "generate:sitemap": "node ./scripts/generate-sitemap.js",
     "build:styles": "sass ./client/styles/index.scss ./public/styles/index.css",
     "build": "NODE_ENV=production webpack && npm run build:styles && npm run generate:sitemap",

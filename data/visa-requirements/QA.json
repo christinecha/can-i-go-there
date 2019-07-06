@@ -161,7 +161,7 @@
     ],
     "destination_country": "BB",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "90 daysQ",
+    "allowed_stay": "90 days",
     "notes": ""
   },
   "BY": {
@@ -393,7 +393,7 @@
     "destination_country": "CN",
     "visa_requirement": "Visa not required",
     "allowed_stay": "30 days",
-    "notes": ""
+    "notes": "Visa free also for Hong Kong up to 30 days."
   },
   "CO": {
     "passport_country": "QA",
@@ -469,7 +469,7 @@
     ],
     "destination_country": "CU",
     "visa_requirement": "Tourist Card required",
-    "allowed_stay": "",
+    "allowed_stay": "30 days",
     "notes": ""
   },
   "CY": {
@@ -988,7 +988,8 @@
     ],
     "destination_country": "KW",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "Freedom of movement"
+    "allowed_stay": "",
+    "notes": ""
   },
   "KG": {
     "passport_country": "QA",
@@ -1059,6 +1060,17 @@
     "visa_requirement": "Visa required",
     "allowed_stay": "",
     "notes": "Pre-arranged visa can be picked up on arrival."
+  },
+  "LY": {
+    "passport_country": "QA",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Qatari_citizens",
+      "https://en.wikipedia.org/wiki/Libya"
+    ],
+    "destination_country": "LY",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": "Admission refused if arriving via Beida or Tabruk International Airports. Entry allowed if entering through any another port of entry."
   },
   "LI": {
     "passport_country": "QA",
@@ -1389,6 +1401,17 @@
     "allowed_stay": "",
     "notes": "Pre-arranged visa can be picked up on arrival."
   },
+  "MK": {
+    "passport_country": "QA",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Qatari_citizens",
+      "https://en.wikipedia.org/wiki/North_Macedonia"
+    ],
+    "destination_country": "MK",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "NO": {
     "passport_country": "QA",
     "sources": [
@@ -1408,7 +1431,8 @@
     ],
     "destination_country": "OM",
     "visa_requirement": "Visa not required",
-    "allowed_stay": "Freedom of movement"
+    "allowed_stay": "",
+    "notes": ""
   },
   "PK": {
     "passport_country": "QA",
@@ -1613,9 +1637,9 @@
       "https://en.wikipedia.org/wiki/Medina"
     ],
     "destination_country": "SA",
-    "visa_requirement": "Admission refused",
+    "visa_requirement": "Visa required",
     "allowed_stay": "",
-    "notes": "Entry is allowed for Qatari pilgrims and they are allowed to enter the city of Mecca and Medina without a visa."
+    "notes": "Entry is allowed for Qatari pilgrims and they are allowed to enter the city of Mecca and Medina without a visa.\nQatari citizens can apply Hajj visas."
   },
   "SN": {
     "passport_country": "QA",
