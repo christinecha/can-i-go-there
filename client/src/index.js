@@ -3,6 +3,7 @@ import flagsJSON from '../../shared/flags.json'
 import initDOM from './initDOM'
 import render from './render'
 import onCountrySelect from './onCountrySelect'
+import onDocumentKeyUp from './onDocumentKeyUp'
 import checkRequirements from './checkRequirements'
 
 const AVAILABLE_PASSPORTS = countriesJSON.filter(n => n.wikipediaSource).map(n => n.code)
@@ -22,6 +23,8 @@ const App = () => {
       typeaheadValue: '',
       passport: '',
       destination: '',
+      passportColors: [],
+      destinationColors: [],
       preselect: 0,
     },
 
@@ -41,47 +44,8 @@ const App = () => {
       }
       
       document.addEventListener('keydown', this.onDocumentKeyDown.bind(this))
+      document.addEventListener('keyup', this.onDocumentKeyUp.bind(this))
       this.refs.typeahead.addEventListener('keyup', this.onInput.bind(this))
-
-      document.addEventListener('keyup', (e) => {
-        const activeOptions = this.refs.options.filter(o => o.dataset.isActive === "true")
-
-        // ESC
-        if (e.keyCode === 27) {
-          this.setState({ 
-            passport: '',
-            destination: '',
-          })
-          return
-        }
-
-        // ENTER
-        if (e.keyCode === 13) {
-          const option = activeOptions[this.state.preselect]
-
-          if (option) {
-            const country = this.COUNTRIES_BY_CODE[option.dataset.countryCode]
-            this.onCountrySelect(country)
-          }
-
-          return 
-        }
-
-        let requestedPreselect = this.state.preselect
-
-        // DOWN
-        if (e.keyCode === 40) {
-          requestedPreselect += 1
-        }
-
-        // UP
-        if (e.keyCode === 38) {
-          requestedPreselect -= 1
-        }
-
-        const preselect = Math.min(Math.max(0, requestedPreselect), activeOptions.length - 1)
-        this.setState({ preselect })
-      })
 
       this.refs.options.forEach($option => {
         $option.addEventListener('click', (e) => {
@@ -118,6 +82,7 @@ const App = () => {
       this.refs.typeahead.focus()
     },
     
+    onDocumentKeyUp,
     onCountrySelect,
     checkRequirements,
     initDOM, 

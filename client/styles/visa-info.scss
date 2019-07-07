@@ -1,5 +1,12 @@
 @import '_variables.scss';
 
+$delay: 100ms;
+
+@mixin delayed-transition($offset) {
+  transition: transform 300ms ($offset * $delay) ease-out,
+              opacity 100ms ($offset * $delay) linear;
+}
+
 .visa-info-wrapper {
   position: relative;
   z-index: 1;
@@ -51,8 +58,7 @@
   text-transform: uppercase;
   margin-bottom: 5px;
 
-  transition: transform 300ms 300ms ease-out,
-              opacity 100ms 300ms linear;
+  @include delayed-transition(2);
 
   @media (min-width: 768px) {
     font-size: 40px;
@@ -64,8 +70,7 @@
   text-transform: uppercase;
   margin-bottom: 20px;
 
-  transition: transform 300ms 400ms ease-out,
-              opacity 100ms 400ms linear;
+  @include delayed-transition(3);
 
   @media (min-width: 768px) {
     font-size: 24px;
@@ -74,16 +79,13 @@
 
 .notes-wrapper {
   margin-bottom: 20px;
-  transition: transform 300ms 500ms ease-out,
-              opacity 100ms 500ms linear;
+  @include delayed-transition(4);
 }
 
 .sources-wrapper {
   text-align: right;
   font-size: 12px;
-
-  transition: transform 300ms 600ms ease-out,
-              opacity 100ms 600ms linear;
+  @include delayed-transition(5);
 }
 
 #requirement, 

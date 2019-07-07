@@ -1361,12 +1361,14 @@
   },
   {
     "name": "Myanmar",
+    "colors": ["#ea2839", "#fecb00", "#34b233"],
     "code": "MM",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Myanmar_citizens",
     "adjectiveForm": "Myanmar"
   },
   {
     "name": "Namibia",
+    "colors": ["#009543", "#d21034", "#003580", "#ffce00"],
     "code": "NA",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Namibian_citizens",
     "adjectiveForm": "Namibian"
@@ -1374,11 +1376,13 @@
   {
     "name": "Nauru",
     "code": "NR",
+    "colors": ["#03039a", "#f8e200"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nauruan_citizens",
     "adjectiveForm": "Nauruan"
   },
   {
     "name": "Nepal",
+    "colors": ["#dc143c", "#023792"],
     "code": "NP",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Nepalese_citizens",
     "adjectiveForm": "Nepalese"
@@ -1386,7 +1390,7 @@
   {
     "name": "Netherlands",
     "code": "NL",
-    "colors": ["#af1623", "#1b448c"],
+    "colors": ["#af1623", "#1b448c", "#ff6f19"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Dutch_citizens",
     "adjectiveForm": "Dutch"
   },

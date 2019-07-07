@@ -6,6 +6,7 @@ function initDOM () {
 
     destinationColor: document.getElementById('destination-color'),
     passportColor: document.getElementById('passport-color'),
+    cursors: Array.from(document.getElementsByClassName('cursor')),
 
     prompt: document.getElementById('prompt'),
     typeahead: document.getElementById('typeahead'),

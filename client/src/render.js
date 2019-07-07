@@ -26,7 +26,12 @@ function render () {
   const passport = this.COUNTRIES_BY_CODE[this.state.passport]
   const destination = this.COUNTRIES_BY_CODE[this.state.destination]
 
-  if (!this.state.passport) {
+  if (this.state.passport) {
+    this.refs.passport.textContent = passport.code
+    this.refs.passportName.textContent = passport.code
+    this.refs.passportColor.style.background = this.state.passportColors[0]
+    this.refs.passportName.style.color = this.state.passportColors[1]
+  } else {
     this.refs.header.textContent = ``
     this.refs.prompt.textContent = "If my passport is from"
     this.refs.options.forEach(($option) => {
@@ -34,7 +39,9 @@ function render () {
       $option.dataset.isActive = isActive
       $option.dataset.isPreselected = false
     })
-  } else if (!this.state.destination) {
+  }
+
+  if (this.state.passport && !this.state.destination) {
     this.refs.header.textContent = `${passport.name} → `
     this.refs.prompt.textContent = "Can I go to"
     this.refs.options.forEach(($option) => {
@@ -51,6 +58,10 @@ function render () {
     this.refs.sources.parentNode.dataset.isActive = false
   } else {
     this.refs.header.textContent = `${passport.name} → ${destination.name}`
+    this.refs.destination.textContent = destination.code
+    this.refs.destinationName.textContent = destination.code
+    this.refs.destinationColor.style.background = this.state.destinationColors[0]
+    this.refs.destinationName.style.color = this.state.destinationColors[1]
   } 
 
   const { preselect } = this.state
