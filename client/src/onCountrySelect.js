@@ -34,12 +34,13 @@ function onCountrySelect (country = {}) {
   }
   
   else if (!this.state.destination) {
+    const passport = this.COUNTRIES_BY_CODE[this.state.passport]
     this.refs.destinationColor.style.background = color1
     this.refs.destinationName.style.color = color2
 
     this.refs.destination.textContent = code
     this.refs.destinationName.textContent = code
-    
+
     this.setState({ 
       destination: code,
     })

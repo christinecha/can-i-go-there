@@ -30,14 +30,6 @@ main[data-destination-selected="true"] {
     visibility: visible;
     transform: none;
   }
-
-  .requirement-wrapper, 
-  .allowed-stay-wrapper, 
-  .notes-wrapper,
-  .sources-wrapper {
-    opacity: 1;
-    transform: none;
-  }
 }
 
 .passport-wrapper,
@@ -104,6 +96,8 @@ main[data-destination-selected="true"] {
     right: 0;
     text-transform: uppercase;
     display: none;
+    font-size: 60%;
+    letter-spacing: 0.02em;
   }
 
   @media (min-width: 768px) {
@@ -170,8 +164,6 @@ main[data-destination-selected="true"] {
   text-transform: uppercase;
   font-size: 200px;
   position: absolute;
-  max-width: 60vw;
-  word-break: break-all;
   line-height: 0.8em;
   color: rgba(255,255,255,0.2);
   z-index: 1;

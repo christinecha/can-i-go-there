@@ -23,7 +23,11 @@ function render () {
     return !!match
   }
 
+  const passport = this.COUNTRIES_BY_CODE[this.state.passport]
+  const destination = this.COUNTRIES_BY_CODE[this.state.destination]
+
   if (!this.state.passport) {
+    this.refs.header.textContent = ``
     this.refs.prompt.textContent = "If my passport is from"
     this.refs.options.forEach(($option) => {
       const isActive = isAvailablePassport($option) && isTypeaheadMatch($option)
@@ -31,6 +35,7 @@ function render () {
       $option.dataset.isPreselected = false
     })
   } else if (!this.state.destination) {
+    this.refs.header.textContent = `${passport.name} → `
     this.refs.prompt.textContent = "Can I go to"
     this.refs.options.forEach(($option) => {
       const isActive = isAvailableDestination($option) && isTypeaheadMatch($option)
@@ -38,6 +43,15 @@ function render () {
       $option.dataset.isPreselected = false
     })
   }
+
+  if (!this.state.destination) {
+    this.refs.requirement.parentNode.dataset.isActive = false
+    this.refs.allowedStay.parentNode.dataset.isActive = false
+    this.refs.notes.parentNode.dataset.isActive = false
+    this.refs.sources.parentNode.dataset.isActive = false
+  } else {
+    this.refs.header.textContent = `${passport.name} → ${destination.name}`
+  } 
 
   const { preselect } = this.state
   const activeOptions = this.refs.options.filter(o => o.dataset.isActive === "true")

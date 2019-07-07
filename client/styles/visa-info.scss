@@ -1,13 +1,14 @@
 @import '_variables.scss';
 
-.visa-info {
+.visa-info-wrapper {
   position: relative;
   z-index: 1;
   color: $black;
-  width: 90%;
-  max-width: 600px;
+  width: 100%;
+  max-width: 560px;
   margin: auto;
   margin-top: 30px;
+  pointer-events: none;
 }
 
 .requirement-wrapper, 
@@ -15,12 +16,33 @@
 .notes-wrapper,
 .sources-wrapper {
   padding: 5px;
-  max-width: 600px;
+  max-width: 560px;
   opacity: 0;
   transform: translate3d(0,10px,0);
 
   &[data-is-active="false"] {
-    display: none;
+    visibility: hidden;
+    height: 0;
+    margin: 0;
+    padding: 0;
+  }
+
+  &[data-is-active="true"] {
+    opacity: 1;
+    pointer-events: all;
+    transform: none;
+  }
+}
+
+.header-wrapper {
+  margin: auto;
+  color: white;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  font-size: 12px;
+
+  @media (min-width: 768px) {
+    font-size: 14px;
   }
 }
 

@@ -1759,7 +1759,11 @@
     "adjectiveForm": "South African"
   },
   {
-    "name": "South Georgia and the South Sandwich Islands",
+    "name": "South Georgia",
+    "aliases": [
+      "South Georgia and the South Sandwich Islands",
+      "South Sandwich Islands"
+    ],
     "code": "GS",
     "noPassport": true,
     "visaPolicy": {

@@ -1,5 +1,7 @@
 function checkRequirements () {
-  if (!this.state.passport || !this.state.destination) return
+  if (!this.state.passport || !this.state.destination) {
+    return
+  }
 
   const requirements = this.REQUIREMENTS_CACHE[this.state.passport]
   const data = requirements[this.state.destination]
