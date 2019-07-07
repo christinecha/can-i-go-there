@@ -12,6 +12,8 @@ function initDOM () {
 
     destination: document.getElementById('destination-code'),
     passport: document.getElementById('passport-code'),
+    passportName: document.getElementById('passport-name'),
+    destinationName: document.getElementById('destination-name'),
 
     requirement: document.getElementById('requirement'),
     allowedStay: document.getElementById('allowed-stay'),

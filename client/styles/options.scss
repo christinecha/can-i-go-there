@@ -116,6 +116,8 @@ main[data-destination-selected="true"] {
 }
 
 .passport-wrapper {
+  position: relative;
+  
   label {
     @media (min-width: 768px) {
       left: 0;
@@ -126,6 +128,8 @@ main[data-destination-selected="true"] {
 }
 
 .destination-wrapper {
+  position: relative;
+  z-index: 1;
   text-align: right;
 
   label {
@@ -139,18 +143,62 @@ main[data-destination-selected="true"] {
 
 #passport-code,
 #destination-code {
+  position: relative;
   cursor: pointer;
   text-transform: uppercase;
   font-size: 200px;
   line-height: 1;
   height: 1em;
+  z-index: 2;
 
   @media (max-width: 767px) {
-    font-size: 60px;
+    font-size: 80px;
   }
 
   @media (min-width: 768px) {
     padding: 0 20px;
+  }
+}
+
+.passport,
+.destination {
+  position: relative;
+}
+
+#passport-name,
+#destination-name {
+  text-transform: uppercase;
+  font-size: 200px;
+  position: absolute;
+  max-width: 60vw;
+  word-break: break-all;
+  line-height: 0.8em;
+  color: rgba(255,255,255,0.2);
+  z-index: 1;
+
+  @media (max-width: 767px) {
+    bottom: 12px;
+    font-size: 80px;
+  }
+
+  @media (min-width: 768px) {
+    top: 10px;
+  }
+}
+
+#passport-name {
+  left: 10px;
+
+  @media (max-width: 767px) {
+    left: 6px;
+  }
+}
+
+#destination-name {
+  right: 10px;
+
+  @media (max-width: 767px) {
+    right: 6px;
   }
 }
 

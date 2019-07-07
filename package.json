@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "clean": "rm -rf ./public",
     "copy:assets": "mkdir ./public/assets && cp ./assets/* public/assets",
     "inject:adjectives": "node ./scripts/inject-adjective-forms.js",
     "generate:sitemap": "node ./scripts/generate-sitemap.js",
     "build:styles": "sass ./client/styles/index.scss ./public/styles/index.css",
     "build": "NODE_ENV=production webpack && npm run build:styles && npm run copy:assets && npm run generate:sitemap",
-    "dev": "NODE_ENV=development npm run build && webpack-dev-server & sass ./client/styles/index.scss ./public/styles/index.css --watch",
+    "dev": "NODE_ENV=development npm run clean && webpack && npm run copy:assets && webpack-dev-server & sass ./client/styles/index.scss ./public/styles/index.css --watch",
     "scrape:all": "node ./shared/visa-requirements/trigger-all.js",
     "scrape:one": "node ./shared/visa-requirements/trigger-one.js"
   },
