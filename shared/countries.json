@@ -514,7 +514,7 @@
     "adjectiveForm": "Comorian"
   },
   {
-    "name": "Congo, Republic of the",
+    "name": "Congo (Republic)",
     "code": "CG",
     "colors": [
       "#dc241f",
@@ -524,13 +524,14 @@
     "aliases": [
       "Congo",
       "Republic of the Congo",
+      "Congo, Republic of the",
       "The Republic of the Congo"
     ],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Republic_of_the_Congo_citizens",
     "adjectiveForm": "Republic of the Congo"
   },
   {
-    "name": "Congo, The Democratic Republic of the",
+    "name": "Congo (Democratic Republic)",
     "code": "CD",
     "colors": [
       "#007fff",
@@ -539,6 +540,7 @@
     ],
     "aliases": [
       "Democratic Republic of the Congo",
+      "Congo, The Democratic Republic of the",
       "The Democratic Republic of the Congo"
     ],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Democratic_Republic_of_the_Congo_citizens",
@@ -1113,6 +1115,7 @@
     "name": "Korea, North",
     "aliases": [
       "North Korea",
+      "Korea, North",
       "Democratic People's Republic of Korea",
       "Korea, Democratic People's Republic of"
     ],
