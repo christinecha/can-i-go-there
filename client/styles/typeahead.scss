@@ -21,9 +21,9 @@ $option-font-size: 20px;
   position: relative;
   margin-bottom: 20px;
 
-  @media (max-width: 767px) {
-    display: none;
-  }
+  // @media (max-width: 767px) {
+  //   display: none;
+  // }
 
   &::after {
     @keyframes blink {
