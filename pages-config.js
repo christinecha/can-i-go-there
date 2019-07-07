@@ -53,7 +53,7 @@ const pages = [
 
       return {
         ...shared,
-        title: `Visa Requirements: ${adjectiveForm} Citizens`,
+        title: `Visa Requirements for ${adjectiveForm} Citizens`,
         INITIAL_PASSPORT: passport.code,
         filename: `${passport.code.toLowerCase()}.html`,
         seoContent,
@@ -61,7 +61,7 @@ const pages = [
           ...shared.meta,
           description: seoContent,
           'og:description': seoContent,
-          'og:title': `Can I Go There? Visa Requirements for ${adjectiveForm}Citizens`,
+          'og:title': `Can I Go There? Visa Requirements for ${adjectiveForm} Citizens`,
         },
       }
     }),
