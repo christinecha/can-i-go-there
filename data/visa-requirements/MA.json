@@ -593,6 +593,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "SZ": {
+    "passport_country": "MA",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "MA",
     "sources": [

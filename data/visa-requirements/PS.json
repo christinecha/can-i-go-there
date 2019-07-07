@@ -604,6 +604,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "SZ": {
+    "passport_country": "PS",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Palestinian_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "PS",
     "sources": [

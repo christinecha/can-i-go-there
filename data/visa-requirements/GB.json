@@ -623,6 +623,17 @@
     "visa_requirement": "Visa not required",
     "allowed_stay": "Freedom of movement"
   },
+  "SZ": {
+    "passport_country": "GB",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "GB",
     "sources": [

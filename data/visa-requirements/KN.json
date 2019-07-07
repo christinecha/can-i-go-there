@@ -590,6 +590,17 @@
     "allowed_stay": "3 months",
     "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
+  "SZ": {
+    "passport_country": "KN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "KN",
     "sources": [

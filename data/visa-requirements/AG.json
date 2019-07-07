@@ -590,6 +590,17 @@
     "allowed_stay": "3 months",
     "notes": "3 months during a 6 months period following the date of first entry in the Schengen Area"
   },
+  "SZ": {
+    "passport_country": "AG",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Antigua_and_Barbuda_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "AG",
     "sources": [

@@ -666,24 +666,28 @@
   },
   {
     "name": "Egypt",
+    "colors": ["#cf0921", "#c49904", "#000"],
     "code": "EG",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Egyptian_citizens",
     "adjectiveForm": "Egyptian"
   },
   {
     "name": "El Salvador",
+    "colors": ["#0045ad", "#088408", "#ffbf00"],
     "code": "SV",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_El_Salvador_citizens",
     "adjectiveForm": "El Salvador"
   },
   {
     "name": "Equatorial Guinea",
+    "colors": ["#3e9a00", "#0073ce", "#e32118"],
     "code": "GQ",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Equatorial_Guinean_citizens",
     "adjectiveForm": "Equatorial Guinean"
   },
   {
     "name": "Eritrea",
+    "colors": ["#ffc821", "#09af27", "#eb0034", "#3f8ade"],
     "code": "ER",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Eritrean_citizens",
     "adjectiveForm": "Eritrean"
@@ -691,11 +695,13 @@
   {
     "name": "Estonia",
     "code": "EE",
+    "colors": ["#0073cf", "#000"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Estonian_citizens",
     "adjectiveForm": "Estonian"
   },
   {
     "name": "Ethiopia",
+    "colors": ["#0645b1", "#018a2c", "#fcde02", "#db0a13"],
     "code": "ET",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ethiopian_citizens",
     "adjectiveForm": "Ethiopian"
@@ -823,18 +829,21 @@
   },
   {
     "name": "Ghana",
+    "colors": ["#006b3d", "#fcd20f", "#cf0921", "#000"],
     "code": "GH",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens",
     "adjectiveForm": "Ghanaian"
   },
   {
     "name": "Gibraltar",
+    "colors": ["#db0004", "#000"],
     "code": "GI",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
     "adjectiveForm": "British Overseas Territories"
   },
   {
     "name": "Greece",
+    "colors": ["#055eb1"],
     "code": "GR",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Greek_citizens",
     "adjectiveForm": "Greek"
@@ -958,12 +967,14 @@
   },
   {
     "name": "Hong Kong",
+    "colors": ["#df2407", "#df074b"],
     "code": "HK",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens_of_Hong_Kong",
-    "adjectiveForm": "Chinese"
+    "adjectiveForm": "Hong Kong"
   },
   {
     "name": "Hungary",
+    "colors": ["#41704c", "#ce253c"],
     "code": "HU",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Hungarian_citizens",
     "adjectiveForm": "Hungarian"
@@ -971,17 +982,20 @@
   {
     "name": "Iceland",
     "code": "IS",
+    "colors": ["#00519d", "#dd1832"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Icelandic_citizens",
     "adjectiveForm": "Icelandic"
   },
   {
     "name": "India",
+    "colors": ["#fd9120", "#0a8901"],
     "code": "IN",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
     "adjectiveForm": "Indian"
   },
   {
     "name": "Indonesia",
+    "colors": ["#ff0000"],
     "code": "ID",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens",
     "adjectiveForm": "Indonesian"
@@ -993,23 +1007,27 @@
       "Iran, Islamic Republic Of",
       "Islamic Republic Of Iran"
     ],
+    "colors": ["#db0000", "#1da03e"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iranian_citizens",
     "adjectiveForm": "Iranian"
   },
   {
     "name": "Iraq",
     "code": "IQ",
+    "colors": ["#cf0921", "#007b3a", "#000"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Iraqi_citizens",
     "adjectiveForm": "Iraqi"
   },
   {
     "name": "Ireland",
     "code": "IE",
+    "colors": ["#0e9c62", "#ff893c"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
     "adjectiveForm": "Irish"
   },
   {
     "name": "Isle of Man",
+    "colors": ["#d00c27"],
     "code": "IM",
     "noPassport": true
   },
@@ -1331,24 +1349,28 @@
   },
   {
     "name": "Monaco",
+    "colors": ["#cf0921"],
     "code": "MC",
     "adjectiveForm": "Monégasque",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mon%C3%A9gasque_citizens"
   },
   {
     "name": "Mongolia",
+    "colors": ["#0066b4", "#db1a2e", "#ffda00"],
     "code": "MN",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Mongolian_citizens",
     "adjectiveForm": "Mongolian"
   },
   {
     "name": "Montserrat",
+    "colors": ["#001f7e", "#d00c27"],
     "code": "MS",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
     "adjectiveForm": "British Overseas Territories"
   },
   {
     "name": "Morocco",
+    "colors": ["#c1272d", "#006233"],
     "code": "MA",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Moroccan_citizens",
     "adjectiveForm": "Moroccan"
@@ -1514,18 +1536,21 @@
   },
   {
     "name": "Paraguay",
+    "colors": ["#0035A9", "#d62718"],
     "code": "PY",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Paraguayan_citizens",
     "adjectiveForm": "Paraguayan"
   },
   {
     "name": "Peru",
+    "colors": ["#da071e"],
     "code": "PE",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Peruvian_citizens",
     "adjectiveForm": "Peruvian"
   },
   {
     "name": "Philippines",
+    "colors": ["#0035aa", "#cf0921", "#fcd20f"],
     "code": "PH",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Philippine_citizens",
     "adjectiveForm": "Philippine"
@@ -1538,6 +1563,7 @@
   },
   {
     "name": "Poland",
+    "colors": ["#dc143c"],
     "code": "PL",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Polish_citizens",
     "adjectiveForm": "Polish"
@@ -1545,16 +1571,19 @@
   {
     "name": "Portugal",
     "code": "PT",
+    "colors": ["#ff0000", "#060"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Portuguese_citizens",
     "adjectiveForm": "Portuguese"
   },
   {
     "name": "Puerto Rico",
     "code": "PR",
+    "colors": ["#004ff0", "#ef0000"],
     "noPassport": true
   },
   {
     "name": "Qatar",
+    "colors": ["#8e143a"],
     "code": "QA",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Qatari_citizens",
     "adjectiveForm": "Qatari"
@@ -1562,10 +1591,12 @@
   {
     "name": "Reunion",
     "code": "RE",
+    "colors": ["#ee2436", "#001e96"],
     "noPassport": true
   },
   {
     "name": "Romania",
+    "colors": ["#002780", "#fcd20f", "#cf0921"],
     "code": "RO",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Romanian_citizens",
     "adjectiveForm": "Romanian"
@@ -1576,11 +1607,13 @@
       "Russian Federation"
     ],
     "code": "RU",
+    "colors": ["#0036a8", "#d62718"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Russian_citizens",
     "adjectiveForm": "Russian"
   },
   {
     "name": "Rwanda",
+    "colors": ["#00a2df", "#fad300", "#1a603a"],
     "code": "RW",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Rwandan_citizens",
     "adjectiveForm": "Rwandan"
@@ -1588,17 +1621,20 @@
   {
     "name": "Saint Helena",
     "code": "SH",
+    "colors": ["#001f7e", "#d00c27"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
     "adjectiveForm": "British Overseas Territories"
   },
   {
     "name": "Saint Kitts and Nevis",
+    "colors": ["#009f47", "#cf0921", "#fcd20f", "#000"],
     "code": "KN",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Kitts_and_Nevis_citizens",
     "adjectiveForm": "Saint Kitts and Nevis"
   },
   {
     "name": "Saint Lucia",
+    "colors": ["#66cdff", "#fcd20f", "#000"],
     "code": "LC",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Saint_Lucian_citizens",
     "adjectiveForm": "Saint Lucian"
@@ -1606,6 +1642,7 @@
   {
     "name": "Saint Pierre and Miquelon",
     "code": "PM",
+    "colors": ["#001e96", "#ee2436"],
     "noPassport": true
   },
   {
@@ -1717,12 +1754,14 @@
   },
   {
     "name": "Sierra Leone",
+    "colors": ["#18b637", "#0073c7"],
     "code": "SL",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sierra_Leonean_citizens",
     "adjectiveForm": "Sierra Leonean"
   },
   {
     "name": "Singapore",
+    "colors": ["#ee2436"],
     "code": "SG",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Singaporean_citizens",
     "adjectiveForm": "Singaporean"
@@ -1730,12 +1769,14 @@
   {
     "name": "Slovakia",
     "code": "SK",
+    "colors": ["#034da3", "#ef1620"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Slovak_citizens",
     "adjectiveForm": "Slovak"
   },
   {
     "name": "Slovenia",
     "code": "SI",
+    "colors": ["#0000c0", "#d60000"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Slovenian_citizens",
     "adjectiveForm": "Slovenian"
   },
@@ -1752,18 +1793,21 @@
   },
   {
     "name": "Somalia",
+    "colors": ["#3f8ade"],
     "code": "SO",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Somali_citizens",
     "adjectiveForm": "Somali"
   },
   {
     "name": "South Africa",
+    "colors": ["#df352d", "#007b4c", "#001e96", "#ffb70a", "#000"],
     "code": "ZA",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_South_African_citizens",
     "adjectiveForm": "South African"
   },
   {
     "name": "South Georgia",
+    "colors": ["#001f7e", "#d00c27"],
     "aliases": [
       "South Georgia and the South Sandwich Islands",
       "South Sandwich Islands"
@@ -1782,24 +1826,28 @@
   },
   {
     "name": "Spain",
+    "colors": ["#c70318", "#ffc500"],
     "code": "ES",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens",
     "adjectiveForm": "Spanish"
   },
   {
     "name": "Sri Lanka",
+    "colors": ["#8e0d37", "#ffbf24", "#ec7500", "#00524d"],
     "code": "LK",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sri_Lankan_citizens",
     "adjectiveForm": "Sri Lankan"
   },
   {
     "name": "Sudan",
+    "colors": ["#d30731", "#007324", "#000"], 
     "code": "SD",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Sudanese_citizens",
     "adjectiveForm": "Sudanese"
   },
   {
     "name": "Suriname",
+    "colors": ["#347f3d", "#b50329", "#edc917"],
     "code": "SR",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Surinamese_citizens",
     "adjectiveForm": "Surinamese"
@@ -1810,6 +1858,7 @@
       "Svalbard and Jan Mayen"
     ],
     "code": "SJ",
+    "colors": ["#ef2729", "#002368"],
     "noPassport": true,
     "visaPolicy": {
       "sources": [
@@ -1823,6 +1872,8 @@
   },
   {
     "name": "Swaziland",
+    "aliases": ["Eswatini"],
+    "colors": ["#3c5eba", "#b20404", "#ffda00", "#000"],
     "code": "SZ",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swazi_citizens",
     "adjectiveForm": "Swazi"
@@ -1830,12 +1881,14 @@
   {
     "name": "Sweden",
     "code": "SE",
+    "colors": ["#007eca", "#fecd00"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swedish_citizens",
     "adjectiveForm": "Swedish"
   },
   {
     "name": "Switzerland",
     "code": "CH",
+    "colors": ["#ff0000"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Swiss_citizens",
     "adjectiveForm": "Swiss"
   },
@@ -1845,6 +1898,7 @@
       "Syrian Arab Republic"
     ],
     "code": "SY",
+    "colors": ["#cf0921", "#007b3a", "#000"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Syrian_citizens",
     "adjectiveForm": "Syrian"
   },
@@ -1854,17 +1908,20 @@
       "Taiwan, Province of China"
     ],
     "code": "TW",
+    "colors": ["#000096", "#fe0000"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Taiwanese_citizens",
     "adjectiveForm": "Taiwanese"
   },
   {
     "name": "Tajikistan",
+    "colors": ["#006600", "#cd0000", "#f8c400"], 
     "code": "TJ",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tajik_citizens",
     "adjectiveForm": "Tajik"
   },
   {
     "name": "Tanzania",
+    "colors": ["#00A4DA", "#000000", "#fcd20f", "#18b637"],
     "aliases": [
       "Tanzania, United Republic of",
       "United Republic of Tanzania",
@@ -1877,6 +1934,7 @@
   {
     "name": "Thailand",
     "code": "TH",
+    "colors": ["#292549", "#a6122d"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Thai_citizens",
     "adjectiveForm": "Thai"
   },
@@ -1887,6 +1945,7 @@
       "Timor Leste",
       "Timor l'Este"
     ],
+    "colors": ["#dd1f19", "#ffc821", "#000000"],
     "code": "TL",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_East_Timorese_citizens",
     "adjectiveForm": "East Timorese"
@@ -1894,12 +1953,14 @@
   {
     "name": "Togo",
     "code": "TG",
+    "colors": ["#006a4d", "#d30731", "#ffcf00"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Togolese_citizens",
     "adjectiveForm": "Togolese"
   },
   {
     "name": "Tokelau",
     "code": "TK",
+    "flag": ["#00247d", "#fed100"],
     "noPassport": true,
     "visaPolicy": {
       "sources": [
@@ -1913,18 +1974,22 @@
   },
   {
     "name": "Tonga",
+    "colors": ["#c20000"],
     "code": "TO",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tongan_citizens",
     "adjectiveForm": "Tongan"
   },
   {
     "name": "Trinidad and Tobago",
+    "colors": ["#db1332", "#000"],
+    "aliases": ["Trinidad"],
     "code": "TT",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Trinidad_and_Tobago_citizens",
     "adjectiveForm": "Trinidad and Tobago"
   },
   {
     "name": "Tunisia",
+    "colors": ["#e8000b"],
     "code": "TN",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tunisian_citizens",
     "adjectiveForm": "Tunisian"
@@ -1932,17 +1997,21 @@
   {
     "name": "Turkey",
     "code": "TR",
+    "colors": ["#e40310"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkish_citizens",
     "adjectiveForm": "Turkish"
   },
   {
     "name": "Turkmenistan",
     "code": "TM",
+    "colors": ["#00853a", "#d3212c", "#f8ae28"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Turkmen_citizens",
     "adjectiveForm": "Turkmen"
   },
   {
     "name": "Turks and Caicos Islands",
+    "aliases": ["Turks and Caicos"],
+    "colors": ["#002368", "#cf0921"],
     "code": "TC",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_Overseas_Territories_citizens",
     "adjectiveForm": "British Overseas Territories"
@@ -1950,25 +2019,30 @@
   {
     "name": "Tuvalu",
     "code": "TV",
+    "colors": ["#0097c9", "#d00c27", "#ffcf00", "#001f7e"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Tuvaluan_citizens",
     "adjectiveForm": "Tuvaluan"
   },
   {
     "name": "Uganda",
     "code": "UG",
+    "colors": ["#da0000", "#fcdd00", "#000"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ugandan_citizens",
     "adjectiveForm": "Ugandan"
   },
   {
     "name": "Ukraine",
     "code": "UA",
+    "colors": ["#005bbc"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Ukrainian_citizens",
     "adjectiveForm": "Ukrainian"
   },
   {
     "name": "United Arab Emirates",
     "code": "AE",
+    "colors": ["#00742b", "#ff0000", "#000"],
     "aliases": [
+      "The UAE",
       "UAE"
     ],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Emirati_citizens",
@@ -1976,6 +2050,8 @@
   },
   {
     "name": "United Kingdom",
+    "aliases": ["The UK", "UK", "Great Britain"],
+    "colors": ["#d00c27"],
     "code": "GB",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_British_citizens",
     "adjectiveForm": "British"
@@ -2004,6 +2080,7 @@
   {
     "name": "Uruguay",
     "code": "UY",
+    "colors": ["#0035aa", "#fcd20f", "#6cf"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Uruguayan_citizens",
     "adjectiveForm": "Uruguayan"
   },
@@ -2022,11 +2099,13 @@
   {
     "name": "Venezuela",
     "code": "VE",
+    "colors": ["#d00c27", "#001f7e", "#ffcd00"],
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Venezuelan_citizens",
     "adjectiveForm": "Venezuelan"
   },
   {
     "name": "Viet Nam",
+    "colors": ["#db2017", "#ffff00"],
     "code": "VN",
     "aliases": [
       "Vietnam"
@@ -2077,6 +2156,7 @@
   },
   {
     "name": "Zimbabwe",
+    "colors": ["#006400", "#ffd300", "#d50000", "#000000"],
     "code": "ZW",
     "wikipediaSource": "https://en.wikipedia.org/wiki/Visa_requirements_for_Zimbabwean_citizens",
     "adjectiveForm": "Zimbabwean"

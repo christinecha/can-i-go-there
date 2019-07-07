@@ -606,6 +606,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "SZ": {
+    "passport_country": "MV",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Maldivian_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "MV",
     "sources": [

@@ -54,7 +54,7 @@ countriesJSON.forEach((country, i) => {
     !country.destinationMirror
     && (!country.colors || country.colors.length < 1)
   ) {
-    missingColors.push(country.code)
+    missingColors.push(`${country.name} [${country.code}]`)
   }
 
   if (country.noPassport) {
@@ -62,7 +62,7 @@ countriesJSON.forEach((country, i) => {
   }
   
   if (!country.wikipediaSource) {
-    missingSource.push(country.code)
+    missingSource.push(`${country.name} [${country.code}]`)
     return
   }
 

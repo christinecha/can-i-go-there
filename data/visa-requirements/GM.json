@@ -594,6 +594,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "SZ": {
+    "passport_country": "GM",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Gambian_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa on arrival",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "GM",
     "sources": [

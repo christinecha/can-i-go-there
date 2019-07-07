@@ -704,6 +704,17 @@
     "allowed_stay": "",
     "notes": "Medical insurance of a minimum coverage of 30,000 Euros which covers the entire Schengen region for the full duration of the intended stay is mandatory"
   },
+  "SZ": {
+    "passport_country": "LB",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Lebanese_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "LB",
     "sources": [

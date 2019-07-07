@@ -630,6 +630,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "SZ": {
+    "passport_country": "IE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Irish_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": "Extension of stay possible for a maximum of 90 days in total."
+  },
   "ET": {
     "passport_country": "IE",
     "sources": [

@@ -641,6 +641,17 @@
     "allowed_stay": "",
     "notes": "ID card valid"
   },
+  "SZ": {
+    "passport_country": "ES",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Spanish_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa not required",
+    "allowed_stay": "30 days",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "ES",
     "sources": [

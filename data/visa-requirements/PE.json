@@ -610,6 +610,17 @@
     "allowed_stay": "90 days",
     "notes": "90 days within any 180 day period in the Schengen Area"
   },
+  "SZ": {
+    "passport_country": "PE",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Peruvian_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "PE",
     "sources": [

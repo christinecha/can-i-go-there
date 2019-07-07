@@ -626,6 +626,17 @@
     "allowed_stay": "",
     "notes": "A maximum of 90 days of stay within a 180 day period in the Schengen Area."
   },
+  "SZ": {
+    "passport_country": "ID",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Indonesian_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "ID",
     "sources": [

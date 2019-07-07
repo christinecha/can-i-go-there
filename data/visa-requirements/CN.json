@@ -596,6 +596,17 @@
     "allowed_stay": "",
     "notes": ""
   },
+  "SZ": {
+    "passport_country": "CN",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Visa_requirements_for_Chinese_citizens",
+      "https://en.wikipedia.org/wiki/Eswatini"
+    ],
+    "destination_country": "SZ",
+    "visa_requirement": "Visa required",
+    "allowed_stay": "",
+    "notes": ""
+  },
   "ET": {
     "passport_country": "CN",
     "sources": [
@@ -836,9 +847,9 @@
       "https://en.wikipedia.org/wiki/Iran"
     ],
     "destination_country": "IR",
-    "visa_requirement": "Visa on arrival",
+    "visa_requirement": "Visa not required",
     "allowed_stay": "",
-    "notes": "The Iranian authorities decided to lift the visa requirement for Chinese nationals on June 2019. However, the decision is not finalized yet."
+    "notes": "The Iranian authorities decided to lift the visa requirement for Chinese nationals on July 8th 2019."
   },
   "IQ": {
     "passport_country": "CN",
