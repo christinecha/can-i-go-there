@@ -34,6 +34,12 @@ main[data-destination-selected="true"] {
   #seo-content {
     display: none;
   }
+
+  .header-wrapper {
+    @media (max-width: 767px) {
+      display: block;
+    }
+  }
 }
 
 .passport-wrapper,
@@ -44,6 +50,12 @@ main[data-destination-selected="true"] {
 .visa-info {
   opacity: 0;
   visibility: hidden;
+}
+
+.header-wrapper {
+  @media (max-width: 767px) {
+    display: none;
+  }
 }
 
 #passport-color,

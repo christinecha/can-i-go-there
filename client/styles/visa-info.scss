@@ -94,13 +94,13 @@ $delay: 100ms;
 #notes,
 #sources a {
   display: inline;
-  padding: 4px;
+  padding: 4px 0;
   background: white;
-  box-shadow: -4px 0 0 0 white, 4px 0 0 0 white;
+  box-shadow: -6px 0 0 0 white, 6px 0 0 0 white;
 }
 
 #notes {
-  line-height: 1.6em;
+  line-height: 1.5em;
 }
 
 #sources {
@@ -115,6 +115,7 @@ $delay: 100ms;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    font-size: 80%;
 
     @media (min-width: 768px) {
       max-width: 350px;

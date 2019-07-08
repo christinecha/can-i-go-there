@@ -1113,6 +1113,7 @@
   },
   {
     "name": "Korea, North",
+    "displayName": "Democratic People's Republic of Korea",
     "aliases": [
       "North Korea",
       "Korea, North",
@@ -1125,6 +1126,7 @@
   },
   {
     "name": "Korea, South",
+    "displayName": "Republic of Korea",
     "aliases": [
       "South Korea",
       "Republic of Korea",

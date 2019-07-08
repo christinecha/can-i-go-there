@@ -59,9 +59,7 @@ $option-font-size: 20px;
 }
 
 #options-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
+  text-align: right;
   overflow: -moz-scrollbars-none;
   -ms-overflow-style: none;
   height: calc(100% - 90px);
@@ -92,6 +90,8 @@ $option-font-size: 20px;
   font-size: $option-font-size;
   min-height: 1.7em;
   text-decoration: none;
+  margin-right: 0;
+  margin-left: auto;
 
   &[data-is-active="true"] {
     display: block;
@@ -99,7 +99,11 @@ $option-font-size: 20px;
 
   @media (max-width: 767px) {
     font-size: 16px;
-    padding: 3px 0;
+    padding: 5px 0;
+    max-width: 180px;
+    line-height: 1em;
+    height: auto;
+    color: white;
   }
 
   @media (min-width: 768px) {

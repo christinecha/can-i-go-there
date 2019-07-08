@@ -42,7 +42,7 @@ function render () {
   }
 
   if (this.state.passport && !this.state.destination) {
-    this.refs.header.textContent = `${passport.name} → `
+    this.refs.header.textContent = `${passport.displayName || passport.name} → `
     this.refs.prompt.textContent = "Can I go to"
     this.refs.options.forEach(($option) => {
       const isActive = isAvailableDestination($option) && isTypeaheadMatch($option)
@@ -57,7 +57,7 @@ function render () {
     this.refs.notes.parentNode.dataset.isActive = false
     this.refs.sources.parentNode.dataset.isActive = false
   } else {
-    this.refs.header.textContent = `${passport.name} → ${destination.name}`
+    this.refs.header.textContent = `${passport.displayName || passport.name} → ${destination.displayName || destination.name}`
     this.refs.destination.textContent = destination.code
     this.refs.destinationName.textContent = destination.code
     this.refs.destinationColor.style.background = this.state.destinationColors[0]
